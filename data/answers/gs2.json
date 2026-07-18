@@ -561,5 +561,642 @@
    "search committee under Union Minister",
    "EC removal protection weaker than CEC"
   ]
+ },
+ "gs2-30": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**Digital Public Infrastructure** — the **JAM** trinity, **UPI**, **Aadhaar**, **DigiLocker**, **ONDC** and **Account Aggregator** — is India's model of open, interoperable public rails on which both state and market build."
+   }
+  ],
+  "body": [
+   {
+    "h": "From service delivery to foundational layer",
+    "p": [
+     {
+      "k": "Identity and payments rails",
+      "x": "**Aadhaar** authentication plus **UPI** made low-value, high-volume transactions economically viable for the first time."
+     },
+     {
+      "k": "Leakage reduction",
+      "x": "**DBT** to authenticated accounts removed intermediaries and ghost beneficiaries across major subsidy programmes."
+     },
+     {
+      "k": "Credit democratisation",
+      "x": "**Account Aggregator** and **OCEN** let consented data substitute for collateral, opening formal credit to thin-file borrowers."
+     },
+     {
+      "k": "Market creation",
+      "x": "**ONDC** unbundles e-commerce so small sellers reach buyers without platform gatekeeping."
+     },
+     {
+      "k": "Crisis capability",
+      "x": "**CoWIN** and DBT during the pandemic showed DPI's value as state capacity, not merely convenience."
+     },
+     {
+      "k": "Global template",
+      "x": "DPI has become a diplomatic export and a Global South offering under India's **G20** legacy."
+     }
+    ]
+   },
+   {
+    "h": "Risks that must be governed",
+    "p": [
+     {
+      "k": "Exclusion by design",
+      "x": "Authentication failures, connectivity gaps and poor seeding deny entitlements to precisely those most dependent on them."
+     },
+     {
+      "k": "Privacy and function creep",
+      "x": "Datasets built for one purpose migrate to others; **DPDP Act, 2023** exemptions weaken the check the **Puttaswamy** test requires."
+     },
+     {
+      "k": "Concentration risk",
+      "x": "Systemic dependence on a few rails creates single points of failure and cyber-attack surface."
+     },
+     {
+      "k": "Accountability gap",
+      "x": "Where private entities operate public rails, grievance redress and liability remain unclear to the citizen."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Statutory grievance redress and an assisted-access layer so no entitlement fails for want of authentication",
+   "Independent audit of DPI systems for exclusion error, not merely for uptime"
+  ],
+  "conc": "DPI has made the Indian state more capable and its markets more open — its next test is whether the rails carry rights as reliably as they carry transactions.",
+  "flash": [
+   "JAM + UPI + Aadhaar + ONDC + AA",
+   "DBT leakage reduction",
+   "OCEN: consent replaces collateral",
+   "exclusion error is the core risk",
+   "G20 Global South export"
+  ]
+ },
+ "gs2-31": {
+  "directive": "discuss",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**AI** in public administration promises speed and scale, but administrative law rests on reasons, notice and review — none of which an opaque model naturally supplies."
+   }
+  ],
+  "body": [
+   {
+    "h": "The governance risks",
+    "p": [
+     {
+      "k": "Opacity",
+      "x": "Where a model cannot explain its output, an adverse decision cannot be reasoned — offending the duty to give reasons under **Article 14**."
+     },
+     {
+      "k": "Bias amplification",
+      "x": "Models trained on historical administrative data reproduce and scale the exclusions embedded in that record.",
+      "ex": "Welfare eligibility and policing datasets"
+     },
+     {
+      "k": "Diffused accountability",
+      "x": "Responsibility disperses across vendor, procuring department and operator, so no one is answerable to the affected citizen."
+     },
+     {
+      "k": "Automation bias",
+      "x": "Officials defer to machine output even when empowered to override, converting an aid into a de facto decision-maker."
+     },
+     {
+      "k": "Surveillance drift",
+      "x": "Facial recognition and predictive policing deployments outrun any statutory basis, failing the **Puttaswamy** proportionality test."
+     }
+    ]
+   },
+   {
+    "h": "Safeguards",
+    "p": [
+     {
+      "k": "Human in the loop",
+      "x": "For rights-affecting decisions, AI must remain advisory with a named human decision-maker who records reasons."
+     },
+     {
+      "k": "Algorithmic transparency",
+      "x": "Public registers of government AI systems, documented training data and published accuracy and error rates by group."
+     },
+     {
+      "k": "Pre-deployment audit",
+      "x": "Impact assessment and bias testing before rollout, in the spirit of **NITI Aayog's** Responsible AI principles."
+     },
+     {
+      "k": "Right to explanation and appeal",
+      "x": "A statutory right to know that a decision was automated, to an explanation, and to human review."
+     },
+     {
+      "k": "Procurement leverage",
+      "x": "Contractual auditability and liability clauses are the most practical regulatory lever the State already holds."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "A binding framework for public-sector AI, aligned with the **IndiaAI Mission** and the **DPDP** consent architecture",
+   "Capacity-building so administrators can interrogate models rather than merely operate them"
+  ],
+  "conc": "AI can make administration faster, but legitimacy comes from reasons a citizen can contest — efficiency must not be purchased with accountability.",
+  "flash": [
+   "opacity vs duty to give reasons",
+   "bias amplification from historic data",
+   "diffused accountability + automation bias",
+   "human-in-the-loop for rights decisions",
+   "public AI register + audit"
+  ]
+ },
+ "gs2-32": {
+  "directive": "evaluate",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The **RTI Act, 2005** made opacity the exception, operationalising the **Article 19(1)(a)** right to information; two decades on, its constraints are institutional as much as legal."
+   }
+  ],
+  "body": [
+   {
+    "h": "Achievements",
+    "p": [
+     {
+      "k": "Accountability instrument",
+      "x": "It exposed diversion in ration, pension and employment programmes and made records citizen-accessible as of right."
+     },
+     {
+      "k": "Rights-enabler",
+      "x": "RTI became the tool through which other entitlements — **MGNREGA** wages, PDS, welfare lists — were actually enforced."
+     },
+     {
+      "k": "Judicially anchored",
+      "x": "The Supreme Court held the office of the **CJI** to be a public authority, affirming wide institutional coverage."
+     }
+    ]
+   },
+   {
+    "h": "Limitations",
+    "p": [
+     {
+      "k": "Commission vacancies and backlog",
+      "x": "Unfilled posts in Information Commissions produce delays long enough to make information useless when it arrives."
+     },
+     {
+      "k": "Weakened tenure security",
+      "x": "The **RTI (Amendment) Act, 2019** let the Union set Commissioners' tenure and salary, diluting the independence the original Act protected."
+     },
+     {
+      "k": "Threats to applicants",
+      "x": "Attacks on RTI users persist, and the **Whistle Blowers Protection Act, 2014** remains substantially unoperationalised."
+     },
+     {
+      "k": "Exemption creep",
+      "x": "Broad invocation of **Section 8** and exclusion of security agencies under **Section 24** narrow effective coverage."
+     }
+    ]
+   },
+   {
+    "h": "The DPDP intersection",
+    "p": [
+     {
+      "k": "Section 8(1)(j) rewritten",
+      "x": "**DPDP** amended it to exempt personal information as a class, dropping the proviso that what cannot be denied to Parliament cannot be denied to a citizen."
+     },
+     {
+      "k": "Loss of the balancing test",
+      "x": "That proviso was the basis for disclosing asset declarations, beneficiary lists and appointment records — accountability journalism loses its main lever."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Time-bound filling of Commission vacancies and restoration of fixed tenure",
+   "Reinstate a public-interest override in **Section 8(1)(j)** so privacy and transparency are balanced case by case"
+  ],
+  "conc": "RTI shifted power by making the file public; protecting it now means defending the balancing test — privacy must shield the citizen, not the office-holder.",
+  "flash": [
+   "Art 19(1)(a); Sec 4 proactive disclosure",
+   "2019 Amdt dilutes tenure security",
+   "vacancies = delay = denial",
+   "Sec 8(1)(j) rewritten by DPDP",
+   "restore public-interest override"
+  ]
+ },
+ "gs2-37": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "data",
+    "x": "India's **SHG** movement — about **91 lakh** groups covering some **10 crore** women under **DAY-NRLM** — has moved from thrift and credit to becoming the delivery architecture of rural development."
+   }
+  ],
+  "body": [
+   {
+    "h": "The transformation",
+    "p": [
+     {
+      "k": "Financial inclusion",
+      "x": "Group liability and **SHG-bank linkage** gave collateral-less credit at rates that displaced the moneylender, with repayment rates above commercial norms."
+     },
+     {
+      "k": "Enterprise and livelihoods",
+      "x": "Federations now run producer enterprises, and the **Lakhpati Didi** initiative targets annual household incomes above ₹1 lakh."
+     },
+     {
+      "k": "Service delivery agents",
+      "x": "**Bank Sakhis**, **Pashu Sakhis**, **Krishi Sakhis** and **BC Sakhis** carry banking, veterinary and extension services to the last mile."
+     },
+     {
+      "k": "Social empowerment",
+      "x": "Collective solidarity has raised women's mobility, voice in household decisions and capacity to act against alcoholism and domestic violence."
+     },
+     {
+      "k": "Political participation",
+      "x": "SHG membership has become a pathway into **panchayat** leadership, converting economic agency into political presence."
+     },
+     {
+      "k": "Crisis response",
+      "x": "SHG networks produced masks and sanitisers and ran community kitchens during the pandemic — demonstrating latent state capacity."
+     }
+    ]
+   },
+   {
+    "h": "Constraints",
+    "p": [
+     {
+      "k": "Regional unevenness",
+      "x": "Maturity is concentrated in the south; eastern and north-eastern federations remain institutionally weaker."
+     },
+     {
+      "k": "Credit ceiling",
+      "x": "Most lending stays at consumption or micro-enterprise scale; graduation to growth capital is rare."
+     },
+     {
+      "k": "Market access gap",
+      "x": "Producer groups remain price-takers without branding, aggregation and reliable procurement."
+     },
+     {
+      "k": "Elite capture and over-lending",
+      "x": "Better-off members can dominate federations, and multiple borrowing risks a debt spiral."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Link SHG federations to **FPOs**, **ONDC** and public procurement so enterprise reaches scale",
+   "Invest in bookkeeping and governance capacity in lagging states rather than only expanding numbers"
+  ],
+  "conc": "SHGs have shown that collectivising women is among the highest-return investments in Indian development — the task now is to convert scale into enterprise and voice into institutional power.",
+  "flash": [
+   "~91 lakh SHGs, ~10 cr women, DAY-NRLM",
+   "SHG-bank linkage, collateral-free",
+   "Lakhpati Didi; Sakhi cadres",
+   "southern concentration",
+   "graduation to growth capital"
+  ]
+ },
+ "gs2-41": {
+  "directive": "discuss",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The **Code on Social Security, 2020** was the first Indian statute to define **gig** and **platform** workers and to provide for their social security — recognition that remains largely on paper."
+   }
+  ],
+  "body": [
+   {
+    "h": "Why implementation stalls",
+    "p": [
+     {
+      "k": "Classification ambiguity",
+      "x": "Gig workers are recognised as a distinct category rather than employees, so wage, hours and unfair-dismissal protections do not attach."
+     },
+     {
+      "k": "Funding mechanism unresolved",
+      "x": "Aggregator contribution of **1-2%** of turnover is provided for, but assessment, collection and the fund's administration remain unoperationalised."
+     },
+     {
+      "k": "Registration gap",
+      "x": "Benefits require **e-Shram** registration and portability across platforms; multi-homing workers fall between systems."
+     },
+     {
+      "k": "Federal execution",
+      "x": "Labour is **Concurrent**, and uneven state rule-making has delayed a uniform scheme."
+     },
+     {
+      "k": "Algorithmic management",
+      "x": "Rating systems, opaque deactivation and dynamic pricing control work conditions without any corresponding statutory duty of fairness."
+     }
+    ]
+   },
+   {
+    "h": "What would make it real",
+    "p": [
+     {
+      "k": "Operationalise the fund",
+      "x": "Notify contribution rates, a collection mechanism and a defined benefit package — accident cover, health insurance and pension."
+     },
+     {
+      "k": "Portable, worker-linked benefits",
+      "x": "Attach entitlements to the worker via **e-Shram**, not to any single platform, so multi-homing is not penalised."
+     },
+     {
+      "k": "Algorithmic due process",
+      "x": "Statutory rights to explanation, notice before deactivation and an appeal — the labour-law equivalent of natural justice."
+     },
+     {
+      "k": "State innovation",
+      "x": "Rajasthan's platform-workers welfare legislation and Karnataka's ordinance offer templates for a cess-funded board."
+     },
+     {
+      "k": "Collective voice",
+      "x": "Recognise worker associations for consultation, since individual bargaining against an algorithm is illusory."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Notify the Code's gig provisions with a funded, portable benefit package on a fixed timeline"
+  ],
+  "conc": "Recognition without entitlement is an empty category — India's gig economy will be judged by whether flexibility for the platform is matched by security for the worker.",
+  "flash": [
+   "SS Code 2020 first defines gig/platform",
+   "1-2% aggregator contribution unnotified",
+   "e-Shram portability gap",
+   "algorithmic management unregulated",
+   "Rajasthan/Karnataka state templates"
+  ]
+ },
+ "gs2-51": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**Strategic autonomy** has shifted from a Cold War posture of non-alignment to an operational necessity — the capacity to absorb coercion when market access, technology and energy are themselves weaponised."
+   }
+  ],
+  "body": [
+   {
+    "h": "Why autonomy is now operational",
+    "p": [
+     {
+      "k": "Weaponised interdependence",
+      "x": "Tariffs, export controls, sanctions and secondary sanctions convert trade links into instruments of pressure."
+     },
+     {
+      "k": "Supply-chain chokepoints",
+      "x": "Concentration in semiconductors, **critical minerals**, APIs and rare earths means a single supplier can halt an industry."
+     },
+     {
+      "k": "Transactional partners",
+      "x": "Reciprocal-tariff regimes reversible by executive order make over-dependence on any one partner a standing risk."
+     },
+     {
+      "k": "Multi-alignment in practice",
+      "x": "India sits simultaneously in the **Quad**, **BRICS**, **SCO** and **I2U2** — issue-based coalitions rather than blocs."
+     }
+    ]
+   },
+   {
+    "h": "Building the capacity to be autonomous",
+    "p": [
+     {
+      "k": "Diversify markets",
+      "x": "The **India-EU FTA**, **CEPA** deepening, **IMEC** and Africa-Latin America outreach spread export risk."
+     },
+     {
+      "k": "Diversify energy",
+      "x": "Balancing West Asian, Russian and US sourcing preserves room for manoeuvre on price and politics."
+     },
+     {
+      "k": "Build domestic depth",
+      "x": "**PLI**, the **Semiconductor Mission**, the **Critical Mineral Mission** and defence indigenisation reduce the leverage others hold."
+     },
+     {
+      "k": "Defend policy space",
+      "x": "Protect **MSP**, public stockholding and data-localisation choices in trade negotiation rather than trading them for market access."
+     },
+     {
+      "k": "Autonomy is not autarky",
+      "x": "Self-reliance means the ability to choose partners, not to do without them — decoupling would cost more than it protects."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Convert autonomy from a defensive posture into agenda-setting leadership on climate finance, **DPI** and multilateral reform"
+  ],
+  "conc": "In a fragmented order, strategic autonomy is measured not by the partnerships India avoids but by the pressure it can withstand while keeping its choices its own.",
+  "flash": [
+   "weaponised interdependence",
+   "chokepoints: chips, critical minerals, APIs",
+   "multi-alignment: Quad+BRICS+SCO+I2U2",
+   "diversify markets + energy + PLI depth",
+   "autonomy ≠ autarky"
+  ]
+ },
+ "gs2-52": {
+  "directive": "critically examine",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**Neighbourhood First**, reinforced by **SAGAR** and now **MAHASAGAR**, makes the periphery India's first circle of interest — but political churn across the region has tested its assumptions."
+   }
+  ],
+  "body": [
+   {
+    "h": "The stress points",
+    "p": [
+     {
+      "k": "Regime volatility",
+      "x": "Governments that negotiated with India are replaced by successors who campaign against those very agreements — continuity of relationship is hostage to domestic turnover."
+     },
+     {
+      "k": "The China factor",
+      "x": "Infrastructure finance and defence supply give neighbours an alternative partner and bargaining leverage against India."
+     },
+     {
+      "k": "The 'big brother' perception",
+      "x": "Asymmetry of size makes even benign engagement read as interference, feeding 'India Out' politics."
+     },
+     {
+      "k": "Delivery deficit",
+      "x": "Slow execution of connectivity and power projects erodes credibility relative to faster-disbursing competitors."
+     },
+     {
+      "k": "Internal spillovers",
+      "x": "Migration, border management, river-water sharing and minority safety inject domestic politics into diplomacy on both sides."
+     },
+     {
+      "k": "SAARC's paralysis",
+      "x": "With SAARC effectively frozen, India works through **BIMSTEC** and bilateral tracks, weakening regional habit-formation."
+     }
+    ]
+   },
+   {
+    "h": "What has worked",
+    "p": [
+     {
+      "k": "First responder",
+      "x": "Rapid disaster and humanitarian assistance — **Operation Dost**, vaccine supply and currency support — builds durable goodwill.",
+      "ex": "Sri Lanka's crisis assistance"
+     },
+     {
+      "k": "Connectivity and energy grids",
+      "x": "Cross-border transmission, rail links and fuel pipelines create interdependence that survives political change."
+     },
+     {
+      "k": "Digital and financial links",
+      "x": "**UPI** acceptance and rupee trade settlement embed India in everyday transactions."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Engage across the political spectrum, not incumbents alone, so relationships outlast governments",
+   "Prioritise fast, visible, people-facing delivery over headline announcements",
+   "Practise non-reciprocal generosity with smaller neighbours, as the **Gujral Doctrine** proposed"
+  ],
+  "conc": "India's neighbourhood policy must be judged by resilience rather than warmth — the aim is relationships that survive the next election in the other country.",
+  "flash": [
+   "Neighbourhood First + SAGAR/MAHASAGAR",
+   "regime volatility; 'India Out' politics",
+   "China's finance leverage",
+   "delivery deficit vs first-responder record",
+   "Gujral Doctrine non-reciprocity"
+  ]
+ },
+ "gs2-62": {
+  "directive": "evaluate",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The **Quad** — India, US, Japan, Australia — is a non-treaty consultative grouping whose value lies in public-goods delivery across the Indo-Pacific rather than in collective defence."
+   }
+  ],
+  "body": [
+   {
+    "h": "Sources of relevance",
+    "p": [
+     {
+      "k": "Balancing without alliance",
+      "x": "It signals resistance to unilateral change of the status quo while leaving members' autonomy intact — the design suits India."
+     },
+     {
+      "k": "Public-goods agenda",
+      "x": "Vaccine partnership, critical and emerging technology, climate, infrastructure and maritime domain awareness give it substance beyond signalling.",
+      "ex": "**IPMDA** for maritime domain awareness"
+     },
+     {
+      "k": "Supply-chain resilience",
+      "x": "Coordination on semiconductors, critical minerals and clean energy addresses concentration risk directly."
+     },
+     {
+      "k": "Interoperability",
+      "x": "**Malabar** exercises build habits of joint operation without treaty commitments."
+     }
+    ]
+   },
+   {
+    "h": "The credibility test",
+    "p": [
+     {
+      "k": "Uncertain US commitment",
+      "x": "Transactional American policy and trade friction with partners raise doubts about staying power, which is the currency of deterrence."
+     },
+     {
+      "k": "Divergent threat perceptions",
+      "x": "India faces a contested land border; the others are primarily maritime powers — the theatres and the urgency differ."
+     },
+     {
+      "k": "Delivery gap",
+      "x": "Announcements have outpaced disbursement, particularly on infrastructure, inviting comparison with faster-moving alternatives."
+     },
+     {
+      "k": "India's own limits",
+      "x": "India will not accept alliance obligations or a formal military character, capping how far the grouping can go."
+     },
+     {
+      "k": "Regional hedging",
+      "x": "**ASEAN** centrality concerns and Global South wariness of bloc politics constrain the Quad's regional appeal."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Concentrate on deliverable public goods — connectivity, undersea cables, maritime domain awareness — where the Quad has comparative advantage",
+   "Keep it complementary to **ASEAN** centrality and to India's bilateral and plurilateral tracks"
+  ],
+  "conc": "The Quad's future lies in being useful rather than being formidable — its relevance to India will be measured in delivered capability, not in declaratory solidarity.",
+  "flash": [
+   "non-treaty, non-alliance by design",
+   "IPMDA, critical tech, vaccine, climate",
+   "Malabar interoperability",
+   "land vs maritime threat divergence",
+   "announcement-delivery gap"
+  ]
+ },
+ "gs2-70": {
+  "directive": "critically examine",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The **UN Security Council**'s permanent membership still reflects the settlement of **1945**; reforming it requires amending the **Charter under Articles 108-109** — with the concurrence of the very P5 whose privilege is at stake."
+   }
+  ],
+  "body": [
+   {
+    "h": "Impediments to reform",
+    "p": [
+     {
+      "k": "The veto lock",
+      "x": "Any Charter amendment needs ratification by all five permanent members, so reform requires the beneficiaries to consent to their own dilution."
+     },
+     {
+      "k": "Rival aspirant blocs",
+      "x": "The **G4** faces the **Uniting for Consensus** group, which prefers more non-permanent seats to new permanent ones."
+     },
+     {
+      "k": "Regional rivalries",
+      "x": "Africa's **Ezulwini Consensus** demands two permanent seats with veto but has not settled which states; Latin American and Asian claims are similarly contested."
+     },
+     {
+      "k": "The veto question itself",
+      "x": "No agreement exists on whether new permanent members would hold the veto — the issue on which every negotiation stalls."
+     }
+    ]
+   },
+   {
+    "h": "India's case",
+    "p": [
+     {
+      "k": "Demographic and economic weight",
+      "x": "The world's most populous nation and a major economy is absent from the permanent membership — a representational deficit that erodes Council legitimacy."
+     },
+     {
+      "k": "Peacekeeping record",
+      "x": "Among the largest cumulative troop contributors, India bears the Council's burdens without a share in its decisions."
+     },
+     {
+      "k": "Democratic and Global South credentials",
+      "x": "India bridges the developed and developing worlds and has championed the **Global South**'s voice.",
+      "ex": "**AU** admitted to the **G20** under India's presidency"
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Press for a text-based negotiation with fixed timelines in the **IGN**",
+   "Build coalitions through **G4**, the **L.69** group and Africa rather than pursuing the claim in isolation"
+  ],
+  "conc": "A Council that reflects 1945 cannot govern the 2020s — reformed multilateralism is not a favour to aspirants but a condition of the UN's own continued relevance.",
+  "flash": [
+   "Art 108-109; P5 ratification lock",
+   "G4 vs Uniting for Consensus",
+   "Ezulwini Consensus",
+   "IGN has no negotiating text",
+   "peacekeeping burden without a vote"
+  ]
  }
 }

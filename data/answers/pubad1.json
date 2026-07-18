@@ -1,91 +1,92 @@
 {
  "pubad1-11": {
-  "directive": "examine",
-  "lens": "Both halves are compulsory: ideal type's relevance AND the post-Weberian arc ending at the NWS — skipping Pollitt & Bouckaert costs the differentiator marks.",
-  "conc": "Weber's cage has not been escaped but **re-furnished** — the Neo-Weberian State keeps the iron of legality while opening a window to the citizen.",
-  "diag": {
-   "k": "flow",
-   "d": "Weber ideal type → dysfunctions (Merton/Michels) → NPM revolt (Hood) → Neo-Weberian State (rule-of-law + citizen-orientation)"
-  },
-  "flash": [
-   "**Ideal type** = yardstick, not photograph",
-   "Cage closed via **success**: calculability, merit (*UPSC, Art 311*)",
-   "Dysfunctions: *Merton* **goal displacement**, *Michels* **oligarchy**",
-   "**NPM** (*Hood 1991*) attacked rules, fragmented accountability",
-   "**NWS** (*Pollitt & Bouckaert*): keep legality + add citizen-orientation — *Karmayogi*"
-  ],
-  "wf": [
-   "Retain **legality and merit** while grafting on **responsiveness, digital transparency and outcome accountability** — reform, don't dismantle, the frame."
-  ],
+  "directive": "critically examine",
   "intro": [
    {
     "t": "thinker",
-    "x": "*Max Weber's* legal-rational bureaucracy — hierarchy, written rules, impersonality, merit, fixed jurisdiction — is an **ideal type**, a yardstick rather than a photograph. He feared its perfection would trap modernity in an **iron cage** of rationality; the statement holds the cage closed because bureaucracy *worked*."
-   },
-   {
-    "t": "concept",
-    "x": "The **iron cage** is rationality **over-achieving, not failing** — bureaucracy's calculability succeeded so completely that rule-bound order became inescapable."
+    "x": "Weber's **iron cage** (*stahlhartes Gehäuse*) warned that rational-legal bureaucracy, the most technically efficient form of organisation, would imprison modern life in impersonal rationality — a prophecy fulfilled less by bureaucracy's failure than by its triumph."
    }
   ],
   "body": [
    {
-    "h": "The ideal type's success — and the cage it built",
+    "h": "The ideal type and its logic",
     "p": [
      {
-      "k": "Legal-rational authority",
-      "x": "displaced traditional and charismatic rule — obedience to impersonal rules, not persons (*sine ira et studio*).",
-      "ex": "Weber"
+      "k": "Rational-legal authority",
+      "x": "Obedience is owed to impersonal rules and office, not to person or tradition — the basis of legitimacy in modern states."
      },
      {
-      "k": "Calculability & rule-of-law",
-      "x": "written records and fixed jurisdiction made the state predictable — the root of its legitimacy.",
-      "ex": "Weber"
+      "k": "Structural features",
+      "x": "Hierarchy, written files, fixed jurisdiction, technical qualification, career tenure and separation of office from incumbent."
      },
      {
-      "k": "Merit, tenure, career",
-      "x": "professionalised administration — *Indian bridge:* **UPSC recruitment, Art 311** protections.",
-      "ex": "Art 311"
+      "k": "Technical superiority",
+      "x": "Weber's claim was comparative — bureaucracy is to other forms as machine production is to non-mechanical."
      },
      {
-      "k": "Ideal type as yardstick",
-      "x": "an analytic measure reality never equals — Weber described a tendency, not a destiny.",
-      "ex": "Weber"
-     },
-     {
-      "x": "Success bred **dysfunction**: *Merton* — **goal displacement**; *Michels* — **iron law of oligarchy**.",
-      "ex": "Merton; Michels"
-     },
-     {
-      "k": "Bureaupathology",
-      "x": "rules become ends — *Peter Principle, Parkinson's Law*, red tape as rationality **over-achieving, not failing**.",
-      "ex": "Peter; Parkinson"
+      "k": "Method",
+      "x": "The **ideal type** is an analytical construct for comparison, not an empirical description or a normative endorsement."
      }
     ]
    },
    {
-    "h": "Post-Weberian developments → the Neo-Weberian State",
+    "h": "Why the cage tightened through success",
     "p": [
      {
-      "k": "NPM revolt",
-      "x": "(*Hood, 1991*): markets and managerialism attacked rule-boundness — but agencification **fragmented accountability** into a 'hollow state'.",
-      "ex": "Hood 1991"
+      "k": "Formal over substantive rationality",
+      "x": "Means displace ends: procedure becomes its own justification.",
+      "ex": "**Merton**'s trained incapacity and goal displacement"
      },
      {
-      "k": "Neo-Weberian State",
-      "x": "(*Pollitt & Bouckaert, 2004*): reaffirm the state, rule-of-law and merit — **add citizen-orientation, results-focus and professional service culture**.",
-      "ex": "Pollitt & Bouckaert 2004"
+      "k": "Dysfunctions documented",
+      "x": "Rules generate the very behaviours they penalise.",
+      "ex": "**Gouldner**'s mock/punishment-centred bureaucracy; **Selznick**'s co-optation; **Blau**"
      },
      {
-      "x": "The NWS is **synthesis, not surrender** — Weber's skeleton with a service-delivery face."
+      "k": "Depersonalisation",
+      "x": "*Sine ira et studio* — without hatred or passion — produces fairness and also indifference to the individual case."
      },
      {
-      "x": "*Indian bridge:* **Mission Karmayogi** re-tools the steel frame with competencies; **e-Office** digitises the file, not the law — though algorithmic rules risk a **digital iron cage**.",
-      "ex": "Mission Karmayogi"
+      "k": "Power beyond mandate",
+      "x": "Control over files, expertise and secrecy makes the 'servant' the master.",
+      "ex": "Weber's own fear of unchecked officialdom"
+     },
+     {
+      "k": "The digital cage",
+      "x": "Algorithmic decision systems intensify rule-following beyond human discretion — an automated cage with no official to appeal to."
+     }
+    ]
+   },
+   {
+    "h": "The defence",
+    "p": [
+     {
+      "k": "Cage as shield",
+      "x": "Impersonal rules protect the weak citizen from arbitrariness and patronage — **du Gay**'s *In Praise of Bureaucracy*."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "India's **AIS**, tenure protection under **Article 311** and rule-bound procedure delivered continuity through partition, elections and crises — a **Weberian** state capacity the developmental literature now credits.",
+      "ex": "Evans's **embedded autonomy**"
+     },
+     {
+      "k": "Post-bureaucratic limits",
+      "x": "Networks and NPM promised escape but produced accountability diffusion rather than liberation."
      }
     ]
    }
   ],
-  "src": "ported"
+  "wf": [
+   "The corrective is not de-bureaucratisation but **responsive** bureaucracy — citizen charters, service guarantees, outcome measurement and **Mission Karmayogi** competency reform"
+  ],
+  "conc": "The iron cage is the price of impersonal fairness; the task is not to break the cage but to keep its door — accountability, discretion and human judgement — always open.",
+  "flash": [
+   "stahlhartes Gehäuse; rational-legal authority",
+   "ideal type = analytical construct",
+   "Merton trained incapacity; Gouldner; Selznick",
+   "du Gay: cage as shield",
+   "Art 311 + AIS = Weberian capacity"
+  ]
  },
  "pubad1-7": {
   "directive": "comment",
@@ -338,5 +339,742 @@
    }
   ],
   "src": "ported"
+ },
+ "pubad1-2": {
+  "directive": "examine",
+  "lens": "Answer IN the discipline's vocabulary. The dichotomy's three lives — Wilson/Goodnow, Simon's demolition, its persistence as a normative fiction — plus one Indian bridge.",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "Wilson's *The Study of Administration* (1887) sought a **science of administration** insulated from politics — 'administrative questions are not political questions' — a separation his own presidency did not observe."
+   }
+  ],
+  "body": [
+   {
+    "h": "The dichotomy as founding move",
+    "p": [
+     {
+      "k": "Reformist purpose",
+      "x": "In the era of the **spoils system**, separating administration from politics was the argument for merit recruitment and the **Pendleton Act**."
+     },
+     {
+      "k": "Goodnow's formalisation",
+      "x": "*Politics and Administration* (1900) cast politics as the expression of the state's will and administration as its execution."
+     }
+    ]
+   },
+   {
+    "h": "The demolition",
+    "p": [
+     {
+      "k": "Simon's empirical attack",
+      "x": "*Administrative Behaviour* (1947) showed administrators exercise **value** as well as fact judgements; the dichotomy misdescribes what they actually do."
+     },
+     {
+      "k": "Appleby's rejection",
+      "x": "*Policy and Administration* (1949) held that public administration **is** policy-making — 'government is different' from business."
+     },
+     {
+      "k": "Waldo's critique",
+      "x": "*The Administrative State* (1948) exposed efficiency as itself a political value, not a neutral technical criterion."
+     }
+    ]
+   },
+   {
+    "h": "Why it survives",
+    "p": [
+     {
+      "k": "Normative fiction",
+      "x": "Discredited as description, it endures as **prescription** — the basis of neutrality, tenure protection and merit against patronage."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "The Indian scheme institutionalises it: the **Minister decides policy, the Secretary executes**, with **Article 311** protecting the servant who advises without fear.",
+      "ex": "Committed-bureaucracy debate; **Article 310-311**"
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "The workable position is Appleby's: not separation but **complementarity** — political direction with administrative candour, as **2nd ARC** urged in codifying civil-service values"
+  ],
+  "conc": "Wilson's dichotomy failed as a description of administration but succeeded as a defence of it — its real bequest is the norm of a professional, non-partisan service.",
+  "flash": [
+   "Wilson 1887; Goodnow 1900",
+   "Simon 1947 fact-value; Appleby 1949",
+   "Waldo: efficiency is a value",
+   "normative fiction, not description",
+   "Art 310-311; Minister-Secretary"
+  ]
+ },
+ "pubad1-3": {
+  "directive": "critically examine",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "The **Minnowbrook Conference (1968)** launched **New Public Administration** around four themes — **relevance, values, equity and change** — a normative revolt against the value-neutral efficiency of the classical tradition."
+   }
+  ],
+  "body": [
+   {
+    "h": "The NPA agenda",
+    "p": [
+     {
+      "k": "Relevance",
+      "x": "Administration must address the turbulence of its time — poverty, race, war — not retreat into technique."
+     },
+     {
+      "k": "Values over neutrality",
+      "x": "Rejecting the fact-value dichotomy, NPA held that administrators must own the normative consequences of their action."
+     },
+     {
+      "k": "Social equity",
+      "x": "**Frederickson**'s addition of equity as the discipline's **third pillar**, alongside economy and efficiency, redistributive by design."
+     },
+     {
+      "k": "Change and client focus",
+      "x": "Anti-bureaucratic, anti-hierarchical, participative structures oriented to the citizen rather than the agency.",
+      "ex": "Waldo as convenor; Marini's *Toward a New Public Administration*"
+     }
+    ]
+   },
+   {
+    "h": "The critique",
+    "p": [
+     {
+      "k": "Anti-positivist excess",
+      "x": "Critics held that rejecting positivism cost the field analytical rigour without supplying an alternative method."
+     },
+     {
+      "k": "Legitimacy problem",
+      "x": "Unelected administrators pursuing their own equity agenda raises the question of democratic mandate — the classic accountability objection."
+     },
+     {
+      "k": "Operational vagueness",
+      "x": "'Equity' was never operationalised into decision rules, leaving practitioners with an ethic but no technique."
+     },
+     {
+      "k": "Reversal by NPM",
+      "x": "The 1980s market turn substituted the **customer** for the **citizen**, marginalising equity for efficiency and value for money."
+     }
+    ]
+   },
+   {
+    "h": "Unfinished business",
+    "p": [
+     {
+      "k": "Revived by NPG",
+      "x": "**New Public Service** (Denhardt) — 'serve rather than steer' — and **New Public Governance** restored citizenship and public value to the centre.",
+      "ex": "Moore's **public value**"
+     },
+     {
+      "k": "Indian resonance",
+      "x": "India's constitutional scheme wrote equity in from the start — **Article 46**, the Directive Principles and reservation policy make social equity an administrative mandate, not a discretionary ethic."
+     },
+     {
+      "k": "Contemporary form",
+      "x": "Equity now reappears as **saturation coverage** and last-mile targeting.",
+      "ex": "**Aspirational Districts**; **DAY-NRLM**; **PM-JANMAN**"
+     },
+     {
+      "k": "Still unfinished",
+      "x": "Algorithmic exclusion, digital divides and elite capture show equity remains an outcome to be engineered, not a value to be declared."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Operationalise equity through disaggregated outcome data, equity audits of schemes, and representative bureaucracy"
+  ],
+  "conc": "NPA's contribution was to make administration answer a moral question — for whom? — and until deprivation remains structured by caste, gender and geography, that question stays open.",
+  "flash": [
+   "Minnowbrook 1968; relevance-values-equity-change",
+   "Frederickson: equity as third pillar",
+   "legitimacy + operationalisation critique",
+   "NPM substitutes customer for citizen",
+   "Art 46; Aspirational Districts"
+  ]
+ },
+ "pubad1-4": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "**NPM** — Hood's 'doctrinal puzzle' of managerialism, markets and measurement — raised efficiency by disaggregating the state; **New Public Governance** emerged to reassemble what it fragmented."
+   }
+  ],
+  "body": [
+   {
+    "h": "NPM's promise",
+    "p": [
+     {
+      "k": "Doctrinal core",
+      "x": "Hands-on professional management, explicit performance standards, output controls, disaggregation, competition and private-sector styles."
+     },
+     {
+      "k": "Intellectual sources",
+      "x": "**Public choice** (Niskanen's budget-maximising bureaucrat), principal-agent theory and managerialism.",
+      "ex": "Osborne and Gaebler's *Reinventing Government* — 'steering not rowing'"
+     },
+     {
+      "k": "Gains delivered",
+      "x": "Cost consciousness, customer orientation, contestability and explicit measurement of what departments actually produce."
+     }
+    ]
+   },
+   {
+    "h": "The fragmentation it produced",
+    "p": [
+     {
+      "k": "Hollow state",
+      "x": "Contracting out dispersed delivery across agencies and vendors, leaving the centre with responsibility but not control."
+     },
+     {
+      "k": "Accountability diffusion",
+      "x": "With many hands, blame is unassignable — Bovens's **problem of many hands**."
+     },
+     {
+      "k": "Goal displacement",
+      "x": "Targets became ends in themselves; measured outputs crowded out unmeasured public value.",
+      "ex": "Gaming and 'hitting the target, missing the point'"
+     },
+     {
+      "k": "Equity cost",
+      "x": "The **customer** framing cannot capture citizens who are rights-holders rather than purchasers, nor those markets do not serve."
+     }
+    ]
+   },
+   {
+    "h": "New Public Governance as corrective",
+    "p": [
+     {
+      "k": "Networks over markets",
+      "x": "**Osborne**'s NPG treats delivery as plural and interdependent, coordinated through trust and relational contracts rather than price."
+     },
+     {
+      "k": "Public value",
+      "x": "**Moore**'s strategic triangle — public value, legitimacy and support, operational capacity — restores purpose as the criterion."
+     },
+     {
+      "k": "Joined-up government",
+      "x": "**Whole-of-government** and collaborative governance re-integrate the silos NPM created."
+     },
+     {
+      "k": "Co-production",
+      "x": "Citizens as co-producers rather than customers.",
+      "ex": "Ostrom's co-production; **Denhardt**'s New Public Service"
+     },
+     {
+      "k": "Indian bridge",
+      "x": "India's arc mirrors this: disinvestment, agencification and **PPP** in the NPM phase; then **DPI**, **Aspirational Districts** and mission-mode convergence as the integrative turn.",
+      "ex": "**PRAGATI**; **Mission Karmayogi**"
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "The synthesis is to retain NPM's measurement discipline within NPG's integrative purpose — outcome budgeting inside a whole-of-government frame"
+  ],
+  "conc": "NPM taught government to count; NPG reminds it what is worth counting — the mature state needs the manager's rigour and the steward's purpose together.",
+  "flash": [
+   "Hood's doctrinal puzzle; Niskanen",
+   "steering not rowing (Osborne-Gaebler)",
+   "hollow state; many hands (Bovens)",
+   "Osborne NPG; Moore public value",
+   "India: PPP → DPI + Aspirational Districts"
+  ]
+ },
+ "pubad1-9": {
+  "directive": "comment",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "**Gulick**'s **POSDCORB** — planning, organising, staffing, directing, coordinating, reporting, budgeting — codified the chief executive's work in *Papers on the Science of Administration* (1937)."
+   }
+  ],
+  "body": [
+   {
+    "h": "Contribution",
+    "p": [
+     {
+      "k": "Executive vocabulary",
+      "x": "Codified the chief executive's work and made administration teachable."
+     },
+     {
+      "k": "Structural principles",
+      "x": "With the **4 P's** — purpose, process, persons, place — and span of control, it guided real reorganisation.",
+      "ex": "**Brownlow Committee**, 1937"
+     }
+    ]
+   },
+   {
+    "h": "Inadequacy",
+    "p": [
+     {
+      "k": "Proverbs, not principles",
+      "x": "**Simon (1946)**: the maxims contradict in pairs, with no criterion to choose."
+     },
+     {
+      "k": "Silent on purpose",
+      "x": "Describes *how* an executive works, never *what for*."
+     },
+     {
+      "k": "Ignores human and political",
+      "x": "Omits motivation, informal organisation and the political environment.",
+      "ex": "Barnard; **Appleby**"
+     },
+     {
+      "k": "Not distinctively public",
+      "x": "Generic management cannot explain accountability, legitimacy or equity."
+     }
+    ]
+   }
+  ],
+  "wf": [],
+  "conc": "POSDCORB remains a serviceable map of executive activity, but a map is not a destination — administration is defined by the public ends it serves, not the functions it performs.",
+  "flash": [
+   "Gulick 1937; Brownlow",
+   "4 P's: purpose-process-persons-place",
+   "Simon 1946: proverbs contradict",
+   "silent on purpose and politics",
+   "not distinctively public"
+  ]
+ },
+ "pubad1-12": {
+  "directive": "comment",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "In *The Functions of the Executive* (1938), **Chester Barnard** inverted the classical view: authority is not a property of position but a quality conferred by the subordinate who accepts the communication — the **acceptance theory of authority**."
+   }
+  ],
+  "body": [
+   {
+    "h": "The theory",
+    "p": [
+     {
+      "k": "Authority flows upward",
+      "x": "An order has authority only if accepted; its source lies with the recipient."
+     },
+     {
+      "k": "Four conditions",
+      "x": "It must be **understood**, consistent with organisational **purpose**, compatible with **personal interest**, and within **ability**."
+     },
+     {
+      "k": "Zone of indifference",
+      "x": "A range of orders accepted unquestioningly; the executive's task is to widen it."
+     }
+    ]
+   },
+   {
+    "h": "Assessment",
+    "p": [
+     {
+      "k": "Explains real compliance",
+      "x": "Accounts for work-to-rule and quiet non-implementation.",
+      "ex": "Simon's zone of acceptance builds on it"
+     },
+     {
+      "k": "Understates power",
+      "x": "Economic dependence means acceptance is rarely free; coercion is underplayed."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "A scheme falters where the cutting-edge functionary sees no purpose in it, whatever the order above."
+     }
+    ]
+   }
+  ],
+  "wf": [],
+  "conc": "Barnard's insight is that authority is a relationship, not a possession — administrative reform therefore begins with securing willing cooperation, not with tightening the chain of command.",
+  "flash": [
+   "Functions of the Executive 1938",
+   "acceptance theory: authority flows upward",
+   "4 conditions of acceptance",
+   "zone of indifference",
+   "effectiveness vs efficiency (member satisfaction)"
+  ]
+ },
+ "pubad1-15": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "**Chris Argyris**'s *Personality and Organization* (1957) argued that formal organisation demands passivity, dependence and short time-perspective — precisely the traits of an **infant** — creating a basic **incongruence** with the mature personality."
+   }
+  ],
+  "body": [
+   {
+    "h": "The incongruence thesis",
+    "p": [
+     {
+      "k": "The maturity continuum",
+      "x": "Healthy development moves from passivity to activity, dependence to independence, few to many behaviours, shallow to deep interests and short to long time-perspective."
+     },
+     {
+      "k": "What formal organisation demands",
+      "x": "Task specialisation, chain of command, unity of direction and narrow span of control require the opposite at every point."
+     },
+     {
+      "k": "Consequences",
+      "x": "Employees adapt by withdrawal, apathy, aggression, absenteeism, or by creating informal systems and trade unions — rational responses, not pathology."
+     }
+    ]
+   },
+   {
+    "h": "Prescription and critique",
+    "p": [
+     {
+      "k": "Job enlargement and reality-centred leadership",
+      "x": "Widen tasks, push decisions down, and use participative leadership to restore adult agency."
+     },
+     {
+      "k": "Model I and Model II",
+      "x": "Argyris later contrasted defensive **Model I** behaviour with **Model II** openness, and **single-loop** with **double-loop learning** — questioning the governing assumptions, not merely correcting error."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "Rigid hierarchy, narrow role definition and file-bound routine produce exactly the withdrawal Argyris predicted; **Mission Karmayogi**'s competency framework and **2nd ARC**'s call for role-based deployment are institutional answers."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Redesign roles for autonomy and mastery, and build **double-loop learning** into administrative training rather than only skill updation"
+  ],
+  "conc": "Argyris located organisational malaise in structure rather than in character — an administration that treats officials as adults is the precondition of an administration that treats citizens as citizens.",
+  "flash": [
+   "Personality and Organization 1957",
+   "infant-to-adult maturity continuum",
+   "withdrawal/aggression/informal systems",
+   "Model I vs II; single vs double-loop",
+   "Karmayogi competency + role redesign"
+  ]
+ },
+ "pubad1-18": {
+  "directive": "comment",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "**Simon**'s *The Proverbs of Administration* (1946) showed the classical principles to be **mutually contradictory maxims** — like folk proverbs, each with an equally plausible opposite, and no criterion for choosing between them."
+   }
+  ],
+  "body": [
+   {
+    "h": "The attack",
+    "p": [
+     {
+      "k": "Contradictory pairs",
+      "x": "Specialise by purpose *or* process; narrow span *or* few levels — each has a valid contrary."
+     },
+     {
+      "k": "No empirical grounding",
+      "x": "Maxims asserted from experience, never operationally defined or tested."
+     },
+     {
+      "k": "The alternative",
+      "x": "*Administrative Behaviour* relocated the field to the **decision**.",
+      "ex": "fact-value; **bounded rationality**; **satisficing**"
+     }
+    ]
+   },
+   {
+    "h": "Why it sharpens under AI",
+    "p": [
+     {
+      "k": "Values remain human",
+      "x": "Machines extend computation but do not supply the values ranking alternatives."
+     },
+     {
+      "k": "Premise control",
+      "x": "Simon's decision premises are now set by training data and model design."
+     },
+     {
+      "k": "Proxy risk",
+      "x": "Algorithms optimise a specified proxy; misstate the purpose and efficiency accelerates error."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Public-sector AI needs explicit value premises and human accountability for the value component"
+  ],
+  "conc": "Simon replaced administrative folklore with a science of decision-making; in an algorithmic administration his central warning holds — machines can compute the facts, but only humans can own the values.",
+  "flash": [
+   "Proverbs 1946: contradictory pairs",
+   "decision as unit of analysis",
+   "fact-value; bounded rationality; satisficing",
+   "premise control → training data",
+   "proxy misspecification accelerates error"
+  ]
+ },
+ "pubad1-21": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "Leadership theory has moved through four phases — **trait**, **behavioural**, **situational-contingency** and **transformational** — each correcting the last by widening the unit of analysis from the leader to the relationship."
+   }
+  ],
+  "body": [
+   {
+    "h": "The evolution",
+    "p": [
+     {
+      "k": "Trait approach",
+      "x": "Sought innate qualities of the 'great man'; **Stogdill**'s reviews found no consistent trait set, though intelligence, integrity and drive recur."
+     },
+     {
+      "k": "Behavioural approach",
+      "x": "Shifted to what leaders *do*: **Ohio State**'s initiating structure and consideration, **Michigan**'s job- versus employee-centred, **Blake and Mouton**'s managerial grid."
+     },
+     {
+      "k": "Situational and contingency",
+      "x": "Effectiveness depends on context.",
+      "ex": "**Fiedler**'s LPC contingency model; **Hersey-Blanchard** situational; **House**'s path-goal; Vroom-Yetton"
+     },
+     {
+      "k": "Transformational turn",
+      "x": "**Burns** distinguished transactional exchange from **transformational** leadership that elevates followers' purposes; **Bass** operationalised it in the four I's — idealised influence, inspirational motivation, intellectual stimulation, individualised consideration."
+     }
+    ]
+   },
+   {
+    "h": "Public-sector specificity",
+    "p": [
+     {
+      "k": "Constraints on the public leader",
+      "x": "Statutory mandates, political masters, tenure uncertainty and limited reward power mean influence must substitute for authority."
+     },
+     {
+      "k": "Beyond the individual",
+      "x": "Contemporary work emphasises **distributed**, collaborative and network leadership suited to multi-agency delivery."
+     },
+     {
+      "k": "Value dimension",
+      "x": "**Public-service motivation** and ethical or servant leadership matter more where outputs are ambiguous and stewardship is the core duty.",
+      "ex": "Perry; **Greenleaf**"
+     },
+     {
+      "k": "Indian bridge",
+      "x": "District administration demands situational leadership — directive in disaster, participative in development — and **Mission Karmayogi** treats leadership as a trainable competency rather than an innate trait.",
+      "ex": "Collector in crisis vs in convergence"
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Build leadership through structured exposure, mentoring and 360-degree feedback, as **2nd ARC** recommended, rather than relying on seniority alone"
+  ],
+  "conc": "The trajectory from trait to transformation shows leadership to be a relationship constructed in context — in public administration, its test is not the leader's charisma but the institution left behind.",
+  "flash": [
+   "trait → behaviour → situation → transformation",
+   "Stogdill; Ohio/Michigan; Blake-Mouton",
+   "Fiedler LPC; Hersey-Blanchard; path-goal",
+   "Burns/Bass four I's",
+   "PSM, servant leadership; Karmayogi"
+  ]
+ },
+ "pubad1-50": {
+  "directive": "comment",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "**Fred Riggs**'s **prismatic model** likens the transitional society to a prism — where fused white light (traditional) is diffracted into separate colours (modern), the prismatic middle exhibits both at once; **formalism** is the gap between prescription and practice."
+   }
+  ],
+  "body": [
+   {
+    "h": "The concept",
+    "p": [
+     {
+      "k": "Fused-prismatic-diffracted",
+      "x": "From undifferentiated roles, through overlapping, to functionally specific societies."
+     },
+     {
+      "k": "Formalism",
+      "x": "The measured gap between prescribed norms and effective behaviour — laws exist but do not govern."
+     },
+     {
+      "k": "Companion traits",
+      "x": "**Heterogeneity**, **overlapping**, and the **sala** as the prismatic office.",
+      "ex": "clects; bazaar-canteen"
+     }
+    ]
+   },
+   {
+    "h": "Application and critique",
+    "p": [
+     {
+      "k": "Indian bridge",
+      "x": "Robust statute meets weak realisation — ceiling laws defeated by **benami** transfer; caste inside a merit bureaucracy."
+     },
+     {
+      "k": "Explanatory power",
+      "x": "Explains why imported institutional forms produce façades without environmental change."
+     },
+     {
+      "k": "Criticisms",
+      "x": "Ethnocentric, static, pessimistic and jargon-heavy; offers no theory of transition."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Reform must target incentives and capacity, not only the formal rule"
+  ],
+  "conc": "Riggs's enduring contribution is the reminder that administration is an ecology, not a machine — where prescription outruns capacity, formalism is the predictable result.",
+  "flash": [
+   "fused-prismatic-diffracted",
+   "formalism = prescription minus practice",
+   "heterogeneity, overlapping, sala",
+   "clects; bazaar-canteen",
+   "critique: ethnocentric, static"
+  ]
+ },
+ "pubad1-70": {
+  "directive": "critically examine",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "**Lindblom**'s *The Science of Muddling Through* (1959) offered **incrementalism** — successive limited comparisons — not as a counsel of timidity but as a realistic account of how policy is actually made under bounded rationality."
+   }
+  ],
+  "body": [
+   {
+    "h": "The case for incrementalism",
+    "p": [
+     {
+      "k": "Cognitive realism",
+      "x": "Comprehensive rational analysis exceeds human and organisational capacity; incrementalism economises on information and computation."
+     },
+     {
+      "k": "Political feasibility",
+      "x": "Marginal change permits **partisan mutual adjustment** among plural actors — agreement on the next step is possible where agreement on ends is not."
+     },
+     {
+      "k": "Error correction",
+      "x": "Small steps are reversible; serial, remedial adjustment limits the damage of any single mistake."
+     },
+     {
+      "k": "Means-ends intertwining",
+      "x": "Values are chosen alongside policies rather than fixed in advance — the test of a good policy is agreement, not demonstrated optimality."
+     }
+    ]
+   },
+   {
+    "h": "The critique",
+    "p": [
+     {
+      "k": "Conservative bias",
+      "x": "It privileges the status quo and the already-organised, disadvantaging the unorganised poor — **Dror**'s central objection."
+     },
+     {
+      "k": "Unsuited to crisis and novelty",
+      "x": "Fundamental change, new problems and emergencies have no incremental base to build from.",
+      "ex": "Dror's **normative optimum** model"
+     },
+     {
+      "k": "Path dependence",
+      "x": "Successive small steps can lock in an unexamined direction; drift substitutes for choice."
+     },
+     {
+      "k": "Hybrid alternatives",
+      "x": "**Etzioni**'s **mixed scanning** combines broad fundamental review with detailed incremental decisions — the pragmatic synthesis."
+     },
+     {
+      "k": "Punctuated equilibrium",
+      "x": "**Baumgartner and Jones** show long incremental stability broken by rapid, large shifts when attention and venue change."
+     }
+    ]
+   },
+   {
+    "h": "Indian application",
+    "p": [
+     {
+      "k": "Incremental in practice",
+      "x": "Annual budgeting, scheme continuation and tax-rate tinkering are classically incremental."
+     },
+     {
+      "k": "Punctuations too",
+      "x": "India also demonstrates non-incremental change.",
+      "ex": "**1991** reforms; **GST**; **IBC**; Aadhaar-**DBT**"
+     },
+     {
+      "k": "Where increments fail",
+      "x": "Structural deprivation and climate adaptation need anticipatory rather than remedial policy."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Adopt **mixed scanning** — periodic fundamental review of goals with incremental adjustment in between — supported by outcome budgeting and evaluation capacity"
+  ],
+  "conc": "Incrementalism is a rational strategy under uncertainty and disagreement, but a poor guide where injustice is structural — good governance needs the increment and the occasional leap.",
+  "flash": [
+   "Lindblom 1959, successive limited comparisons",
+   "partisan mutual adjustment",
+   "Dror: conservative bias; normative optimum",
+   "Etzioni mixed scanning",
+   "punctuated equilibrium; 1991, GST, IBC"
+  ]
+ },
+ "pubad1-73": {
+  "directive": "explain",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "**Kingdon**'s *Agendas, Alternatives and Public Policies* (1984) explains agenda-setting through three independent **streams** — problems, policies and politics — which must be **coupled** by an entrepreneur when a window opens."
+   }
+  ],
+  "body": [
+   {
+    "h": "The model",
+    "p": [
+     {
+      "k": "Problem stream",
+      "x": "Conditions become problems through indicators, **focusing events** and feedback."
+     },
+     {
+      "k": "Policy stream",
+      "x": "A **primeval soup** of proposals surviving on feasibility and value acceptability."
+     },
+     {
+      "k": "Political stream",
+      "x": "National mood, elections and organised pressure, moving independently."
+     },
+     {
+      "k": "Window and entrepreneur",
+      "x": "A brief opening in which an entrepreneur **couples** a ready solution to a live problem.",
+      "ex": "**garbage can** antecedent"
+     }
+    ]
+   },
+   {
+    "h": "Illustration and limits",
+    "p": [
+     {
+      "k": "Indian couplings",
+      "x": "**Nirbhaya** coupled pending proposals to a changed mood; **1991** crisis opened the liberalisation window.",
+      "ex": "**Justice Verma Committee**, 2013"
+     },
+     {
+      "k": "Critique",
+      "x": "Explains agenda-setting better than implementation; understates structural power in defining problems."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Keep evaluated proposals 'on the shelf' so a workable alternative exists when a window opens"
+  ],
+  "conc": "Kingdon's lesson for the administrator is that timing is a resource: policies succeed not when they are best, but when a prepared solution meets a recognised problem in a receptive politics.",
+  "flash": [
+   "problems + policies + politics streams",
+   "policy primeval soup",
+   "focusing event; window; entrepreneur",
+   "garbage can antecedent",
+   "Nirbhaya 2013; 1991; CoWIN"
+  ]
  }
 }

@@ -1,0 +1,565 @@
+{
+ "gs2-1": {
+  "directive": "examine",
+  "lens": "Answer on constitutional design, never on party politics. The balance = discretion is non-justiciable in SUBSTANCE, but indefinite inaction is reviewable in TIME. Get Art 200's four options right.",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**Article 200** gives the Governor four courses on a Bill — assent, withhold, return for reconsideration (except a Money Bill), or reserve for the President under **Article 201** — but prescribes no time limit, and it is that silence the Reference had to fill."
+   }
+  ],
+  "body": [
+   {
+    "h": "The case for gubernatorial discretion",
+    "p": [
+     {
+      "k": "Textual silence is deliberate",
+      "x": "The Constitution names the options without a deadline; courts reading in a timeline would legislate rather than interpret."
+     },
+     {
+      "k": "Reservation is a real power",
+      "x": "**Article 201** exists so the Union can examine Bills touching national interest or repugnant to central law — a federal safeguard, not a formality."
+     },
+     {
+      "k": "Non-justiciable substance",
+      "x": "*Which* option the Governor chooses involves constitutional judgement unsuited to judicial second-guessing."
+     },
+     {
+      "k": "Against deemed assent",
+      "x": "Treating a Bill as assented by judicial declaration would substitute the court for a constitutional functionary in the law-making chain."
+     }
+    ]
+   },
+   {
+    "h": "The case for legislative supremacy",
+    "p": [
+     {
+      "k": "Aid and advice is the norm",
+      "x": "The Governor ordinarily acts on the Council of Ministers' advice; discretion is the exception, not the rule.",
+      "ex": "**Shamsher Singh (1974)**; **Nabam Rebia (2016)**"
+     },
+     {
+      "k": "Inaction defeats the mandate",
+      "x": "Indefinite silence is a **pocket veto** the Constitution never granted, nullifying an elected legislature without a decision to challenge."
+     },
+     {
+      "k": "Reviewability of delay",
+      "x": "'Prolonged, unexplained and indefinite inaction' invites limited scrutiny — courts may compel a *decision*, not dictate *which* decision."
+     }
+    ]
+   }
+  ],
+  "diag": {
+   "k": "flow",
+   "d": "Bill passed → Governor (Art 200): assent / withhold / return / reserve → President (Art 201) → assent or withhold"
+  },
+  "wf": [
+   "Adopt a self-binding convention or statutory advisory timeline, as the Punchhi Commission recommended",
+   "Require **written reasons** for reservation — reasons make discretion accountable without making it justiciable",
+   "Strengthen the **Inter-State Council** as the forum for Centre-State constitutional friction"
+  ],
+  "conc": "The balance struck preserves the office's discretion while denying it the power of indefinite silence — discretion may decide slowly, but it may not refuse to decide at all.",
+  "flash": [
+   "Art 200: assent/withhold/return/reserve",
+   "Art 201 President; no timeline in text",
+   "substance non-justiciable, delay reviewable",
+   "no judicial deemed assent",
+   "Shamsher Singh; Sarkaria + Punchhi"
+  ]
+ },
+ "gs2-2": {
+  "directive": "examine",
+  "lens": "Two halves: the entitlement→compliance shift, then the cess-and-surcharge erosion of Art 270. The Art 270 exclusion of cesses is the technical heart.",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**Article 270** requires the net proceeds of Union taxes to be shared with States on Finance Commission recommendation — but expressly **excludes cesses and surcharges**, an exception now large enough to reshape the scheme."
+   }
+  ],
+  "body": [
+   {
+    "h": "From entitlement to conditionality",
+    "p": [
+     {
+      "k": "The older logic",
+      "x": "Devolution was an unconditional **entitlement** — untied funds that States could spend by their own priorities, respecting fiscal autonomy."
+     },
+     {
+      "k": "The compliance turn",
+      "x": "Grants increasingly ride on performance benchmarks, reform milestones and reporting conditions, converting transfers into instruments of central policy direction."
+     },
+     {
+      "k": "Local-body grants",
+      "x": "Panchayat and municipal grants are tied to conditions such as accounts publication and property-tax reform, so weak-capacity bodies lose most."
+     },
+     {
+      "k": "The efficiency defence",
+      "x": "Conditionality can correct the moral hazard of unconditional transfers and reward genuine reform — the case is not baseless."
+     }
+    ]
+   },
+   {
+    "h": "The cess-and-surcharge problem",
+    "p": [
+     {
+      "k": "Shrinking the divisible pool",
+      "x": "Revenue raised as cess or surcharge is constitutionally the Union's alone, so a rising share of collections never enters the pool States share."
+     },
+     {
+      "k": "Devolution on paper",
+      "x": "A **41%** share of a shrinking base can mean a falling share of gross central revenue — the headline percentage overstates the transfer."
+     },
+     {
+      "k": "Predictability loss",
+      "x": "States cannot budget against a pool whose size depends on the Union's choice of tax instrument."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Cap cesses and surcharges as a share of gross tax revenue, or bring long-standing ones into the divisible pool",
+   "Sunset clauses and utilisation audit for every cess, as recommended by successive Commissions"
+  ],
+  "conc": "Fiscal federalism rests on predictability as much as on percentages — devolution must remain a constitutional entitlement, not become a reward for compliance.",
+  "flash": [
+   "Art 270 excludes cess + surcharge",
+   "41% of a shrinking base",
+   "entitlement → conditionality",
+   "local-body grants penalise weak capacity",
+   "cap/sunset cesses; GST Council model"
+  ]
+ },
+ "gs2-6": {
+  "directive": "examine",
+  "lens": "Constitutional provisions first (Art 81, 82, 55; the 42nd/84th/87th freezes), then the federal dilemma. Frame as representation-vs-performance, never as north-vs-south politics.",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**Article 82** requires readjustment of Lok Sabha seats after every census, but the **42nd Amendment** froze allocation, and the **84th Amendment (2001)** extended that freeze to the first census after **2026** — deferring, not resolving, the problem."
+   }
+  ],
+  "body": [
+   {
+    "h": "The constitutional scheme",
+    "p": [
+     {
+      "k": "Basis of allocation",
+      "x": "**Article 81** mandates that seats be allocated among States so far as practicable in the same population ratio — one person, one vote, one value."
+     },
+     {
+      "k": "Purpose of the freeze",
+      "x": "The freeze protected States that succeeded in population stabilisation from losing representation for that success."
+     },
+     {
+      "k": "Internal readjustment continued",
+      "x": "The **87th Amendment** allowed constituency boundaries within States to be redrawn on 2001 data, and **SC/ST** reservation to be revised."
+     }
+    ]
+   },
+   {
+    "h": "Federal implications",
+    "p": [
+     {
+      "k": "The performance penalty",
+      "x": "Strict population-based readjustment transfers seats from States that curbed fertility to those that did not — penalising the achievement of a national goal."
+     },
+     {
+      "k": "Legitimacy on the other side",
+      "x": "Equally, freezing indefinitely leaves fast-growing States permanently under-represented, straining the equality principle in **Article 81** itself."
+     },
+     {
+      "k": "Beyond the Lok Sabha",
+      "x": "Seat shares feed into the **Electoral College** under **Article 55**, so the change reaches presidential elections too."
+     },
+     {
+      "k": "Fiscal linkage",
+      "x": "The anxiety compounds Finance Commission concerns, since population also enters horizontal devolution formulas."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Consider expanding total House strength so no State loses seats in absolute terms, even as shares adjust",
+   "Build consensus through the **Inter-State Council** before the exercise, not after"
+  ],
+  "conc": "Delimitation must reconcile two constitutional goods — equality of the vote and the federal trust that performance will not be punished; the solution lies in enlarging the pie rather than merely redividing it.",
+  "flash": [
+   "Art 82 readjust; Art 81 ratio",
+   "42nd freeze; 84th → post-2026 census",
+   "87th allowed internal redraw",
+   "Art 55 Electoral College knock-on",
+   "expand House strength"
+  ]
+ },
+ "gs2-7": {
+  "directive": "discuss",
+  "lens": "The 44th Amendment's specific changes are the marks — 'armed rebellion', written Cabinet advice, Art 20-21 non-suspendable, parliamentary approval thresholds.",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The **1975 Emergency** exposed how easily **Article 352** could be turned inward; the **44th Amendment (1978)** rewrote the safeguards so that emergency power could not again be exercised on a single individual's word."
+   }
+  ],
+  "body": [
+   {
+    "h": "The 44th Amendment reforms",
+    "p": [
+     {
+      "k": "Narrowed ground",
+      "x": "'Internal disturbance' was replaced by **armed rebellion**, removing the vague basis on which 1975 was proclaimed."
+     },
+     {
+      "k": "Written Cabinet advice",
+      "x": "Proclamation now requires the **written** recommendation of the Union Cabinet, ending the possibility of a Prime Minister acting alone."
+     },
+     {
+      "k": "Parliamentary control",
+      "x": "Approval within one month by a **special majority** of each House, with continuance requiring renewal every six months."
+     }
+    ]
+   },
+   {
+    "h": "Do they suffice?",
+    "p": [
+     {
+      "k": "Reinforced by doctrine",
+      "x": "**Bommai (1994)** made proclamations justiciable and **Puttaswamy (2017)** overruled the reasoning of *ADM Jabalpur* — the case that failed in 1975."
+     },
+     {
+      "k": "The residual risk",
+      "x": "Safeguards bind formal emergencies; ordinary preventive-detention and internet-shutdown powers can produce similar effects without any proclamation."
+     }
+    ]
+   }
+  ],
+  "conc": "The 44th Amendment made a repetition of 1975 constitutionally difficult — but liberty's real guarantee remains an alert Parliament, a free press and a vigilant judiciary.",
+  "flash": [
+   "'internal disturbance' → armed rebellion",
+   "written Cabinet advice",
+   "special majority, 6-monthly renewal",
+   "Art 20-21 non-suspendable",
+   "Bommai; Puttaswamy overrules ADM Jabalpur"
+  ],
+  "wf": []
+ },
+ "gs2-10": {
+  "directive": "examine",
+  "lens": "Three-bucket structure the question itself gives: constitutional, federal, practical. Kovind Committee and the 129th Amendment Bill are the anchors.",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "'One Nation, One Election' proposes synchronised Lok Sabha and Assembly polls through the **129th Constitutional Amendment Bill**, following the **High-Level Committee (Kovind)** recommendations — reviving a practice that existed until 1967."
+   }
+  ],
+  "body": [
+   {
+    "h": "The case for it",
+    "p": [
+     {
+      "k": "Cost and administrative load",
+      "x": "Continuous elections consume exchequer funds and lock security forces and teachers into repeated deployment."
+     },
+     {
+      "k": "Governance continuity",
+      "x": "The **Model Code of Conduct** in near-permanent operation stalls new policy announcements somewhere in India almost year-round."
+     }
+    ]
+   },
+   {
+    "h": "Constitutional and federal challenges",
+    "p": [
+     {
+      "k": "Fixed terms are alien to the scheme",
+      "x": "**Articles 83 and 172** set maximum, not guaranteed, terms; synchronisation requires either curtailing or extending elected Houses."
+     },
+     {
+      "k": "Confidence and dissolution",
+      "x": "A government losing confidence mid-cycle raises the question of whether a successor serves only the remainder — weakening accountability to the House."
+     },
+     {
+      "k": "Federal objection",
+      "x": "State terms would be tied to the Union cycle, which States argue subordinates their electoral mandate to national timing."
+     },
+     {
+      "k": "Ratification requirement",
+      "x": "Provisions touching State legislatures and elections attract **Article 368(2)** ratification by at least half the States."
+     },
+     {
+      "k": "Nationalisation of local issues",
+      "x": "Evidence suggests simultaneous polls make voters more likely to vote alike at both levels, blurring State-specific accountability."
+     }
+    ]
+   },
+   {
+    "h": "Practical challenges",
+    "p": [
+     {
+      "k": "Transition problem",
+      "x": "Getting to a common cycle requires a one-time truncation or extension of several Assemblies — the hardest step politically."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Build consensus through the **Inter-State Council** and secure the required State ratifications rather than proceeding on numbers alone",
+   "Consider a phased two-cycle model as an intermediate step"
+  ],
+  "conc": "Simultaneous elections could improve governance efficiency, but only if achieved by federal consensus — democratic cost must not be traded for administrative convenience.",
+  "flash": [
+   "129th Amdt Bill; Kovind HLC",
+   "practice existed till 1967",
+   "Art 83/172 max not fixed terms",
+   "Art 368(2) State ratification",
+   "nationalisation of local issues"
+  ]
+ },
+ "gs2-11": {
+  "directive": "critically examine",
+  "lens": "The Speaker-as-tribunal problem and indefinite delay are the two axes. Kihoto Hollohan is the foundational case; the 91st Amendment closed the split-defection loophole.",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The **Tenth Schedule (52nd Amendment, 1985)** was designed to end the era of 'Aya Ram Gaya Ram' defections; four decades on, the debate has shifted from whether it works to whether its adjudicator can."
+   }
+  ],
+  "body": [
+   {
+    "h": "Achievements and design",
+    "p": [
+     {
+      "k": "Deterrent effect",
+      "x": "Individual floor-crossing for office has been substantially curbed by the threat of disqualification."
+     },
+     {
+      "k": "Loophole closed",
+      "x": "The **91st Amendment (2003)** removed the one-third 'split' exemption, leaving only merger by **two-thirds** as a defence."
+     },
+     {
+      "k": "Judicial review affirmed",
+      "x": "**Kihoto Hollohan (1992)** upheld the Schedule but held the Speaker's decision to be a **tribunal** function, subject to review."
+     }
+    ]
+   },
+   {
+    "h": "The structural criticisms",
+    "p": [
+     {
+      "k": "Partisan adjudicator",
+      "x": "The Speaker owes their office to the majority yet decides cases that determine the majority's survival — a conflict the Schedule builds in."
+     },
+     {
+      "k": "Weaponised delay",
+      "x": "With no time limit, petitions can be kept pending until the House's term expires, making disqualification irrelevant.",
+      "ex": "**Keisham Meghachandra (2020)** urged decisions in about three months"
+     },
+     {
+      "k": "Resignation route",
+      "x": "Members resign and re-contest, achieving the political effect the Schedule was meant to prevent while escaping its bar."
+     },
+     {
+      "k": "Chilling intra-party dissent",
+      "x": "By binding members to the whip on all matters, it converts legislators into party delegates and weakens Parliament's deliberative role."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Shift adjudication to an independent authority — the **President/Governor acting on the Election Commission's advice**, as recommended by the Law Commission and the **Dinesh Goswami Committee**",
+   "Statutory time limit for decision, with automatic consequences for inaction",
+   "Confine the whip to confidence motions and money bills so genuine dissent survives"
+  ],
+  "conc": "The Tenth Schedule cured the disease of defection but weakened the patient's voice — reform must restore both the integrity of the mandate and the independence of the legislator.",
+  "flash": [
+   "52nd Amdt 1985; 91st closed split loophole",
+   "Kihoto Hollohan 1992 — Speaker as tribunal",
+   "Keisham Meghachandra — ~3 months",
+   "adjudicator conflict of interest",
+   "whip only on confidence/money bills"
+  ]
+ },
+ "gs2-18": {
+  "directive": "examine",
+  "lens": "Three parts: the Puttaswamy test, DPDP's exemptions, and the RTI 8(1)(j) amendment. The proportionality test is the yardstick throughout.",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**Puttaswamy (2017)** made privacy a fundamental right subject to a four-fold test — legality, legitimate aim, **proportionality** and procedural safeguards; the **DPDP Act, 2023** is the statute meant to operationalise it."
+   }
+  ],
+  "body": [
+   {
+    "h": "What the Act achieves",
+    "p": [
+     {
+      "k": "Consent architecture",
+      "x": "Notice-and-consent obligations, purpose limitation and data minimisation give individuals a statutory handle on their data."
+     },
+     {
+      "k": "Enforceable duties",
+      "x": "Data Fiduciaries face security, breach-notification and erasure obligations, with significant financial penalties."
+     },
+     {
+      "k": "Individual rights",
+      "x": "Rights to access, correction, erasure and grievance redress, with **Consent Managers** as an intermediary innovation."
+     }
+    ]
+   },
+   {
+    "h": "Where the balance is contested",
+    "p": [
+     {
+      "k": "Broad State exemptions",
+      "x": "The Union may exempt its own agencies on grounds including sovereignty and public order — critics argue this is closer to a blanket carve-out than a proportionate one."
+     },
+     {
+      "k": "Regulator independence",
+      "x": "The **Data Protection Board** is appointed by and its terms set by the Union, raising questions about independence from the largest data processor."
+     },
+     {
+      "k": "No surveillance reform",
+      "x": "The Act does not touch the interception framework, leaving the pre-*Puttaswamy* architecture largely intact."
+     }
+    ]
+   },
+   {
+    "h": "The RTI intersection",
+    "p": [
+     {
+      "k": "Section 8(1)(j) rewritten",
+      "x": "The amendment exempts personal information as a class, removing the earlier qualifier that information which cannot be denied to Parliament cannot be denied to a citizen."
+     },
+     {
+      "k": "Loss of the public-interest override",
+      "x": "That proviso was the hinge on which asset declarations, beneficiary lists and service records were disclosed — its removal narrows accountability journalism."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Narrow exemptions to what proportionality actually requires, with independent oversight of each invocation"
+  ],
+  "conc": "A privacy law must bind the State as firmly as the market — DPDP's promise will be judged by how narrowly its exemptions are read, not by how broadly its rights are written.",
+  "flash": [
+   "Puttaswamy 4-fold proportionality test",
+   "consent, purpose limitation, minimisation",
+   "broad Union exemptions; DPB independence",
+   "no surveillance reform",
+   "RTI 8(1)(j) loses public-interest override"
+  ]
+ },
+ "gs2-23": {
+  "directive": "discuss",
+  "lens": "Cite the exact provisions the question names — Art 324 and s.21 RPA 1950 — then argue the limits through Mohinder Singh Gill's 'reservoir of power' doctrine.",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**Article 324** vests superintendence, direction and control of elections in the **Election Commission**, while **Section 21 of the RPA, 1950** empowers it to direct a **special revision** of electoral rolls for any constituency, for reasons to be recorded."
+   }
+  ],
+  "body": [
+   {
+    "h": "Basis of the power",
+    "p": [
+     {
+      "k": "Plenary constitutional source",
+      "x": "**Article 324** is a reservoir of power enabling the Commission to act where the law is silent, so that free and fair elections are not defeated by a statutory gap.",
+      "ex": "**Mohinder Singh Gill (1978)**"
+     },
+     {
+      "k": "Statutory anchor",
+      "x": "**Section 21(3), RPA 1950** expressly permits special revision at any time, provided reasons are recorded — the discretion is conditional, not absolute."
+     }
+    ]
+   },
+   {
+    "h": "Are there enforceable limits?",
+    "p": [
+     {
+      "k": "Article 324 is not unbounded",
+      "x": "*Mohinder Singh Gill* itself held the power must be exercised consistently with existing law and the rules of natural justice."
+     },
+     {
+      "k": "Due process floor",
+      "x": "Deletion requires notice, hearing and a reasoned order; the burden cannot be silently shifted onto the elector to prove entitlement."
+     },
+     {
+      "k": "Non-arbitrariness",
+      "x": "**Article 14** requires that timing, coverage and documentary standards be uniform and rationally justified, not selectively applied."
+     },
+     {
+      "k": "Disenfranchisement risk",
+      "x": "Migrants, the poor and the undocumented are least able to produce records at short notice — the exclusion error is not politically neutral."
+     },
+     {
+      "k": "Judicial window",
+      "x": "**Article 329(b)** bars challenge to an *election* once notified, but roll-revision orders made before that stage remain amenable to writ jurisdiction."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Publish a transparent, uniform standard operating procedure with adequate notice periods and an appellate mechanism"
+  ],
+  "conc": "The Commission's power to purify the roll is constitutionally secure — but it is a power to *include accurately*, and every deletion must survive the test of due process.",
+  "flash": [
+   "Art 324 reservoir; s.21(3) RPA 1950",
+   "Mohinder Singh Gill — not unbounded",
+   "intensive = enumeration, not claims",
+   "notice, hearing, reasoned order",
+   "Art 329(b) bars only post-notification"
+  ]
+ },
+ "gs2-24": {
+  "directive": "examine",
+  "lens": "The Anoop Baranwal ruling vs the Act's departure from it is the whole answer. Note the CJI's removal from the panel.",
+  "intro": [
+   {
+    "t": "judgment",
+    "x": "**Anoop Baranwal (2023)** directed appointments by a panel of the **PM, Leader of the Opposition and CJI** until Parliament legislated; the **CEC and Other ECs Act, 2023** then legislated differently."
+   }
+  ],
+  "body": [
+   {
+    "h": "The independence concern",
+    "p": [
+     {
+      "k": "Executive majority",
+      "x": "Substituting a Union Minister for the **CJI** gives the government two of three votes — the panel cannot outvote the appointing authority."
+     },
+     {
+      "k": "Premise inverted",
+      "x": "The Court's reasoning was to insulate the Commission from the executive it must regulate."
+     },
+     {
+      "k": "Umpire independence",
+      "x": "**Article 324** presumes a referee independent of the players; appearance of impartiality is itself substantive."
+     },
+     {
+      "k": "Tenure asymmetry",
+      "x": "The **CEC** is removable only like a Supreme Court judge; Commissioners only on the CEC's recommendation."
+     }
+    ]
+   },
+   {
+    "h": "The counter-view",
+    "p": [
+     {
+      "k": "Separation of powers",
+      "x": "Appointment is an executive function, and judges on selection panels blur that separation."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Restore a non-partisan third member and extend the CEC's removal protection to all Commissioners"
+  ],
+  "conc": "The independence of the referee is the foundation of electoral legitimacy — a selection process the losing side can trust is worth more than one the winning side controls.",
+  "flash": [
+   "Anoop Baranwal 2023: PM+LoP+CJI",
+   "Act substitutes Union Minister → 2:1 executive",
+   "Art 324 umpire independence",
+   "search committee under Union Minister",
+   "EC removal protection weaker than CEC"
+  ]
+ }
+}

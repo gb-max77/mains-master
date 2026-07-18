@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Mains Master — CSE 2026 Model Answers</title>
+<meta name="theme-color" content="#0b0d12">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+
+<header class="topbar">
+  <button class="back" id="back" hidden aria-label="Back">‹</button>
+  <div class="brand"><b>Mains&nbsp;Master</b><span>CSE 2026 · model answers</span></div>
+  <div class="spacer"></div>
+  <button class="icon" id="btn-search" aria-label="Search">⌕</button>
+</header>
+
+<!-- ══ HOME ══ -->
+<main id="view-home" class="view active">
+  <div class="countdown" id="countdown"></div>
+  <div class="papers" id="papers"></div>
+  <section class="due" id="due-wrap" hidden>
+    <h2>Due for revision</h2>
+    <div id="due-list"></div>
+  </section>
+</main>
+
+<!-- ══ LIST ══ -->
+<main id="view-list" class="view">
+  <h1 id="list-title"></h1>
+  <div class="filters">
+    <input id="q-search" type="search" placeholder="Search questions & keywords…" autocomplete="off">
+    <div class="chips" id="tier-chips">
+      <button class="chip" data-tier="all" aria-pressed="true">All</button>
+      <button class="chip t1" data-tier="1">T1</button>
+      <button class="chip t2" data-tier="2">T2</button>
+      <button class="chip t3" data-tier="3">T3</button>
+      <button class="chip ans" data-tier="answered">✓ Written</button>
+      <button class="chip shaky" data-tier="weak">Shaky/Blank</button>
+    </div>
+    <select id="theme-sel"></select>
+  </div>
+  <div id="q-list"></div>
+</main>
+
+<!-- ══ ANSWER ══ -->
+<main id="view-answer" class="view">
+  <div class="modebar">
+    <div class="modes" id="modes">
+      <button class="mode active" data-mode="full">Full</button>
+      <button class="mode" data-mode="skeleton">Skeleton</button>
+      <button class="mode" data-mode="cloze">Cloze</button>
+      <button class="mode" data-mode="scan">60s scan</button>
+    </div>
+    <button class="icon" id="btn-step" title="Step through points (→)">▸ Step</button>
+  </div>
+  <article id="answer"></article>
+  <div class="recall" id="recall">
+    <span>How well did you recall it?</span>
+    <div>
+      <button class="rc r3" data-r="3">Confident</button>
+      <button class="rc r2" data-r="2">Shaky</button>
+      <button class="rc r1" data-r="1">Blank</button>
+    </div>
+  </div>
+</main>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

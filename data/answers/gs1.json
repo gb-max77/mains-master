@@ -1,0 +1,3421 @@
+{
+ "gs1-2": {
+  "directive": "discuss",
+  "lens": "✓ Imported from your MainsLab bank. Sources: UNESCO - Maratha Military Landscapes of India, Uploaded GS1 History enriched notes.",
+  "conc": "Their significance lies in joining military innovation to a durable cultural memory of Swarajya; conservation must therefore protect both structures and their surrounding landscapes.",
+  "flash": [
+   "terrain",
+   "networked defence",
+   "water systems",
+   "maritime security",
+   "Swarajya",
+   "living landscape"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The Maratha fort network converted the varied physiography of western and peninsular India into a decentralised but mutually supporting system of defence and political authority."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Terrain as strategy",
+      "x": "Hill, coastal and island locations used escarpments, passes and sea approaches as force multipliers against larger armies."
+     },
+     {
+      "k": "Networked defence",
+      "x": "Forts controlled routes, ports and productive hinterlands; their distribution enabled warning, refuge, supply and counter-attack rather than static defence."
+     },
+     {
+      "k": "Adaptive architecture",
+      "x": "Walls, gateways and bastions followed local contours, reduced exposed approaches and combined indigenous engineering with changing artillery requirements."
+     },
+     {
+      "k": "Logistical autonomy",
+      "x": "Reservoirs, granaries, storehouses and residential spaces allowed garrisons and communities to withstand sieges and seasonal scarcity."
+     },
+     {
+      "k": "Maritime dimension",
+      "x": "Sea forts and coastal strongholds protected commerce, checked competing naval powers and connected territorial rule with maritime security."
+     },
+     {
+      "k": "Swarajya",
+      "x": "The forts materialised a political idea of self-rule: authority rooted in local geography, mobile leadership and accountable defence of the realm."
+     },
+     {
+      "k": "Living landscape",
+      "x": "Settlements, sacred sites, craft traditions and memory around the forts show that they were political-cultural landscapes, not isolated monuments."
+     },
+     {
+      "k": "Conservation challenge",
+      "x": "Tourism, encroachment and insensitive repair require landscape-level management, local participation and historically compatible materials."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-3": {
+  "directive": "examine",
+  "lens": "✓ Imported from your MainsLab bank. Sources: Ministry of Culture - Gyan Bharatam Mission, Uploaded GS1 History enriched notes.",
+  "conc": "Gyan Bharatam can democratise inherited knowledge only when enumeration, conservation, scholarship and ethical access advance together.",
+  "flash": [
+   "provenance",
+   "preventive conservation",
+   "palaeography",
+   "metadata",
+   "multilingual access",
+   "custodian consent"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Indian manuscripts preserve scientific, literary, religious and administrative knowledge across scripts, languages and material traditions; their survival requires an integrated discovery-to-access chain."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Unknown inventory",
+      "x": "Collections remain dispersed across temples, monasteries, libraries and households; a standard national survey must record provenance without dispossessing custodians."
+     },
+     {
+      "k": "Material fragility",
+      "x": "Palm leaf, birch bark, paper and cloth deteriorate differently under humidity, insects, light and handling, demanding trained preventive conservation."
+     },
+     {
+      "k": "Linguistic capacity",
+      "x": "Identification needs palaeographers and scholars of regional scripts; digitising an unread catalogue merely converts physical invisibility into digital obscurity."
+     },
+     {
+      "k": "Quality digitisation",
+      "x": "Colour calibration, metadata, folio order, preservation masters and redundant storage are essential; low-resolution images cannot substitute for conservation."
+     },
+     {
+      "k": "Democratised access",
+      "x": "A searchable multilingual repository should support transliteration, scholarly annotation and accessible formats while distinguishing images from verified editions."
+     },
+     {
+      "k": "Rights and consent",
+      "x": "Access rules must respect ownership, sacred restrictions, privacy and community knowledge; open access is not identical to unrestricted appropriation."
+     },
+     {
+      "k": "Institutional ecosystem",
+      "x": "Mission-mode funding should connect archives, universities, conservation laboratories and local custodians through common standards and training."
+     },
+     {
+      "k": "Public engagement",
+      "x": "Translations, exhibitions and educational use can return manuscripts to social circulation instead of treating digitisation as an end in itself."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-1": {
+  "directive": "discuss",
+  "lens": "✓ Imported from your MainsLab bank. Sources: Uploaded GS1 History enriched notes, NCERT Themes in Indian History.",
+  "conc": "The Mughal contribution was thus neither culturally sealed nor uniformly assimilative: its most enduring products arose from interaction, adaptation and skilled regional agency.",
+  "flash": [
+   "Persianate",
+   "charbagh",
+   "imperial atelier",
+   "translation",
+   "Hindustani",
+   "composite culture"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Beginning with Babur's victory in 1526, the Mughal Empire developed a courtly culture that combined Persianate forms with Indian materials, skills and regional traditions."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Architecture",
+      "x": "Monumental planning, charbagh gardens, domes, arches and refined surface ornament evolved through interaction with trabeate and regional building traditions."
+     },
+     {
+      "k": "Painting",
+      "x": "The imperial atelier joined Persian composition with Indian colour, portraiture and naturalism, producing illustrated manuscripts, chronicles and detailed studies of nature."
+     },
+     {
+      "k": "Literature",
+      "x": "Persian chronicles and poetry flourished, while translation projects moved Sanskrit works into Persian and facilitated intellectual contact across traditions."
+     },
+     {
+      "k": "Language",
+      "x": "Court, camp and market interaction contributed to Hindustani literary cultures, while Mughal patronage also coexisted with strong regional-language production."
+     },
+     {
+      "k": "Craft economy",
+      "x": "Architecture and luxury arts supported networks of stonecutters, painters, calligraphers, weavers, jewellers and metalworkers beyond the court."
+     },
+     {
+      "k": "Composite idiom",
+      "x": "Rajput alliances, regional ateliers and shared motifs produced negotiated cultural forms rather than a simple one-way diffusion from the court."
+     },
+     {
+      "k": "Limits",
+      "x": "Court culture remained hierarchical and patronage-centred; regional resistance and unequal power caution against romanticising synthesis."
+     },
+     {
+      "k": "Legacy",
+      "x": "Urban forms, cuisine, music, vocabulary and heritage sites remain embedded in India's plural cultural memory and creative economy."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-9": {
+  "directive": "discuss",
+  "lens": "✓ Imported from your MainsLab bank. Sources: Uploaded GS1 History enriched notes, NCERT Themes in Indian History.",
+  "conc": "Their lasting contribution was a vernacular public sphere of devotion and critique that made pluralism emotionally intelligible while leaving the struggle against hierarchy unfinished.",
+  "flash": [
+   "devotion",
+   "social criticism",
+   "vernacularisation",
+   "khanqah",
+   "satsang",
+   "qualified transformation"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Bhakti and Sufi movements relocated religious experience from exclusive ritual authority towards devotion, ethical conduct and accessible communities, though they never formed a single uniform reform programme."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Direct devotion",
+      "x": "Saint-poets stressed an immediate relationship with the divine, questioning the monopoly of priestly learning and elaborate ritual."
+     },
+     {
+      "k": "Social criticism",
+      "x": "Many voices criticised caste pride, empty formalism and sectarian arrogance, creating moral languages available to artisans, peasants and women."
+     },
+     {
+      "k": "Vernacularisation",
+      "x": "Compositions in regional languages expanded literary vocabularies, oral performance and collective memory beyond Sanskrit and Persian learned circles."
+     },
+     {
+      "k": "Shared spaces",
+      "x": "Satsangs, khanqahs, shrines and musical traditions enabled interaction across social boundaries and embedded spirituality in everyday community life."
+     },
+     {
+      "k": "Cultural synthesis",
+      "x": "Ideas, metaphors and musical forms crossed religious traditions without erasing their theological differences."
+     },
+     {
+      "k": "Regional diversity",
+      "x": "Nirguna and saguna Bhakti, Vaishnava and Shaiva traditions, and different Sufi orders varied in doctrine, organisation and social reach."
+     },
+     {
+      "k": "Gendered voice",
+      "x": "Women poet-saints asserted spiritual agency, yet patriarchal institutions and later hagiographies often limited their radical potential."
+     },
+     {
+      "k": "Qualified transformation",
+      "x": "Caste and political hierarchy persisted; influence was uneven and should be assessed as ethical-cultural change rather than complete social revolution."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-5": {
+  "directive": "trace",
+  "lens": "✓ Imported from your MainsLab bank. Sources: Uploaded GS1 History enriched notes, NCERT Themes in Indian History.",
+  "conc": "Rock-cut monuments are therefore archives of faith, technology and plural patronage; their value lies as much in the excavated landscape as in individual sculptures.",
+  "flash": [
+   "chaitya",
+   "vihara",
+   "mercantile patronage",
+   "excavation",
+   "Ellora",
+   "architectural simulation"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "India's rock-cut heritage records a long technological and artistic experiment in turning living rock into monasteries, shrines and monumental sacred landscapes."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Technique",
+      "x": "Excavation proceeded by removing rock rather than assembling it, requiring advance planning of structure, drainage, light and sculptural sequence."
+     },
+     {
+      "k": "Buddhist phase",
+      "x": "Chaityas and viharas at sites such as Bhaja, Karla, Ajanta and Kanheri reveal congregational worship, monastic residence and mercantile patronage."
+     },
+     {
+      "k": "Jain contribution",
+      "x": "Udayagiri-Khandagiri and later western cave groups express ascetic traditions, donor networks and increasingly elaborate iconography."
+     },
+     {
+      "k": "Hindu elaboration",
+      "x": "Elephanta, Badami and Ellora expanded excavated space into complex Shaiva, Vaishnava and Shakta programmes, culminating in monumental architectural simulation."
+     },
+     {
+      "k": "Patronage",
+      "x": "Rulers, merchants, guilds, monks and devotees financed sites along political centres and trade routes, linking sacred art with economic geography."
+     },
+     {
+      "k": "Artistic exchange",
+      "x": "Shared craftsmen and neighbouring caves show stylistic borrowing among faiths without eliminating distinct ritual requirements."
+     },
+     {
+      "k": "From wood to stone",
+      "x": "Early façades and ribbed ceilings translated timber prototypes into rock; later excavations increasingly imitated free-standing structural temples."
+     },
+     {
+      "k": "Conservation",
+      "x": "Water seepage, vibration, crowd pressure and inappropriate lighting demand scientific monitoring and controlled visitor management."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-13": {
+  "directive": "critically analyse",
+  "lens": "✓ Imported from your MainsLab bank. Sources: Uploaded GS1 History enriched notes, NCERT Themes in Indian History.",
+  "conc": "Colonialism connected India to the world economy while denying it control over the terms of integration; nationalist economic thought arose from this contradiction.",
+  "flash": [
+   "tariff asymmetry",
+   "commercialisation",
+   "deindustrialisation",
+   "railways",
+   "Drain",
+   "dependent integration"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Colonial economic transformation subordinated India's production and trade to imperial requirements through policy, infrastructure and unequal market power, rather than through neutral competition alone."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Tariff asymmetry",
+      "x": "British manufactures entered Indian markets under favourable conditions while Indian producers faced barriers and the loss of earlier state patronage."
+     },
+     {
+      "k": "Revenue pressure",
+      "x": "High and rigid land demands compelled commercialisation, indebted cultivators and transferred rural surplus through colonial fiscal institutions."
+     },
+     {
+      "k": "Raw-material orientation",
+      "x": "Cotton, jute, indigo and other commodities increasingly served metropolitan industry, exposing cultivators to price volatility and coercive contracts."
+     },
+     {
+      "k": "Railways and ports",
+      "x": "Infrastructure integrated markets but was routed primarily to move troops, raw materials and imports, with costs and guarantees borne substantially in India."
+     },
+     {
+      "k": "Artisan displacement",
+      "x": "Machine-made imports and changing consumption weakened many handicrafts, producing occupational distress, proletarianisation and pressure on agriculture."
+     },
+     {
+      "k": "Selective modern industry",
+      "x": "Indian entrepreneurship emerged in textiles, steel and other sectors, yet operated within discriminatory finance, procurement and technology structures."
+     },
+     {
+      "k": "Drain of wealth",
+      "x": "Home charges, remittances, debt service and official payments transferred income without an equivalent commercial return."
+     },
+     {
+      "k": "Social consequences",
+      "x": "Regional monocultures, famines, migration and uneven urbanisation reflected an economy integrated without autonomous industrial transformation."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-19": {
+  "directive": "examine",
+  "lens": "✓ Imported from your MainsLab bank. Sources: Uploaded GS1 History enriched notes, NCERT Themes in Indian History.",
+  "conc": "Despite unequal access, the vernacular press made colonial authority answerable in a widening arena of public reason and helped turn readers into political participants.",
+  "flash": [
+   "public sphere",
+   "political education",
+   "regional languages",
+   "Vernacular Press Act",
+   "mobilisation",
+   "censorship"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The vernacular press transformed dispersed grievances into a public language of politics by carrying news, argument and organisational messages beyond English-educated elites."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Political education",
+      "x": "Newspapers explained laws, budgets, famines and official conduct in regional languages, turning administration into an object of public judgement."
+     },
+     {
+      "k": "National linkage",
+      "x": "Reports on movements in other provinces helped readers imagine shared interests beyond locality, caste and linguistic region."
+     },
+     {
+      "k": "Organisation",
+      "x": "Editorials, notices and correspondence mobilised meetings, associations, swadeshi activity, relief and later mass campaigns."
+     },
+     {
+      "k": "Counter-public",
+      "x": "The press challenged official narratives and provided limited space for reformers, workers, peasants and socially marginal voices."
+     },
+     {
+      "k": "Social reform",
+      "x": "Debates on caste, education, widowhood, gender and religious reform connected nationalism with competing projects of social change."
+     },
+     {
+      "k": "Colonial control",
+      "x": "Licensing, securities, seizure, postal restrictions and laws such as the Vernacular Press Act sought to deter criticism."
+     },
+     {
+      "k": "Adaptive resistance",
+      "x": "Editors used allegory, quotation, changing ownership and cross-language circulation to negotiate censorship and prosecution."
+     },
+     {
+      "k": "Limits",
+      "x": "Literacy, finance, urban concentration and elite ownership restricted reach; communal and sensational writing also fractured the public sphere."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-15": {
+  "directive": "discuss",
+  "lens": "✓ Imported from your MainsLab bank. Sources: Uploaded GS1 History enriched notes, NCERT Themes in Indian History.",
+  "conc": "Their historical importance lies in the plural routes by which subordinated communities contested colonial rule and forced nationalism to confront agrarian justice.",
+  "flash": [
+   "moral economy",
+   "land alienation",
+   "forest laws",
+   "customary rights",
+   "kisan mobilisation",
+   "plural resistance"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Peasant and tribal uprisings arose from distinct agrarian and cultural worlds, yet together exposed how colonial revenue, markets and state expansion penetrated everyday life."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Agrarian pressure",
+      "x": "Revenue demands, rack-renting, debt and commercial crops destabilised customary security and made landlords, moneylenders and officials immediate targets."
+     },
+     {
+      "k": "Resource dispossession",
+      "x": "Forest laws, land alienation and restrictions on shifting cultivation attacked tribal livelihoods and community authority."
+     },
+     {
+      "k": "Moral economy",
+      "x": "Movements often defended remembered norms of fair rent, subsistence and customary access rather than articulating a modern programme of revolution."
+     },
+     {
+      "k": "Distinct leadership",
+      "x": "Kinship networks, village headmen, religious idioms and charismatic leaders gave local rebellions their organisation and legitimacy."
+     },
+     {
+      "k": "Varied repertoires",
+      "x": "Petitions, rent refusal, social boycott, attacks on records and armed rebellion reflected different opportunities and levels of repression."
+     },
+     {
+      "k": "National linkage",
+      "x": "Later kisan organisations and Gandhian campaigns connected local grievances with anti-colonial politics through disciplined mass mobilisation."
+     },
+     {
+      "k": "Autonomy",
+      "x": "Many earlier uprisings pursued specific territorial or community aims; reading them only as precursors to Congress nationalism erases their own meanings."
+     },
+     {
+      "k": "Legacy",
+      "x": "They widened the social base of resistance and placed land, forest rights and exploitation within the moral claims of freedom."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-17": {
+  "directive": "compare",
+  "lens": "✓ Imported from your MainsLab bank. Sources: Uploaded GS1 History enriched notes, NCERT Themes in Indian History.",
+  "conc": "They should be compared without reducing one to terrorism or the other to moderation: each confronted a different problem of power, participation and political ethics.",
+  "flash": [
+   "satyagraha",
+   "exemplary action",
+   "mass mobilisation",
+   "means and ends",
+   "sacrifice",
+   "colonial legitimacy"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Revolutionary nationalism and Gandhian politics represented different theories of how colonial authority could be delegitimised, but both enlarged the ethical and political imagination of freedom."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Theory of action",
+      "x": "Revolutionaries used exemplary violence and clandestine organisation; Gandhi sought mass non-violent non-cooperation capable of withdrawing everyday consent."
+     },
+     {
+      "k": "Moral basis",
+      "x": "Revolutionary sacrifice valorised courage and patriotic duty, while satyagraha joined means and ends through truth, restraint and willingness to suffer."
+     },
+     {
+      "k": "Social base",
+      "x": "Early revolutionary groups drew heavily from educated youth, later expanding among workers and expatriates; Gandhian campaigns reached broader rural and urban constituencies."
+     },
+     {
+      "k": "Organisation",
+      "x": "Secret cells prioritised security and decisive action; Congress movements relied on open mobilisation, constructive work and negotiated discipline."
+     },
+     {
+      "k": "State response",
+      "x": "Surveillance, special laws and executions produced martyrs, while mass repression during non-cooperation exposed the coercive foundations of colonial rule."
+     },
+     {
+      "k": "Mutual influence",
+      "x": "Revolutionary courage inspired youth; Gandhian mobilisation provided a nationwide arena. Individual activists and organisations evolved between these currents."
+     },
+     {
+      "k": "Limitations",
+      "x": "Violence risked isolation and retaliation; non-violence could be suspended when discipline failed and did not automatically overcome social hierarchy."
+     },
+     {
+      "k": "Shared contribution",
+      "x": "Both rejected imperial legitimacy, internationalised India's cause and made sacrifice for complete independence a legitimate political horizon."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-14": {
+  "directive": "discuss",
+  "lens": "✓ Imported from your MainsLab bank. Sources: Uploaded GS1 History enriched notes, NCERT Themes in Indian History.",
+  "conc": "They hastened the end by weakening the confidence behind colonial coercion, but should be treated as catalytic forces within a broader political and structural crisis.",
+  "flash": [
+   "INA trials",
+   "RIN uprising",
+   "military loyalty",
+   "post-war exhaustion",
+   "catalyst",
+   "transfer of power"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The INA trials, naval uprising and post-war unrest mattered less as isolated military threats than as evidence that imperial authority could no longer rely unquestioningly on Indian personnel or public acquiescence."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "INA trials",
+      "x": "Public sympathy for accused officers cut across political and communal lines, transforming a military defeat into a crisis of colonial legitimacy."
+     },
+     {
+      "k": "RIN uprising",
+      "x": "Ratings' protest over conditions and racial discrimination spread across ships and shore establishments, revealing accumulated discontent within a strategic service."
+     },
+     {
+      "k": "Civil solidarity",
+      "x": "Strikes, demonstrations and student-worker support connected service grievances with a wider nationalist mood in major cities."
+     },
+     {
+      "k": "Loyalty concern",
+      "x": "British calculations increasingly had to consider whether coercion against a mass movement could still depend on Indian armed forces."
+     },
+     {
+      "k": "Post-war constraints",
+      "x": "Economic exhaustion, demobilisation, inflation and changed international opinion reduced the political and financial room for prolonged imperial control."
+     },
+     {
+      "k": "Political caution",
+      "x": "Congress and League leaders did not endorse uncontrolled military revolt, fearing disorder and jeopardy to negotiations."
+     },
+     {
+      "k": "Multiple causes",
+      "x": "Transfer of power also reflected decades of nationalism, electoral legitimacy, constitutional negotiations and Britain's post-war weakness."
+     },
+     {
+      "k": "Historical weight",
+      "x": "The episodes accelerated a pre-existing imperial retreat by increasing the perceived cost and uncertainty of maintaining rule."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-22": {
+  "directive": "discuss",
+  "lens": "✓ Imported from your MainsLab bank. Sources: States Reorganisation Commission material, Constitution of India.",
+  "conc": "Linguistic states succeeded because they treated federal boundaries as adjustable instruments of democracy; their unfinished task is pluralism within each state.",
+  "flash": [
+   "linguistic states",
+   "accommodation",
+   "federal consolidation",
+   "minority safeguards",
+   "regional parties",
+   "internal pluralism"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Linguistic reorganisation converted a potentially secessionist source of conflict into a constitutional method of accommodation, demonstrating that unity can be strengthened by recognising identity."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Democratic demand",
+      "x": "Language connected administration, education and political participation; popular movements challenged provincial boundaries inherited from colonial convenience."
+     },
+     {
+      "k": "Constitutional accommodation",
+      "x": "The States Reorganisation process redrew boundaries within the Union rather than conceding sovereign separation."
+     },
+     {
+      "k": "Administrative access",
+      "x": "Using dominant regional languages improved communication and enabled wider participation, though linguistic minorities required safeguards."
+     },
+     {
+      "k": "Federal consolidation",
+      "x": "Regional parties and leadership entered constitutional competition, allowing claims to be negotiated through elections, finance and intergovernmental institutions."
+     },
+     {
+      "k": "Cultural development",
+      "x": "States supported regional literature, media and education, strengthening identities compatible with Indian citizenship."
+     },
+     {
+      "k": "Uneven outcomes",
+      "x": "Boundary disputes, capital questions and minority anxieties persisted; dominant-language policies sometimes created new internal exclusions."
+     },
+     {
+      "k": "New state demands",
+      "x": "Later movements increasingly combined culture with development, tribal identity and administrative viability, showing language is not the only principle."
+     },
+     {
+      "k": "Continuing relevance",
+      "x": "Migration and multilingual cities require flexible services and minority-language rights rather than rigid territorial monolingualism."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-26": {
+  "directive": "discuss",
+  "lens": "✓ Imported from your MainsLab bank. Sources: US National Archives - founding documents, Standard world-history texts.",
+  "conc": "Its world-historical power came from a portable vocabulary of sovereignty and rights; its history also warns that constitutional declaration requires continuous social democratisation.",
+  "flash": [
+   "popular sovereignty",
+   "natural rights",
+   "written constitution",
+   "federalism",
+   "Bill of Rights",
+   "founding contradictions"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The American Revolution made the claim that legitimate government rests on popular consent a transatlantic political force, even though its own social application remained sharply incomplete."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Popular sovereignty",
+      "x": "The Declaration displaced dynastic authority with natural rights and the people's capacity to alter a destructive government."
+     },
+     {
+      "k": "Written constitutionalism",
+      "x": "State constitutions and the federal Constitution institutionalised limited government, enumerated powers and amendment through a written higher law."
+     },
+     {
+      "k": "Representative republic",
+      "x": "The new order demonstrated large-scale republican government without hereditary monarchy, influencing later Atlantic and anti-colonial debates."
+     },
+     {
+      "k": "Federalism",
+      "x": "The Constitution divided authority between a common government and constituent states, offering a durable response to scale and regional diversity."
+     },
+     {
+      "k": "Rights discourse",
+      "x": "The Bill of Rights strengthened protections for speech, religion, due process and political opposition against public power."
+     },
+     {
+      "k": "Global influence",
+      "x": "Its language travelled to France, Latin America and later nationalist movements, though each adapted it to different social structures."
+     },
+     {
+      "k": "Contradictions",
+      "x": "Slavery, dispossession of Indigenous peoples, property qualifications and women's exclusion exposed the gulf between universal language and political membership."
+     },
+     {
+      "k": "Long contest",
+      "x": "Abolition, civil rights and suffrage movements later used founding principles to challenge the exclusions embedded in the founding settlement."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-27": {
+  "directive": "discuss",
+  "lens": "✓ Imported from your MainsLab bank. Sources: Uploaded GS1 History enriched notes, NCERT Themes in Indian History.",
+  "conc": "Political independence was indispensable but not self-executing; stable statehood required converting inherited coercive and extractive institutions into inclusive developmental compacts.",
+  "flash": [
+   "self-determination",
+   "inherited borders",
+   "commodity dependence",
+   "state-building",
+   "nation-building",
+   "neo-colonial constraints"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Decolonisation followed the erosion of European imperial capacity and legitimacy, but new states inherited borders, economies and institutions designed for extraction rather than democratic development."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "National movements",
+      "x": "Mass parties, armed struggles, labour action and intellectual critique made empire politically costly and morally indefensible."
+     },
+     {
+      "k": "War and exhaustion",
+      "x": "Two world wars weakened European powers financially and militarily while colonial soldiers and societies demanded reciprocal freedom."
+     },
+     {
+      "k": "International setting",
+      "x": "Self-determination, the United Nations and superpower competition narrowed the legitimacy of formal colonial rule, though interests remained selective."
+     },
+     {
+      "k": "Inherited borders",
+      "x": "Boundaries often cut across communities or combined diverse regions without institutions capable of negotiating power peacefully."
+     },
+     {
+      "k": "Economic dependence",
+      "x": "Commodity exports, foreign ownership, weak domestic markets and limited skills constrained policy autonomy after the flag changed."
+     },
+     {
+      "k": "Institutional fragility",
+      "x": "Centralised colonial administrations offered coercive capacity but shallow representation, making succession, opposition and civil-military relations difficult."
+     },
+     {
+      "k": "Nation-building",
+      "x": "States used citizenship, language, education and development planning to create solidarity, sometimes suppressing plural identities in the process."
+     },
+     {
+      "k": "External pressure",
+      "x": "Aid, military alliances, intervention and debt embedded new states in unequal international structures and Cold War rivalry."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-30": {
+  "directive": "critically examine",
+  "lens": "✓ Imported from your MainsLab bank. Sources: Uploaded GS1 History enriched notes, NCERT Themes in Indian History.",
+  "conc": "Versailles failed not simply because it was harsh, but because punishment, selective principles and inadequate enforcement produced neither reconciliation nor credible security.",
+  "flash": [
+   "reparations",
+   "war guilt",
+   "revisionism",
+   "League of Nations",
+   "appeasement",
+   "qualified causation"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The Versailles settlement ended one war without constructing a legitimate and enforceable European order, combining punitive provisions with weak collective-security institutions."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Punitive peace",
+      "x": "Territorial losses, military restrictions and reparations were experienced in Germany as humiliation, feeding revisionist politics."
+     },
+     {
+      "k": "War-guilt politics",
+      "x": "The attribution of responsibility simplified a complex conflict and gave nationalist movements a durable grievance against the new order."
+     },
+     {
+      "k": "Economic instability",
+      "x": "Reparations disputes interacted with inflation, debt and the Great Depression, discrediting moderate governments and widening social fear."
+     },
+     {
+      "k": "Uneven self-determination",
+      "x": "New states were created, but minorities remained across borders and colonial peoples were denied the principle proclaimed in Europe."
+     },
+     {
+      "k": "League weakness",
+      "x": "The League lacked universal membership, an independent enforcement capacity and reliable great-power commitment."
+     },
+     {
+      "k": "Fascist opportunity",
+      "x": "Economic crisis and fear of communism aided authoritarian movements promising order, national revival and territorial revision."
+     },
+     {
+      "k": "Appeasement and division",
+      "x": "Democratic powers were war-weary and strategically divided, allowing successive treaty violations to alter the balance of power."
+     },
+     {
+      "k": "Qualified causation",
+      "x": "Versailles created fertile conditions but did not make war inevitable; leadership choices, depression and failures of deterrence were decisive."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-51": {
+  "directive": "examine",
+  "lens": "✓ Imported from your MainsLab bank. Sources: Office of the Registrar General & Census Commissioner, India, Ministry of Home Affairs official releases.",
+  "conc": "The census should create an accountable public evidence base, not a permanent surveillance register; enumeration gains legitimacy when people can trust both inclusion and restraint.",
+  "flash": [
+   "caste enumeration",
+   "methodology",
+   "digital inclusion",
+   "purpose limitation",
+   "anonymisation",
+   "evidence-based policy"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "A digital census with caste enumeration can improve the visibility of social disadvantage, but the power to classify a population must be bounded by privacy, methodological clarity and democratic accountability."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Policy baseline",
+      "x": "Granular demographic and socio-economic data can improve targeting, service planning and evaluation where outdated denominators distort allocation."
+     },
+     {
+      "k": "Representation",
+      "x": "Reliable population evidence informs debates on reservation, delimitation and the distribution of public resources, while data cannot itself decide normative entitlements."
+     },
+     {
+      "k": "Caste complexity",
+      "x": "Names, sub-castes, regional variation and self-identification require transparent coding, trained enumeration and a published methodology."
+     },
+     {
+      "k": "Digital inclusion",
+      "x": "Online or device-based collection needs assisted and offline routes so connectivity, disability or literacy do not produce statistical invisibility."
+     },
+     {
+      "k": "Privacy risk",
+      "x": "Identity-linked, location-rich data can expose individuals and small communities; purpose limitation, encryption and access control are essential."
+     },
+     {
+      "k": "Political misuse",
+      "x": "Selective release or crude rankings may harden identities, stigmatise groups and convert uncertain categories into apparent scientific facts."
+     },
+     {
+      "k": "Data governance",
+      "x": "Independent quality audits, anonymised public tables, retention limits and penalties for misuse should govern the entire data lifecycle."
+     },
+     {
+      "k": "Interpretive caution",
+      "x": "Caste data must be read alongside education, occupation, gender, geography and asset inequality rather than as a single hierarchy."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-52": {
+  "directive": "examine",
+  "lens": "✓ Imported from your MainsLab bank. Sources: Census of India, UN Population Division.",
+  "conc": "India must treat demographic diversity as complementarity: move people and resources fairly, reward past achievement and invest before both youth and ageing become crises.",
+  "flash": [
+   "asynchronous transition",
+   "delimitation",
+   "labour mobility",
+   "demographic dividend",
+   "ageing",
+   "federal compact"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "India's demographic transition is asynchronous: a young national average conceals ageing, low-fertility states alongside younger, faster-growing states, creating a distinctly federal policy challenge."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Representation tension",
+      "x": "Population-based delimitation advances vote equality but may be perceived as penalising states that achieved earlier fertility decline."
+     },
+     {
+      "k": "Federal balance",
+      "x": "Seat distribution and fiscal transfers must distinguish democratic representation from compensation for health, education and demographic performance."
+     },
+     {
+      "k": "Labour mobility",
+      "x": "Younger workers can complement ageing state economies if housing, portability, language support and non-discrimination make migration socially sustainable."
+     },
+     {
+      "k": "Human-capital window",
+      "x": "Youthful states need urgent investment in learning, health, skills and job-rich growth before the demographic dividend closes."
+     },
+     {
+      "k": "Ageing systems",
+      "x": "Older states require geriatric primary care, pensions, long-term care, accessible transport and support for family caregivers."
+     },
+     {
+      "k": "Women's agency",
+      "x": "Fertility transition must be supported through education, reproductive choice, childcare and employment rather than pronatalist coercion."
+     },
+     {
+      "k": "Fiscal design",
+      "x": "Ageing costs and youthful-development needs differ; formulae should recognise both dependency burdens and state performance."
+     },
+     {
+      "k": "Cooperative compact",
+      "x": "A phased, negotiated approach to delimitation and inter-state institutions can prevent demographics from becoming a zero-sum north-south conflict."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-53": {
+  "directive": "discuss",
+  "lens": "✓ Imported from your MainsLab bank. Sources: Periodic Labour Force Survey, Time Use Survey.",
+  "conc": "Substantive empowerment means not merely more women working, but greater control over time, income, assets and occupational choice.",
+  "flash": [
+   "unpaid care",
+   "occupational segregation",
+   "time poverty",
+   "care infrastructure",
+   "equal pay",
+   "asset ownership"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Higher female labour-force participation can coexist with unequal work because entry into employment does not automatically redistribute unpaid care, occupational power or workplace security."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Care constraint",
+      "x": "Women adjust hours, location and job choice around unpaid childcare, eldercare and domestic work, creating time poverty and interrupted careers."
+     },
+     {
+      "k": "Segmentation",
+      "x": "Women remain concentrated in informal, home-based, agricultural and care occupations with lower pay, security and advancement."
+     },
+     {
+      "k": "Measurement",
+      "x": "Unpaid production and intermittent work are undercounted, while headline participation may rise through distress-driven or low-quality employment."
+     },
+     {
+      "k": "Social norms",
+      "x": "Mobility restrictions, safety concerns and employer assumptions about motherhood narrow the feasible labour market even when education improves."
+     },
+     {
+      "k": "Care infrastructure",
+      "x": "Affordable crèches, full-day schools, eldercare and public services convert unpaid constraints into shared social provision."
+     },
+     {
+      "k": "Workplace reform",
+      "x": "Equal pay enforcement, safe transport, anti-harassment systems, flexible work without career penalties and maternity-paternity balance are required."
+     },
+     {
+      "k": "Productive assets",
+      "x": "Credit, land rights, digital access, procurement and market support can move women from unpaid helpers to recognised workers and entrepreneurs."
+     },
+     {
+      "k": "Male participation",
+      "x": "Parental leave and social campaigns must redistribute care within households; otherwise employment simply creates a double burden."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-57": {
+  "directive": "discuss",
+  "lens": "✓ Imported from your MainsLab bank. Sources: Uploaded GS1 Society enriched notes, Constitution of India.",
+  "conc": "Modernisation changes the arena of family power; equality requires transforming control over care, property and bodily autonomy, not merely celebrating new household forms.",
+  "flash": [
+   "nuclearisation",
+   "endogamy",
+   "bargaining power",
+   "digital surveillance",
+   "care chains",
+   "diverse households"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Indian families are diversifying under economic and technological change, yet patriarchal power often adapts to new forms rather than disappearing with the joint household."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Nuclearisation",
+      "x": "Migration, housing costs and employment encourage smaller households, but financial and ritual ties continue across distance through extended-family networks."
+     },
+     {
+      "k": "Marriage change",
+      "x": "Later marriage, education and individual choice expand negotiation, while caste endogamy, dowry and family surveillance remain resilient."
+     },
+     {
+      "k": "Women's income",
+      "x": "Earnings can strengthen bargaining power, but control over income and domestic decision-making depends on assets, norms and freedom from violence."
+     },
+     {
+      "k": "Digital intimacy",
+      "x": "Communication platforms support dispersed kin and partner choice, while also enabling monitoring, harassment and rapid circulation of private conflict."
+     },
+     {
+      "k": "Care chains",
+      "x": "Working households rely on grandparents, domestic workers or distant female relatives, redistributing rather than eliminating gendered care."
+     },
+     {
+      "k": "New households",
+      "x": "Single-person, single-parent, cohabiting and elderly-only households challenge policy assumptions built around a male-breadwinner family."
+     },
+     {
+      "k": "Legal change",
+      "x": "Education, inheritance rights and protection against domestic violence expand agency, but implementation remains shaped by dependence and social sanction."
+     },
+     {
+      "k": "Policy implication",
+      "x": "Housing, taxation, childcare and welfare should recognise diverse households without withdrawing support from vulnerable members."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-56": {
+  "directive": "discuss",
+  "lens": "✓ Imported from your MainsLab bank. Sources: Constitution of India, Articles 14-17, Uploaded GS1 Society enriched notes.",
+  "conc": "The key transition is from caste as unquestioned hierarchy to caste as contested identity and resource; substantive equality must address both dignity and accumulated advantage.",
+  "flash": [
+   "endogamy",
+   "urban segregation",
+   "political mobilisation",
+   "digital reproduction",
+   "social capital",
+   "substantive equality"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Caste persists not as an unchanged ritual order but as a flexible structure of marriage, resources, networks and political mobilisation operating through modern institutions."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Education",
+      "x": "Schooling enables mobility and rights consciousness, yet unequal preparation, discrimination and network effects reproduce gaps in elite institutions."
+     },
+     {
+      "k": "Urbanisation",
+      "x": "Mixed workplaces weaken some ritual restrictions, while residential segregation, informal labour networks and marriage choices retain caste boundaries."
+     },
+     {
+      "k": "Political mobilisation",
+      "x": "Universal franchise converts shared identity and disadvantage into representation and bargaining, democratising power while sometimes hardening blocs."
+     },
+     {
+      "k": "Endogamy",
+      "x": "Marriage remains the central mechanism for preserving status, property and community control despite occupational change."
+     },
+     {
+      "k": "Digitalisation",
+      "x": "Online education and activism broaden voice, while matrimonial platforms, hate and algorithmic clustering can modernise exclusion."
+     },
+     {
+      "k": "Economic networks",
+      "x": "Caste associations provide credit, jobs and support, making identity instrumentally valuable in uncertain markets."
+     },
+     {
+      "k": "Intersectionality",
+      "x": "Gender, class, region and religion shape how caste is experienced; a rising group average may conceal severe intra-group inequality."
+     },
+     {
+      "k": "Policy",
+      "x": "Anti-discrimination enforcement, quality public goods, social mixing and capability redistribution must complement representation."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-63": {
+  "directive": "discuss",
+  "lens": "✓ Imported from your MainsLab bank. Sources: ILO platform-work material, IndiaAI safe and trusted AI material.",
+  "conc": "Technology becomes inclusive only when it expands worker capability and voice rather than converting old social hierarchies into invisible code.",
+  "flash": [
+   "digital divide",
+   "algorithmic bias",
+   "deactivation",
+   "worker classification",
+   "data asymmetry",
+   "portable benefits"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "AI and platform work lower entry barriers for some workers but can reproduce existing inequality when access, data and managerial power remain socially unequal."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Access divide",
+      "x": "Devices, connectivity, language and digital skills shape who can discover, perform and benefit from technology-mediated work."
+     },
+     {
+      "k": "Algorithmic bias",
+      "x": "Historical data and proxy variables can reproduce gender, caste or locality disadvantage in matching, ratings, credit and automated screening."
+     },
+     {
+      "k": "Opaque control",
+      "x": "Platforms set prices, allocate tasks and deactivate workers through systems that are difficult to understand or contest."
+     },
+     {
+      "k": "Insecure status",
+      "x": "Classification as independent contractors may shift income volatility, insurance and equipment costs onto workers despite substantial platform control."
+     },
+     {
+      "k": "Gendered opportunity",
+      "x": "Remote and flexible work can widen access, yet care burdens and safety risks channel women into low-paid tasks and restricted hours."
+     },
+     {
+      "k": "Data asymmetry",
+      "x": "Workers generate valuable behavioural data without equivalent access, bargaining power or portability of reputation."
+     },
+     {
+      "k": "Safeguards",
+      "x": "Bias testing, explainable decisions, human appeal, transparent pricing and collective representation should discipline algorithmic management."
+     },
+     {
+      "k": "Social protection",
+      "x": "Portable benefits and contribution mechanisms must follow the worker across platforms without freezing innovative forms of work."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-58": {
+  "directive": "examine",
+  "lens": "✓ Imported from your MainsLab bank. Sources: Census of India urban data, Ministry of Housing and Urban Affairs.",
+  "conc": "Smaller-city growth can rebalance India's urban system only if fiscal and planning capacity moves as quickly as people and investment.",
+  "flash": [
+   "tier-II cities",
+   "polycentric growth",
+   "regional migration",
+   "rental housing",
+   "public transport",
+   "municipal capacity"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Tier-II and tier-III urban growth reflects the decentralisation of services, education, logistics and aspirations, but city classification often advances faster than institutional capacity."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Economic drivers",
+      "x": "Lower land costs, regional consumption, industrial corridors, logistics and digital services attract investment beyond metropolitan cores."
+     },
+     {
+      "k": "Migration pattern",
+      "x": "Smaller cities absorb rural and intra-state migrants and sometimes retain skilled workers seeking lower costs and proximity to family."
+     },
+     {
+      "k": "Urban hierarchy",
+      "x": "Growth can create polycentric regional networks, though major metros continue to concentrate headquarters, finance and advanced services."
+     },
+     {
+      "k": "Housing stress",
+      "x": "Rapid peripheral construction and insecure rental markets can produce informal settlements, long commutes and conversion of agricultural land."
+     },
+     {
+      "k": "Employment quality",
+      "x": "New jobs may remain informal and low productivity unless skills, clusters and local enterprise ecosystems deepen."
+     },
+     {
+      "k": "Mobility",
+      "x": "Compact public transport and walkable planning must precede automobile lock-in and ribbon development."
+     },
+     {
+      "k": "Basic services",
+      "x": "Water, sanitation, drainage and waste systems need anticipatory investment rather than post-growth retrofitting."
+     },
+     {
+      "k": "Governance",
+      "x": "Empowered municipalities, metropolitan-region coordination, updated plans and predictable finance are essential to turn expansion into liveability."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-59": {
+  "directive": "critically examine",
+  "lens": "✓ Imported from your MainsLab bank. Sources: Uploaded GS1 Society enriched notes, Constitution of India.",
+  "conc": "Pluralism is stabilised neither by suppressing identity nor surrendering to it, but by combining constitutional equality with institutions that make negotiation rewarding.",
+  "flash": [
+   "identity mobilisation",
+   "relative deprivation",
+   "federal accommodation",
+   "equal citizenship",
+   "cross-cutting ties",
+   "impartial policing"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Communalism and regionalism become threatening when identities are converted into exclusive political claims, but federal democracy can also channel them into representation and negotiated accommodation."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Historical memory",
+      "x": "Selective accounts of past injury create moral boundaries between communities and make present disputes appear civilisational and non-negotiable."
+     },
+     {
+      "k": "Political competition",
+      "x": "Elites may mobilise religious or regional identity when institutions, resources or electoral incentives reward polarisation."
+     },
+     {
+      "k": "Material insecurity",
+      "x": "Unequal development, migration and competition for jobs or land provide grievances that identity entrepreneurs can recode as group conflict."
+     },
+     {
+      "k": "Information ecosystems",
+      "x": "Rumour, partisan media and digital amplification can turn local incidents into broad narratives of collective threat."
+     },
+     {
+      "k": "Federal accommodation",
+      "x": "Statehood, autonomy, language recognition and fiscal bargaining allow regional claims to be pursued without rejecting the Union."
+     },
+     {
+      "k": "Rights framework",
+      "x": "Equal citizenship, minority protections and impartial law enforcement prevent accommodation from becoming majoritarian patronage."
+     },
+     {
+      "k": "Interdependence",
+      "x": "Mobility, trade, mixed institutions and civic associations create cross-cutting interests that weaken exclusive identity."
+     },
+     {
+      "k": "State responsibility",
+      "x": "Early warning, accountable policing, political restraint and rapid justice are essential; impunity converts episodic violence into durable fear."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-64": {
+  "directive": "discuss",
+  "lens": "✓ Imported from your MainsLab bank. Sources: NFHS, POSHAN / Ministry of Women and Child Development.",
+  "conc": "Breaking intergenerational deprivation requires a life-cycle nutrition mission that strengthens diets, care, health and women's agency at the same time.",
+  "flash": [
+   "diet diversity",
+   "maternal nutrition",
+   "WASH",
+   "complementary feeding",
+   "service convergence",
+   "life-cycle approach"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Malnutrition and anaemia persist because nutrition is produced by food, health, care, sanitation and women's status together; income or cereal availability alone cannot repair failures across this chain."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Diet quality",
+      "x": "Households may obtain calories but lack affordable pulses, eggs, vegetables, fruit and fortified foods needed for protein and micronutrients."
+     },
+     {
+      "k": "Maternal disadvantage",
+      "x": "Early marriage, anaemia, heavy work and inadequate antenatal nutrition transmit low birth weight and poor development across generations."
+     },
+     {
+      "k": "Disease environment",
+      "x": "Unsafe water, sanitation gaps and repeated infection reduce nutrient absorption and undermine gains from supplementary feeding."
+     },
+     {
+      "k": "Infant care",
+      "x": "Breastfeeding support, timely complementary feeding and caregiver knowledge depend on health systems and women's time and autonomy."
+     },
+     {
+      "k": "Gender and caste",
+      "x": "Intra-household allocation, discrimination and insecure livelihoods shape who eats last, accesses care or benefits from public services."
+     },
+     {
+      "k": "Service convergence",
+      "x": "Anganwadi, health, school meals, PDS and sanitation systems need shared beneficiary tracking and local problem-solving without exclusionary authentication."
+     },
+     {
+      "k": "Food systems",
+      "x": "Procurement and public distribution should diversify towards locally appropriate, nutrient-dense foods while preserving safety and regularity."
+     },
+     {
+      "k": "Accountability",
+      "x": "Growth monitoring, anaemia testing, social audits and disaggregated outcomes should measure nutritional improvement rather than inputs alone."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-31": {
+  "directive": "discuss",
+  "lens": "✓ Imported from your MainsLab bank. Sources: Uploaded GS1 Geography enriched notes, IMD / Ministry of Earth Sciences.",
+  "conc": "Monsoon risk therefore cannot be reduced to a single index: prediction must combine coupled oceans, evolving circulation and sub-seasonal processes.",
+  "flash": [
+   "ITCZ",
+   "monsoon trough",
+   "Somali jet",
+   "ENSO",
+   "IOD",
+   "active-break cycle"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The Indian summer monsoon is a coupled land-ocean-atmosphere system in which seasonal heating creates the background circulation while oceanic and intra-seasonal processes shape actual rainfall."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Thermal contrast",
+      "x": "Summer heating creates low pressure over north-western India and the Tibetan region relative to the southern Indian Ocean."
+     },
+     {
+      "k": "ITCZ migration",
+      "x": "The convergence zone shifts north as the monsoon trough, drawing moist cross-equatorial flow towards the subcontinent."
+     },
+     {
+      "k": "Low-level jet",
+      "x": "South-east trades cross the equator, turn south-westerly and form a strong Arabian Sea moisture current including the Somali jet."
+     },
+     {
+      "k": "Upper-air change",
+      "x": "Northward withdrawal of subtropical westerlies and establishment of tropical easterlies support deep convection and monsoon advance."
+     },
+     {
+      "k": "Topographic branches",
+      "x": "The Western Ghats force Arabian Sea uplift, while Bay moisture curves towards north-east India and the Ganga plain."
+     },
+     {
+      "k": "Ocean modes",
+      "x": "ENSO and the Indian Ocean Dipole alter convection and moisture transport, but their location, timing and interaction vary by event."
+     },
+     {
+      "k": "Active-break cycle",
+      "x": "MJO pulses, monsoon depressions and shifts of the trough redistribute rainfall within a season even when all-India totals appear normal."
+     },
+     {
+      "k": "Climate and land use",
+      "x": "Warming raises moisture capacity and heavy-rain potential, while aerosols, urbanisation and land-surface change influence regional gradients."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-32": {
+  "directive": "discuss",
+  "lens": "✓ Imported from your MainsLab bank. Sources: Uploaded GS1 Geography enriched notes, IMD / Ministry of Earth Sciences.",
+  "conc": "The distinction is analytically useful, but disaster risk often arises from their interaction with each other, topography and a warmer moisture-rich atmosphere.",
+  "flash": [
+   "mid-latitude westerlies",
+   "Western Disturbance",
+   "atmospheric river",
+   "vapour transport",
+   "orographic uplift",
+   "compound event"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Western Disturbances and atmospheric rivers both transport moisture into precipitation systems, but the former are synoptic disturbances while the latter are narrow corridors of exceptional vapour flux."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "WD origin",
+      "x": "Western Disturbances form within the mid-latitude westerlies, often linked to troughs moving from the Mediterranean-West Asian region towards India."
+     },
+     {
+      "k": "WD precipitation",
+      "x": "Cyclonic circulation and interaction with Himalayan topography produce winter rain over north-west India and snow across the western Himalaya."
+     },
+     {
+      "k": "AR structure",
+      "x": "Atmospheric rivers are long, narrow plumes carrying concentrated water vapour, commonly embedded ahead of extratropical fronts or cyclones."
+     },
+     {
+      "k": "AR uplift",
+      "x": "Extreme precipitation occurs when a moisture corridor stalls or is forced upward by mountains and convergent circulation."
+     },
+     {
+      "k": "Agricultural role",
+      "x": "Moderate western-disturbance rain supports rabi crops and snow storage; excessive or mistimed events cause hail, floods and landslides."
+     },
+     {
+      "k": "Compound events",
+      "x": "A disturbance can tap an intense vapour corridor, linking dynamic uplift with unusually high moisture and producing outsized precipitation."
+     },
+     {
+      "k": "Warming influence",
+      "x": "A warmer atmosphere can hold more moisture, increasing potential intensity, although storm tracks and frequencies remain circulation-dependent."
+     },
+     {
+      "k": "Risk management",
+      "x": "Forecasting should track integrated vapour transport, snow level, antecedent saturation and terrain exposure rather than rainfall totals alone."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-36": {
+  "directive": "discuss",
+  "lens": "✓ Imported from your MainsLab bank. Sources: ISRO / National Remote Sensing Centre glacial-lake material, IPCC AR6.",
+  "conc": "Himalayan adaptation requires basin-scale risk governance that connects cryosphere monitoring to land-use decisions and community evacuation capacity.",
+  "flash": [
+   "glacial retreat",
+   "moraine dam",
+   "permafrost",
+   "cascading hazards",
+   "runoff regime",
+   "early warning"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Himalayan warming links cryosphere, slopes and rivers into a cascading risk system in which one physical change can trigger multiple downstream hazards."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Glacial retreat",
+      "x": "Negative mass balance reduces and fragments ice, changes seasonal runoff and leaves unstable debris and over-deepened basins."
+     },
+     {
+      "k": "Lake growth",
+      "x": "Meltwater can accumulate behind weak moraine or ice dams, increasing the volume available for sudden outburst."
+     },
+     {
+      "k": "Permafrost thaw",
+      "x": "Loss of frozen cohesion destabilises rock walls and infrastructure foundations, raising rockfall and landslide probability."
+     },
+     {
+      "k": "Trigger chain",
+      "x": "Heavy rain, avalanche, rockfall or ice collapse can displace lake water and breach a dam, producing a debris-rich flood wave."
+     },
+     {
+      "k": "River regimes",
+      "x": "Earlier melt and changing snow-rain balance alter seasonal flow, sediment and long-run water reliability for downstream users."
+     },
+     {
+      "k": "Exposure",
+      "x": "Roads, hydropower, tourism and settlements concentrated in narrow valleys place growing assets directly in hazard pathways."
+     },
+     {
+      "k": "Uncertainty",
+      "x": "Sparse high-altitude observations and rapid geomorphic change make static hazard maps and historical return periods unreliable."
+     },
+     {
+      "k": "Risk reduction",
+      "x": "Lake inventories, remote sensing, field validation, early warning, controlled drainage where feasible and no-build corridors must work together."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-35": {
+  "directive": "discuss",
+  "lens": "✓ Imported from your MainsLab bank. Sources: IMD heatwave guidance, National Disaster Management Authority.",
+  "conc": "Heatwave governance must join climate forecasting with urban design and labour-health protection, because exposure and recovery determine whether high temperature becomes disaster.",
+  "flash": [
+   "subsidence",
+   "hot-air advection",
+   "soil-moisture feedback",
+   "urban heat island",
+   "wet-bulb stress",
+   "heat action plan"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Indian heatwaves emerge from persistent large-scale subsidence and hot-air advection, but land-use change determines how intensely heat is stored, felt and retained at night."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Blocking and subsidence",
+      "x": "Persistent high-pressure circulation suppresses clouds and rainfall, allowing strong solar heating and downward warming of air."
+     },
+     {
+      "k": "Advection",
+      "x": "Hot dry air from arid regions and delayed pre-monsoon moisture can raise temperatures across north-western, central and eastern India."
+     },
+     {
+      "k": "Soil feedback",
+      "x": "Dry soils divert available energy from evaporation to sensible heating, reinforcing heat during drought and weak pre-monsoon rainfall."
+     },
+     {
+      "k": "Urban heat island",
+      "x": "Concrete, asphalt, low vegetation and waste heat store daytime energy and reduce night-time cooling."
+     },
+     {
+      "k": "Humidity",
+      "x": "High coastal or monsoon-transition humidity limits evaporative cooling, making lower air temperatures physiologically dangerous."
+     },
+     {
+      "k": "Night-time heat",
+      "x": "Dense construction and warm humid air trap heat overnight, denying the body recovery and increasing mortality risk."
+     },
+     {
+      "k": "Climate signal",
+      "x": "Background warming shifts the entire temperature distribution, making formerly rare thresholds more frequent and prolonged."
+     },
+     {
+      "k": "Response",
+      "x": "Heat action plans need early warnings, work-hour rules, cool roofs, shade, water access, health surveillance and neighbourhood heat mapping."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-34": {
+  "directive": "examine",
+  "lens": "✓ Imported from your MainsLab bank. Sources: Uploaded GS1 Geography enriched notes, IMD / Ministry of Earth Sciences.",
+  "conc": "Climate change modifies cyclone intensity and rainfall more clearly than total frequency; preparedness must therefore plan for fewer hours of warning and compound coastal hazards.",
+  "flash": [
+   "latent heat",
+   "ocean heat content",
+   "vertical shear",
+   "Bay-Arabian contrast",
+   "rapid intensification",
+   "storm surge"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Tropical cyclones draw energy from warm upper-ocean water, but basin geometry, atmospheric circulation and ocean heat distribution explain the contrast between the Bay of Bengal and Arabian Sea."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Heat engine",
+      "x": "Warm seas, moist instability and organised convection release latent heat that lowers central pressure and strengthens rotating inflow."
+     },
+     {
+      "k": "Necessary conditions",
+      "x": "Adequate Coriolis force, low vertical wind shear, high mid-level humidity and sufficient ocean heat content permit intensification."
+     },
+     {
+      "k": "Bay advantage",
+      "x": "Historically warmer waters, abundant moisture and favourable disturbance pathways make the Bay the more frequent cyclone basin."
+     },
+     {
+      "k": "Arabian constraints",
+      "x": "Dry-air intrusion, stronger shear and upwelling have often limited storms, although these constraints vary seasonally."
+     },
+     {
+      "k": "Warming seas",
+      "x": "Higher surface and subsurface heat can support stronger peak intensity and extend favourable conditions into new places or seasons."
+     },
+     {
+      "k": "Rapid intensification",
+      "x": "Deep warm water and weak shear allow storms to strengthen faster than warning, evacuation and intensity forecasts can adjust."
+     },
+     {
+      "k": "Rainfall hazard",
+      "x": "A warmer atmosphere increases moisture availability, so inland flooding may intensify even where cyclone frequency trends remain uncertain."
+     },
+     {
+      "k": "Coastal risk",
+      "x": "Sea-level rise, dense settlement and ecosystem loss magnify surge; resilient warnings, shelters, mangroves and risk-sensitive infrastructure remain essential."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-37": {
+  "directive": "discuss",
+  "lens": "✓ Imported from your MainsLab bank. Sources: Geological Survey of India landslide material, NDMA landslide guidelines.",
+  "conc": "Calling every event a natural disaster hides preventable exposure: rainfall triggers failure, but planning and engineering often determine its human consequences.",
+  "flash": [
+   "laterite",
+   "pore pressure",
+   "slope cutting",
+   "drainage",
+   "micro-zonation",
+   "rainfall threshold"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Western Ghats landslides are produced by the intersection of a deeply weathered, steep landscape with concentrated rainfall and human alteration of slope and drainage."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Lithology and weathering",
+      "x": "Lateritic caps, weathered rock and variable fractures create weak layers and pathways through which water raises pore pressure."
+     },
+     {
+      "k": "Slope geometry",
+      "x": "Steep escarpments and valley-side cuts increase gravitational stress and reduce the support available to unstable material."
+     },
+     {
+      "k": "Extreme rainfall",
+      "x": "Intense or prolonged rain saturates soil, increases pore-water pressure and can rapidly reduce shear strength."
+     },
+     {
+      "k": "Drainage alteration",
+      "x": "Blocked channels, poorly designed culverts and concentrated runoff direct water into slopes that previously drained diffusely."
+     },
+     {
+      "k": "Excavation and loading",
+      "x": "Road cuts, quarrying, buildings and spoil deposits undercut slopes or add weight without adequate geotechnical design."
+     },
+     {
+      "k": "Land cover",
+      "x": "Vegetation removal changes root reinforcement and hydrology, though forests cannot stabilise every deep-seated geological failure."
+     },
+     {
+      "k": "Regional examples",
+      "x": "Recurring disasters in Kerala's high ranges, Kodagu and other escarpment zones show rainfall acting upon long-created vulnerability."
+     },
+     {
+      "k": "Mitigation",
+      "x": "Micro-zonation, slope drainage, construction controls, quarry regulation, rainfall thresholds and community warnings must be locally calibrated."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-38": {
+  "directive": "examine",
+  "lens": "✓ Imported from your MainsLab bank. Sources: NDMA urban-flood guidance, Ministry of Housing and Urban Affairs.",
+  "conc": "The correct planning unit is the urban watershed, not the municipal project: water needs connected space from rainfall to storage, channel and safe outfall.",
+  "flash": [
+   "floodplain",
+   "wetland storage",
+   "impervious cover",
+   "design storm",
+   "urban watershed",
+   "sponge city"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Urban flooding occurs when intense runoff exceeds a city's storage and drainage capacity; the decisive loss is often the natural network that once delayed, absorbed and conveyed water."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Floodplain occupation",
+      "x": "Construction in river and lake overflow zones converts predictable inundation space into high-value exposure and obstructs flood conveyance."
+     },
+     {
+      "k": "Wetland loss",
+      "x": "Lakes, marshes and tanks store stormwater and recharge aquifers; encroachment removes buffers and breaks connected drainage chains."
+     },
+     {
+      "k": "Concretisation",
+      "x": "Impervious surfaces reduce infiltration and shorten runoff time, creating larger and faster peak flows after intense rain."
+     },
+     {
+      "k": "Drain design",
+      "x": "Undersized, silted or disconnected drains fail when designed from outdated rainfall assumptions or blocked by solid waste and utilities."
+     },
+     {
+      "k": "Outfall constraint",
+      "x": "High river levels, tides or storm surge can prevent drainage and push water backwards into low-lying neighbourhoods."
+     },
+     {
+      "k": "Fragmented governance",
+      "x": "Multiple agencies manage roads, drains, lakes and land without a common catchment map or accountable command structure."
+     },
+     {
+      "k": "Unequal impact",
+      "x": "Informal settlements, ground-floor workers and poorly serviced peripheries face greater exposure and slower recovery."
+     },
+     {
+      "k": "Sponge strategy",
+      "x": "Protect blue-green corridors, restore wetlands, use permeable surfaces and detention, update design storms and maintain drains transparently."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-40": {
+  "directive": "discuss",
+  "lens": "✓ Imported from your MainsLab bank. Sources: Ministry of Mines - critical minerals material, International Energy Agency critical-minerals analysis.",
+  "conc": "India needs a mine-to-materials strategy: resilient partnerships and domestic midstream capability matter more than a narrow race to acquire deposits.",
+  "flash": [
+   "geological concentration",
+   "midstream processing",
+   "supply-chain chokepoint",
+   "offtake",
+   "recycling",
+   "responsible sourcing"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Critical-mineral security is shaped not only by where ores occur but by the greater concentration of refining, component manufacture and technological know-how."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Geological concentration",
+      "x": "Lithium, cobalt, nickel, rare earths and other minerals occur in uneven deposits, creating import dependence for countries without viable reserves."
+     },
+     {
+      "k": "Processing chokepoints",
+      "x": "Mining diversity may coexist with highly concentrated refining, separation and precursor production, making midstream capacity strategically decisive."
+     },
+     {
+      "k": "Industrial location",
+      "x": "Battery, semiconductor and renewable clusters seek reliable processed inputs, clean power, water, skilled labour and logistics rather than proximity to ore alone."
+     },
+     {
+      "k": "Price vulnerability",
+      "x": "Long project lead times and concentrated supply make industries sensitive to export controls, geopolitical conflict and boom-bust investment cycles."
+     },
+     {
+      "k": "Indian strategy",
+      "x": "Domestic exploration and transparent auctions must be paired with processing research, recycling, substitution and environmental capacity."
+     },
+     {
+      "k": "External partnerships",
+      "x": "Overseas asset access, long-term offtake and technology cooperation can diversify supply without reproducing extractive relationships."
+     },
+     {
+      "k": "Circular economy",
+      "x": "Design for recovery and urban mining reduce primary demand and preserve material already embedded in imported products."
+     },
+     {
+      "k": "Just sourcing",
+      "x": "Traceability, community consent and strong environmental standards are necessary because supply security built on ecological injustice is politically fragile."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-46": {
+  "directive": "discuss",
+  "lens": "✓ Imported from your MainsLab bank. Sources: Ministry of Earth Sciences - Deep Ocean Mission, International Seabed Authority.",
+  "conc": "The Deep Ocean Mission should treat knowledge as the first resource: technological readiness cannot substitute for ecological baselines and legitimate international rules.",
+  "flash": [
+   "abyssal plain",
+   "polymetallic nodules",
+   "Central Indian Ocean Basin",
+   "sediment plume",
+   "precaution",
+   "common heritage"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Polymetallic nodules offer a geographically dispersed seabed source of several industrial metals, but deep-ocean extraction would intervene in ecosystems that are poorly understood and extremely slow to recover."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Distribution",
+      "x": "Nodules accumulate on abyssal plains where very slow sedimentation and chemical precipitation permit metal-rich concretions to grow over long periods."
+     },
+     {
+      "k": "Indian interest",
+      "x": "The Central Indian Ocean Basin is important to India's exploration programme and long-term access to nickel, cobalt, copper and manganese resources."
+     },
+     {
+      "k": "Strategic value",
+      "x": "Potential supply could diversify inputs for batteries, alloys and clean-energy infrastructure and develop deep-sea engineering capacity."
+     },
+     {
+      "k": "Technology frontier",
+      "x": "Mapping, remotely operated systems, collectors, risers and surface processing require integrated marine science and high-reliability engineering."
+     },
+     {
+      "k": "Benthic damage",
+      "x": "Collector vehicles remove or compact habitat, create sediment plumes and destroy nodules that themselves provide hard substrate."
+     },
+     {
+      "k": "Knowledge deficit",
+      "x": "Species, food webs, carbon processes and cumulative plume effects remain insufficiently known for confident impact prediction."
+     },
+     {
+      "k": "Governance",
+      "x": "International Seabed Authority rules must operationalise precaution, baseline data, monitoring, liability and protection of the common heritage of humankind."
+     },
+     {
+      "k": "Strategic restraint",
+      "x": "Exploration and scientific capacity can advance without assuming immediate commercial mining; alternatives include recycling and material efficiency."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-45": {
+  "directive": "discuss",
+  "lens": "✓ Imported from your MainsLab bank. Sources: Department for Promotion of Industry and Internal Trade, India Semiconductor Mission.",
+  "conc": "India should measure cluster success by supplier capability, innovation and regional employment—not simply by announced investment or subsidised assembly.",
+  "flash": [
+   "logistics",
+   "supplier ecosystem",
+   "tacit knowledge",
+   "reliable power",
+   "industrial corridor",
+   "green cluster"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Contemporary industrial location reflects an ecosystem of time, reliability and knowledge: firms cluster where components, skills, infrastructure and institutions reduce coordination risk."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Logistics",
+      "x": "Expressways, ports, freight corridors and reliable customs reduce inventory and allow time-sensitive participation in global value chains."
+     },
+     {
+      "k": "Skilled labour",
+      "x": "Semiconductor and electronics production requires engineering, technicians and supplier-learning systems that deepen through repeated local interaction."
+     },
+     {
+      "k": "Energy and water",
+      "x": "Reliable high-quality power, renewable access and secure water are decisive for fabrication and green-industry credibility."
+     },
+     {
+      "k": "Knowledge networks",
+      "x": "Universities, laboratories, design firms and anchor investors support tacit learning that cannot be transported as easily as machinery."
+     },
+     {
+      "k": "Supplier depth",
+      "x": "Clusters become resilient when tooling, chemicals, components, testing and repair capabilities grow around lead firms."
+     },
+     {
+      "k": "Policy certainty",
+      "x": "Incentives may trigger investment, but land governance, standards, trade policy and predictable regulation determine long-term embedding."
+     },
+     {
+      "k": "Corridor effects",
+      "x": "Industrial corridors can spread growth through linked nodes, yet enclave development and land displacement remain risks without local linkages."
+     },
+     {
+      "k": "Green clusters",
+      "x": "Renewable power and circular material flows increasingly influence aluminium, hydrogen, batteries and export competitiveness under carbon constraints."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-47": {
+  "directive": "discuss",
+  "lens": "✓ Imported from your MainsLab bank. Sources: ICAR agro-climatic material, Commission for Agricultural Costs and Prices.",
+  "conc": "Agro-ecological crop planning becomes credible only when the entire incentive and market system rewards resource conservation alongside farm income.",
+  "flash": [
+   "agro-climatic suitability",
+   "procurement",
+   "groundwater",
+   "monocropping",
+   "diversification",
+   "transition support"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Cropping patterns diverge from agro-climatic suitability when price policy, procurement, infrastructure and risk perception overpower signals from soil, rainfall and water availability."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Policy incentives",
+      "x": "Assured procurement and input subsidies can make water-intensive crops privately rational even in ecologically unsuitable regions."
+     },
+     {
+      "k": "Path dependence",
+      "x": "Canals, mills, market yards and farmer knowledge lock regions into established crops despite changing climate and resource costs."
+     },
+     {
+      "k": "Risk and credit",
+      "x": "Known crops with established buyers and insurance are safer than diversification where extension, storage and markets remain uncertain."
+     },
+     {
+      "k": "Groundwater",
+      "x": "Power subsidies and intensive irrigation lower water tables and increase energy use, salinity and unequal access to deep borewells."
+     },
+     {
+      "k": "Soil health",
+      "x": "Repeated monocropping and imbalanced nutrients reduce organic matter, micronutrients and biological resilience."
+     },
+     {
+      "k": "Regional inequality",
+      "x": "Procurement and processing concentration channel public support towards some crops and states while rainfed producers bear greater volatility."
+     },
+     {
+      "k": "Climate resilience",
+      "x": "Millets, pulses, oilseeds, mixed farming and locally suited varieties can spread weather and market risk."
+     },
+     {
+      "k": "Transition",
+      "x": "Reform must guarantee markets, extension, processing and temporary income protection; price signals alone transfer ecological risk to farmers."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-39": {
+  "directive": "analyse",
+  "lens": "✓ Imported from your MainsLab bank. Sources: National Centre for Coastal Research, INCOIS / Ministry of Earth Sciences.",
+  "conc": "The coast must be governed as a moving regional system; parcel-by-parcel armouring merely relocates risk along the shoreline.",
+  "flash": [
+   "sediment budget",
+   "littoral drift",
+   "river sediment",
+   "sea-level rise",
+   "hard protection",
+   "managed retreat"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Coastal erosion is a sediment-budget problem: shorelines retreat when waves and currents remove more material than rivers, dunes and alongshore transport replace."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Wave climate",
+      "x": "Monsoon waves, storms and changing approach angles redistribute sand seasonally and create erosion hotspots along exposed coasts."
+     },
+     {
+      "k": "Alongshore currents",
+      "x": "Sediment moves between connected littoral cells; an intervention at one location can starve beaches farther down-drift."
+     },
+     {
+      "k": "Sediment deficit",
+      "x": "Dams, sand mining and river regulation reduce fluvial supply that historically replenished deltas and beaches."
+     },
+     {
+      "k": "Sea-level rise",
+      "x": "Higher mean water levels allow waves to act farther inland and amplify erosion, inundation and salinity during storms."
+     },
+     {
+      "k": "Hard structures",
+      "x": "Ports, groynes and seawalls protect selected assets but reflect energy or interrupt drift, often transferring erosion to neighbouring stretches."
+     },
+     {
+      "k": "Ecosystem loss",
+      "x": "Removal of dunes, mangroves and reefs eliminates natural buffers and sediment traps."
+     },
+     {
+      "k": "Consequences",
+      "x": "Housing, fisheries infrastructure, tourism, ports and cultural sites face land loss, relocation and conflict over protective works."
+     },
+     {
+      "k": "Management",
+      "x": "Map sediment cells, restore buffers, regulate extraction, use beach nourishment selectively and plan managed retreat where defence is unsustainable."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "gs1-8": {
+  "directive": "discuss",
+  "lens": "Do not describe pillars — argue that art WAS the instrument of statecraft. Court art vs popular art split is the structural marker.",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Mauryan art divides into **court art** — monolithic pillars, palaces, caves — and **popular art**; under Ashoka court art became the instrument of **Dhamma** and statecraft."
+   },
+   {
+    "t": "historian",
+    "x": "A.L. Basham read the edicts as history's first proclamations of a welfare state; the polished sandstone pillar fused imperial authority with Buddhist ethics."
+   }
+  ],
+  "body": [
+   {
+    "h": "Art as statecraft",
+    "p": [
+     {
+      "k": "Monolithic pillars",
+      "x": "**Chunar sandstone**, mirror-like **Mauryan polish**, animal capitals proclaiming imperial reach.",
+      "ex": "**Sarnath Lion Capital**"
+     },
+     {
+      "k": "Edicts as governance",
+      "x": "**Prakrit-Brahmi** rock and pillar edicts — administration by public text.",
+      "ex": "Bilingual **Kandahar edict**"
+     },
+     {
+      "k": "Moral kingship",
+      "x": "Kingship as paternal ethical duty — *\"all men are my children\"*.",
+      "ex": "**Dhamma Mahamatras**; **Kalinga Edict XIII**"
+     },
+     {
+      "k": "Foreign contact",
+      "x": "**Perso-Hellenistic** polish and bell capital, adapted to Indian iconography.",
+      "ex": "**Achaemenid** parallels"
+     }
+    ]
+   },
+   {
+    "h": "Popular art and Dhamma landscape",
+    "p": [
+     {
+      "k": "Popular idiom",
+      "x": "Free-standing **yaksha-yakshi** show a folk tradition parallel to court patronage.",
+      "ex": "**Didarganj Yakshi**"
+     },
+     {
+      "k": "Rock-cut beginnings",
+      "x": "Earliest caves, donated to the **Ajivikas** — tolerance in stone.",
+      "ex": "**Barabar**, Lomas Rishi"
+     },
+     {
+      "k": "Stupa as public ethics",
+      "x": "Relic stupas made Dhamma a mass devotional landscape.",
+      "ex": "**Sanchi Stupa-1** core"
+     }
+    ]
+   }
+  ],
+  "diag": {
+   "k": "flow",
+   "d": "Barabar caves → Sanchi stupa core → Bharhut railings → Amaravati"
+  },
+  "wf": [
+   "**ASI** landscape conservation; edicts as **IKS** heritage of ethical governance"
+  ],
+  "conc": "Mauryan art wedded aesthetic grandeur to moral purpose — India's earliest statement of art in the service of ethics and empire.",
+  "flash": [
+   "court vs popular art",
+   "Chunar sandstone + Mauryan polish",
+   "Dhamma Mahamatras",
+   "Barabar = Ajivikas",
+   "Kalinga Edict XIII"
+  ]
+ },
+ "gs1-16": {
+  "directive": "critically examine",
+  "lens": "Structure = methods → achievements → limitations → relevance. The limitation section (upper-caste, urban, textual revivalism) is where the 'critically' marks sit.",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Nineteenth-century social reform sought to reconcile **tradition with reason**, using scriptural reinterpretation, colonial law and modern education as instruments of social change."
+   },
+   {
+    "t": "historian",
+    "x": "Charles Heimsath saw reform as inseparable from emerging nationalism — the reformers were building the social base of a nation."
+   }
+  ],
+  "body": [
+   {
+    "h": "Methods employed",
+    "p": [
+     {
+      "k": "Scriptural reinterpretation",
+      "x": "Reformers located reform *within* tradition, invoking a purer past to delegitimise custom.",
+      "ex": "Rammohan Roy on Vedanta; Dayanand's *\"Back to the Vedas\"*"
+     },
+     {
+      "k": "Legislative route",
+      "x": "Petitioned the colonial state to convert reform into enforceable law.",
+      "ex": "**Sati Regulation 1829**; **Widow Remarriage Act 1856**; **Age of Consent Act 1891**"
+     },
+     {
+      "k": "Education and press",
+      "x": "Schools, colleges and vernacular journals built a reformist public sphere.",
+      "ex": "**MAO College 1875**; Savitribai Phule's girls' school, Pune 1848"
+     },
+     {
+      "k": "Associational organisation",
+      "x": "Samajas and sabhas institutionalised reform beyond individual charisma.",
+      "ex": "**Brahmo Samaj 1828**, **Arya Samaj 1875**, **Satyashodhak Samaj 1873**"
+     }
+    ]
+   },
+   {
+    "h": "Achievements",
+    "p": [
+     {
+      "k": "Women's status",
+      "x": "Ended sati, legalised widow remarriage, raised marriage age, opened female education — the first breach in patriarchal custom."
+     },
+     {
+      "k": "Anti-caste assertion",
+      "x": "Non-Brahmin reformers attacked caste at its root rather than reforming its edges.",
+      "ex": "Phule's *Gulamgiri* (1873)"
+     }
+    ]
+   },
+   {
+    "h": "Limitations",
+    "p": [
+     {
+      "k": "Narrow social base",
+      "x": "Largely upper-caste, urban, English-educated men; the peasantry stayed untouched."
+     },
+     {
+      "k": "Revivalist drift",
+      "x": "Legitimising reform by scripture strengthened orthodoxy and sharpened communal boundaries.",
+      "ex": "**Shuddhi** and cow-protection agitation"
+     },
+     {
+      "k": "Women as objects",
+      "x": "Reform was largely *for* women, seldom *by* them; agency came only with later women's organisations."
+     },
+     {
+      "k": "Reliance on the coloniser",
+      "x": "Legislative dependence let the state claim a civilising mission and invited nationalist backlash.",
+      "ex": "Tilak's opposition to the 1891 Act"
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Ambedkar's insistence that **social reform must precede political reform** remains the unfinished agenda",
+   "Constitutional morality now does the work scripture once did — **Art 17**, **Art 25(2)(b)**",
+   "Judicial continuity: **Shayara Bano (2017)**, **Sabarimala (2018)**"
+  ],
+  "conc": "The reformers' enduring contribution was the principle that custom must answer to conscience — a principle the Constitution converted from persuasion into right.",
+  "flash": [
+   "Heimsath — reform + nationalism",
+   "Sati 1829 / Widow Remarriage 1856 / Consent 1891",
+   "Phule Gulamgiri",
+   "revivalist drift → communalism",
+   "Ambedkar: social before political"
+  ]
+ },
+ "gs1-33": {
+  "directive": "discuss",
+  "lens": "Plate mechanics first (diagram-friendly), then the seismic gap argument, then zonation + preparedness. Name the thrusts.",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The Himalaya is a **continent-continent collision** belt where the Indian plate underthrusts Eurasia at roughly **5 cm/year**, storing elastic strain released as great earthquakes."
+   },
+   {
+    "t": "data",
+    "x": "Around **59% of India's landmass** lies in moderate-to-severe seismic zones (III-V) under **BIS IS:1893** — a hazard of exposure as much as of geology."
+   }
+  ],
+  "body": [
+   {
+    "h": "Plate-tectonic setting",
+    "p": [
+     {
+      "k": "Convergent collision",
+      "x": "Ongoing northward drive of the Indian plate since the Tethys closed keeps the orogen tectonically live, not relict."
+     },
+     {
+      "k": "Thrust architecture",
+      "x": "Strain is released along north-dipping thrusts that step southward with time, the youngest being seismically most active.",
+      "ex": "**MCT**, **MBT**, and the active **Main Frontal Thrust**"
+     },
+     {
+      "k": "Basal detachment",
+      "x": "The **Main Himalayan Thrust** locks over ~100 km downdip; rupture of this locked zone produces great (M>8) events."
+     },
+     {
+      "k": "Intraplate stress",
+      "x": "Peninsular India is not immune — reactivated rift faults generate damaging shallow intraplate shocks.",
+      "ex": "**Bhuj 2001** (Kachchh rift), Latur 1993"
+     }
+    ]
+   },
+   {
+    "h": "Why northern India is vulnerable",
+    "p": [
+     {
+      "k": "Seismic gaps",
+      "x": "The **Central Seismic Gap** between the 1905 Kangra and 1934 Bihar-Nepal ruptures has not released strain in over a century.",
+      "ex": "Gorkha 2015 (M 7.8) filled only part of it"
+     },
+     {
+      "k": "Weak young sediment",
+      "x": "Thick unconsolidated **Indo-Gangetic alluvium** amplifies ground motion and liquefies — Delhi sits in **Zone IV** on such fill."
+     },
+     {
+      "k": "Slope instability",
+      "x": "Fragile lithology plus unplanned construction converts moderate shaking into landslide and subsidence disaster.",
+      "ex": "**Joshimath subsidence, 2023**"
+     },
+     {
+      "k": "Built-environment risk",
+      "x": "Dense, non-engineered masonry and vertical growth in hill towns make exposure, not magnitude, the decisive variable."
+     }
+    ]
+   }
+  ],
+  "diag": {
+   "k": "flow",
+   "d": "Indian plate → Indus-Tsangpo Suture → MCT → MBT → MFT → Gangetic foredeep"
+  },
+  "wf": [
+   "Enforce **National Building Code** and seismic retrofitting in Zone IV-V towns",
+   "Carrying-capacity studies for Himalayan settlements per **NDMA** guidance",
+   "Expand microzonation and earthquake early-warning beyond metro pilots"
+  ],
+  "conc": "Himalayan seismicity is a certainty of geology; the disaster is a choice of governance — resilience must be built into settlement policy, not retrofitted after the shock.",
+  "flash": [
+   "5 cm/yr convergence",
+   "MCT-MBT-MFT southward stepping",
+   "Central Seismic Gap 1905-1934",
+   "alluvium amplification, Delhi Zone IV",
+   "59% landmass Zone III-V"
+  ]
+ },
+ "gs1-41": {
+  "directive": "discuss",
+  "lens": "Physiography + hydrology of the Indus system FIRST (this is a geography paper, not IR), then treaty implications. Name the tributaries and their sources.",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The Indus is a **trans-Himalayan antecedent river** whose basin spans four countries; the **Indus Waters Treaty, 1960**, World Bank-brokered, partitioned its six rivers rather than sharing them."
+   },
+   {
+    "t": "data",
+    "x": "India was allotted the eastern rivers — **Ravi, Beas, Sutlej**; Pakistan the western **Indus, Jhelum, Chenab**, carrying roughly **80%** of basin flow."
+   }
+  ],
+  "body": [
+   {
+    "h": "Physiographic characteristics",
+    "p": [
+     {
+      "k": "Antecedent drainage",
+      "x": "The Indus rises near **Mansarovar** in Tibet and cuts a gorge at **Nanga Parbat**, proving it predates Himalayan uplift."
+     },
+     {
+      "k": "Tributary geography",
+      "x": "The **Jhelum** rises at **Verinag** and traverses **Wular Lake**; the **Chenab** forms at **Tandi** from the Chandra and Bhaga.",
+      "ex": "Zaskar, Shyok, Nubra join in Ladakh"
+     },
+     {
+      "k": "Snow-and-glacier fed regime",
+      "x": "Unlike peninsular rivers, flow peaks in summer from **glacial melt**, giving perennial but climate-sensitive discharge."
+     },
+     {
+      "k": "Depositional plains",
+      "x": "The **Punjab doabs** and Sindh plain are built of Indus alluvium — the basis of canal-irrigated agriculture on both sides."
+     }
+    ]
+   },
+   {
+    "h": "Hydrological and strategic implications",
+    "p": [
+     {
+      "k": "Run-of-river constraint",
+      "x": "The Treaty permits India non-consumptive and limited storage use on western rivers, restricting reservoir design.",
+      "ex": "**Baglihar**, **Kishanganga**, **Ratle**"
+     },
+     {
+      "k": "Under-utilisation",
+      "x": "India has historically not fully used even its eastern-river entitlement, chiefly for want of storage and link infrastructure.",
+      "ex": "**Shahpurkandi**, Ujh projects"
+     },
+     {
+      "k": "Treaty in abeyance",
+      "x": "India placed the Treaty in abeyance in **2025**, ending data-sharing and design-notification obligations and reviving reservoir-flushing options."
+     },
+     {
+      "k": "Downstream and climate risk",
+      "x": "Glacier retreat and **GLOF** hazard make basin flows less predictable, weakening a 1960 volumetric logic."
+     }
+    ]
+   }
+  ],
+  "diag": {
+   "k": "flow",
+   "d": "Mansarovar → Ladakh (Zaskar) → Nanga Parbat gorge → Punjab doabs → Sindh → Arabian Sea"
+  },
+  "wf": [
+   "Complete eastern-river storage to use the full entitlement",
+   "Basin-scale glacio-hydrological monitoring",
+   "Keep any renegotiation anchored in **climate-adjusted** allocation rather than fixed 1960 volumes"
+  ],
+  "conc": "The Indus question is now as much hydrological as diplomatic — durable arrangements must be built on the basin's changing cryosphere, not on the flows of a vanished climate.",
+  "flash": [
+   "IWT 1960, World Bank",
+   "east: Ravi-Beas-Sutlej / west: Indus-Jhelum-Chenab ~80%",
+   "antecedent, Nanga Parbat gorge",
+   "Jhelum-Verinag-Wular; Chenab-Tandi",
+   "abeyance 2025"
+  ]
+ },
+ "gs1-43": {
+  "directive": "discuss",
+  "lens": "Regional pattern is the demand — do not write a generic water-scarcity answer. Name the belts and the aquifer types.",
+  "intro": [
+   {
+    "t": "data",
+    "x": "India is the world's largest groundwater user — roughly **a quarter of global extraction**; **CGWB** puts the national stage of extraction near **60%**, with acute regional concentration."
+   }
+  ],
+  "body": [
+   {
+    "h": "Geographical pattern of the crisis",
+    "p": [
+     {
+      "k": "North-western over-exploitation",
+      "x": "**Punjab, Haryana, Rajasthan, Delhi** — alluvial aquifers mined for paddy-wheat.",
+      "ex": "Punjab exceeds **150%**"
+     },
+     {
+      "k": "Hard-rock scarcity",
+      "x": "Deccan basalt and crystalline terrain have **low storativity** — failure of yield, not level.",
+      "ex": "Marathwada, Rayalaseema"
+     },
+     {
+      "k": "Quality-driven scarcity",
+      "x": "Water exists but is unusable.",
+      "ex": "**Arsenic** in Ganga alluvium, **fluoride** in Rajasthan, coastal **salinity**"
+     },
+     {
+      "k": "Eastern under-use paradox",
+      "x": "Bihar and eastern UP have recharge but poor energy access."
+     }
+    ]
+   },
+   {
+    "h": "Consequences",
+    "p": [
+     {
+      "k": "Agriculture",
+      "x": "Falling tables raise pumping cost, energy subsidy and deep-tubewell inequality."
+     },
+     {
+      "k": "Drinking water",
+      "x": "Saline ingress and contamination threaten **Jal Jeevan Mission** guarantees."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Aquifer management under **Atal Bhujal Yojana**",
+   "Crop realignment via **PMKSY**; correct power pricing"
+  ],
+  "conc": "Groundwater is India's silent, decentralised reservoir — securing it requires managing the aquifer as a commons rather than the borewell as private property.",
+  "flash": [
+   "~25% of global extraction",
+   "Punjab >150% stage",
+   "hard-rock low storativity",
+   "arsenic/fluoride/salinity belts",
+   "Atal Bhujal + aquifer commons"
+  ]
+ },
+ "gs1-54": {
+  "directive": "examine",
+  "lens": "Balance is mandatory — this is a sensitive topic. Answer on constitutional design (Art 44 vs Art 25), never on community politics.",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**Article 44** directs the State to secure a Uniform Civil Code, placing it in tension with **Articles 25-26** freedom of religion and **Article 29** cultural rights — a designed, not accidental, tension."
+   }
+  ],
+  "body": [
+   {
+    "h": "The case for a UCC",
+    "p": [
+     {
+      "k": "Gender justice",
+      "x": "Personal laws remain the last domain where **Article 14-15** equality yields to custom in marriage, divorce, maintenance and succession.",
+      "ex": "**Shayara Bano (2017)** on triple talaq"
+     },
+     {
+      "k": "Judicial prompting",
+      "x": "The Supreme Court has repeatedly urged the State to act on Article 44.",
+      "ex": "**Shah Bano (1985)**, **Sarla Mudgal (1995)**, **John Vallamattom (2003)**"
+     },
+     {
+      "k": "Legal simplification",
+      "x": "A single code reduces forum-shopping, fraudulent conversion for remarriage and litigation complexity."
+     },
+     {
+      "k": "Existing precedent",
+      "x": "Uniformity already operates without destroying pluralism.",
+      "ex": "**Goa civil code**; **Special Marriage Act 1954**; **Uttarakhand UCC 2024**"
+     }
+    ]
+   },
+   {
+    "h": "The case for caution",
+    "p": [
+     {
+      "k": "Diversity is constitutionally protected",
+      "x": "Personal law is bound to identity; imposed uniformity may read as majoritarian rather than reformist."
+     },
+     {
+      "k": "Intra-religious plurality",
+      "x": "Hindu law itself is not uniform — coparcenary, Mitakshara-Dayabhaga and matrilineal systems coexist."
+     },
+     {
+      "k": "Tribal exclusion",
+      "x": "Customary law is constitutionally insulated in scheduled areas.",
+      "ex": "**Art 371A** Nagaland; **Sixth Schedule**"
+     },
+     {
+      "k": "Law Commission's position",
+      "x": "The **21st Law Commission (2018)** held a UCC was neither necessary nor desirable at that stage, preferring reform *within* personal laws."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Codify and reform each personal law on **gender-justice** grounds first, building consensus bottom-up",
+   "Strengthen the **Special Marriage Act** as an opt-in uniform track",
+   "Wide consultation, as the **22nd Law Commission** initiated, before codification"
+  ],
+  "conc": "The constitutional goal is not uniformity for its own sake but equal citizenship — a UCC will succeed only if it arrives as an instrument of justice rather than of homogenisation.",
+  "flash": [
+   "Art 44 vs Art 25-26",
+   "Shah Bano-Sarla Mudgal-Vallamattom",
+   "21st LC 2018: not desirable yet",
+   "Art 371A + Sixth Schedule exemption",
+   "Uttarakhand UCC 2024"
+  ]
+ },
+ "gs1-55": {
+  "directive": "critically examine",
+  "lens": "The 2024 Davinder Singh ruling is the anchor — sub-classification permitted, creamy layer in Gavai's concurrence. Get the case posture right.",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Reservation under **Art 15(4)** and **16(4)** was framed as compensatory and provisional; its persistence reflects the incompleteness of the substantive equality it was meant to deliver."
+   }
+  ],
+  "body": [
+   {
+    "h": "Why it persists",
+    "p": [
+     {
+      "k": "Structural deprivation endures",
+      "x": "Caste still governs access to land, capital and networks; formal equality does not close the gap."
+     },
+     {
+      "k": "Under-fulfilment",
+      "x": "Backlog vacancies in higher grades mean promised representation was never achieved."
+     },
+     {
+      "k": "Design",
+      "x": "Only **political** reservation carries a sunset clause; job and education quotas never did."
+     }
+    ]
+   },
+   {
+    "h": "The new fault lines",
+    "p": [
+     {
+      "k": "Sub-classification allowed",
+      "x": "**Davinder Singh (2024)** overruled *Chinnaiah*: SCs are not homogeneous, sub-classification valid on data.",
+      "ex": "7-judge Bench"
+     },
+     {
+      "k": "Creamy layer",
+      "x": "Justice Gavai's concurrence urged extending it to SC/ST — persuasive, not ratio.",
+      "ex": "cf. **Jarnail Singh (2018)**"
+     },
+     {
+      "k": "Elite capture",
+      "x": "Benefits concentrate in a few sub-castes across generations."
+     },
+     {
+      "k": "Widening ambit",
+      "x": "**Janhit Abhiyan (2022)** upholding **EWS** loosened the **Indra Sawhney** 50% logic."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Sub-classify on **empirical deprivation data**, not political arithmetic"
+  ],
+  "conc": "Reservation should be judged not by its duration but by its destination — it ends legitimately only when the deprivation that justified it does.",
+  "flash": [
+   "Art 15(4), 16(4), 46",
+   "Davinder Singh 2024 overrules Chinnaiah 2004",
+   "Gavai concurrence = creamy layer, not ratio",
+   "Indra Sawhney 50% cap",
+   "Janhit Abhiyan 2022 EWS"
+  ]
+ },
+ "gs1-61": {
+  "directive": "discuss",
+  "lens": "Rationale must be criteria-based (Dhebar Commission), not sentimental. Then design of PM-JANMAN as convergence architecture.",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**PVTGs** — **75 groups** across 18 States and the A&N Islands — were identified by the **Dhebar Commission (1961)** criteria: pre-agricultural technology, stagnant or declining population, extremely low literacy and a subsistence economy."
+   }
+  ],
+  "body": [
+   {
+    "h": "Rationale for differentiation",
+    "p": [
+     {
+      "k": "Demographic fragility",
+      "x": "Small, declining populations make group survival, not merely welfare, the policy objective.",
+      "ex": "Great Andamanese, Onge"
+     },
+     {
+      "k": "Habitat dependence",
+      "x": "Livelihood is tied to forest commons, so land alienation and displacement are existential, not economic, shocks."
+     },
+     {
+      "k": "Delivery invisibility",
+      "x": "Scattered, remote hamlets fall below the population thresholds that trigger schools, roads and health facilities."
+     },
+     {
+      "k": "Aggregation bias",
+      "x": "Averaging PVTGs into the wider ST category conceals their far worse outcomes.",
+      "ex": "**Xaxa Committee (2014)** critique"
+     }
+    ]
+   },
+   {
+    "h": "Design of PM-JANMAN",
+    "p": [
+     {
+      "k": "Convergence architecture",
+      "x": "Launched **November 2023** on **Janjatiya Gaurav Diwas**, it bundles **11 critical interventions** across **9 ministries** rather than creating a parallel scheme.",
+      "ex": "Outlay ≈ **₹24,000 crore**"
+     },
+     {
+      "k": "Habitat-first saturation",
+      "x": "Targets PVTG habitations directly — pucca housing, road and telecom connectivity, piped water, electrification."
+     },
+     {
+      "k": "Human-capital pillar",
+      "x": "Hostels, Anganwadis, multipurpose centres and mobile medical units address the schooling-and-health deficit."
+     },
+     {
+      "k": "Rights recognition",
+      "x": "Complements **habitat rights** under **Section 3(1)(e), FRA 2006**, granting cultural and territorial security.",
+      "ex": "Baiga and Bharia habitat rights, MP"
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Sequence with **Dharti Aaba Janjatiya Gram Utkarsh Abhiyan** for saturation coverage",
+   "Mandate PVTG-disaggregated data and **Gram Sabha** consent so delivery does not override consent"
+  ],
+  "conc": "PM-JANMAN's real test is whether saturation of services is matched by security of habitat — for PVTGs, development without rootedness is displacement by another name.",
+  "flash": [
+   "75 PVTGs, 18 States + A&N",
+   "Dhebar Commission 1961 criteria",
+   "PM-JANMAN Nov 2023, 11 interventions / 9 ministries",
+   "FRA Sec 3(1)(e) habitat rights",
+   "Xaxa Committee 2014"
+  ]
+ },
+ "gs1-6": {
+  "directive": "trace",
+  "lens": "Chronological spine + the technical vocabulary (shikhara, amalaka, panchayatana, latina). Continuities AND changes must be separately visible.",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The **Nagara** style, defined by a curvilinear **shikhara** over the **garbhagriha** and the absence of enclosure walls, evolved from the flat-roofed Gupta shrine into towering regional idioms."
+   }
+  ],
+  "body": [
+   {
+    "h": "Evolution across periods",
+    "p": [
+     {
+      "k": "Gupta genesis",
+      "x": "The first structural stone temples move from flat roof to an incipient tower, with a **panchayatana** plan emerging.",
+      "ex": "**Dashavatara Temple, Deogarh**; brick **Bhitargaon**"
+     },
+     {
+      "k": "Early medieval elaboration",
+      "x": "The shikhara lengthens, the **amalaka** and **kalasha** finial standardise, and wall projections deepen."
+     },
+     {
+      "k": "Odisha (Kalinga) school",
+      "x": "**Rekha deul** with near-vertical wall and sharply curving crown, paired with a **jagamohana** assembly hall.",
+      "ex": "**Lingaraja, Bhubaneswar**; **Konark Sun Temple**"
+     },
+     {
+      "k": "Central India (Chandela)",
+      "x": "Clustered miniature **urushringas** rise like a mountain range; the temple stands on a high plinth with an integrated hall sequence.",
+      "ex": "**Kandariya Mahadeva, Khajuraho**"
+     },
+     {
+      "k": "Western India (Maru-Gurjara)",
+      "x": "Ornate ceilings, torana and stepped tank integrate ritual, water and sculpture.",
+      "ex": "**Modhera Sun Temple** and its **surya kund**"
+     }
+    ]
+   },
+   {
+    "h": "Continuities and changes",
+    "p": [
+     {
+      "k": "Continuity of plan",
+      "x": "Garbhagriha-antarala-mandapa axis and the **latina** shikhara ideal persist across a millennium."
+     },
+     {
+      "k": "Change in verticality",
+      "x": "Height and clustering increase steadily — architecture as a visual assertion of royal patronage."
+     },
+     {
+      "k": "Change in sub-types",
+      "x": "**Latina**, **phamsana** and **valabhi** roof forms diversify and combine within a single complex."
+     },
+     {
+      "k": "Iconographic expansion",
+      "x": "Wall niches multiply into full sculptural programmes narrating the puranic universe."
+     }
+    ]
+   }
+  ],
+  "diag": {
+   "k": "flow",
+   "d": "Deogarh (Gupta) → Bhubaneswar (Odisha) → Khajuraho (Chandela) → Modhera (Solanki)"
+  },
+  "wf": [
+   "Sustain **ASI** conservation and living-temple management with community stewardship"
+  ],
+  "conc": "The Nagara temple's thousand-year arc shows Indian architecture innovating within an inherited grammar — continuity of idea expressed through endless regional invention.",
+  "flash": [
+   "shikhara + garbhagriha, no enclosure wall",
+   "Deogarh → Bhitargaon origins",
+   "rekha deul / urushringa / Maru-Gurjara",
+   "latina-phamsana-valabhi",
+   "amalaka + kalasha"
+  ]
+ },
+ "gs1-7": {
+  "directive": "examine",
+  "lens": "Moidams' 2024 UNESCO inscription is the trigger — lead with it. Cover art, architecture AND administration; the paik system is the administrative half examiners look for.",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The **Ahoms**, a Tai people who established rule under **Sukaphaa (1228)**, governed Assam for six centuries and produced a distinctive synthesis of Tai, Indic and indigenous traditions."
+   },
+   {
+    "t": "data",
+    "x": "The **Charaideo Moidams** were inscribed on the **UNESCO World Heritage List in 2024** — the North-East's first cultural World Heritage Site."
+   }
+  ],
+  "body": [
+   {
+    "h": "Architecture",
+    "p": [
+     {
+      "k": "Moidams",
+      "x": "Vaulted brick burial mounds of Ahom royalty within an earthen tumulus — a funerary landscape often likened to a pyramid tradition.",
+      "ex": "**Charaideo**, the first Ahom capital"
+     },
+     {
+      "k": "Secular monumentality",
+      "x": "Ahom builders produced rare *civil* architecture, not only temples — pavilions and multi-storeyed palaces.",
+      "ex": "**Rang Ghar**, **Kareng Ghar** and **Talatal Ghar**, Sivasagar"
+     },
+     {
+      "k": "Indigenous engineering",
+      "x": "Lime-and-rice-paste mortar and slab construction without cement produced remarkably durable works.",
+      "ex": "**Namdang stone bridge**"
+     },
+     {
+      "k": "Temple patronage",
+      "x": "Later Ahom kings endowed **dols** in a regional Nagara idiom, marking their absorption into the Hindu fold.",
+      "ex": "**Sivadol** and Joydol"
+     }
+    ]
+   },
+   {
+    "h": "Administrative and literary culture",
+    "p": [
+     {
+      "k": "Paik system",
+      "x": "Non-feudal corvée: every adult male was a **paik**, grouped in **gots**, rotating between military and civil service — labour, not land, was the revenue base.",
+      "ex": "Officers: Borphukan, Borbarua"
+     },
+     {
+      "k": "Buranjis",
+      "x": "State-maintained chronicles gave Assam a rare tradition of secular, date-conscious historiography."
+     },
+     {
+      "k": "Military-administrative success",
+      "x": "Terrain-adapted naval and guerrilla tactics repelled Mughal expansion.",
+      "ex": "**Lachit Borphukan** at **Saraighat, 1671**"
+     },
+     {
+      "k": "Cultural synthesis",
+      "x": "Tai rulers adopted Assamese language and Vaishnavite currents while retaining Tai ritual — assimilation without erasure."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Site management plans and buffer-zone protection for the inscribed Moidams",
+   "Digitise and translate the **Buranjis** as an **IKS** historiographical resource"
+  ],
+  "conc": "The Ahom achievement lies in governing a frontier through institutions of its own making — the Moidams' inscription finally places that legacy on the global heritage map.",
+  "flash": [
+   "Sukaphaa 1228, Tai-Ahom",
+   "Charaideo Moidams — UNESCO 2024",
+   "paik-got labour system",
+   "Buranjis chronicles",
+   "Lachit, Saraighat 1671"
+  ]
+ },
+ "gs1-18": {
+  "directive": "discuss",
+  "lens": "The 'decisive shift' is threefold: leaderless mass spontaneity, parallel governments, and the British realisation that India was ungovernable. Do not narrate events.",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Launched at Bombay's **Gowalia Tank on 8 August 1942** with the call to *\"Do or Die\"*, Quit India followed the failure of the **Cripps Mission** and demanded immediate, unconditional British withdrawal."
+   }
+  ],
+  "body": [
+   {
+    "h": "The decisive shift",
+    "p": [
+     {
+      "k": "From bargaining to withdrawal",
+      "x": "Congress dropped graduated demands for immediate, unconditional British exit."
+     },
+     {
+      "k": "Leaderless spontaneity",
+      "x": "Entire leadership jailed within hours; the movement turned genuinely popular.",
+      "ex": "**Aruna Asaf Ali**; **JP**, **Lohia** underground"
+     },
+     {
+      "k": "Parallel governments",
+      "x": "Alternative administrations actually collected revenue and ran courts.",
+      "ex": "**Ballia**, **Tamluk**, **Satara Prati Sarkar**"
+     },
+     {
+      "k": "Militant turn",
+      "x": "Students, peasants and women led locally; rail and telegraph sabotage broke strict non-violence."
+     }
+    ]
+   },
+   {
+    "h": "British reassessment",
+    "p": [
+     {
+      "k": "Rule by force alone",
+      "x": "Mass firing and collective fines exposed the collapse of consent."
+     },
+     {
+      "k": "Ungovernability",
+      "x": "Britain concluded post-war India could not be held without permanent occupation — exit became a matter of timing."
+     },
+     {
+      "k": "Limits",
+      "x": "**Muslim League**, **CPI** and Ambedkar stayed out; the League used Congress's absence to consolidate."
+     }
+    ]
+   }
+  ],
+  "conc": "Quit India did not by itself expel the British, but it destroyed the moral and administrative basis of their rule — after 1942 the question was no longer whether India would be free, but when.",
+  "flash": [
+   "8 Aug 1942 Gowalia Tank, Do or Die",
+   "Cripps failure trigger",
+   "Ballia-Tamluk-Satara parallel govts",
+   "League + CPI abstain",
+   "ungovernability realisation"
+  ]
+ },
+ "gs1-20": {
+  "directive": "critically examine",
+  "lens": "Causes must be categorised (political-economic-military-social-religious), and the failure analysis is where the marks are. Close with the historiographical verdict.",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The Revolt of 1857 was a century of accumulated colonial grievance detonated by a military spark — an anti-colonial upheaval that was nonetheless not yet a national movement."
+   }
+  ],
+  "body": [
+   {
+    "h": "Causes",
+    "p": [
+     {
+      "k": "Political annexation",
+      "x": "The **Doctrine of Lapse** and the annexation of **Awadh (1856)** alienated rulers and their dependent gentry.",
+      "ex": "Jhansi, Satara, Nagpur"
+     },
+     {
+      "k": "Economic dislocation",
+      "x": "Revenue settlements dispossessed **taluqdars**, indebted peasants, and deindustrialisation ruined artisans."
+     },
+     {
+      "k": "Military grievance",
+      "x": "Discrimination in pay and promotion, loss of *bhatta*, and the **General Service Enlistment Act 1856** offended caste sensibilities.",
+      "ex": "Greased **Enfield cartridge** as the trigger"
+     },
+     {
+      "k": "Socio-religious anxiety",
+      "x": "Missionary activity and reform legislation were read as an assault on religion, uniting otherwise divided communities."
+     }
+    ]
+   },
+   {
+    "h": "Why it failed",
+    "p": [
+     {
+      "k": "No unified command or programme",
+      "x": "Leaders fought locally for restoration of old orders, not for a shared future.",
+      "ex": "Bahadur Shah II a symbol, not a commander"
+     },
+     {
+      "k": "Limited geography",
+      "x": "Punjab, Bengal, Sindh and the south stayed quiet; Sikh, Gurkha and Madras regiments remained loyal."
+     },
+     {
+      "k": "Loyal princes and elites",
+      "x": "**Scindia**, the **Nizam** and most princes sided with the Company — Canning called them 'breakwaters in a storm'."
+     },
+     {
+      "k": "Technological asymmetry",
+      "x": "The **telegraph**, railways and superior artillery allowed rapid British concentration of force."
+     },
+     {
+      "k": "Educated class aloof",
+      "x": "The emerging western-educated intelligentsia saw the revolt as backward-looking and stayed away."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Historiographical verdict: neither Savarkar's **'First War of Independence'** nor Trevelyan's mere 'sepoy mutiny' — closer to Eric Stokes's reading of an agrarian-military upheaval with proto-national elements"
+  ],
+  "conc": "Its failure was decisive but productive — it ended Company rule, forced the Crown's 1858 Proclamation, and left a reservoir of memory that later nationalism would draw upon.",
+  "flash": [
+   "Doctrine of Lapse + Awadh 1856",
+   "taluqdar dispossession",
+   "Enfield cartridge trigger",
+   "no unified programme; princes loyal",
+   "Savarkar vs Trevelyan vs Stokes"
+  ]
+ },
+ "gs1-23": {
+  "directive": "discuss",
+  "lens": "Process (Standstill + IoA + Menon's machinery) then the two hard cases. Patel's method — persuasion backed by force — is the analytical thread.",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The lapse of **paramountcy** in 1947 left **565 princely states** legally free to accede to either dominion or stay independent — a threat of 'balkanisation' that the **States Department** under **Sardar Patel** and **V.P. Menon** dismantled in under two years."
+   }
+  ],
+  "body": [
+   {
+    "h": "The process",
+    "p": [
+     {
+      "k": "Institutional machinery",
+      "x": "A dedicated States Department negotiated with rulers individually, using the geography of contiguity as leverage."
+     },
+     {
+      "k": "Standstill and accession",
+      "x": "A **Standstill Agreement** preserved existing arrangements while the **Instrument of Accession** transferred only defence, external affairs and communications — a deliberately minimal, reassuring ask."
+     },
+     {
+      "k": "Incentives",
+      "x": "**Privy purses**, retention of titles and Rajpramukh offices bought consent; these were later abolished by the **26th Amendment, 1971**."
+     },
+     {
+      "k": "Integration beyond accession",
+      "x": "Mergers into unions and States' democratisation followed, completed by the **States Reorganisation Act, 1956**."
+     }
+    ]
+   },
+   {
+    "h": "The hard cases",
+    "p": [
+     {
+      "k": "Junagadh",
+      "x": "A Hindu-majority state whose Nawab acceded to Pakistan despite lacking contiguity; after the ruler fled, a **plebiscite in February 1948** overwhelmingly confirmed accession to India."
+     },
+     {
+      "k": "Hyderabad",
+      "x": "The **Nizam** sought independence while the **Razakars** under Kasim Rizvi unleashed violence; **Operation Polo (September 1948)** ended resistance in under a week."
+     },
+     {
+      "k": "Kashmir",
+      "x": "Accession followed the 1947 tribal invasion, but the internationalisation of the dispute made it the one incomplete integration."
+     },
+     {
+      "k": "Underlying challenges",
+      "x": "Popular movements within states, rulers' legal claims and the risk of external intervention had to be balanced against speed."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "The method — negotiation first, coercion last, democratisation always — remains the template for accommodating diversity in the Indian union"
+  ],
+  "conc": "Integration gave India its territorial coherence within a single generation; Patel's achievement was to convert legal fragmentation into constitutional unity without a war of unification.",
+  "flash": [
+   "565 states, paramountcy lapses",
+   "Standstill + IoA (3 subjects)",
+   "Junagadh plebiscite Feb 1948",
+   "Operation Polo Sept 1948",
+   "privy purses ended, 26th Amdt 1971"
+  ]
+ },
+ "gs1-24": {
+  "directive": "evaluate",
+  "lens": "The 'why uneven' half is the real question — answer it with political mobilisation, not administration alone. Kerala and West Bengal are the mandatory contrasts.",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Post-independence land reform had four planks — abolition of intermediaries, tenancy security, ceilings on holdings and consolidation — intended to convert a colonial agrarian order into an equitable one."
+   }
+  ],
+  "body": [
+   {
+    "h": "Impact",
+    "p": [
+     {
+      "k": "Intermediaries abolished",
+      "x": "The clearest success — zamindari abolition removed a parasitic rentier layer and brought some 20 million cultivators into direct relation with the State."
+     },
+     {
+      "k": "Productivity effects",
+      "x": "Secure tenure raised investment incentives and prepared the ground for **Green Revolution** adoption where tenancy was regularised."
+     },
+     {
+      "k": "Social structure",
+      "x": "Power shifted from absentee landlords to intermediate peasant castes — a decisive but *partial* democratisation of the village."
+     },
+     {
+      "k": "Limited redistribution",
+      "x": "Ceiling surplus actually redistributed was tiny — roughly **2%** of operated area — so the landless, largely Dalit, gained least."
+     }
+    ]
+   },
+   {
+    "h": "Why success was uneven",
+    "p": [
+     {
+      "k": "Political mobilisation",
+      "x": "Reform succeeded only where a mobilised peasantry made it politically compulsory.",
+      "ex": "**Kerala Land Reforms (1969)**; **Operation Barga**, West Bengal (1978)"
+     },
+     {
+      "k": "Legislative loopholes",
+      "x": "'Personal cultivation' exemptions, **benami** transfers and family partitions defeated ceiling laws elsewhere."
+     },
+     {
+      "k": "Land-record failure",
+      "x": "Colonial-era records and unrecorded tenancy made rights unenforceable — the sharecropper was legally invisible."
+     },
+     {
+      "k": "Litigation and elite capture",
+      "x": "Landed interests dominated state legislatures and used the courts; the **Ninth Schedule** was itself created to shield reform laws."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Digitise and guarantee titles through **DILRMP** and **SVAMITVA**",
+   "Legalise and record tenancy on the **NITI Aayog Model Land Leasing Act** lines so tenants gain credit and insurance access"
+  ],
+  "conc": "Land reform's unfinished agenda is no longer redistribution of acres but security of record — in an economy of tiny holdings, a clear title is the most valuable asset a farmer can hold.",
+  "flash": [
+   "4 planks; intermediaries abolished = success",
+   "~2% of area redistributed",
+   "Kerala 1969 + Operation Barga 1978",
+   "personal cultivation + benami loopholes",
+   "Ninth Schedule shield"
+  ]
+ },
+ "gs1-42": {
+  "directive": "discuss",
+  "lens": "Name the disputes and the constitutional machinery precisely (Art 262, ISRWD 1956). Geography vs politics must be separately argued.",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**Article 262** empowers Parliament to adjudicate inter-state river disputes and to bar the Supreme Court's jurisdiction; the **Inter-State River Water Disputes Act, 1956** created the tribunal machinery that has since become the bottleneck."
+   }
+  ],
+  "body": [
+   {
+    "h": "Major disputes",
+    "p": [
+     {
+      "k": "Cauvery",
+      "x": "Tamil Nadu-Karnataka contest over a deficit-year sharing formula; the **CWMA** was set up in 2018 to enforce the award.",
+      "ex": "SC, 2018: water is a **national asset**, no State owns it"
+     },
+     {
+      "k": "Krishna and Godavari",
+      "x": "Reallocation reopened after the **bifurcation of Andhra Pradesh (2014)** created a new riparian claimant."
+     },
+     {
+      "k": "Ravi-Beas",
+      "x": "The **SYL canal** dispute pits Punjab against Haryana, unresolved despite repeated judicial direction."
+     },
+     {
+      "k": "Mahadayi and Mahanadi",
+      "x": "Diversion-versus-flow conflicts involving Goa-Karnataka and Odisha-Chhattisgarh respectively."
+     }
+    ]
+   },
+   {
+    "h": "Why resolution is hard",
+    "p": [
+     {
+      "k": "Geographical asymmetry",
+      "x": "Upper-riparian States control flow while lower riparians bear scarcity — a structurally adversarial position."
+     },
+     {
+      "k": "Data contestation",
+      "x": "No neutral, real-time basin-wide measurement means every party disputes the hydrology itself."
+     },
+     {
+      "k": "Political salience",
+      "x": "Water is an emotive identity issue; no State government can be seen to concede, so compromise is electorally punished."
+     },
+     {
+      "k": "Institutional delay",
+      "x": "Ad hoc tribunals with no fixed time limit have taken decades, and awards lack a strong enforcement arm.",
+      "ex": "**River Boards Act, 1956** remained a dead letter"
+     },
+     {
+      "k": "Climate stress",
+      "x": "Erratic monsoons shrink the assured yield on which fixed volumetric awards were computed."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Operationalise the **ISRWD (Amendment)** design — a single permanent tribunal with a **Dispute Resolution Committee** and fixed timelines",
+   "Basin-level authorities with real-time telemetry, as the **Sarkaria** and **Punchhi** Commissions urged",
+   "Shift from volumetric sharing to **benefit-sharing** and demand-side crop realignment"
+  ],
+  "conc": "River basins are natural units that federal boundaries cut across — cooperative federalism must be organised around the basin if water is to remain a resource rather than a rivalry.",
+  "flash": [
+   "Art 262 + ISRWD 1956",
+   "Cauvery CWMA 2018; water = national asset",
+   "SYL, Mahadayi, Mahanadi",
+   "River Boards Act dead letter",
+   "permanent tribunal + benefit-sharing"
+  ]
+ },
+ "gs1-44": {
+  "directive": "discuss",
+  "lens": "This is economic geography, not energy policy — lead with the spatial distribution and why it is where it is. Then the geography-imposed constraints.",
+  "intro": [
+   {
+    "t": "data",
+    "x": "India targets **500 GW of non-fossil capacity by 2030**; the resource base is geographically concentrated, so the energy transition is simultaneously a redistribution of India's economic map."
+   }
+  ],
+  "body": [
+   {
+    "h": "Regional distribution of potential",
+    "p": [
+     {
+      "k": "Solar in the arid west",
+      "x": "High insolation, clear skies and cheap non-arable land concentrate capacity in **Rajasthan, Gujarat and Ladakh**.",
+      "ex": "**Bhadla Solar Park**; **Khavda RE Park**, Kutch"
+     },
+     {
+      "k": "Wind along the peninsular corridor",
+      "x": "The south-west monsoon accelerating through Western Ghats gaps gives Tamil Nadu and Karnataka the best wind regimes.",
+      "ex": "**Muppandal** at the **Palakkad gap**"
+     },
+     {
+      "k": "Offshore and coastal",
+      "x": "Gujarat and Tamil Nadu coasts offer the highest offshore wind density; shallow shelf makes fixed foundations viable."
+     }
+    ]
+   },
+   {
+    "h": "Geographical constraints and reshaping",
+    "p": [
+     {
+      "k": "Evacuation distance",
+      "x": "Generation in the arid west but demand in the south and east requires long transmission corridors and inter-regional balancing.",
+      "ex": "**Green Energy Corridor**; ISTS charge waiver"
+     },
+     {
+      "k": "Intermittency and storage",
+      "x": "Solar peaks midday while demand peaks at evening — the duck curve makes **storage**, not generation, the real bottleneck."
+     },
+     {
+      "k": "New economic geography",
+      "x": "Desert and coastal districts once peripheral become energy exporters, drawing green hydrogen and manufacturing investment.",
+      "ex": "**National Green Hydrogen Mission**"
+     },
+     {
+      "k": "Mineral dependence",
+      "x": "Reliance on imported lithium, cobalt and rare earths substitutes one energy-security risk for a materials one.",
+      "ex": "**Critical Mineral Mission**; KABIL"
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Co-locate solar-wind hybrids with storage to raise capacity utilisation and cut land use",
+   "Expand agrivoltaics, floating solar and rooftop to reduce land conflict"
+  ],
+  "conc": "India's renewable geography is redrawing the country's energy map from the coal belt to the sun-and-wind belt — energy security will now depend on grids and storage as much as on resources.",
+  "flash": [
+   "500 GW non-fossil by 2030",
+   "Bhadla + Khavda; Muppandal-Palakkad gap",
+   "evacuation: west supply, south/east demand",
+   "duck curve → storage is the bottleneck",
+   "critical minerals dependency"
+  ]
+ },
+ "gs1-60": {
+  "directive": "examine",
+  "lens": "Balanced verdict is compulsory — regionalism as both federal safety valve and centrifugal risk. Do not treat it as pathology.",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Regionalism is the assertion of a distinct territorial identity — linguistic, cultural, ethnic or economic — within the union; the Constitution treats it as something to be *accommodated*, not suppressed."
+   }
+  ],
+  "body": [
+   {
+    "h": "How it strengthens federalism",
+    "p": [
+     {
+      "k": "Accommodation defuses secession",
+      "x": "Conceding linguistic states channelled identity into constitutional politics rather than separatism.",
+      "ex": "**SRC 1956**; Telangana, 2014"
+     },
+     {
+      "k": "Asymmetric federalism works",
+      "x": "Special constitutional provisions have retained fragile regions within the union.",
+      "ex": "**Art 371A** Nagaland, **Art 371G** Mizoram, **Sixth Schedule**"
+     },
+     {
+      "k": "Democratic deepening",
+      "x": "Regional parties made coalition politics the norm and gave States real voice at the centre."
+     },
+     {
+      "k": "Cultural preservation",
+      "x": "The **Eighth Schedule** and State language policy protect plurality against homogenisation."
+     }
+    ]
+   },
+   {
+    "h": "How it strains the fabric",
+    "p": [
+     {
+      "k": "Nativism",
+      "x": "'Sons of the soil' politics converts internal migrants into outsiders, violating **Art 19(1)(e)** mobility.",
+      "ex": "Shiv Sena's Marathi manoos campaigns"
+     },
+     {
+      "k": "Inter-state friction",
+      "x": "Boundary and water disputes escalate into administrative confrontation.",
+      "ex": "Belagavi; the Assam-Mizoram border clashes"
+     },
+     {
+      "k": "Fiscal regionalism",
+      "x": "Southern States argue that devolution and **delimitation** penalise successful demographic and fiscal performance.",
+      "ex": "**16th Finance Commission** and 2026 delimitation debate"
+     },
+     {
+      "k": "Ethnic exclusivism",
+      "x": "Where identity hardens around indigeneity, it can turn violent.",
+      "ex": "Assam movement; Bodoland and Gorkhaland demands"
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Strengthen **Inter-State Council** and **Zonal Councils** as standing dialogue forums per the **Punchhi Commission**",
+   "Ensure delimitation and devolution formulas visibly reward, not penalise, performance"
+  ],
+  "conc": "Regionalism is not the opposite of nationalism but its federal expression — India's unity has always been strongest where diversity was accommodated rather than overruled.",
+  "flash": [
+   "SRC 1956, Telangana 2014",
+   "Art 371A/371G, Sixth Schedule",
+   "sons of the soil vs Art 19(1)(e)",
+   "delimitation + 16th FC anxiety",
+   "Punchhi: Inter-State Council"
+  ]
+ },
+ "gs1-62": {
+  "directive": "discuss",
+  "lens": "The word is 'differential' — every point must contrast rural against urban, not describe globalisation generally.",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Post-1991 integration transmitted global markets unevenly across space: urban India was linked to the world through services and capital, rural India largely through commodity prices and consumption."
+   }
+  ],
+  "body": [
+   {
+    "h": "Agriculture",
+    "p": [
+     {
+      "k": "Price transmission",
+      "x": "Global commodity cycles now set farm incomes, exposing cultivators to volatility they cannot hedge.",
+      "ex": "Cotton price swings after Bt adoption"
+     },
+     {
+      "k": "Input and seed markets",
+      "x": "Corporate seed and agro-chemical dependence raised productivity but also cash costs and indebtedness."
+     },
+     {
+      "k": "Export opportunity",
+      "x": "Horticulture, marine and basmati exports rewarded well-connected regions while rainfed areas stayed excluded."
+     }
+    ]
+   },
+   {
+    "h": "Employment",
+    "p": [
+     {
+      "k": "Urban services boom",
+      "x": "IT, finance and logistics created high-wage urban work for the educated middle class.",
+      "ex": "Bengaluru, Hyderabad, Gurugram"
+     },
+     {
+      "k": "Rural informalisation",
+      "x": "Distress diversification into casual construction and gig work, not stable manufacturing jobs."
+     },
+     {
+      "k": "Migration and remittances",
+      "x": "Circular migration links the two economies; **MGNREGA** functions as the rural wage floor and shock absorber."
+     }
+    ]
+   },
+   {
+    "h": "Consumption and culture",
+    "p": [
+     {
+      "k": "Convergence of aspiration",
+      "x": "Telecom and **UPI** penetration compressed the rural-urban gap in access to goods, credit and media.",
+      "ex": "**HCES 2022-23** shows the MPCE gap narrowing"
+     },
+     {
+      "k": "Cultural homogenisation",
+      "x": "Global brands and media reshape rural aspiration, while local crafts and dialects face market pressure."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Invest in rural non-farm employment, agro-processing and skilling to convert exposure into opportunity",
+   "Deepen **e-NAM**, FPOs and warehousing so farmers capture value rather than absorb volatility"
+  ],
+  "conc": "Globalisation gave urban India integration and rural India exposure — bridging that asymmetry is the central task of inclusive growth on the road to Viksit Bharat.",
+  "flash": [
+   "urban=services/capital, rural=commodity prices",
+   "cash-cost indebtedness",
+   "MGNREGA as wage floor",
+   "HCES 2022-23 gap narrowing",
+   "FPO + e-NAM value capture"
+  ]
+ },
+ "gs1-65": {
+  "directive": "critically examine",
+  "lens": "The killer critique is area-based development: ~80% of funds on under 5% of city area. Lead the critique with that, and with the SPV vs 74th Amendment tension.",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The **Smart Cities Mission (2015)** sought technology-led urban transformation in 100 cities; its **area-based development** model concentrated most funding on a small, already-serviced fraction of each city."
+   }
+  ],
+  "body": [
+   {
+    "h": "Where inclusiveness fell short",
+    "p": [
+     {
+      "k": "Spatial concentration",
+      "x": "Most outlay went to a retrofitted **enclave** covering a tiny share of city area; peripheries and slums fell outside."
+     },
+     {
+      "k": "Housing gap",
+      "x": "Slum residents needed tenure, not sensors; in-situ redevelopment under **PMAY-U** was the slowest vertical.",
+      "ex": "~**65 mn** slum population, 2011"
+     },
+     {
+      "k": "Services lag",
+      "x": "Sewerage and faecal sludge management in informal settlements trail visible smart infrastructure."
+     },
+     {
+      "k": "Democratic deficit",
+      "x": "Delivery via **SPVs** bypassed elected ULBs, diluting the **74th Amendment**."
+     },
+     {
+      "k": "Exclusion by design",
+      "x": "Beautification displaced vendors protected by the **Street Vendors Act, 2014**."
+     }
+    ]
+   },
+   {
+    "h": "What it achieved",
+    "p": [
+     {
+      "k": "Command centres",
+      "x": "ICCCs proved their value in pandemic and disaster response."
+     },
+     {
+      "k": "Data systems",
+      "x": "GIS-based municipal planning outlasts the projects themselves."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Shift to **city-wide** saturation via **AMRUT 2.0**/**PMAY-U 2.0**, routed through elected ULBs"
+  ],
+  "conc": "A city becomes smart not when its cameras multiply but when its poorest resident has secure tenure, water and dignity — inclusion, not technology, is the real test of urban transformation.",
+  "flash": [
+   "SCM 2015, 100 cities, area-based",
+   "~80% funds, <5% area",
+   "SPV bypasses 74th Amendment",
+   "65 mn slum population (2011)",
+   "Street Vendors Act 2014 displacement"
+  ]
+ }
+}

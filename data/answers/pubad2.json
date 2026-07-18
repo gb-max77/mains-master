@@ -1,0 +1,191 @@
+{
+ "pubad2-4": {
+  "directive": "examine",
+  "lens": "✓ Imported from your verified answer bank (pa2-01, match 79%).",
+  "conc": "Indianisation was initially managed as political accommodation; its enduring administrative contribution emerged only when equal citizenship replaced imperial trust as the basis of service legitimacy.",
+  "flash": [
+   "Indianisation",
+   "Islington Commission",
+   "Lee Commission",
+   "simultaneous examination",
+   "superior services",
+   "political concession"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Indianisation exposed the contradiction of colonial administration: the Raj invoked merit and political neutrality while reserving superior authority to sustain imperial control."
+   }
+  ],
+  "body": [
+   {
+    "h": "Key dimensions",
+    "p": [
+     {
+      "k": "Early exclusion",
+      "x": "London-based examination, age limits, education and racial practice restricted Indian entry despite formal competition."
+     },
+     {
+      "k": "Political pressure",
+      "x": "Nationalist criticism linked exclusion to unrepresentative policy and demanded simultaneous examination and equality of opportunity."
+     },
+     {
+      "k": "Islington Commission",
+      "x": "It accepted increased Indian recruitment but favoured gradual change and multiple entry channels that preserved European predominance."
+     },
+     {
+      "k": "Underlying logic",
+      "x": "Concession sought administrative legitimacy and collaboration without surrendering the commanding positions of the colonial State."
+     },
+     {
+      "k": "Post-war pressure",
+      "x": "Constitutional reform and educated Indian opinion made a visibly foreign superior service politically untenable."
+     },
+     {
+      "k": "Lee Commission",
+      "x": "It accelerated Indianisation, supported direct recruitment in India and helped frame institutional protection for public services."
+     },
+     {
+      "k": "Administrative principle",
+      "x": "The debate gradually moved toward merit, service security and a commission-based personnel system."
+     },
+     {
+      "k": "Limit",
+      "x": "Numerical entry did not automatically transform imperial purpose, hierarchy or social composition."
+     },
+     {
+      "k": "Legacy",
+      "x": "Competitive recruitment and a professional higher service survived, while representativeness and accountability remained unfinished tasks."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "pubad2-50": {
+  "directive": "critically examine",
+  "lens": "✓ Imported from your verified answer bank (pa2-25, match 71%).",
+  "conc": "AIS legitimacy rests on dual fidelity: national constitutional perspective and accountable service to the State cadre, managed through rules and consultation rather than leverage.",
+  "flash": [
+   "All India Services",
+   "federal glue",
+   "cadre management",
+   "deputation",
+   "State autonomy",
+   "dual control"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The All India Services create a common administrative cadre across two constitutional levels, supporting national standards while making cadre control a recurring federal negotiation."
+   }
+  ],
+  "body": [
+   {
+    "h": "Key dimensions",
+    "p": [
+     {
+      "k": "Federal glue",
+      "x": "Common recruitment, training and mobility provide a pan-Indian outlook and personnel for Union-State coordination."
+     },
+     {
+      "k": "State capacity",
+      "x": "Cadre officers supply district and secretariat leadership, especially where specialist and local services remain uneven."
+     },
+     {
+      "k": "Neutrality",
+      "x": "Shared service protection can buffer local partisan pressure, though Union influence may create another dependency."
+     },
+     {
+      "k": "Cadre grievance",
+      "x": "Deputation, empanelment, shortages and rule changes may be perceived by States as erosion of control over serving officers."
+     },
+     {
+      "k": "Union need",
+      "x": "Central administration requires experienced field officers and a national talent pool for cross-jurisdictional tasks."
+     },
+     {
+      "k": "Incentive distortion",
+      "x": "Career aspirations toward the Union can reduce accountability to State priorities and long-term local expertise."
+     },
+     {
+      "k": "Cooperative management",
+      "x": "Cadre review, deputation and disciplinary questions need transparent criteria and genuine consultation."
+     },
+     {
+      "k": "Balanced careers",
+      "x": "Value State and field service in advancement, ensure minimum tenures and expand domain pathways at both levels."
+     },
+     {
+      "k": "Reform principle",
+      "x": "Neither unilateral recall nor complete State control fits a jointly constituted service."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ },
+ "pubad2-81": {
+  "directive": "examine",
+  "lens": "✓ Imported from your verified answer bank (pa2-45, match 72%).",
+  "conc": "Procedural modernisation without structural independence digitises old pathologies; structural reform without capacity leaves professional ideals unimplemented.",
+  "flash": [
+   "Prakash Singh",
+   "police reform",
+   "new criminal laws",
+   "separation of investigation",
+   "forensics",
+   "complaints authority"
+  ],
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Police reform now combines the structural agenda of insulating and professionalising the police with procedural change in investigation and evidence under the new criminal laws."
+   }
+  ],
+  "body": [
+   {
+    "h": "Key dimensions",
+    "p": [
+     {
+      "k": "Prakash Singh core",
+      "x": "State Security Commissions, merit-based leadership tenure, separation of investigation, Police Establishment Boards and complaints authorities target political misuse and weak accountability."
+     },
+     {
+      "k": "Implementation gap",
+      "x": "States have adopted uneven laws and arrangements, often diluting independence, tenure and external complaints."
+     },
+     {
+      "k": "New-law shift",
+      "x": "Electronic processes, timelines, forensic emphasis and victim-related procedures seek faster, more evidence-based criminal justice."
+     },
+     {
+      "k": "Capacity gap",
+      "x": "Forensic laboratories, investigators, prosecutors, devices and training remain uneven; mandates can create backlogs without resources."
+     },
+     {
+      "k": "Structural-procedural link",
+      "x": "Technology cannot correct arbitrary transfers, poor supervision or conflation of law-and-order pressure with investigation."
+     },
+     {
+      "k": "Due process",
+      "x": "Digital evidence, searches and custody require chain, disclosure, privacy and defence-access safeguards."
+     },
+     {
+      "k": "Separation",
+      "x": "Dedicated investigation personnel can develop skills and protect case quality from daily order duties."
+     },
+     {
+      "k": "Accountability",
+      "x": "Independent complaints, custody oversight and public performance data should accompany stronger investigative tools."
+     },
+     {
+      "k": "Federal implementation",
+      "x": "Union standards, State ownership and funded transition plans must align police, forensics, prosecution and courts."
+     }
+    ]
+   }
+  ],
+  "src": "ported"
+ }
+}

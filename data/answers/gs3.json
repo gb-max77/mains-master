@@ -1,0 +1,3430 @@
+{
+ "gs3-1": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The Feb 2026 India–US understanding cut the reciprocal tariff from 25% to 18% (dropping the additional 25% Russian-oil penalty), in exchange for market access and a pledge to purchase over $**500 bn** of US energy, **ICT** and other goods — reframing trade as a strategic bargain."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Export competitiveness restored",
+      "x": "The US is India's largest export market (~$**87 bn**); tariff relief protects labour-intensive gems, textiles, marine and pharma exports and preserves the merchandise trade surplus."
+     },
+     {
+      "k": "Supply-chain resilience",
+      "x": "'Economic security alignment' on critical minerals, semiconductors and trusted supply chains aids the China+1 pivot and de-risking of GVCs."
+     },
+     {
+      "k": "Investment & technology magnet",
+      "x": "Predictability crowds in **FDI**; complements **TRUST**, **ICET** and **INDUS-X** in dual-use tech and defence co-production."
+     },
+     {
+      "k": "Strategic-autonomy dilution",
+      "x": "Conditioning relief on cutting discounted Russian crude constrains India's independent energy sourcing and West Asia diversification."
+     },
+     {
+      "k": "Agricultural sensitivity",
+      "x": "Opening to DDGs, soybean oil, tree nuts and apples pressures farm incomes and dairy — the historic 'red line' at the **WTO**."
+     },
+     {
+      "k": "Transactional volatility",
+      "x": "Reciprocal-tariff regimes are reversible by executive order; over-dependence on one partner is itself a risk."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Diversify: fast-track India–EU **FTA**, **CEPA** deepening and IMEC to spread market risk.",
+   "Defend policy space: protect **MSP**, public stockholding (**WTO** peace clause) and use tariff-rate quotas rather than blanket liberalisation."
+  ],
+  "conc": "Strategic autonomy in a fragmented order lies not in autarky but in a diversified basket of balanced deals that convert market access into economic security."
+ },
+ "gs3-2": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Effective 22 Sep 2025, **GST** 2.0 collapsed the four-slab structure into a merit rate of 5% and a standard rate of 18%, with a 40% de-merit rate on sin/luxury goods — the boldest simplification since the 2017 rollout."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Consumption stimulus",
+      "x": "Rate cuts on **FMCG**, cement, auto, insurance and aspirational goods raise disposable incomes — a demand-side push worth **~₹2 lakh** cr, aiding the post-tariff growth cushion."
+     },
+     {
+      "k": "Revenue buoyancy",
+      "x": "Short-term revenue foregone (**~₹48,000 cr**) is bet against volume-led buoyancy and formalisation; monthly collections already near **₹1.8**–2 lakh cr provide headroom."
+     },
+     {
+      "k": "MSME compliance ease",
+      "x": "Fewer slabs cut classification disputes and litigation; pre-filled returns, faster refunds and simplified registration lower compliance costs."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "State fiscal anxiety: With compensation cess having ended (June 2022), states fear revenue loss — the **GST Council** must institutionalise a revenue-sharing safety net.",
+   "Complete the reform: Bring petroleum, electricity and real estate into **GST** and operationalise the **GST** Appellate Tribunal (GSTAT) to end inverted-duty and refund frictions."
+  ],
+  "conc": "**GST** 2.0 advances the vision of 'One Nation, One Tax' from a compliance regime into a genuine growth and formalisation engine — cooperative federalism's most durable test.",
+  "diag": {
+   "k": "flow",
+   "d": "OLD: 5% ── 12% ── 18% ── 28% (+cess) │ │ │ │ NEW: 5% ◄───┘ 18% ◄──┘ 40% (sin/luxury) (merit) (standard) (de-merit)"
+  }
+ },
+ "gs3-3": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The 16th **FC** (Panagariya) retained vertical devolution at 41% of the divisible pool while recalibrating horizontal criteria and shifting local-body and disaster grants toward conditionality — the fiscal constitution for 2026–31."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Equity anchor retained",
+      "x": "Income Distance (42.5%) still dominates, channelling resources to poorer states (Bihar, **UP**, **MP**) — upholding fiscal equalisation."
+     },
+     {
+      "k": "New efficiency signal",
+      "x": "A 10% 'contribution to GDP' criterion (replacing tax-effort) partly answers richer southern states' grievance of subsidising others."
+     },
+     {
+      "k": "Demographic balance",
+      "x": "Retaining Demographic Performance (10%) rewards states that curbed fertility, softening the north–south representation anxiety around delimitation."
+     },
+     {
+      "k": "Empowered local bodies",
+      "x": "**₹7.91 lakh** cr for PRIs/ULBs, but tied to entry conditions — **SFC** constitution, online audited accounts — shifting from entitlement to conditionality."
+     },
+     {
+      "k": "Disaster resilience",
+      "x": "**₹1.55 lakh** cr **DM** grants with 90:10 sharing for Himalayan/**NE** states recognises rising climate risk."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Unaddressed cess creep: Cesses and surcharges (outside the Art. 270 divisible pool) have swelled to ~15–18% of gross receipts, shrinking states' effective share — the **FC** lacks power to curb this."
+  ],
+  "conc": "The 16th **FC** strikes a defensible equity–efficiency balance, but true fiscal federalism needs the Centre to shrink the off-pool cess wedge that quietly erodes devolution.",
+  "diag": {
+   "k": "flow",
+   "d": "HORIZONTAL FORMULA (16th FC):Income Distance 42.5% | Population(2011) 17.5% | Area 10%Demographic Perf. 10% | Forest 10% | GDP Contribution 10% (NEW)"
+  }
+ },
+ "gs3-4": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "From FY26, the Union has adopted a glide path to bring central-government debt to ~50% (±1%) of GDP by 2030–31, replacing the year-on-year fiscal-deficit target as the primary **FRBM** anchor."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Sound rationale",
+      "x": "A debt anchor captures the sustainability stock, not just the annual flow; it aligns with **IMF** practice and accommodates growth-enhancing borrowing."
+     },
+     {
+      "k": "Counter-cyclical flexibility",
+      "x": "Frees fiscal policy to expand in downturns and consolidate in booms, so long as the debt trajectory is credible — de-emphasising a rigid deficit number."
+     },
+     {
+      "k": "Capex protection",
+      "x": "Lets the state sustain the **~₹11 lakh** cr capex push without breaching a single-year ceiling, supporting growth multipliers."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Transparency risk: A debt anchor can mask off-budget borrowings and contingent liabilities; needs a public-sector borrowing requirement (**PSBR**) disclosure and independent **Fiscal Council** (13th FC/FRBM Review recommendation)."
+  ],
+  "conc": "A debt anchor is a maturer fiscal rule — but its credibility rests on transparent accounting and an autonomous fiscal watchdog."
+ },
+ "gs3-17": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Direct income-support schemes for women (**₹1,500**–2,500/month) across states have expanded welfare reach but revived the **RBI**-flagged debate on 'revdi' versus productive spending."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Welfare case",
+      "x": "In an economy with skewed female **LFPR** and informal incomes, transfers raise consumption, women's agency and demand — a floor of dignity (Art. 39 **DPSP**)."
+     },
+     {
+      "k": "Fiscal strain",
+      "x": "Such schemes can absorb 1–2% of **GSDP**, squeezing capital outlay; **RBI**'s State Finances report warns of falling capex-to-revenue ratios and rising committed liabilities."
+     },
+     {
+      "k": "Crowding-out effect",
+      "x": "Every rupee to untargeted transfers is a rupee less for irrigation, health and roads with higher fiscal multipliers."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Distinguish merit from populism: Transfers linked to nutrition, schooling or skilling (human capital) differ from pure electoral give-aways.",
+   "Institutional guardrails: Adopt outcome budgeting, a transparent subsidy register, and 15th/16th **FC**-style debt ceilings; **SC** is already examining freebie disclosure norms."
+  ],
+  "conc": "Welfare and fiscal prudence are not opposites — the test is whether public money builds capabilities or merely buys loyalty."
+ },
+ "gs3-5": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Though headline unemployment (**PLFS** 2025) is at a multi-year low (~3.2% usual status), ~90% of the workforce remains informal and self-employment/unpaid family labour is rising — signalling a quality, not quantity, deficit."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Informality trap",
+      "x": "The bulk of new work is low-productivity own-account and agricultural, lacking social security, written contracts or upward mobility."
+     },
+     {
+      "k": "Disguised gains",
+      "x": "Falling unemployment partly reflects distress self-employment and women re-entering unpaid farm work, not formal job creation."
+     },
+     {
+      "k": "ELI as a corrective",
+      "x": "The **₹1.07 lakh** cr Employment-Linked Incentive scheme (targeting **~3.5 cr** jobs, **₹15,000** first-salary support, **EPFO**-linked) directly subsidises formal hiring and first-time employees."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Manufacturing & **MSME** depth: Scale labour-intensive sectors (textiles, footwear, food processing) via **PLI** 2.0 and cluster support to absorb surplus farm labour.",
+   "Skilling–industry match: Align **NEP** 2020 skilling and apprenticeships (**PM Internship Scheme**) with demand; formalise gig work under the Social Security Code."
+  ],
+  "conc": "Converting a demographic dividend into growth requires not merely jobs but decent, secure, productive livelihoods — the true measure of Viksit Bharat."
+ },
+ "gs3-5-b0": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Effective 21 Nov 2025, the four **Labour Code**s consolidated 29 central laws — the biggest labour reform since Independence, balancing ease-of-doing-business with universal social security."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Flexibility",
+      "x": "Fixed-term employment, higher retrenchment threshold (300 workers), single registration/return and rationalised definitions ease compliance."
+     },
+     {
+      "k": "Welfare expansion",
+      "x": "Universal minimum wage, social security for gig/platform workers, and appointment letters extend protection beyond the organised sector."
+     },
+     {
+      "k": "Implementation gap",
+      "x": "Labour is a Concurrent subject — uneven state rule-making, informal-sector coverage and enforcement capacity remain the binding constraints."
+     }
+    ]
+   }
+  ],
+  "conc": "**The Code**s' promise turns on cooperative-federal execution, not statutory intent alone."
+ },
+ "gs3-6": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "India is the fastest-growing major economy (~6.5% GDP), yet the gap between growth and well-being persists — the **HDR** docks India ~30% of its **HDI** on adjusting for inequality (**IHDI**), even as multidimensional poverty falls sharply."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Poverty progress",
+      "x": "**NITI** Aayog's **MPI** shows **~24.8 cr** Indians escaped multidimensional poverty (2013–23), headcount down to ~11–15% — a genuine capability gain in health, education, living standards."
+     },
+     {
+      "k": "Persistent inequality",
+      "x": "The **IHDI** loss and rising wealth concentration (top-10% holding a majority of national wealth) show growth's uneven distribution."
+     },
+     {
+      "k": "Intersectional deprivation",
+      "x": "Caste, gender and geography compound disadvantage — female **LFPR**, **SC**/**ST**/**PVTG** gaps and lagging eastern states reveal that averages hide margins."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Universal basic services: Deepen health (Ayushman Bharat), education (**NEP**) and **JAM**-enabled DBT to raise the social floor.",
+   "Progressive & productive: Widen the direct-tax base, invest in human capital and formal jobs; growth must be jobs-rich and bottom-heavy."
+  ],
+  "conc": "A developed nation is measured not by the size of its economy but by the dignity of its most marginal citizen — inclusive growth is the bridge."
+ },
+ "gs3-14": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "To become a $30-trillion developed economy by 2047, India must sustain ~8% real growth for two decades — a leap from the ~6.5% trend, demanding a step-change in investment, productivity and human capital."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Investment gap",
+      "x": "Gross fixed capital formation (~30–33% of GDP) must rise toward ~35–40%; private capex has lagged public capex — the crowding-in must materialise."
+     },
+     {
+      "k": "Productivity (TFP)",
+      "x": "Total factor productivity, not just factor accumulation, must drive growth — via technology adoption, **GVC** integration and firm scaling (the 'missing middle')."
+     },
+     {
+      "k": "Human capital",
+      "x": "Learning outcomes (**ASER**), female **LFPR** (~42%) and health (stunting) are drags; the demographic dividend is a wasting asset without skilling."
+     },
+     {
+      "k": "Structural transformation",
+      "x": "Move labour from agriculture (~45% of workers, ~18% of **GVA**) to manufacturing and modern services."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Reform trifecta: Land, labour (Codes), and factor-market reforms; ease-of-doing-business at the state level; deepen financial markets and R&D (>1% of GDP)."
+  ],
+  "conc": "Viksit Bharat 2047 is arithmetically feasible but institutionally demanding — it rests on raising potential growth, not chasing cyclical highs."
+ },
+ "gs3-7": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**CPI** inflation dropped to multi-year lows in 2025 (briefly near ~1.5–2%) on food deflation and a favourable base, reviving debate on the flexible inflation-targeting (**FIT**) framework (4% ±2%) up for its statutory review."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "FIT's credit",
+      "x": "Since 2016, **FIT** has anchored inflation expectations, enhanced **RBI** credibility and reduced volatility — a genuine institutional gain."
+     },
+     {
+      "k": "Supply-side limits",
+      "x": "Much disinflation owes to food/fuel base effects and good monsoons, not just rates — monetary policy is a blunt tool against supply shocks."
+     },
+     {
+      "k": "Review questions",
+      "x": "Whether to target headline vs core **CPI**, revisit the 4% target, update the **CPI** base (2012→2024), and the food-weight (~46%) debate."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Retain **FIT**, refine calibration: Keep the flexible band, strengthen the **MPC**'s data and communication, and pair with supply-side reforms in agri value chains."
+  ],
+  "conc": "**FIT** deserves credit for anchoring expectations, but durable price stability needs structural supply reform alongside sound monetary policy."
+ },
+ "gs3-8": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Manufacturing is stuck at ~17% of **GVA** against the 25% Make-in-India goal; the Economic Survey argues the next leap needs outward-oriented scale and **GVC** integration, not protectionist import substitution."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "PLI's gains",
+      "x": "The **₹1.97 lakh** cr, 14-sector **PLI** lifted mobile-phone (India now a top exporter), pharma and electronics output and deepened local value addition."
+     },
+     {
+      "k": "Structural limits",
+      "x": "Benefits concentrated in a few sectors; high tariffs on inputs, deselection of firms and design/component dependence blunt competitiveness."
+     },
+     {
+      "k": "GVC imperative",
+      "x": "East Asia grew by plugging into value chains; India must lower input tariffs, sign FTAs and attract 'China+1' relocation."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Factor & logistics reform: Cheaper land, flexible labour (Codes), reliable power and Gati Shakti-led logistics-cost reduction (13%→8% of GDP).",
+   "Ease + scale: Decriminalise business law (Jan Vishwas), enable firm scaling beyond the 'missing middle', and pivot **PLI** toward exports and R&D."
+  ],
+  "conc": "Atmanirbharta must mean globally competitive scale, not inward protection — manufacturing that wins world markets, not just domestic ones."
+ },
+ "gs3-8-b0": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "MSMEs contribute ~30% of GDP, ~45% of exports and employ **~11 cr**, yet remain trapped by credit, scale and informality constraints."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Credit gap",
+      "x": "A **₹20**–25 lakh cr formal credit shortfall; addressed via **CGTMSE** expansion, TReDS, and Account Aggregator-enabled cash-flow lending."
+     },
+     {
+      "k": "Scale disincentive",
+      "x": "Revised classification (investment + turnover thresholds raised) removes the 'dwarfism' penalty of staying small to keep benefits."
+     },
+     {
+      "k": "Formalisation",
+      "x": "Udyam registration, **GST** 2.0 simplification and **ONDC** widen market access and creditworthiness."
+     }
+    ]
+   }
+  ],
+  "conc": "Empowering the 'missing middle' is central to jobs-rich, export-led growth."
+ },
+ "gs3-9": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "India's Digital Public Infrastructure — the **JAM** trinity, **UPI** (**~19 bn** monthly transactions), **ONDC** and the Account Aggregator — has become a global template ('India Stack'), collapsing the cost of inclusion."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Financial inclusion & formalisation",
+      "x": "**DPI** brought **~55 cr** into banking (Jan Dhan), enabled **₹40**+ lakh cr **DBT** with leakage savings (~₹3.5 lakh cr), and created credit trails for MSMEs."
+     },
+     {
+      "k": "Competition & choice",
+      "x": "**ONDC** democratises e-commerce beyond duopolies; Account Aggregator enables consent-based, cash-flow lending."
+     },
+     {
+      "k": "Global soft power",
+      "x": "**UPI**'s linkages (Singapore, **UAE**, France) and G20 endorsement project India as a norm-setter for the Global South."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Digital divide: ~40% lack meaningful connectivity/skills; guard against exclusion of elderly, rural and women through assisted/offline modes.",
+   "Concentration & security: Prevent platform dominance and fraud; enforce the **DPDP Act, 2023** and **RBI** data-localisation to protect the data of citizens."
+  ],
+  "conc": "**DPI** is India's most scalable growth-and-inclusion engine — its promise depends on making the last-mile citizen, not the platform, the sovereign."
+ },
+ "gs3-10": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The 'twin balance-sheet problem' (stressed banks + over-leveraged corporates, ~11% **GNPA** in 2018) has reversed into a 'twin balance-sheet advantage' — GNPAs at a multi-decade low (~2.3%) with de-leveraged corporate books."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Clean-up toolkit",
+      "x": "**AQR**, **IBC** (2016) resolution, recapitalisation and 4R strategy (Recognition, Resolution, Recapitalisation, Reform) restored balance sheets."
+     },
+     {
+      "k": "Credit revival",
+      "x": "Healthy banks and corporates enable a fresh investment cycle — the pre-condition for private capex."
+     },
+     {
+      "k": "Emerging risks",
+      "x": "Rapid unsecured retail/personal-loan growth (**RBI** raised risk weights), rising credit-card delinquencies, and a deposit-growth slowdown creating a credit–deposit gap."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Prudential vigilance: Strengthen supervision of NBFCs and fintech co-lending, deepen the corporate-bond market, and privatise/consolidate PSBs to sustain the gains."
+  ],
+  "conc": "The turnaround is real but not self-sustaining — durable financial stability requires deposit mobilisation and disciplined, well-supervised credit growth."
+ },
+ "gs3-13": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Services exports (~$**390 bn**) — powered by ~1,800 Global Capability Centres employing ~1.9 mn — have overtaken goods in dynamism, cushioning the current account and rupee."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "External stabiliser",
+      "x": "A large services surplus + ~$**135 bn** remittances offset the merchandise trade deficit, keeping the **CAD** manageable (~1% of GDP)."
+     },
+     {
+      "k": "Value-chain upgrade",
+      "x": "GCCs have moved from back-office to R&D, analytics, and product ownership — high-value 'services manufacturing'."
+     },
+     {
+      "k": "AI opportunity",
+      "x": "India's talent pool and **IndiaAI Mission** can move it up to AI-enabled, high-margin services."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Automation vulnerability: Generative AI threatens routine **BPO**/IT roles; must reskill toward AI-augmentation and domain depth.",
+   "Concentration risk: Over-reliance on the US market and a few metros — diversify geographies (EU, Gulf) and to Tier-2 cities."
+  ],
+  "conc": "Services-led growth is India's proven strength; sustaining it requires racing up the value chain faster than AI commoditises the base."
+ },
+ "gs3-11": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Union capex tripled to **~₹11.2 lakh** cr (~3.1% of GDP) since FY21, becoming the principal growth driver — but a durable expansion needs the private-investment baton to be picked up."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Multiplier logic",
+      "x": "Public capex has a high fiscal multiplier (~2.5–4), building roads, rail and logistics that lower costs economy-wide."
+     },
+     {
+      "k": "Sustainability limit",
+      "x": "Fiscal space is finite under the debt anchor; capex cannot rise indefinitely without crowding social spending."
+     },
+     {
+      "k": "Weak private revival",
+      "x": "Muted private capex reflects spare capacity, demand uncertainty, global headwinds and past balance-sheet caution — despite the twin-advantage."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Crowd-in levers: Stable demand (**GST** 2.0 stimulus), policy certainty, **PLI**, PPP/InvIT financing, and state-level ease-of-doing-business to trigger the animal spirits."
+  ],
+  "conc": "The state has laid the track; sustained ~8% growth now needs private capital to run the train."
+ },
+ "gs3-12": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "India's logistics cost (~13–14% of GDP vs ~8% in advanced economies) is a competitiveness tax; **PM** Gati Shakti (2021) and the **National Logistics Policy** (2022) target its reduction through multimodal integration."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Gati Shakti National Master Plan",
+      "x": "A **GIS**-based digital platform integrating 16+ ministries for synchronised infrastructure planning — ending siloed, duplicative projects."
+     },
+     {
+      "k": "NLP & LEADS",
+      "x": "Targets a single-window **ULIP**, sub-10% logistics cost, and top-25 **LPI** rank; the **LEADS** index benchmarks state performance."
+     },
+     {
+      "k": "Multimodal fit",
+      "x": "Dedicated Freight Corridors, **MAHSR** bullet train, ~111 national waterways (Jal Marg Vikas), and **UDAN** air connectivity shift freight to efficient modes."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Last-mile & warehousing: Multi-modal logistics parks, coastal shipping and standardisation; align with the ambition of first-/last-mile connectivity."
+  ],
+  "conc": "Seamless, multimodal logistics is the circulatory system of a $30-trillion economy — Gati Shakti is its digital nerve centre."
+ },
+ "gs3-12-b0": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Inland waterways (Jal Marg Vikas) and **UDAN** (regional air connectivity) extend growth to the hinterland and remote regions."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Waterways",
+      "x": "The cheapest, greenest freight mode; **NW-1** (Ganga), **NW-2** (Brahmaputra) integrate the landlocked East and **NE**, cutting costs and emissions."
+     },
+     {
+      "k": "UDAN",
+      "x": "~600+ routes and ~85 airports connect Tier-2/3 and hill/**NE** towns, spreading economic opportunity and tourism."
+     }
+    ]
+   }
+  ],
+  "conc": "Both are spatial-equity instruments — turning geography from a barrier into a bridge."
+ },
+ "gs3-15": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "India needs ~$4.5 trillion of infrastructure investment by 2030 (**NIP**); with fiscal space finite, Public-Private Partnerships and asset monetisation are indispensable to bridge the gap."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "PPP rationale",
+      "x": "Leverages private capital, efficiency and risk-sharing for user-charge-viable assets (highways, airports, ports) — freeing the state to fund social infrastructure."
+     },
+     {
+      "k": "NMP experience",
+      "x": "The **₹6 lakh** cr National Monetisation Pipeline (2021–25) monetised operating assets (roads via **TOT**/InvIT, railways, power) without ownership transfer; **NMP** 2.0 targets **~₹10 lakh** cr (2025–30)."
+     },
+     {
+      "k": "Persisting frictions",
+      "x": "Renegotiation, litigation, and asymmetric risk allocation stalled earlier PPPs (Kelkar Committee critique)."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Bankable design: Balanced risk-sharing (Kelkar/Vijay Kelkar), model concession agreements, an independent regulator, a robust dispute-resolution mechanism, and InvIT/**REIT**-based recycling."
+  ],
+  "conc": "Well-structured PPPs turn public assets into a self-financing infrastructure flywheel — the fiscally prudent path to Viksit Bharat."
+ },
+ "gs3-16": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The Income-tax Act, 2025 (effective 1 April 2026) replaces the six-decade-old 1961 law, cutting length by ~50%, introducing a unified 'tax year' and plain-language drafting."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Compliance ease",
+      "x": "Fewer sections, removal of obsolete provisions, and simpler language reduce disputes and litigation, aiding voluntary compliance."
+     },
+     {
+      "k": "Base widening",
+      "x": "Digitisation (**AIS**, faceless assessment) and simplicity can bring more into the net — direct taxpayers remain a small share of the population."
+     },
+     {
+      "k": "Ratio concern",
+      "x": "India's direct-to-indirect tax ratio (~57:43) skews toward regressive indirect taxes, which burden the poor disproportionately — against tax-equity principles."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Progressive tilt: Widen the direct-tax base, curb exemptions, tax capital/property better, and improve enforcement to raise the direct-tax share."
+  ],
+  "conc": "A simpler, trust-based tax system that leans more on direct taxes advances both revenue buoyancy and horizontal equity."
+ },
+ "gs3-18": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Cities generate ~60% of GDP on ~35% of population; with urbanisation heading to ~40% by 2036, unlocking their productivity is central to Viksit Bharat — yet Indian cities are chronically under-financed and under-planned."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Land-title opacity",
+      "x": "Presumptive (not conclusive) titles breed litigation and dead capital; the Economic Survey urges conclusive titling (à la SVAMITVA) and **GIS** land records."
+     },
+     {
+      "k": "Municipal finance crisis",
+      "x": "**ULB** own revenue is <1% of GDP; property-tax under-collection and grant-dependence starve investment — needs buoyant property tax and municipal bonds."
+     },
+     {
+      "k": "Transit & planning deficit",
+      "x": "Unplanned sprawl, weak mass transit and poor last-mile mobility raise congestion and emissions."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Empower ULBs: Genuine 74th-Amendment devolution (funds, functions, functionaries), professional cadres, **GCC**/InvIT-financed transit, and transit-oriented development."
+  ],
+  "conc": "Cities become engines of growth only when they are also homes of equity and institutions of self-government."
+ },
+ "gs3-19": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Global supply-chain de-risking ('China+1') and 'friend-shoring' offer India a once-in-a-generation window to raise its ~1.8% share of world merchandise exports."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Structural constraints",
+      "x": "High logistics costs (13% of GDP), input tariffs, non-tariff barriers, quality-standards gaps and slow customs erode competitiveness."
+     },
+     {
+      "k": "Trade-finance & scale",
+      "x": "**MSME** exporters face a credit and trade-finance gap; the 'missing middle' limits scale economies."
+     },
+     {
+      "k": "FTA under-utilisation",
+      "x": "Low utilisation of existing FTAs (rules-of-origin complexity) blunts market access."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Enablers: Gati Shakti logistics, quality-control orders + mutual-recognition, **PLI**, districts-as-export-hubs, and new-generation FTAs (EU, UK) with better utilisation support."
+  ],
+  "conc": "The China+1 window is open but not indefinite — India must convert cost and scale reforms into export share before the moment passes."
+ },
+ "gs3-19-b0": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Deterrents",
+      "x": "Policy unpredictability, retrospective-tax memory, land/labour frictions, and dispute-resolution delays temper gross **FDI** (net **FDI** has moderated on repatriation/round-tripping)."
+     },
+     {
+      "k": "Enablers needed",
+      "x": "Stable tax regime, faster arbitration, ease-of-doing-business at the state level, and sectoral liberalisation (insurance, defence)."
+     }
+    ]
+   }
+  ],
+  "conc": "Predictability and factor-market reform, not just market size, unlock **FDI**'s full potential."
+ },
+ "gs3-19-b1": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Risks",
+      "x": "Oil-price shocks, global-rate cycles, portfolio-flow ('hot money') reversals and geopolitical fragmentation."
+     },
+     {
+      "k": "Toolkit",
+      "x": "~$**700 bn** forex reserves, flexible exchange rate, macro-prudential norms, currency-swap lines, and rupee-internationalisation to reduce dollar dependence."
+     }
+    ]
+   }
+  ],
+  "conc": "Adequate buffers plus prudent capital-account management keep external stability intact amid global turbulence."
+ },
+ "gs3-20": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The MoSPI's revision of the GDP base year (2011–12 → 2022–23, new series due 2026) aims to reflect the economy's changed structure — but reopens long-standing measurement debates."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Why update",
+      "x": "A current base captures new sectors (digital, platforms, renewables), updated consumption baskets and better data sources — improving accuracy for policy."
+     },
+     {
+      "k": "Informal-economy gap",
+      "x": "~90% of workers are informal; proxy-based estimation (using formal-sector data post-demonetisation/**GST**) may mismeasure output."
+     },
+     {
+      "k": "Digital-economy capture",
+      "x": "Free digital services, gig work and data-driven value are hard to price in conventional national accounts."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Better statistics: Strengthen the statistical system (revamped surveys, administrative data, satellite/night-lights), timely **PLFS**/**HCES**, and an empowered National Statistical Commission."
+  ],
+  "conc": "Credible, timely data is a public good — sound measurement is the foundation of sound policy."
+ },
+ "gs3-20-b0": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Unpaid care work — done overwhelmingly by women (Time Use Survey: ~7 hrs/day vs men's ~2.7) — is invisible in GDP though it subsidises the entire economy."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Recognise",
+      "x": "Time-use surveys and satellite accounts to value unpaid work (estimated at a large share of GDP)."
+     },
+     {
+      "k": "Reduce & redistribute",
+      "x": "Care infrastructure — crèches (Palna), elderly care, water/fuel access — frees women's time for paid work, raising female **LFPR**."
+     }
+    ]
+   }
+  ],
+  "conc": "Monetising and sharing care work is both a gender-justice and a growth imperative."
+ },
+ "gs3-20-b1": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Cost impact",
+      "x": "Russian crude (peaked at ~35–40% of imports) offered steep discounts; pivoting (post-US deal) raises the import bill, **CAD** and inflation risk."
+     },
+     {
+      "k": "Adjustment",
+      "x": "Diversify sourcing (US, Gulf, Guyana), accelerate the energy transition and strategic petroleum reserves to cushion the price shock."
+     }
+    ]
+   }
+  ],
+  "conc": "Energy security now requires balancing geopolitical alignment against the arithmetic of the oil-import bill."
+ },
+ "gs3-21": {
+  "directive": "discuss",
+  "intro": [
+   {
+    "t": "data",
+    "x": "India is the world's largest producer (**~25%**) and consumer of pulses, yet imports **15-20%** of demand — a self-sufficiency gap the **Mission for Aatmanirbharta in Pulses** (Budget 2025-26) targets over six years."
+   }
+  ],
+  "body": [
+   {
+    "h": "Why the deficit persists",
+    "p": [
+     {
+      "k": "Yield stagnation",
+      "x": "Pulse yields have barely moved in decades and trail global averages, so output gains came from area, not productivity."
+     },
+     {
+      "k": "Rainfed marginality",
+      "x": "The bulk of pulse area is unirrigated and pushed to marginal lands, making output monsoon-hostage.",
+      "ex": "Madhya Pradesh, Rajasthan, Maharashtra"
+     },
+     {
+      "k": "Policy tilt against pulses",
+      "x": "Assured **MSP** procurement and subsidised power, water and fertiliser favoured rice-wheat, making pulses the riskier choice."
+     },
+     {
+      "k": "Price volatility",
+      "x": "Thin markets swing between farmer-crushing gluts and consumer-hitting spikes, deterring acreage commitment."
+     }
+    ]
+   },
+   {
+    "h": "Mission design",
+    "p": [
+     {
+      "k": "Assured procurement",
+      "x": "**100%** procurement of tur, urad and masoor at **MSP** by **NAFED** and **NCCF** through registered farmers — de-risking the price side first.",
+      "ex": "Four-year procurement guarantee"
+     },
+     {
+      "k": "Agronomic push",
+      "x": "Climate-resilient, short-duration and higher-yield varieties with certified seed hubs and mini-kits.",
+      "ex": "**ICAR** varieties; seed hubs"
+     },
+     {
+      "k": "Area expansion",
+      "x": "Targeting **rice-fallow** lands and intercropping, exploiting pulses' nitrogen-fixing role to cut fertiliser demand."
+     },
+     {
+      "k": "Ecological co-benefit",
+      "x": "Pulses restore soil nitrogen and use far less water than paddy — an adaptation and a fiscal saving simultaneously."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "A predictable **MSP**-plus-market price band with buffer stocking to stabilise both ends",
+   "Calibrate tariffs and quotas by season so import timing protects farmers without stoking food inflation",
+   "Link procurement to **POSHAN** and **PDS** pulse distribution to guarantee offtake"
+  ],
+  "conc": "Pulse self-sufficiency is simultaneously a nutrition-security, soil-health and import-substitution win — the rare intervention where farmer income, public health and the current account move together.",
+  "flash": [
+   "largest producer ~25%, imports 15-20%",
+   "yield stagnation + rainfed marginality",
+   "MSP tilt favours rice-wheat",
+   "100% NAFED/NCCF procurement, tur-urad-masoor",
+   "rice-fallow + nitrogen fixation"
+  ]
+ },
+ "gs3-22": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The 2026 India–US deal's agricultural market-opening (soybean oil, DDGs, tree nuts, apples) tested India's most sensitive red line — protecting ~45% of the workforce dependent on farming and its food security."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Income vulnerability",
+      "x": "Subsidised imports from advanced economies (whose farm subsidies dwarf India's) can depress domestic prices, hitting small and marginal farmers' incomes."
+     },
+     {
+      "k": "Food & livelihood security",
+      "x": "Unlike commercial exporters, Indian farming is a subsistence base; liberalisation risks dairy, edible oil and cereal self-reliance."
+     },
+     {
+      "k": "WTO asymmetry",
+      "x": "Developed nations' Green/Blue-box subsidies escape limits, while India's **MSP**/public stockholding faces the 10% de minimis Amber-box cap and the 'peace clause' dispute."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Defend policy space: Pursue a permanent public-stockholding solution, special safeguard mechanism (**SSM**) for import surges, and tariff-rate quotas instead of blanket cuts.",
+   "Competitiveness: Raise productivity, value-addition and geographical-indication exports so trade becomes an opportunity, not a threat."
+  ],
+  "conc": "India must integrate with world agriculture on its own terms — defending the farmer's livelihood while leveraging export strengths."
+ },
+ "gs3-22-b0": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "A legal guarantee of **MSP** for all 23 notified crops — a core farmer demand — raises feasibility, fiscal and **WTO** questions."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Fiscal & market cost",
+      "x": "Guaranteeing purchase or price could cost several lakh crore, distort cropping toward paddy/wheat, and strain storage."
+     },
+     {
+      "k": "WTO constraint",
+      "x": "Price support counts as trade-distorting Amber-box subsidy against the 10% de minimis limit — inviting disputes."
+     },
+     {
+      "k": "Alternatives",
+      "x": "Price-deficiency payments (Bhavantar), deficiency-linked **DBT**, and diversified procurement of pulses/oilseeds/millets."
+     }
+    ]
+   }
+  ],
+  "conc": "Income security for farmers is legitimate; the instrument must be fiscally and **WTO**-sustainable."
+ },
+ "gs3-23": {
+  "directive": "explain",
+  "intro": [
+   {
+    "t": "data",
+    "x": "Horticulture output (**~355 mt**) now exceeds foodgrain production — the 'Golden Revolution' marking a structural shift from calorie security toward high-value, nutrition-rich agriculture."
+   }
+  ],
+  "body": [
+   {
+    "h": "Drivers of the shift",
+    "p": [
+     {
+      "k": "Demand pull",
+      "x": "Rising incomes, urbanisation and dietary diversification raise demand for fruits, vegetables, dairy and protein faster than for cereals."
+     },
+     {
+      "k": "Profitability",
+      "x": "Per-hectare returns from horticulture far exceed cereals, and export markets reward quality and **GI** provenance.",
+      "ex": "Alphonso, Bhagalpur zardalu"
+     },
+     {
+      "k": "Policy and technology",
+      "x": "**MIDH**, protected cultivation, micro-irrigation and cold chains reduced the risk premium on perishables.",
+      "ex": "**Operation Greens** for tomato-onion-potato"
+     },
+     {
+      "k": "Resource logic",
+      "x": "In water-stressed belts, horticulture yields more income per drop than paddy — a rational response to falling water tables."
+     }
+    ]
+   },
+   {
+    "h": "Accelerating it without risking cereal security",
+    "p": [
+     {
+      "k": "De-risk the market",
+      "x": "Assured offtake through **FPOs**, contract farming and **e-NAM** so diversification does not mean price exposure."
+     },
+     {
+      "k": "Close the post-harvest gap",
+      "x": "Losses in perishables remain high for want of cold chain, grading and processing — the single largest value leak."
+     },
+     {
+      "k": "Protect the cereal base",
+      "x": "Sustain buffer stocks and shift marginal cereal land, not the irrigated foodbowl; incentivise **Shree Anna** millets as the nutritional bridge."
+     },
+     {
+      "k": "Sequence with credit and insurance",
+      "x": "Perishables need tailored crop insurance and working capital, absent from cereal-designed instruments."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Scale **Operation Greens** style price stabilisation to more crops",
+   "Cluster-based development linking production to processing and export infrastructure"
+  ],
+  "conc": "Diversification raises farm incomes and dietary quality — but it must be market-backed and infrastructure-led, or it merely converts price risk into perishability risk.",
+  "flash": [
+   "~355 mt horticulture > foodgrain",
+   "Golden Revolution",
+   "MIDH + Operation Greens",
+   "post-harvest loss = biggest leak",
+   "Shree Anna as nutritional bridge"
+  ]
+ },
+ "gs3-24": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Agri-**DPI** — the **AgriStack** farmer registry (targeting **~11 cr** Farmer IDs), the **Digital Agriculture Mission**, Krishi-DSS and Bharat-VISTAAR advisories — extends India's **JAM**-and-**UPI** playbook to farming."
+   }
+  ],
+  "body": [
+   {
+    "h": "How DPI reshapes farming",
+    "p": [
+     {
+      "k": "Three foundational registries",
+      "x": "Farmer registry, geo-referenced village maps and a crop-sown registry together make the individual plot legible to the state and to lenders."
+     },
+     {
+      "k": "Precision productivity",
+      "x": "Geo-tagged soil-and-weather AI advisories and **Digital Crop Survey** replace blanket package-of-practice guidance with plot-level advice."
+     },
+     {
+      "k": "Frictionless credit",
+      "x": "A verifiable Farmer **ID** enables paperless **Kisan Credit Card** lending, cutting collateral friction and informal-lender dependence."
+     },
+     {
+      "k": "Market linkage",
+      "x": "**e-NAM** integration, quality grading and traceability improve price discovery and open export markets demanding provenance."
+     },
+     {
+      "k": "Targeted delivery",
+      "x": "Crop-sown data allows parametric insurance and **DBT** subsidies to be released on verified sowing rather than on self-declaration."
+     }
+    ]
+   },
+   {
+    "h": "Risks and gaps",
+    "p": [
+     {
+      "k": "Land-record dependency",
+      "x": "AgriStack inherits the quality of state land records; unrecorded tenants and sharecroppers risk being formally excluded from benefits."
+     },
+     {
+      "k": "Data privacy and consent",
+      "x": "Farm data is commercially valuable; consent architecture under the **DPDP Act, 2023** must prevent agri-input firms capturing it."
+     },
+     {
+      "k": "Digital divide",
+      "x": "Small, elderly and women farmers need assisted access, or DPI widens rather than closes the capability gap."
+     },
+     {
+      "k": "Federal interoperability",
+      "x": "Agriculture is a State subject; without common standards, state stacks fragment the national registry."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Statutory purpose limitation on farm data with farmer-held consent",
+   "Common Service Centre-based assisted onboarding for small and tenant farmers"
+  ],
+  "conc": "Digital public infrastructure can make small-holder farming knowledge-intensive and bankable — provided the tenant and the illiterate farmer are inside the registry, not outside it.",
+  "flash": [
+   "AgriStack ~11 cr Farmer IDs",
+   "3 registries: farmer, village map, crop-sown",
+   "paperless KCC credit",
+   "DPDP consent + data capture risk",
+   "tenant exclusion risk"
+  ]
+ },
+ "gs3-25": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "With extreme-weather events on the majority of days in 2025, climate volatility — erratic monsoons, heat stress, unseasonal rain — has become the single largest risk to Indian agriculture and food security."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Resilient genetics",
+      "x": "Climate-resilient, heat/drought/flood-tolerant and short-duration varieties (109 released in 2024; genome-edited rice) reduce yield loss."
+     },
+     {
+      "k": "Insurance reform",
+      "x": "**PMFBY** with tech (satellite/drone-based yield estimation, DigiClaim) to speed settlement and cut basis risk."
+     },
+     {
+      "k": "Adaptive practices",
+      "x": "Realigned cropping calendars, agro-advisories, micro-irrigation and crop diversification to agro-climatic zones."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Systemic resilience: Scale climate-resilient villages, restore soil carbon (natural farming), strengthen the Weather Watch/Mission Mausam early-warning, and mainstream **NICRA** research."
+  ],
+  "conc": "Climate-proofing agriculture is central to protecting rural livelihoods and national food security in a warming world."
+ },
+ "gs3-25-b0": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Insurance limits",
+      "x": "**PMFBY** covers yield loss but not price risk, basis risk or long-term adaptation; low voluntary uptake persists."
+     },
+     {
+      "k": "Integrated framework",
+      "x": "Combine insurance with price-deficiency support, weather-indexed products, disaster-risk financing, resilient inputs and diversified incomes (livestock, agroforestry)."
+     }
+    ]
+   }
+  ],
+  "conc": "Risk must be managed across the value chain — insurance is one layer, not the whole shield."
+ },
+ "gs3-26": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**The National Mission** on Natural Farming (**₹2,481 cr**, **~1 cr** farmers, 15,000 clusters) promotes chemical-free, low-cost, agro-ecological farming to restore soil and cut import-dependent input costs."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Cost & ecology",
+      "x": "Eliminating synthetic fertiliser/pesticide (using Jeevamrit/Beejamrit) lowers cultivation cost and restores soil microbiome, water retention and carbon."
+     },
+     {
+      "k": "Farmer resilience",
+      "x": "Lower input debt reduces distress; premium/organic markets and **GI** branding add value."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Yield-transition risk: Initial yield dips deter adoption; needs rigorous evidence, hand-holding, certification (**PGS**/Jaivik Bharat), and market assurance before mass scaling."
+  ],
+  "conc": "Natural farming can align productivity with sustainability — but must be scaled on science, not faith, to protect food security."
+ },
+ "gs3-26-b0": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "IFS model",
+      "x": "Combining crops + livestock + fishery + agroforestry recycles waste-as-input, diversifies income and buffers climate/price shocks."
+     },
+     {
+      "k": "Doubling incomes",
+      "x": "Multiple income streams from the same land raise smallholder viability (Ashok Dalwai Committee)."
+     }
+    ]
+   }
+  ],
+  "conc": "**IFS** turns the small farm into a resilient, circular income system."
+ },
+ "gs3-30": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "India is the world's largest groundwater extractor (~250 bcm/yr); agriculture uses ~80% of water, much of it wasted through flood irrigation of water-intensive paddy/sugarcane in water-scarce regions."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Micro-irrigation",
+      "x": "Per-Drop-More-Crop (**PMKSY**) drip/sprinkler raises water-use efficiency 40–60%; the Micro-Irrigation Fund expands coverage."
+     },
+     {
+      "k": "PMKSY pillars",
+      "x": "Accelerated Irrigation Benefit, watershed development, and command-area development to close the irrigation-potential gap."
+     },
+     {
+      "k": "Supply augmentation",
+      "x": "Reservoir/tank rejuvenation, aquifer recharge (Atal Bhujal in over-exploited blocks) and rainwater harvesting."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Perverse incentives: Free/subsidised farm power drives over-pumping; reform via metering, **DBT**-for-power (Paddy-diversification/**DSR**), solar pumps (PM-KUSUM) and rational water pricing.",
+   "Crop realignment: Shift paddy from Punjab/Haryana toward less thirsty millets/pulses."
+  ],
+  "conc": "Aligning cropping and pricing with water endowment is essential for 'more crop per drop' and long-term food security."
+ },
+ "gs3-27": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Insecure and opaque land records — a legacy of incomplete land reforms — lock up rural capital; **DILRMP**, SVAMITVA and model tenancy laws aim to convert land into a bankable, investable asset."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Digitised titles",
+      "x": "**DILRMP**'s **ULPIN** ('Bhu-Aadhaar') and SVAMITVA property cards (**~2.4 cr** issued) reduce disputes and enable collateralised credit."
+     },
+     {
+      "k": "Tenancy security",
+      "x": "**The Model Agricultural Land Leasing Act** legalises leasing so tenants access credit/insurance while owners retain rights — unlocking fallow land."
+     },
+     {
+      "k": "Investment unlock",
+      "x": "Clear titles crowd in private investment, consolidation and mechanisation."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Lessons from history: Earlier land reforms (tenancy, ceiling, consolidation) succeeded unevenly (Kerala, **WB**) — implementation and political will, not statute, were decisive.",
+   "Conclusive titling: Move from presumptive to conclusive titles with dispute-resolution and **GIS** mapping."
+  ],
+  "conc": "Secure land rights are the missing foundation of agricultural credit, investment and dignity."
+ },
+ "gs3-28": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Food processing bridges farm and factory — raising farmer incomes, cutting the **~₹1.5 lakh** cr post-harvest losses, and generating non-farm rural jobs — yet India processes barely ~10% of its produce."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Scope",
+      "x": "A ~$**500 bn** sector opportunity; value-addition, exports and demand for horticulture/dairy/marine make it a sunrise sector."
+     },
+     {
+      "k": "Scheme thrust",
+      "x": "**PLI-FPI** (**₹10,900 cr**) rewards scale and branding; **PM** Kisan SAMPADA funds mega food parks, cold chains and agro-processing clusters; **PMFME** formalises micro-enterprises (One-District-One-Product)."
+     },
+     {
+      "k": "Employment multiplier",
+      "x": "Labour-intensive and rural-located, it absorbs surplus farm labour."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Bottlenecks: Fragmented supply, cold-chain gaps, credit and skill shortages, and quality/standard compliance.",
+   "Fixes: **FPO**-backbone aggregation, farm-gate infrastructure, **MSME** credit, and market linkage."
+  ],
+  "conc": "A robust food-processing chain is the surest route to doubling farmer incomes and rural industrialisation."
+ },
+ "gs3-29": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**PMGKAY** provides free foodgrains to **~80 cr** people (extended to 2028) — a formidable food-security shield, but one that raises fiscal (**~₹2 lakh** cr/yr) and nutritional-adequacy questions."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Achievement",
+      "x": "The **NFSA** + **PMGKAY** safety net prevented hunger during **COVID** and shocks — a rights-based entitlement (Art. 21)."
+     },
+     {
+      "k": "Fiscal weight",
+      "x": "Open-ended free grain plus rising **MSP** procurement strains the food subsidy and **FCI**'s finances; buffer stocks often exceed norms."
+     },
+     {
+      "k": "Nutrition gap",
+      "x": "Cereal-centric **PDS** delivers calories but not protein/micronutrients — India carries a high malnutrition and anaemia burden (**NFHS-5**)."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Calorie → nutrition: Fortified rice, millets (Shree Anna) and pulses/oil in **PDS**; converge with **POSHAN** Abhiyaan and mid-day meals.",
+   "Efficiency: **DBT**/cash-choice pilots, **ONORC** portability, and procurement diversification beyond wheat/paddy."
+  ],
+  "conc": "Food security must evolve from filling stomachs to nourishing bodies — nutrition security is the next frontier."
+ },
+ "gs3-31": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "With a dedicated Ministry of Cooperation (2021) and the 'Sahkar se Samriddhi' vision, cooperatives and FPOs are being revitalised as vehicles to give India's ~86% small/marginal farmers scale and bargaining power."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "PACS modernisation",
+      "x": "Computerisation of ~63,000 **PACS** and multi-service model bye-laws turn them into rural business hubs (credit, storage, fertiliser, **CSC**)."
+     },
+     {
+      "k": "Decentralised storage",
+      "x": "The **₹1 lakh** cr 'world's largest grain-storage plan' builds godowns at **PACS** level — cutting transport cost and post-harvest loss."
+     },
+     {
+      "k": "FPO aggregation",
+      "x": "The 10,000-**FPO** scheme aggregates produce, enabling collective input purchase, machinery and market access."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Governance: Professionalise management, ensure transparency/audit, and prevent elite capture and political interference."
+  ],
+  "conc": "Cooperation converts smallholder fragmentation into collective strength — 'prosperity through cooperation'."
+ },
+ "gs3-31-b0": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Choice & competition",
+      "x": "e-**NAM** (~1.3k mandis linked), private mandis, direct marketing and FPOs break **APMC** monopsony and middleman margins."
+     },
+     {
+      "k": "Warehousing & finance",
+      "x": "Negotiable warehouse receipts (**WDRA**) let farmers store and borrow, avoiding distress sales."
+     }
+    ]
+   }
+  ],
+  "conc": "Marketing reform shifts price-making power toward the farmer."
+ },
+ "gs3-32": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The Namo Drone Didi scheme (**₹1,261 cr**) equips ~15,000 women SHGs with agri-drones — merging precision agriculture with women's economic empowerment."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Precision & productivity",
+      "x": "Drones enable uniform spraying, seeding and crop monitoring, cutting input use, water and labour while raising efficiency."
+     },
+     {
+      "k": "Women's empowerment",
+      "x": "SHGs earn rental/service income as drone pilots ('Drone Didis'), gaining skills, assets and agency in a male-dominated field."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Enablers: Training, **DGCA**-eased rules, repair ecosystems, and credit; integrate with AgriStack advisories."
+  ],
+  "conc": "Technology in women's hands multiplies both farm productivity and social empowerment."
+ },
+ "gs3-32-b0": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Allied growth",
+      "x": "Livestock/dairy (~30% of agri-**GVA**) and fisheries ('Blue Revolution', **PMMSY**) grow faster than crops and cushion climate risk."
+     },
+     {
+      "k": "Inclusive",
+      "x": "Landless and women-dominated; **Rashtriya Gokul Mission**, dairy cooperatives (Amul model) and **PM** Matsya Sampada raise incomes."
+     }
+    ]
+   }
+  ],
+  "conc": "Allied sectors are the fastest, most inclusive route to rural income diversification."
+ },
+ "gs3-32-b1": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Distortion",
+      "x": "Cheap urea causes over-use, **NPK** imbalance and soil degradation; subsidy (**~₹1.7 lakh** cr) strains the exchequer."
+     },
+     {
+      "k": "Reform",
+      "x": "Nano-urea/nano-**DAP** cut import dependence and runoff; **PM**-**PRANAM** rewards states reducing chemical use; Nutrient-Based Subsidy and soil-health-card-guided application."
+     }
+    ]
+   }
+  ],
+  "conc": "Balanced, tech-led nutrient management protects both soil and the fiscal."
+ },
+ "gs3-32-b2": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Income loss",
+      "x": "Ad-hoc export bans (rice, wheat, onion) to curb domestic inflation depress farm-gate prices, penalising farmers."
+     },
+     {
+      "k": "Reliability cost",
+      "x": "Frequent bans dent India's credibility as a stable supplier, ceding market share."
+     }
+    ]
+   }
+  ],
+  "conc": "A predictable, calibrated trade policy balances consumer inflation against farmer incomes and export credibility."
+ },
+ "gs3-33": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Hosting the **AI Impact Summit** 2026 and adopting the **New Delhi Declaration** marked India's arrival as an AI norm-setter, championing an inclusive, 'AI-for-all', application-led model under the **₹10,371 cr** **IndiaAI Mission**."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Application-led model",
+      "x": "Rather than chase frontier LLMs alone, India leverages AI for public goods — health, agriculture (Bharat-VISTAAR), education, governance and languages (Bhashini) — 'AI for social empowerment'."
+     },
+     {
+      "k": "Compute & data commons",
+      "x": "Subsidised **GPU** compute, AIKosh datasets, indigenous foundation models and the IndiaAI Safety Institute build sovereign capacity."
+     },
+     {
+      "k": "Global South leadership",
+      "x": "**The New Delhi Declaration** and '**MANAV**/AI-for-humanity' framing position India as the Global South's voice on inclusive, safe AI."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Employment disruption: Automation threatens routine IT/**BPO** jobs; needs large-scale reskilling and AI-augmentation, not replacement.",
+   "Privacy & integrity: Deepfakes and AI disinformation threaten elections/social cohesion; enforce **DPDP Act**, content-provenance and platform accountability."
+  ],
+  "conc": "India's wager is that AI can be an equaliser, not a divider — provided guardrails on jobs, privacy and truth keep pace with capability."
+ },
+ "gs3-33-b0": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Full-stack sovereignty",
+      "x": "Compute (GPUs/chips), data (Indian-language corpora), models, talent and safety institutions — not merely a home-grown **LLM**."
+     },
+     {
+      "k": "Strategic autonomy",
+      "x": "Reduce dependence on foreign compute/cloud; secure critical-mineral and semiconductor supply chains that underpin AI."
+     }
+    ]
+   }
+  ],
+  "conc": "AI sovereignty is an ecosystem, spanning silicon to safety — the true measure of technological self-reliance."
+ },
+ "gs3-34": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The unveiling of the first Made-in-India chips in 2025 (from Sanand and Dholera fabs/OSATs) turned the **₹76,000 cr** **India Semiconductor Mission** from ambition to reality; **ISM** 2.0 (~$**13 bn**) now targets equipment, materials and indigenous IP."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Progress",
+      "x": "Approved projects (Micron **OSAT**, Tata–**PSMC** fab at Dholera, **CG** Power, Kaynes, Tata Assembly at Morigaon) anchor a domestic ecosystem across the value chain."
+     },
+     {
+      "k": "Strategic significance",
+      "x": "Chips are the 'new oil' — foundational to AI, defence, EVs, telecom and **DPI**; indigenisation cuts import dependence and supply-chain coercion risk."
+     },
+     {
+      "k": "ISM 2.0 depth",
+      "x": "Moving beyond assembly to equipment, gases/chemicals, design (**DLI** scheme) and **IP** builds resilience and value capture."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Challenges: Water/power-intensive fabs, ultra-pure materials import, talent, and the enormous, patient capital and yield learning-curve.",
+   "Ecosystem: Build the surrounding supplier, design-talent (85,000-engineer target) and R&D ecosystem, not just fabs."
+  ],
+  "conc": "Semiconductor self-reliance is a strategic-autonomy imperative for a digital, AI-driven economy — a marathon India has finally begun to run."
+ },
+ "gs3-37": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Quantum technologies harness superposition and entanglement to leapfrog classical limits; the **₹6,003 cr** **National Quantum Mission** (2023–31) aims to make India one of few nations with indigenous quantum capability."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Three pillars",
+      "x": "Quantum computing (exponential problem-solving via qubits), quantum communication (unhackable **QKD**), and quantum sensing (ultra-precise navigation, imaging)."
+     },
+     {
+      "k": "NQM objectives",
+      "x": "50–1,000-qubit computers, satellite-based secure **QKD**, and four thematic hubs (T-Hubs) in computing, communication, sensing and materials."
+     },
+     {
+      "k": "Strategic edge",
+      "x": "Applications in defence, drug discovery, finance, weather and secure communication."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Cryptographic threat: Quantum computers can break **RSA**/**ECC** encryption ('Q-Day'); India must migrate to post-quantum cryptography and build quantum-secure networks now.",
+   "Talent & fabrication: Invest in quantum hardware, cryogenics and a skilled workforce to avoid import dependence."
+  ],
+  "conc": "Quantum supremacy is the next strategic frontier — leadership here is inseparable from national and cyber security."
+ },
+ "gs3-43": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "India ranks among the top for patent filings and scientific publications, yet gross R&D expenditure (~0.64% of GDP) lags peers (China ~2.4%, Israel ~5%) — a structural weakness the Anusandhan National Research Foundation (**ANRF**) targets."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "The gap",
+      "x": "Under-investment, and a skew where the state funds ~60% while private R&D is thin — the reverse of innovation leaders."
+     },
+     {
+      "k": "ANRF fix",
+      "x": "A **₹50,000 cr** foundation to seed university research and, crucially, crowd in private/philanthropic funding (~70% non-government target)."
+     },
+     {
+      "k": "Deep-tech push",
+      "x": "**The Deep-Tech Startup Policy**, **RDI** scheme (**₹1 lakh** cr corpus) and iDEX support long-gestation innovation in AI, space, biotech and semiconductors."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Ecosystem reform: Ease of doing research, industry–academia linkage, **IP** commercialisation, and raising private R&D through incentives."
+  ],
+  "conc": "A knowledge economy needs research intensity, not just patent counts — **ANRF** is the lever to lift India's innovation frontier."
+ },
+ "gs3-35": {
+  "directive": "discuss",
+  "intro": [
+   {
+    "t": "data",
+    "x": "With **Gaganyaan** (crewed flight ~2027) and the **Bharatiya Antariksha Station** planned by 2035, India joins the small group of nations pursuing independent human spaceflight."
+   }
+  ],
+  "body": [
+   {
+    "h": "Scientific and technological significance",
+    "p": [
+     {
+      "k": "Human-rating capability",
+      "x": "Man-rating the **LVM-3**, crew-escape systems and environmental control and life support are qualitatively harder than satellite launch.",
+      "ex": "Uncrewed test flights; **Vyommitra** robot"
+     },
+     {
+      "k": "Microgravity research",
+      "x": "A national orbital platform enables sustained materials, pharma and biology experiments impossible on short missions."
+     },
+     {
+      "k": "Spin-off technologies",
+      "x": "Advances in materials, robotics, sensors and telemedicine diffuse into healthcare and manufacturing."
+     },
+     {
+      "k": "Stepping stone",
+      "x": "Human-rating feeds directly into the declared goals of a crewed lunar landing by 2040 and sample-return missions.",
+      "ex": "**Chandrayaan-4**"
+     }
+    ]
+   },
+   {
+    "h": "Strategic and economic dimensions",
+    "p": [
+     {
+      "k": "Strategic autonomy",
+      "x": "Independent access to crewed orbit is a marker of great-power capability and hedges dependence on foreign launch."
+     },
+     {
+      "k": "Space economy",
+      "x": "Reforms through **IN-SPACe** and **NSIL** plus liberalised **FDI** aim to expand India's space economy several-fold this decade.",
+      "ex": "Private launch and satellite startups"
+     },
+     {
+      "k": "Cost-effectiveness as soft power",
+      "x": "India's frugal-engineering record makes it a credible partner for developing-country space programmes."
+     },
+     {
+      "k": "Persisting challenges",
+      "x": "Reliability and crew safety, sustained funding against a modest space budget, deep-space communications and astronaut-training depth."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Institutionalise a human-spaceflight safety-certification authority independent of the mission team",
+   "Deepen private participation in components and ground systems so **ISRO** concentrates on frontier R&D"
+  ],
+  "conc": "Human spaceflight is where scientific ambition, strategic autonomy and industrial capability converge — Gaganyaan's real return is the ecosystem it forces India to build.",
+  "flash": [
+   "Gaganyaan ~2027, BAS by 2035",
+   "human-rated LVM-3, crew escape, ECLSS",
+   "Vyommitra; Chandrayaan-4",
+   "IN-SPACe + NSIL + FDI reform",
+   "crewed Moon 2040 goal"
+  ]
+ },
+ "gs3-35-b0": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Reforms since 2020 opened space to private players via **IN**-SPACe (single-window authoriser), **NSIL** (commercial arm) and 100% **FDI**."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "SpaDeX milestone",
+      "x": "India's successful in-space docking made it the fourth nation with the capability — vital for **BAS**, refuelling and debris removal."
+     },
+     {
+      "k": "Private economy",
+      "x": "~250+ space startups (Skyroot, Agnikul, Pixxel); target to raise India's global space-economy share from ~2% to ~8%."
+     }
+    ]
+   }
+  ],
+  "conc": "Public–private synergy is transforming **ISRO**'s monopoly into a vibrant NewSpace economy."
+ },
+ "gs3-36": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The **₹20,000 cr** **Nuclear Energy Mission** (Budget 2025) targets **100 GW** of nuclear capacity by 2047 (from **~8 GW**) — with Small Modular Reactors and long-awaited legal reforms to draw private and foreign capital as pillars of the clean-energy transition."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Clean baseload",
+      "x": "Nuclear provides firm, dispatchable, low-carbon power that complements variable solar/wind — essential for grid stability and net-zero-2070."
+     },
+     {
+      "k": "SMR/BSMR bet",
+      "x": "Bharat Small Modular Reactors (**~200 MW**) can repurpose retiring thermal sites and power hard-to-abate industry."
+     },
+     {
+      "k": "Legal enablers",
+      "x": "Amending the **Atomic Energy Act, 1962** and the **CLND Act, 2010** (softening supplier liability) unlocks private and foreign participation."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Concerns: Supplier-liability dilution vs Bhopal-shaped accountability; safety, waste disposal, cost/time overruns, and fuel (uranium) security.",
+   "Safeguards: An empowered, independent regulator (**NSRA**), robust liability, and public trust/siting consent."
+  ],
+  "conc": "Nuclear energy is indispensable to a reliable clean-energy mix — but its expansion must not trade safety and accountability for speed."
+ },
+ "gs3-39": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Operation Sindoor (May 2025) validated indigenous systems — the Akashteer air-defence control network, Akash SAMs and precision munitions — showcasing how Atmanirbharta in defence directly shapes deterrence."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Combat-proven indigenisation",
+      "x": "Domestic air-defence, drones and electronic warfare performed decisively, reducing reliance on imports and vindicating **DRDO**/**DPSU** ecosystems."
+     },
+     {
+      "k": "Mission Sudarshan Chakra",
+      "x": "A national multi-layered air-and-missile-defence shield (targeted ~2035) to protect strategic/civilian assets — an 'Iron Dome-plus' for India."
+     },
+     {
+      "k": "Deterrence economics",
+      "x": "Defence production crossed **~₹1.5 lakh** cr and exports **~₹24,000 cr**; self-reliance ensures wartime supply security."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Sustain the edge: Deepen R&D, private participation (iDEX, DcPP), critical-technology (jet engines, semiconductors) gaps, and escalation-control doctrine."
+  ],
+  "conc": "Technological self-reliance is the backbone of credible deterrence — Atmanirbharta in defence is strategic autonomy in practice."
+ },
+ "gs3-39-b0": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Record numbers",
+      "x": "Defence production **~₹1.5 lakh** cr and exports **~₹24,000 cr** (to ~100 countries) — from a historic import-dependence."
+     },
+     {
+      "k": "Reform stack",
+      "x": "Positive indigenisation lists, ~68% capital budget for domestic procurement, iDEX startups, **DAP-2020**, and corporatised **OFB** (7 DPSUs)."
+     }
+    ]
+   }
+  ],
+  "conc": "From largest arms importer toward a net exporter — a strategic and economic transformation."
+ },
+ "gs3-40": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**LEO** satellite-broadband constellations, the indigenous NavIC navigation system and an earth-observation build-up are moving space from launch-prestige to everyday connectivity and governance."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Connectivity leap",
+      "x": "Satcom can bridge the last-mile digital divide in remote, hilly, island and border regions where terrestrial networks fail."
+     },
+     {
+      "k": "Governance & security",
+      "x": "NavIC aids transport, disaster alerts and defence; **EO** data powers agriculture, urban planning and border monitoring."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Regulatory challenges: Administrative vs auction-based spectrum allocation, security vetting of foreign constellations, data localisation, and orbital-debris/space-traffic management (**IN**-SPACe rules)."
+  ],
+  "conc": "The satcom revolution can universalise connectivity — if regulation balances competition, security and sustainability of orbit."
+ },
+ "gs3-40-b0": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "NISAR capability",
+      "x": "The **NASA-ISRO** **SAR** satellite (2025) images the entire globe every 12 days, detecting cm-scale land/ice deformation through cloud and darkness."
+     },
+     {
+      "k": "Applications",
+      "x": "Early warning for landslides/subsidence (Joshimath-type), flood and crop mapping, glacier and coastline monitoring — a force-multiplier for **DRR**."
+     }
+    ]
+   }
+  ],
+  "conc": "Eyes in the sky turn disaster response from reactive to anticipatory."
+ },
+ "gs3-38": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The BioE3 Policy (Biotechnology for Economy, Environment and Employment) and Biopharma **SHAKTI** reposition biotech from a research niche into a manufacturing-led growth engine, targeting a ~$**300 bn** bioeconomy."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Health security",
+      "x": "Indigenous vaccines, biosimilars, **CAR-T** therapy and diagnostics reduce import dependence and cost ('pharmacy of the world')."
+     },
+     {
+      "k": "Agriculture",
+      "x": "Bio-fertilisers, bio-pesticides, genome-edited and climate-resilient crops raise productivity sustainably."
+     },
+     {
+      "k": "Clean energy & materials",
+      "x": "Bio-manufacturing of bioplastics, biofuels (ethanol blending) and enzymes advances the circular, low-carbon economy."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Enablers: Bio-foundries and bio-AI hubs, regulatory streamlining (**GEAC**/biosafety), skilled talent, and **IP**/ethics frameworks."
+  ],
+  "conc": "Biotechnology unites health, food and climate goals — India's route to a sustainable, high-value bioeconomy."
+ },
+ "gs3-38-b0": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Breakthrough",
+      "x": "India's indigenous **CAR-T** cell therapy (NexCAR19) makes cutting-edge cancer immunotherapy available at a fraction of Western cost."
+     },
+     {
+      "k": "Affordability",
+      "x": "Even at **~₹30 lakh** (vs ~$400,000 abroad), it remains out of reach for most — needs scale, insurance coverage and public funding."
+     }
+    ]
+   }
+  ],
+  "conc": "Frugal biotech innovation can democratise advanced medicine — if paired with access financing."
+ },
+ "gs3-41": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Critical minerals (lithium, cobalt, rare earths, gallium) are the raw material of the energy and digital transition — and a new arena of geopolitical leverage, as China's rare-earth export controls have shown."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Vulnerability",
+      "x": "India imports ~100% of several critical minerals; supply is concentrated (China dominates processing), exposing EVs, electronics, defence and renewables to coercion."
+     },
+     {
+      "k": "NCMM response",
+      "x": "The **₹34,300 cr** **National Critical Mineral Mission** (2025) covers exploration, domestic mining (**MMDR** auctions), recycling, and a stockpile."
+     },
+     {
+      "k": "Overseas & partnerships",
+      "x": "**KABIL**'s acquisitions (Argentina lithium), the Minerals Security Partnership and Quad supply-chain initiatives diversify sourcing."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Urban mining & R&D: E-waste recycling, substitute materials, and processing capacity to move up the value chain, not just mine ore."
+  ],
+  "conc": "Critical-mineral security is foundational to Atmanirbharta in clean energy and strategic technology — a supply-chain imperative."
+ },
+ "gs3-42": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "India became the first country to release genome-edited rice varieties (**DRR** Dhan 100 'Kamala', Pusa **DST** Rice 1) in 2025 — a landmark distinct from controversial transgenic **GM** crops."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Key distinction",
+      "x": "Genome editing (**CRISPR**, **SDN-1**/**SDN-2**) tweaks the plant's own genes without inserting foreign **DNA**, unlike transgenic GM (",
+      "ex": ", Bt cotton) — hence exempted from stringent GM biosafety rules (2022)."
+     },
+     {
+      "k": "Potential",
+      "x": "Higher yield, water-saving, drought/salinity tolerance and shorter duration — advancing climate resilience and food security."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Regulatory concerns: Ensuring off-target-effect safety, transparent labelling, biosafety oversight, farmers' seed rights, and public trust to avoid the **GM**-crop backlash."
+  ],
+  "conc": "Genome editing offers **GM**'s promise without its transgenic risks — a calibrated, science-based framework can make it a food-security tool."
+ },
+ "gs3-44": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Antimicrobial resistance (**AMR**) — projected to cause ~10 mn deaths a year globally by 2050 — is a 'silent pandemic' where microbes outsmart our drugs, and India is a hotspot."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Human-health drivers",
+      "x": "Over-the-counter sale, over-prescription, incomplete courses and weak infection control."
+     },
+     {
+      "k": "Animal & environment",
+      "x": "Antibiotics as growth-promoters in poultry/livestock/aquaculture, and pharmaceutical effluent contaminating water."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "One Health approach: Integrated human–animal–environment surveillance, the **National Act**ion Plan on **AMR**, the Red Line campaign, antibiotic stewardship, new-drug R&D, and effluent norms."
+  ],
+  "conc": "Containing **AMR** needs a whole-of-society One Health response — safeguarding the miracle of antibiotics for future generations."
+ },
+ "gs3-44-b0": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Storage imperative",
+      "x": "As renewables hit 50% of capacity, battery/pumped storage is the 'real frontier' for round-the-clock clean power and grid stability."
+     },
+     {
+      "k": "Value chain",
+      "x": "**PLI-ACC** (**₹18,100 cr**), **VGF** for **BESS**, critical-mineral security and battery recycling to build an indigenous, circular ecosystem."
+     }
+    ]
+   }
+  ],
+  "conc": "Storage is the linchpin that converts renewable capacity into reliable energy."
+ },
+ "gs3-44-b1": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Samudrayaan",
+      "x": "The **₹4,077 cr** **Deep Ocean Mission**'s Matsya-6000 submersible aims to send humans to 6,000 m — for polymetallic-nodule and rare-earth exploration."
+     },
+     {
+      "k": "Blue economy",
+      "x": "Deep-sea minerals, biodiversity, ocean-energy and desalination, plus strategic presence in the Indian Ocean."
+     }
+    ]
+   }
+  ],
+  "conc": "The deep ocean is the next resource and strategic frontier of the blue economy."
+ },
+ "gs3-45": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "COP30 at Belém (Nov 2025), the first **COP** in the Amazon, delivered the 'Global Mutirão' (collective-effort) package but disappointed on the two issues that matter most to the developing world — adequate finance and a credible fossil-fuel exit."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Global Mutirão",
+      "x": "A political package bridging finance, trade and the 1.5°C goal, plus the 'Belém-to-Baku' roadmap toward the $1.3-trillion climate-finance goal."
+     },
+     {
+      "k": "Adaptation finance",
+      "x": "A call to triple adaptation finance by 2035 — but the baseline was dropped and the timeline slipped from 2030, diluting ambition."
+     },
+     {
+      "k": "Just Transition Mechanism",
+      "x": "A new institutional mechanism for technical support and cooperation on equitable transitions — a genuine win for the Global South."
+     },
+     {
+      "k": "No fossil-fuel roadmap",
+      "x": "Despite 80+ countries' backing, the final text omitted a phase-out roadmap — a major gap, deferred to voluntary processes."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "India's stance: India (via negotiator Chandni Raina) pressed Article 9.1 — that developed nations 'shall provide' public finance — and defended **CBDR-RC** and equity against burden-shifting onto developing countries."
+  ],
+  "conc": "COP30 advanced adaptation and just-transition, but climate justice demands that finance and historical responsibility, not rhetoric, drive the transition."
+ },
+ "gs3-46": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "data",
+    "x": "India crossed **50%** non-fossil installed power capacity in 2025, meeting its **Panchamrit**/**NDC** target five years early — but installed capacity and actual generation are very different measures."
+   }
+  ],
+  "body": [
+   {
+    "h": "The capacity-generation gap",
+    "p": [
+     {
+      "k": "Capacity factor asymmetry",
+      "x": "Non-fossil sources are **~50%** of capacity but only about a quarter of generation, because solar and wind run at far lower capacity utilisation than thermal."
+     },
+     {
+      "k": "Coal still carries baseload",
+      "x": "Thermal continues to supply the bulk of actual electricity, especially at evening peak when solar output is zero."
+     },
+     {
+      "k": "Curtailment and must-run",
+      "x": "Grid constraints force curtailment of renewable output even when available, wasting installed capacity."
+     },
+     {
+      "k": "Measurement optics",
+      "x": "Headline capacity share flatters progress; emissions track generation, so the **NDC** emissions-intensity goal is the harder test."
+     }
+    ]
+   },
+   {
+    "h": "What closing it requires",
+    "p": [
+     {
+      "k": "Storage as the binding constraint",
+      "x": "Round-the-clock clean supply needs battery and pumped storage at scale — the real bottleneck, not more panels.",
+      "ex": "**FDRE** and storage-linked tenders"
+     },
+     {
+      "k": "Transmission and flexibility",
+      "x": "Inter-regional evacuation and flexible balancing capacity are needed to move western solar to eastern demand.",
+      "ex": "**Green Energy Corridor**"
+     },
+     {
+      "k": "DISCOM finances",
+      "x": "Distribution utilities' losses make them unbankable offtakers, raising the cost of renewable capital and triggering **PPA** renegotiation risk."
+     },
+     {
+      "k": "Demand-side shift",
+      "x": "Time-of-day tariffs and electrification of transport and cooking can move demand toward solar hours."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Tender storage-linked round-the-clock capacity rather than raw megawatts",
+   "Complete **RDSS**-led DISCOM reform so clean power has a solvent buyer"
+  ],
+  "conc": "The next leap is not more megawatts but more clean electrons — integration, storage and distribution reform now matter more than headline capacity.",
+  "flash": [
+   "50% capacity, ~25% generation",
+   "capacity factor asymmetry",
+   "curtailment despite must-run",
+   "storage = binding constraint",
+   "DISCOM solvency gates capital"
+  ]
+ },
+ "gs3-46-b0": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Grid & storage",
+      "x": "Smart grids, inter-regional transmission and grid-scale storage to absorb variable renewables without instability."
+     },
+     {
+      "k": "Green hydrogen",
+      "x": "**The National Green Hydrogen Mission** (**₹19,744 cr**) decarbonises steel, fertiliser and refining, and stores surplus renewable energy."
+     }
+    ]
+   }
+  ],
+  "conc": "Integration infrastructure, not generation capacity, now defines transition success."
+ },
+ "gs3-47": {
+  "directive": "explain",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The **Carbon Credit Trading Scheme** (**CCTS**), notified under the **Energy Conservation (Amendment) Act, 2022**, creates India's compliance carbon market, now entering its **GHG**-intensity target phase."
+   }
+  ],
+  "body": [
+   {
+    "h": "Architecture",
+    "p": [
+     {
+      "k": "Two mechanisms",
+      "x": "A **compliance** market where obligated entities must meet **GEI** targets or buy credits, and an **offset** market for voluntary non-obligated projects."
+     },
+     {
+      "k": "Intensity, not absolute cap",
+      "x": "Targets are set per unit of output, so the scheme accommodates growth — a deliberate design choice for a developing economy."
+     },
+     {
+      "k": "Successor to PAT",
+      "x": "Builds on **Perform-Achieve-Trade** energy-savings certificates, moving from energy efficiency to greenhouse-gas intensity."
+     },
+     {
+      "k": "Institutional design",
+      "x": "**BEE** administers, the National Steering Committee sets direction, and power exchanges host trading with the **Grid Controller** as registry."
+     },
+     {
+      "k": "Hard-to-abate focus",
+      "x": "Steel, cement, aluminium, fertiliser, pulp and refining — sectors where electrification alone cannot deliver deep cuts."
+     }
+    ]
+   },
+   {
+    "h": "Effectiveness and risks",
+    "p": [
+     {
+      "k": "Price signal risk",
+      "x": "Over-allocation of targets would collapse the carbon price and destroy the abatement incentive, as early **EU ETS** phases showed."
+     },
+     {
+      "k": "MRV integrity",
+      "x": "Credibility rests on robust monitoring, reporting and verification and accredited third-party auditors; weak MRV invites greenwashing."
+     },
+     {
+      "k": "CBAM interaction",
+      "x": "A credible domestic carbon price lets Indian exporters offset the **EU**'s border adjustment, retaining revenue in India rather than paying it abroad."
+     },
+     {
+      "k": "International linkage",
+      "x": "Alignment with **Paris Agreement Article 6** rules is needed to avoid double counting and enable future credit export."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Publish a transparent target-setting methodology and a price floor to protect the signal",
+   "Pair the market with **CCUS** and green-hydrogen incentives for genuinely hard-to-abate residual emissions"
+  ],
+  "conc": "A well-designed carbon market makes decarbonisation profitable rather than punitive — turning India's climate obligation into an industrial competitiveness strategy.",
+  "flash": [
+   "CCTS under EC (Amdt) Act 2022",
+   "compliance + offset mechanisms",
+   "GEI intensity targets, not absolute cap",
+   "successor to PAT; BEE administers",
+   "CBAM offset + Article 6 linkage"
+  ]
+ },
+ "gs3-48": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "India's climate strategy rests on net-zero by 2070, its updated **NDC** (45% emission-intensity cut by 2030, 50% non-fossil capacity) and the LiFE (Lifestyle for Environment) movement — pairing supply-side transition with demand-side sufficiency."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Sectoral pathways",
+      "x": "Power (renewables + nuclear + green hydrogen), transport (EVs, biofuels, rail), industry (**CCTS**, **CCUS**), and buildings/efficiency."
+     },
+     {
+      "k": "LiFE",
+      "x": "A behavioural, 'pro-planet-people' approach — mindful consumption as a mitigation lever, an Indian civilisational contribution to climate action."
+     },
+     {
+      "k": "Finance gap",
+      "x": "The transition needs an estimated ~$10 trillion by 2070; domestic finance alone is inadequate."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Equity arguments: **CBDR-RC**, historical responsibility, low per-capita emissions, the right to development, and the demand for adequate climate finance and technology transfer from the Global North."
+  ],
+  "conc": "India seeks a just transition — climate responsibility matched by climate justice, growth and equity held together."
+ },
+ "gs3-49": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Despite the **National Clean Air Programme** (**NCAP**) and **GRAP**, North Indian cities record hazardous winter **AQI** year after year — India hosts several of the world's most polluted cities — exposing a governance, not knowledge, failure."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Fragmented jurisdiction",
+      "x": "City-by-city, agency-by-agency action ignores that pollution is regional — vehicular, industrial, stubble-burning and dust sources cross municipal and state lines."
+     },
+     {
+      "k": "Weak enforcement",
+      "x": "**GRAP** is reactive and episodic; **NCAP**'s **PM**-reduction targets lack legal teeth and stable funding."
+     },
+     {
+      "k": "Source complexity",
+      "x": "Multiple sectors (transport, power, agriculture, construction) need simultaneous action, not siloed fixes."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Airshed approach: Manage pollution at the airshed/regional level (the Commission for Air Quality Management model), with source-apportionment-based, multi-sectoral, legally-backed plans.",
+   "Structural fixes: Clean fuels, public transport, ex-situ stubble use (bio-**CNG**, pusa decomposer), and continuous monitoring with accountability."
+  ],
+  "conc": "Clean air needs airshed governance and health-based standards — treating breathing clean air as an enforceable right (Art. 21)."
+ },
+ "gs3-50": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "With the global plastics treaty negotiations (**INC**) stalling, national action carries the burden — India banned identified single-use plastics (July 2022) and mandated Extended Producer Responsibility (**EPR**) for plastic packaging."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "SUP ban",
+      "x": "Prohibits low-utility, high-littering items (straws, cutlery, thin bags) — but enforcement is patchy against cheap, ubiquitous alternatives and informal producers."
+     },
+     {
+      "k": "EPR mandate",
+      "x": "Makes producers/importers/brand-owners responsible for collecting and recycling packaging waste, via a credit-based online portal."
+     },
+     {
+      "k": "Gaps",
+      "x": "Weak monitoring, fake **EPR** certificates, low recycling infrastructure, and the dominance of multilayered plastics."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Strengthen **EPR**: Robust **MRV**, deposit-refund systems, plastic-credit integrity, alternatives (compostables), and integrating the informal waste-picker sector."
+  ],
+  "conc": "In the treaty's absence, credible **EPR** and a circular-economy shift are India's frontline against the plastic crisis."
+ },
+ "gs3-50-b0": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "E-waste & battery EPR",
+      "x": "India is a top e-waste generator; **EPR** rules (2022) and Battery Waste Rules mandate producer take-back and recycling targets."
+     },
+     {
+      "k": "Urban mining",
+      "x": "Recovering critical minerals (gold, copper, lithium, cobalt) from waste reduces import dependence and closes the loop."
+     }
+    ]
+   }
+  ],
+  "conc": "The circular economy turns waste into a resource and a strategic-mineral supply."
+ },
+ "gs3-51": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The Van (Sanrakshan Evam Samvardhan) Adhiniyam, 2023 — which eased clearances for infrastructure near borders and on certain lands — reignited the conservation–development debate, later shaped by the Supreme Court's insistence on the wide Godavarman 'dictionary' definition of forest."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Development rationale",
+      "x": "Strategic border infrastructure (against China) and connectivity require land; the amendment offers exemptions within **100 km** of borders and for security projects."
+     },
+     {
+      "k": "Conservation concern",
+      "x": "Exemptions risk diluting the T.N. Godavarman (1996) protection of all forests, threatening biodiversity, carbon sinks and climate goals."
+     },
+     {
+      "k": "Community rights",
+      "x": "Tension with the **Forest Rights Act, 2006** (gram-sabha consent) and tribal/forest-dweller livelihoods."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Reconciliation: Science-based, transparent **EIA**; compensatory afforestation of quality (not just quantity); gram-sabha consent; and 'net-gain' biodiversity offsets."
+  ],
+  "conc": "Security and ecology are not opposites — sustainable development and community stewardship can secure both the border and the forest."
+ },
+ "gs3-51-b0": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Drivers",
+      "x": "Habitat fragmentation, corridor loss, linear infrastructure and shrinking prey drive elephants/leopards into human areas; the latest elephant census shows worrying regional declines."
+     },
+     {
+      "k": "Coexistence",
+      "x": "Secure corridors, early-warning tech, eco-development committees, timely compensation, and Project Elephant/Tiger landscape management."
+     }
+    ]
+   }
+  ],
+  "conc": "Coexistence needs connected habitats and shared stakes for local communities."
+ },
+ "gs3-52": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "With ~91 Ramsar sites — Asia's largest network — India recognises wetlands as vital 'kidneys of the landscape', yet urban wetlands continue to be encroached and degraded."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Ecosystem services",
+      "x": "Flood buffering, groundwater recharge, water purification, carbon storage, biodiversity, fisheries and micro-climate regulation."
+     },
+     {
+      "k": "Framework",
+      "x": "The Wetlands (Conservation and Management) Rules, 2017 embody Ramsar's 'wise use'; Amrit Dharohar promotes conservation-through-livelihoods; the National Plan for Conservation of Aquatic Ecosystems funds restoration."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Gaps & fixes: Poor enforcement, unclear demarcation and urban encroachment persist — needs delineation, brick-wall protection of city wetlands, and integration into urban planning."
+  ],
+  "conc": "Protecting wetlands is climate adaptation and water security in one — natural infrastructure worth preserving."
+ },
+ "gs3-52-b0": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Bio-shields",
+      "x": "Mangroves (**MISHTI** scheme) and wetlands blunt cyclones, storm surges and floods — cost-effective, self-repairing 'green infrastructure'."
+     },
+     {
+      "k": "Limits",
+      "x": "Nature-based solutions cannot substitute for emissions cuts or hard defences in extreme events; must complement, not replace, engineering."
+     }
+    ]
+   }
+  ],
+  "conc": "Nature-based solutions are a powerful, but partial, layer of resilience."
+ },
+ "gs3-53": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "From Joshimath's land subsidence (2023) to the Dharali flash-flood disaster (Aug 2025), recurring catastrophes expose the ecological limits of a young, fragile, seismically-active Himalaya being over-built."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Carrying-capacity breach",
+      "x": "Unregulated construction, hydropower and highways, and mass tourism exceed the load the fragile geology and slopes can bear."
+     },
+     {
+      "k": "Compounding drivers",
+      "x": "Climate change (GLOFs, cloudbursts), deforestation, and slope destabilisation amplify hazard."
+     },
+     {
+      "k": "Planning failure",
+      "x": "Absence of hazard-zonation-based land use and enforcement."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Reform: **SC**-mandated carrying-capacity studies, hazard microzonation, cap on construction/tourists, slope-sensitive engineering, early-warning systems, and eco-sensitive-zone enforcement."
+  ],
+  "conc": "Development in the Himalaya must respect ecological thresholds — resilience, not reckless growth, is the mountain imperative."
+ },
+ "gs3-53-b0": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Marine heatwaves",
+      "x": "Rising SSTs triggered the fourth global coral-bleaching event (2023–25), damaging reefs (Lakshadweep, Gulf of Mannar)."
+     },
+     {
+      "k": "Impacts",
+      "x": "Loss of reef biodiversity, fish nurseries and coastal protection — hitting fisher livelihoods and food security."
+     }
+    ]
+   }
+  ],
+  "conc": "Ocean warming is a slow-onset disaster for coastal ecology and fisheries resilience."
+ },
+ "gs3-54": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "India's environmental regulation faces a paradox — criticised by industry as an obstructive maze and by activists as being progressively diluted — testing the balance between development and protection."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "EIA",
+      "x": "The Environmental Impact Assessment process screens projects, but delays, weak public consultation and post-facto clearances erode credibility."
+     },
+     {
+      "k": "NGT",
+      "x": "The National Green Tribunal (2010) has been a robust, specialised forum enforcing the polluter-pays and precautionary principles."
+     },
+     {
+      "k": "Citizen action",
+      "x": "PILs and the constitutional right to a healthy environment (Art. 21, 48A, 51A-g) empower public oversight."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Balanced reform: Transparent, science-based, time-bound clearances; genuine public consultation; strong monitoring; and neither obstruction nor dilution."
+  ],
+  "conc": "Effective environmental governance is a facilitator of sustainable development, not its adversary."
+ },
+ "gs3-54-b0": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Persistence",
+      "x": "Despite **~₹40,000 cr** Namami Gange, untreated sewage (the largest source), industrial effluent, low **STP** utilisation and non-perennial flow keep rivers polluted."
+     },
+     {
+      "k": "Reforms",
+      "x": "River-basin (not state-wise) governance, ensuring ecological flow, faecal-sludge management, decentralised treatment, and community 'Arth Ganga' stakes."
+     }
+    ]
+   }
+  ],
+  "conc": "River rejuvenation needs basin-level governance and assured flow, not just treatment plants."
+ },
+ "gs3-55": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The **Dharali** flash flood of August 2025 in Uttarkashi — a cloudburst-triggered debris flow that buried a Himalayan settlement — exemplifies the **cascading multi-hazard**, where one trigger sets off a chain of amplifying failures."
+   }
+  ],
+  "body": [
+   {
+    "h": "Anatomy of the cascade",
+    "p": [
+     {
+      "k": "Climatic trigger",
+      "x": "Intense, highly localised cloudbursts, made more frequent by a warming atmosphere holding more moisture, exceed any drainage design."
+     },
+     {
+      "k": "Glacial and paraglacial processes",
+      "x": "Retreating glaciers leave unstable moraine and glacial lakes; **GLOF** and moraine collapse convert water into a sediment-laden debris flow.",
+      "ex": "South Lhonak, Sikkim (2023); Chamoli (2021)"
+     },
+     {
+      "k": "Geological fragility",
+      "x": "Young, tectonically active, steep terrain with loose material is inherently landslide-prone — the Himalaya is still rising."
+     },
+     {
+      "k": "Anthropogenic amplifiers",
+      "x": "Construction on floodplains and **paleo-channels**, slope cutting for roads, and deforestation remove the buffers that once absorbed such events."
+     },
+     {
+      "k": "Exposure concentration",
+      "x": "Pilgrimage and tourism cluster population and buildings precisely in valley floors where debris flows terminate."
+     }
+    ]
+   },
+   {
+    "h": "Governance response",
+    "p": [
+     {
+      "k": "Early warning gaps",
+      "x": "Cloudbursts occur at sub-kilometre scale, below the resolution of the existing Doppler radar network in the high Himalaya."
+     },
+     {
+      "k": "Regulatory failure",
+      "x": "Hazard microzonation exists on paper but rarely binds building approvals or hydropower siting."
+     },
+     {
+      "k": "Carrying capacity",
+      "x": "Joshimath's subsidence showed that settlement growth outran the geological capacity of the slope."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Densify Doppler radar, automatic weather stations and **GLOF** monitoring across Himalayan catchments",
+   "Make hazard microzonation legally binding — no-build zones on paleo-channels and floodplains",
+   "Community-based early warning with last-mile sirens, since lead times are minutes not hours"
+  ],
+  "conc": "Himalayan safety demands anticipatory, science-led governance — building with the mountain's geology rather than against it is now a survival condition, not an environmental preference.",
+  "flash": [
+   "cascading multi-hazard chain",
+   "cloudburst + moraine/GLOF",
+   "paleo-channel construction",
+   "Chamoli 2021, S. Lhonak 2023, Joshimath",
+   "microzonation must bind approvals"
+  ]
+ },
+ "gs3-56": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The Disaster Management (Amendment) Act, 2025 — the first major overhaul of the 2005 Act — recasts India's **DM** architecture around urban risk, data and statutory clarity, responding to a decade of Chennai-to-Dharali disasters."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Urban DM Authorities",
+      "x": "A new Section 41A empowers states to set up UDMAs in state capitals and large municipal cities to plan for urban-specific risks — flooding, heatwaves, fires."
+     },
+     {
+      "k": "Disaster databases",
+      "x": "Mandated national and state disaster databases (risk assessments, mitigation plans, real-time data) to enable evidence-based, anticipatory management."
+     },
+     {
+      "k": "Statutory clarity",
+      "x": "**NDMA**/**SDMA** to prepare (not just approve) plans; the High-Level Committee gets statutory status for **NDRF**/**NDMF** assistance."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Critiques: Fears of centralisation and **NDMA** over-expansion, no notification of heatwaves as a disaster, and capacity/funding gaps at the urban level.",
+   "Way forward: Adequate **ULB** capacity and finance, community participation, and integrating the database with early-warning."
+  ],
+  "conc": "**The Act** rightly shifts focus from relief to preparedness and urban risk — its success hinges on capacitated, empowered local institutions."
+ },
+ "gs3-59": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "India's disaster-risk financing is evolving from a reactive, relief-centric model (**NDRF**/**SDRF**) toward proactive risk-reduction, mitigation and risk-transfer — aligning with the Sendai Framework's prevention focus."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "16th FC push",
+      "x": "**~₹1.55 lakh** cr in **DM** grants, with differentiated 90:10 sharing for Himalayan/**NE** states and dedicated mitigation funds (**NDMF**/SDMF), institutionalising ex-ante financing."
+     },
+     {
+      "k": "Risk transfer",
+      "x": "Parametric insurance (pay-outs triggered by objective thresholds — rainfall, wind speed) enables rapid, dispute-free disbursal, unlike slow indemnity models."
+     },
+     {
+      "k": "Anticipatory action",
+      "x": "Forecast-based financing releases funds before a predicted disaster strikes — cheaper and life-saving."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Deepen instruments: Catastrophe bonds, a national disaster-risk pool, insuring public assets, and linking finance to risk-informed development."
+  ],
+  "conc": "Financing resilience before disaster is far cheaper than financing recovery after it — the fiscally and humanly wiser path."
+ },
+ "gs3-57": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The 2025 floods — from Punjab's basin-wide inundation to recurring metropolitan deluges (Bengaluru, Chennai, Delhi) — exposed how unplanned urbanisation converts ordinary rain into disaster."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Root causes",
+      "x": "Encroached wetlands/floodplains, concretisation reducing infiltration, choked and under-capacity stormwater drains, and climate-intensified cloudbursts."
+     },
+     {
+      "k": "Structural measures",
+      "x": "Restored natural drainage, 'sponge-city' permeable surfaces, rainwater harvesting, retention ponds, and de-silted, mapped drains."
+     },
+     {
+      "k": "Non-structural",
+      "x": "Flood-risk zonation, early-warning (urban flood forecasting), building-bylaw enforcement, and insurance."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Integrate planning: Embed flood-risk in master plans, protect blue-green infrastructure, empower ULBs with the **NDMA** Urban Flooding guidelines, and adopt nature-based drainage."
+  ],
+  "conc": "Flood-resilient cities require planning with water, not against it — mainstreaming risk into every development decision."
+ },
+ "gs3-58": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "As heatwaves emerge as a 'silent disaster' claiming lives across India, **Heat Act**ion Plans (HAPs) — pioneered by Ahmedabad (2013) — are the frontline response, but their adequacy and legal status are contested."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "HAP strengths",
+      "x": "Early-warning colour codes, inter-agency coordination, cooling shelters, work-hour shifts and public advisories have cut heat mortality where implemented well."
+     },
+     {
+      "k": "Weaknesses",
+      "x": "Many HAPs are generic, lack local vulnerability mapping, long-term measures (cool roofs, urban greening) and funding."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Notify as disaster: Heatwaves are not a 'notified disaster' under the **DM Act**, so **SDRF**/NDRF relief and compensation don't automatically apply — notification (or state-level inclusion) would unlock funds and accountability.",
+   "Long-term: Passive cooling, heat-resilient housing, occupational safety, and parametric heat insurance for outdoor workers."
+  ],
+  "conc": "Recognising heat as a disaster — legally and financially — is essential to protect the most exposed outdoor and informal workers."
+ },
+ "gs3-60": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Nearly 59% of India's landmass is earthquake-prone; the **NCR** sits in Seismic Zone **IV**, yet dense, non-engineered construction makes Indian cities acutely vulnerable — as Bhuj (2001) warned."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Vulnerability",
+      "x": "Rapid, unregulated high-rise growth, weak enforcement of seismic building codes (**BIS**/**NBC**), and vast legacy non-compliant stock."
+     },
+     {
+      "k": "Preparedness measures",
+      "x": "Strict enforcement of earthquake-resistant codes, mandatory structural audits and retrofitting of critical buildings (schools, hospitals), and microzonation-based land use."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Readiness: Trained masons, public awareness/mock drills, urban search-and-rescue (**NDRF**), and integrating seismic safety into town planning and Smart Cities."
+  ],
+  "conc": "Earthquakes don't kill — unsafe buildings do; code compliance and retrofitting are the surest life-savers."
+ },
+ "gs3-60-b0": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "First responders",
+      "x": "Communities are the true first responders; Aapda Mitra trains local volunteers in rescue, first-aid and evacuation."
+     },
+     {
+      "k": "Local governance",
+      "x": "PRIs/ULBs, village disaster plans and school safety build ground-up resilience aligned with the Sendai Framework (2015–30)."
+     }
+    ]
+   }
+  ],
+  "conc": "Resilience is built bottom-up — empowered communities are the backbone of disaster preparedness."
+ },
+ "gs3-60-b1": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Prevention failure",
+      "x": "Bhopal (1984), Vizag styrene (2020) and recurring factory blasts reflect lax safety audits, siting near habitation, and weak enforcement."
+     },
+     {
+      "k": "Governance fix",
+      "x": "Rigorous inspections, off-site emergency plans, **MAH**-unit regulation, **PLI Act** insurance, and community right-to-know."
+     }
+    ]
+   }
+  ],
+  "conc": "Industrial safety is a governance and prevention challenge, not merely a response one."
+ },
+ "gs3-61": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Operation Sindoor (May 2025) — India's calibrated strikes on terror infrastructure across the border following the Pahalgam attack — codified a doctrinal shift: cross-border terror is henceforth treated as an act of war inviting conventional retaliation."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "New deterrence doctrine",
+      "x": "Ends the earlier restraint of 'strategic patience'; establishes a 'new normal' that terror attacks will draw punitive conventional responses, raising the cost for the sponsor state."
+     },
+     {
+      "k": "Compellence signal",
+      "x": "De-hyphenates terror from talks and rejects the nuclear-blackmail shield behind which sub-conventional terror operated."
+     },
+     {
+      "k": "Indigenous capability",
+      "x": "Validated by home-grown air-defence (Akashteer) and precision systems — deterrence backed by Atmanirbharta."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Escalation risks: Two nuclear neighbours risk inadvertent escalation; needs robust escalation-control, clear red lines, and crisis-communication.",
+   "Complementary tools: Diplomatic isolation (**FATF**, terror-listing), intelligence and economic pressure alongside the military option."
+  ],
+  "conc": "Credible deterrence must be firm yet controlled — deterring the adversary without stumbling up the escalation ladder."
+ },
+ "gs3-64": {
+  "directive": "analyse",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The **November 2025 Red Fort** car blast, traced to a module of radicalised professionals, exposed 'white-collar' terror — educated, unremarkable individuals with no criminal antecedents."
+   }
+  ],
+  "body": [
+   {
+    "h": "The changing profile",
+    "p": [
+     {
+      "k": "Self-radicalised professionals",
+      "x": "Doctors, engineers and academics recruited online, dissolving the assumed link between deprivation and terrorism."
+     },
+     {
+      "k": "Decentralised modules",
+      "x": "Small autonomous cells and lone actors operate without a command chain, so decapitating leadership does not stop the plot."
+     },
+     {
+      "k": "Digital radicalisation",
+      "x": "Encrypted messaging, propaganda and gaming platforms enable recruitment, indoctrination and tasking without physical contact."
+     },
+     {
+      "k": "New financing routes",
+      "x": "Crypto assets, hawala and crowdfunding replace traceable banking channels."
+     },
+     {
+      "k": "Access to expertise",
+      "x": "Professional training gives such modules chemical, medical and cyber skills far beyond the conventional recruit."
+     }
+    ]
+   },
+   {
+    "h": "Counter-terror implications",
+    "p": [
+     {
+      "k": "Profiling fails",
+      "x": "Absence of antecedents and normal social profiles make surveillance triggers and watchlists ineffective."
+     },
+     {
+      "k": "Intelligence fusion",
+      "x": "Detection now depends on fusing **HUMINT** with **TECHINT** across agencies.",
+      "ex": "**NATGRID**, **MAC**, **NIA**"
+     },
+     {
+      "k": "Federal friction",
+      "x": "Police is a **State** subject while such modules are inter-state and transnational, straining coordination."
+     },
+     {
+      "k": "Rights balance",
+      "x": "Lawful interception and platform accountability must satisfy the proportionality test of **Puttaswamy (2017)**."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Institutionalise de-radicalisation and family-and-community engagement programmes on the Maharashtra and Kerala models",
+   "Invest in counter-narrative capacity and state-police technical capability, not only central agencies"
+  ],
+  "conc": "Countering white-collar terror requires a shift from profiling appearances to tracking ideology and networks — while keeping counter-terrorism inside constitutional limits.",
+  "flash": [
+   "educated, no antecedents, lone-wolf modules",
+   "encrypted + gaming platform radicalisation",
+   "crypto/hawala financing",
+   "NATGRID-MAC-NIA fusion",
+   "Puttaswamy proportionality"
+  ]
+ },
+ "gs3-69": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "During **Operation Sindoor** the information domain became a full theatre of conflict — AI-generated deepfakes and coordinated bot narratives deployed at scale, making cognition itself a target."
+   }
+  ],
+  "body": [
+   {
+    "h": "The threat",
+    "p": [
+     {
+      "k": "Weaponised information",
+      "x": "Deepfakes, doctored videos and fabricated casualty claims can incite communal violence and panic faster than verification can travel."
+     },
+     {
+      "k": "Grey-zone coercion",
+      "x": "Disinformation delivers strategic effect below the threshold of armed conflict, making retaliation legally and politically difficult."
+     },
+     {
+      "k": "Democratic corrosion",
+      "x": "AI disinformation around elections and crises degrades the shared factual basis on which democratic choice depends."
+     },
+     {
+      "k": "Attribution difficulty",
+      "x": "State actors operate through proxies, platforms and bot farms, so responsibility can rarely be proved quickly enough to matter."
+     },
+     {
+      "k": "Scale asymmetry",
+      "x": "Generative tools let a small actor produce and target content at a volume that once required a state broadcaster."
+     }
+    ]
+   },
+   {
+    "h": "Building resilience",
+    "p": [
+     {
+      "k": "Speed of official response",
+      "x": "Rapid, credible official rebuttal and **pre-bunking** work better than post-hoc correction, which rarely reaches the original audience.",
+      "ex": "**PIB Fact Check**"
+     },
+     {
+      "k": "Content provenance",
+      "x": "Cryptographic watermarking and provenance standards let platforms and citizens verify origin at scale."
+     },
+     {
+      "k": "Platform accountability",
+      "x": "**IT Rules, 2021** obligations on traceability and takedown must be balanced against **Shreya Singhal (2015)** free-speech limits."
+     },
+     {
+      "k": "Whole-of-nation posture",
+      "x": "Civil-military-media coordination, media literacy and international cooperation on norms."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Articulate a national information-warfare doctrine assigning clear institutional responsibility",
+   "Mandate provenance labelling for synthetic media and invest in detection research"
+  ],
+  "conc": "In modern conflict the battle for truth is as decisive as the battle for territory — informational resilience is now an element of national security.",
+  "flash": [
+   "Op Sindoor = information theatre",
+   "deepfakes + bot narratives",
+   "grey-zone below armed-conflict threshold",
+   "pre-bunking > post-hoc correction",
+   "IT Rules vs Shreya Singhal balance"
+  ]
+ },
+ "gs3-69-b0": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Hybrid spectrum",
+      "x": "Adversaries blend cyber-attacks, disinformation, economic coercion, proxies and limited kinetic action below the threshold of open war."
+     },
+     {
+      "k": "Whole-of-nation",
+      "x": "Integrated civil–military–private-sector response, resilient critical infrastructure, theatre commands, and societal preparedness."
+     }
+    ]
+   }
+  ],
+  "conc": "Grey-zone threats demand a comprehensive national-security-strategy and whole-of-nation resilience."
+ },
+ "gs3-62": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "data",
+    "x": "With the government's **March 2026** deadline for near-elimination of **Left-Wing Extremism**, affected districts have collapsed from over a hundred to a small residual core — shifting the task from operations to consolidation."
+   }
+  ],
+  "body": [
+   {
+    "h": "Factors behind the decline",
+    "p": [
+     {
+      "k": "SAMADHAN doctrine",
+      "x": "Smart leadership, aggressive strategy, actionable intelligence, technology and choking financing gave a single integrated framework across states."
+     },
+     {
+      "k": "Security-grid dominance",
+      "x": "Fortified police stations, forward operating bases and specialised state forces ended the guerrilla's freedom of movement.",
+      "ex": "**Greyhounds** model"
+     },
+     {
+      "k": "Financial strangulation",
+      "x": "Action against extortion and over-ground networks cut the cadre's logistics and weapons pipeline."
+     },
+     {
+      "k": "Connectivity as counter-insurgency",
+      "x": "Road, telecom tower and banking expansion broke the physical isolation the movement depended on.",
+      "ex": "**Aspirational Districts**; **PM-JANMAN**"
+     },
+     {
+      "k": "Surrender and rehabilitation",
+      "x": "Attractive surrender policies mainstreamed cadres and drained the recruitment pool."
+     }
+    ]
+   },
+   {
+    "h": "Consolidation challenges",
+    "p": [
+     {
+      "k": "Root causes persist",
+      "x": "Land alienation, displacement by mining, and unimplemented **PESA** and **FRA** rights remain the grievances that produced the movement."
+     },
+     {
+      "k": "Governance vacuum",
+      "x": "Security dominance is reversible unless civil administration, courts and schools actually occupy the cleared space."
+     },
+     {
+      "k": "Ideological over-ground network",
+      "x": "Urban sympathiser networks survive military defeat and can regenerate cadre and legitimacy."
+     },
+     {
+      "k": "Rehabilitation credibility",
+      "x": "Surrendered cadres without livelihoods are a standing reserve for revival."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Implement **PESA** and **FRA** in letter — Gram Sabha consent over land and forest is the durable counter-insurgency",
+   "Sustain development spending and local recruitment in 'liberated' districts for a full decade, not a budget cycle"
+  ],
+  "conc": "Winning the developmental and ideological peace, not merely the military battle, is what will make the end of Left-Wing Extremism irreversible.",
+  "flash": [
+   "SAMADHAN doctrine",
+   "fortified police stations + Greyhounds",
+   "road/telecom/banking penetration",
+   "PESA + FRA = root cause",
+   "over-ground network survives defeat"
+  ]
+ },
+ "gs3-63": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Cheap, autonomous and hard to detect, drones have become the defining **asymmetric** threat vector — collapsing the cost of aerial attack while raising the cost of defence."
+   }
+  ],
+  "body": [
+   {
+    "h": "Dimensions of the threat",
+    "p": [
+     {
+      "k": "Cross-border smuggling",
+      "x": "Small payload drones deliver arms, narcotics and cash across the Punjab and Jammu frontier at negligible cost and risk.",
+      "ex": "Rising **BSF** recoveries"
+     },
+     {
+      "k": "Attack and surveillance",
+      "x": "Armed drones can strike installations and conduct persistent reconnaissance below conventional radar coverage.",
+      "ex": "Jammu airbase attack, 2021"
+     },
+     {
+      "k": "Swarm warfare",
+      "x": "Coordinated swarms saturate and exhaust point-defence systems — a lesson from recent conflicts and from **Operation Sindoor**."
+     },
+     {
+      "k": "Non-state accessibility",
+      "x": "Commercial platforms are modified easily, so capability once limited to states is now available to terror modules."
+     },
+     {
+      "k": "Critical-infrastructure risk",
+      "x": "Refineries, airports, nuclear and power installations present undefended aerial approaches."
+     }
+    ]
+   },
+   {
+    "h": "Countermeasures and gaps",
+    "p": [
+     {
+      "k": "Layered counter-UAS",
+      "x": "Detection by radar, **RF** and **EO**/**IR**, then neutralisation by jamming, spoofing or kinetic and directed-energy kill.",
+      "ex": "**DRDO** D-4; Bhargavastra"
+     },
+     {
+      "k": "Integrated air defence",
+      "x": "**Mission Sudarshan Chakra** envisages a national air-and-missile-defence shield absorbing counter-drone capability."
+     },
+     {
+      "k": "The autonomy gap",
+      "x": "Pre-programmed, **RF**-silent drones defeat jamming entirely, forcing reliance on costlier kinetic and laser intercepts."
+     },
+     {
+      "k": "Regulatory gaps",
+      "x": "**Drone Rules, 2021** and Digital Sky govern legitimate operators but cannot reach hostile or unregistered platforms."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Build a networked counter-drone grid over borders and critical infrastructure rather than isolated point defences",
+   "Scale indigenous counter-UAS and directed-energy manufacturing under **PLI** so cost-per-intercept falls"
+  ],
+  "conc": "The drone age demands a matching counter-drone shield — layered, networked and Atmanirbhar — because the side with the cheaper intercept ultimately wins the exchange.",
+  "flash": [
+   "asymmetric: cheap attack, costly defence",
+   "Punjab/Jammu smuggling; 2021 airbase attack",
+   "swarm saturation",
+   "D-4, Bhargavastra, Sudarshan Chakra",
+   "RF-silent autonomy defeats jamming"
+  ]
+ },
+ "gs3-66": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "India's **~15,000 km** land borders with China and Pakistan pose distinct challenges — infiltration and drone-smuggling across the LoC/**IB**, and infrastructure asymmetry along the **LAC** — demanding an integrated border-management strategy."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Technology-led surveillance",
+      "x": "The Comprehensive Integrated Border Management System (**CIBMS**) and smart fencing plug gaps where physical fencing is infeasible."
+     },
+     {
+      "k": "Vibrant Villages Programme",
+      "x": "Develops border villages as 'first line of defence', reversing out-migration along the China frontier through connectivity and livelihoods."
+     },
+     {
+      "k": "Infrastructure catch-up",
+      "x": "**BRO** roads, tunnels, and forward airfields to offset China's **LAC** infrastructure edge."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Persistent gaps: Terrain, tunnels, drone incursions and riverine borders; needs anti-tunnel/anti-drone tech, better **BADP** delivery, and one-force-one-border clarity."
+  ],
+  "conc": "Secure borders rest on technology, infrastructure and empowered border communities working together."
+ },
+ "gs3-66-b0": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Spillovers",
+      "x": "Political churn in Bangladesh, Myanmar's civil war and porous borders enable refugee flows, arms/drug trafficking, insurgent sanctuaries and Chinese influence."
+     },
+     {
+      "k": "Response",
+      "x": "Border fencing, calibrated Free-Movement-Regime review, intelligence-sharing, and development diplomacy to stabilise the periphery."
+     }
+    ]
+   }
+  ],
+  "conc": "A stable neighbourhood is India's first security perimeter."
+ },
+ "gs3-70": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The ethnic conflict in Manipur, erupting in May 2023 between the valley-based Meitei and hill-based Kuki-Zo communities, remains the North-East's gravest security challenge, deepened by Myanmar's instability."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Roots",
+      "x": "Contest over **ST** status, land and forest rights, reserved-forest evictions, demographic anxieties, and the valley–hill divide overlaid on administrative separation."
+     },
+     {
+      "k": "Security implications",
+      "x": "Looted arms, armed militias, buffer-zone division, and a breakdown of state authority (President's Rule, Feb 2025)."
+     },
+     {
+      "k": "Myanmar spillover",
+      "x": "The porous border, Free-Movement Regime, ethnic kinship, and drug/arms flows from Myanmar's civil war fuel the conflict."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Durable peace: Impartial security, disarmament, inter-community dialogue and confidence-building, humanitarian rehabilitation, border management (fencing/**FMR** review), and addressing land/rights grievances."
+  ],
+  "conc": "Lasting peace in the North-East needs reconciliation and inclusive development, not merely the restoration of order."
+ },
+ "gs3-65": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Organised cyber-fraud — 'digital arrest' scams, investment frauds and transnational scam-centre networks (run from Southeast Asian compounds) — has scaled into a national-security threat, draining thousands of crores from citizens."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Evolving threat",
+      "x": "'Digital arrest' impersonation (flagged in the **PM**'s Mann Ki Baat), trafficked labour in overseas scam farms, mule accounts and crypto-laundered proceeds."
+     },
+     {
+      "k": "Institutional response",
+      "x": "The Indian Cyber Crime Coordination Centre (I4C), the 1930 helpline and Citizen Financial Cyber Fraud Reporting-and-Management System (freezing fraudulent transfers), and the Chakshu/Sanchar Saathi tools."
+     },
+     {
+      "k": "Scale",
+      "x": "Cybercrime now accounts for a large and rising share of reported financial crime."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Strengthen response: Faster inter-bank/telecom coordination, international cooperation (extradition, scam-centre crackdowns), **KYC**/mule-account controls, capacity of state cyber-cells, and public awareness."
+  ],
+  "conc": "Cyber-fraud is organised transnational crime at scale — countering it needs a networked, whole-of-government and international response."
+ },
+ "gs3-65-b0": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Framework",
+      "x": "Power, banking, telecom, transport and health are **CII**; the **NCIIPC** (under Sec 70, **IT Act**) is the nodal protector; **CERT**-In handles incident response."
+     },
+     {
+      "k": "Gaps",
+      "x": "Legacy/unpatched systems, **IT-OT** convergence risks, supply-chain vulnerabilities, and skills shortage; needs mandatory audits, threat-sharing and a modern cyber-security law."
+     }
+    ]
+   }
+  ],
+  "conc": "Protecting **CII** is foundational to economic and national security in a digital age."
+ },
+ "gs3-67": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The Indian Ocean Region — carrying most of India's trade and energy — faces a contested maritime environment: China's naval expansion and 'string of pearls', Houthi attacks on Red Sea shipping, piracy, and threats to undersea cables."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Strategic challenges",
+      "x": "**PLA**-Navy presence and dual-use ports, sea-lane vulnerability, undersea-cable/pipeline sabotage risk, and non-traditional threats (piracy, trafficking)."
+     },
+     {
+      "k": "SAGAR → MAHASAGAR",
+      "x": "India's vision has evolved from **SAGAR** (Security and Growth for All in the Region) to MAHASAGAR (Mutual and Holistic Advancement for Security and Growth Across Regions) — as net security provider and first responder (**HADR**, anti-piracy escorts)."
+     },
+     {
+      "k": "Coastal security",
+      "x": "Post-26/11 three-tier architecture (Navy–Coast Guard–Marine Police), NC3I/Sagar network, and coastal radar chains."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Strengthen: Maritime domain awareness (**IFC-IOR**), blue-water capability, port infrastructure, **IONS**/Colombo Security Conclave, and Quad maritime initiatives."
+  ],
+  "conc": "As a resident **IOR** power, India's security and prosperity are inseparable from a free, open and stable maritime order."
+ },
+ "gs3-68": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Terror financing has evolved beyond hawala into cryptocurrencies, trade-based money laundering and narco-funding — exploiting the anonymity and speed of new financial technologies."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Evolving methods",
+      "x": "Virtual digital assets and mixers, trade-based laundering (over/under-invoicing), narcotics proceeds, crowdfunding, and non-profit misuse."
+     },
+     {
+      "k": "Counter-measures",
+      "x": "**UAPA** (terror designation, including individuals), the **NIA**, the Financial Intelligence Unit (**FIU-IND**), **PMLA**, and VDA reporting under AML rules."
+     },
+     {
+      "k": "FATF standing",
+      "x": "India secured a favourable **FATF** Mutual Evaluation (2024), placing it among the better-performing regimes — strengthening its push for global counter-terror-financing norms."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Stay ahead: Regulate VDAs, strengthen crypto-tracing, international information-sharing, choke narco-terror funds, and push the Comprehensive Convention on International Terrorism (**CCIT**)."
+  ],
+  "conc": "Following and choking the money trail is among the most effective ways to dismantle terror networks."
+ },
+ "gs3-68-b0": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "New vectors",
+      "x": "Crypto, offshore betting/gaming apps and hawala-fintech hybrids move illicit value across borders instantly, outpacing regulation."
+     },
+     {
+      "k": "AML response",
+      "x": "Bring **VDA** service-providers under **PMLA**, regulate offshore-gaming payments, strengthen **FIU** analytics, and global cooperation."
+     }
+    ]
+   }
+  ],
+  "conc": "The **AML** regime must evolve as fast as the technologies that launder money."
+ },
+ "gs3-71": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The new criminal codes — Bharatiya Nyaya Sanhita, Nagarik Suraksha Sanhita and Sakshya Adhiniyam (in force July 2024) — mandate technology-driven, forensic-led investigation, aiming to modernise a colonial-era system."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Tech-led investigation",
+      "x": "Mandatory forensic-team visits for serious crimes, videography of searches/seizures, e-records, e-**FIR** and time-bound processes."
+     },
+     {
+      "k": "Enabling infrastructure",
+      "x": "NATGRID (intelligence linkage), **CCTNS**/**ICJS** (integrated criminal-justice system), AI-based crime analytics, and a National Forensic Sciences ecosystem."
+     },
+     {
+      "k": "Transformation",
+      "x": "Faster, evidence-based conviction; reduced reliance on confession; better inter-agency coordination."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Safeguards: Data-protection (**DPDP Act**), oversight against surveillance overreach, guarding against algorithmic bias, forensic-capacity build-up, and due-process/privacy (Puttaswamy) protections."
+  ],
+  "conc": "Technology can make policing efficient and fair — but only within a rights-respecting framework that guards liberty."
+ },
+ "gs3-72": {
+  "src": "docx",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The narco-terror-organised-crime nexus — funded by heroin/synthetics from the Golden Crescent (Afghanistan-Pakistan-Iran) and Golden Triangle (Myanmar-Laos-Thailand) — links drug money to terror financing and criminal networks."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Dimensions",
+      "x": "Drug proceeds fund terror; drones drop narcotics/arms across the Punjab border; darknet markets and crypto enable anonymous trade; maritime and courier routes proliferate."
+     },
+     {
+      "k": "Threat impact",
+      "x": "Youth addiction (",
+      "ex": ", Punjab), radicalisation funding, and criminalisation of border economies."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Coordinated response: **NCB**-led coordination, **NCORD** mechanism, drone-detection at borders, port/container scanning, financial-intelligence tracking, international cooperation (UNODC), and demand-reduction (de-addiction)."
+  ],
+  "conc": "Breaking the narco-terror nexus needs a seamless security, financial and public-health response across borders and agencies."
+ },
+ "gs3-72-b0": {
+  "src": "docx",
+  "body": [
+   {
+    "h": "Core dimensions",
+    "p": [
+     {
+      "k": "Convergence",
+      "x": "Terror groups use organised-crime networks (smuggling, extortion, counterfeiting, D-company-type syndicates) for logistics and funds; crime groups exploit terror-created instability."
+     },
+     {
+      "k": "Response",
+      "x": "Integrated intelligence, asset-seizure (**UAPA**/**PMLA**), extradition, and transnational cooperation to sever the crime-terror pipeline."
+     }
+    ]
+   }
+  ],
+  "conc": "The crime–terror continuum requires an equally integrated, cross-border enforcement response."
+ }
+}

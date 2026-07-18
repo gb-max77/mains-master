@@ -1198,5 +1198,1112 @@
    "IGN has no negotiating text",
    "peacekeeping burden without a vote"
   ]
+ },
+ "gs2-3": {
+  "directive": "discuss",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The **73rd and 74th Amendments** made local bodies a constitutional third tier; tying their **Article 280(3)(bb)/(c)** grants to entry-level conditions turns a constitutional entitlement into a performance reward."
+   }
+  ],
+  "body": [
+   {
+    "h": "The case for conditionality",
+    "p": [
+     {
+      "k": "Enforcing dormant mandates",
+      "x": "**State Finance Commissions** under **Articles 243-I/243-Y** are routinely delayed or ignored; a funding condition is the only lever that has moved States."
+     },
+     {
+      "k": "Fiscal discipline",
+      "x": "Requiring audited accounts online builds the basic record without which no devolution can be tracked or audited."
+     },
+     {
+      "k": "Own-source revenue",
+      "x": "Property-tax floors push ULBs toward self-reliance instead of permanent grant dependence."
+     }
+    ]
+   },
+   {
+    "h": "The risks to the constitutional goal",
+    "p": [
+     {
+      "k": "Capacity punishes the weakest",
+      "x": "Panchayats lacking trained accountants fail the condition precisely because they are under-resourced — denial compounds the deficit."
+     },
+     {
+      "k": "States control the gate",
+      "x": "SFC constitution is a **State** act, yet the penalty falls on local bodies powerless to compel it."
+     },
+     {
+      "k": "Entitlement diluted",
+      "x": "Grants recommended for a constitutional tier become contingent, weakening the third tier's claim to be a government rather than an agency."
+     },
+     {
+      "k": "Unfunded functions persist",
+      "x": "**Eleventh and Twelfth Schedule** subjects remain devolved on paper without matching funds or functionaries — the deeper problem conditionality does not touch."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Pair conditions with a capacity-building grant and a transition window so compliance is achievable",
+   "Make SFC constitution binding on States with automatic consequences, rather than penalising local bodies"
+  ],
+  "conc": "Accountability and devolution must advance together — conditions should build the third tier's capacity, not ration its constitutional due.",
+  "flash": [
+   "Art 280(3)(bb)/(c); 73rd-74th",
+   "SFC under Art 243-I/243-Y ignored",
+   "audited accounts + property tax floor",
+   "capacity gap punishes weakest",
+   "States control gate, LBs bear penalty"
+  ]
+ },
+ "gs2-29": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "data",
+    "x": "In force from **November 2025**, the **four Labour Codes** consolidate **29** central laws — the largest labour reform since Independence, trading rigidity for flexibility while promising universal social security."
+   }
+  ],
+  "body": [
+   {
+    "h": "Ease of doing business",
+    "p": [
+     {
+      "k": "Flexibility in employment",
+      "x": "**Fixed-term employment** without a contractor, and a retrenchment threshold raised to **300** workers, ease scaling up and down."
+     },
+     {
+      "k": "Compliance simplification",
+      "x": "Single registration, single licence and one return replace a fragmented filing burden; definitions are rationalised across codes."
+     },
+     {
+      "k": "Rationalised inspection",
+      "x": "Web-based randomised allocation and 'inspector-cum-facilitator' reduce discretionary harassment."
+     }
+    ]
+   },
+   {
+    "h": "Social security of the workforce",
+    "p": [
+     {
+      "k": "Universal floor wage",
+      "x": "A statutory national floor wage binds all States, extending minimum-wage coverage to all employment for the first time."
+     },
+     {
+      "k": "Gig and platform inclusion",
+      "x": "Gig, platform and unorganised workers are brought within the social-security net, funded by aggregator contributions."
+     },
+     {
+      "k": "Formalisation instruments",
+      "x": "Mandatory appointment letters and annual health check-ups create the paper trail on which rights depend."
+     },
+     {
+      "k": "Women's participation",
+      "x": "Night work permitted with consent and safeguards; equal opportunity across establishments."
+     }
+    ]
+   },
+   {
+    "h": "The unresolved tensions",
+    "p": [
+     {
+      "k": "Weakened collective bargaining",
+      "x": "Higher thresholds for union recognition and stricter strike-notice requirements shift power toward employers."
+     },
+     {
+      "k": "Federal execution gap",
+      "x": "Labour is **Concurrent**; uneven State rule-making means the Codes' promise varies by geography."
+     },
+     {
+      "k": "Enforcement in the informal sector",
+      "x": "With the overwhelming majority of workers informal, statutory rights without inspection capacity remain aspirational."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Notify uniform State rules on a common timeline and fund the social-security corpus before benefits are promised"
+  ],
+  "conc": "The Codes' balance is defensible in statute; whether it is fair in practice depends on cooperative-federal execution and on enforcement reaching the informal worker.",
+  "flash": [
+   "4 Codes, 29 laws, Nov 2025",
+   "FTE + 300-worker threshold",
+   "national floor wage; gig inclusion",
+   "union recognition + strike notice tightened",
+   "Concurrent subject → uneven rules"
+  ]
+ },
+ "gs2-38": {
+  "directive": "critically examine",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Civil society is both partner and critic of the State; the **FCRA, 2010** (amended 2020) regulates its foreign funding, making the balance between accountability and autonomy a live constitutional question."
+   }
+  ],
+  "body": [
+   {
+    "h": "The accountability rationale",
+    "p": [
+     {
+      "k": "Sovereignty concern",
+      "x": "States legitimately regulate foreign money in domestic politics; **Article 19(1)(c)** association rights are subject to reasonable restriction."
+     },
+     {
+      "k": "Financial integrity",
+      "x": "Registration, audited returns and designated-account banking address diversion and money-laundering risk."
+     },
+     {
+      "k": "Judicial endorsement",
+      "x": "**Noel Harper (2022)** upheld the 2020 amendments, holding there is no fundamental right to receive foreign contribution."
+     }
+    ]
+   },
+   {
+    "h": "The autonomy concerns",
+    "p": [
+     {
+      "k": "Sub-granting ban",
+      "x": "Prohibiting transfer to other associations severs the funding chain to small grassroots bodies that lack their own registration."
+     },
+     {
+      "k": "Compliance burden",
+      "x": "A single designated bank branch, capped administrative expenditure and periodic renewal impose costs that small organisations cannot absorb."
+     },
+     {
+      "k": "Chilling effect",
+      "x": "'Public interest' as a ground for refusal or cancellation is broad and discretionary, and licence lapses have hit advocacy and rights-based work hardest."
+     },
+     {
+      "k": "Service delivery cost",
+      "x": "NGOs deliver health, education and disaster relief at the last mile; funding disruption is felt by beneficiaries, not by critics."
+     },
+     {
+      "k": "Proportionality question",
+      "x": "**Puttaswamy**-style proportionality asks whether a less restrictive means would serve the same aim — a test blanket restrictions struggle to pass."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Distinguish advocacy from service delivery and apply risk-based, graded regulation instead of uniform restriction",
+   "Reasoned orders, time-bound appeals and independent review of cancellations",
+   "Deepen domestic philanthropy and **CSR** channels so legitimate work is not funding-dependent on foreign sources"
+  ],
+  "conc": "A confident democracy regulates civil society's accounts, not its opinions — accountability should be exacting and autonomy should be secure.",
+  "flash": [
+   "FCRA 2010, amended 2020",
+   "Noel Harper 2022 upheld amendments",
+   "sub-granting ban hits grassroots",
+   "'public interest' ground is broad",
+   "risk-based graded regulation"
+  ]
+ },
+ "gs2-42": {
+  "directive": "assess",
+  "intro": [
+   {
+    "t": "data",
+    "x": "India's **60+** population is projected to roughly double to about **20%** by 2050; extending **Ayushman Bharat** cover to all citizens aged **70+** regardless of income marks a shift from targeted to universal elderly health assurance."
+   }
+  ],
+  "body": [
+   {
+    "h": "Where the system is unprepared",
+    "p": [
+     {
+      "k": "Geriatric capacity deficit",
+      "x": "Few trained geriatricians, and district hospitals lack dedicated geriatric wards despite the **NPHCE** framework."
+     },
+     {
+      "k": "Wrong disease model",
+      "x": "The system is built for episodic acute care, while ageing needs continuous **NCD** and multi-morbidity management."
+     },
+     {
+      "k": "Missing long-term care",
+      "x": "Palliative care, rehabilitation, dementia care and home-based nursing are almost entirely absent from public provision."
+     },
+     {
+      "k": "Out-of-pocket burden",
+      "x": "Insurance covers hospitalisation, but the elderly's costs are dominated by **outpatient care and medicines**, which remain largely uncovered."
+     },
+     {
+      "k": "Feminisation of ageing",
+      "x": "Women live longer with lower asset ownership and pension coverage, so the poorest old are disproportionately women."
+     }
+    ]
+   },
+   {
+    "h": "The welfare framework",
+    "p": [
+     {
+      "k": "Statutory maintenance",
+      "x": "The **Maintenance and Welfare of Parents and Senior Citizens Act, 2007** creates an enforceable duty but relies on tribunals that are unevenly functional."
+     },
+     {
+      "k": "Thin income security",
+      "x": "Non-contributory old-age pension amounts remain very low; **Atal Pension Yojana** coverage of informal workers is still limited."
+     },
+     {
+      "k": "Erosion of family care",
+      "x": "Nuclearisation and migration leave more elderly living alone, precisely as institutional care remains undeveloped.",
+      "ex": "**Elderline** helpline; **SAGE** and **AVYAY** schemes"
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Build geriatric capacity into district hospitals and train a home-based elder-care cadre through **ASHA**/**NHM**",
+   "Extend assurance to outpatient care and medicines, where the elderly's real expenditure lies",
+   "Raise and index social-pension amounts and enforce the 2007 Act's tribunals"
+  ],
+  "conc": "India will grow old before it grows rich — building care infrastructure now is the difference between an ageing society and an ageing crisis.",
+  "flash": [
+   "60+ ~20% by 2050",
+   "AB-PMJAY universal at 70+",
+   "NPHCE; geriatric capacity deficit",
+   "OOP is outpatient + medicines",
+   "2007 Maintenance Act; feminisation of ageing"
+  ]
+ },
+ "gs2-45": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The **RPwD Act, 2016** reframed disability from welfare to **rights**, aligning India with the **UNCRPD**; the Supreme Court has since held accessibility to be a mandatory, enforceable obligation rather than a progressive aspiration."
+   }
+  ],
+  "body": [
+   {
+    "h": "Implementation gaps",
+    "p": [
+     {
+      "k": "Non-binding standards",
+      "x": "Accessibility rules were framed as self-regulatory guidelines rather than mandatory minimums, which the Court found impermissible."
+     },
+     {
+      "k": "Built environment",
+      "x": "Public buildings, transport and pedestrian infrastructure remain largely non-compliant despite **Accessible India Campaign** deadlines."
+     },
+     {
+      "k": "Digital exclusion",
+      "x": "Government websites and apps frequently fail screen-reader standards, so digital governance itself becomes a barrier."
+     },
+     {
+      "k": "Employment and education",
+      "x": "The **4%** public-employment and **5%** higher-education reservations are under-filled, with backlog vacancies persisting."
+     }
+    ]
+   },
+   {
+    "h": "The rights framing",
+    "p": [
+     {
+      "k": "Reasonable accommodation",
+      "x": "Denial of accommodation is itself discrimination under the Act, not merely a failure of kindness."
+     }
+    ]
+   }
+  ],
+  "wf": [],
+  "conc": "Accessibility is the precondition of equal citizenship — without it, rights under **Articles 14, 19 and 21** remain formally available and practically out of reach.",
+  "flash": [
+   "RPwD 2016 + UNCRPD",
+   "guidelines must be mandatory, not self-regulatory",
+   "4% jobs / 5% education under-filled",
+   "reasonable accommodation = anti-discrimination",
+   "universal design cheaper than retrofit"
+  ]
+ },
+ "gs2-48": {
+  "directive": "critically evaluate",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**NEP 2020** sought to dissolve the divide between academic and vocational learning through the **5+3+3+4** structure, multidisciplinary degrees and credit portability — an employability agenda as much as an education one."
+   }
+  ],
+  "body": [
+   {
+    "h": "Progress",
+    "p": [
+     {
+      "k": "Foundational learning",
+      "x": "**NIPUN Bharat** made foundational literacy and numeracy a measurable national mission — the correct first-order priority."
+     },
+     {
+      "k": "Flexibility architecture",
+      "x": "**Academic Bank of Credits**, multiple entry-exit and the four-year undergraduate programme enable non-linear pathways."
+     },
+     {
+      "k": "Vocational mainstreaming",
+      "x": "Vocational exposure from middle school and **NCrF** credit equivalence begin to erase the hierarchy between skill and degree."
+     },
+     {
+      "k": "Access expansion",
+      "x": "Rising **GER**, **PM-VIDYALAXMI** financing and open/digital universities widen participation."
+     }
+    ]
+   },
+   {
+    "h": "Persisting gaps",
+    "p": [
+     {
+      "k": "Learning outcomes",
+      "x": "Assessment surveys still show large proportions of children below grade-level competency — structural reform has not yet moved outcomes."
+     },
+     {
+      "k": "Teacher capacity",
+      "x": "Vacancies, single-teacher schools and under-reformed teacher education remain the binding constraint on every other reform."
+     },
+     {
+      "k": "Financing shortfall",
+      "x": "Public spending remains well below the **6% of GDP** the policy itself targets."
+     },
+     {
+      "k": "Employability mismatch",
+      "x": "Employer surveys continue to report low graduate employability; apprenticeship depth lags reform on paper."
+     },
+     {
+      "k": "Federal friction",
+      "x": "Education is **Concurrent**, and disputes over language policy and entrance testing have slowed uniform adoption."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Fund teacher recruitment and continuous professional development before further structural change",
+   "Scale industry-linked apprenticeships and **PM Internship**-style placement so credits translate into jobs"
+  ],
+  "conc": "NEP has built the right architecture; the demographic dividend now depends on filling it with trained teachers and real workplace experience.",
+  "flash": [
+   "5+3+3+4; ABC + multiple exit",
+   "NIPUN Bharat FLN mission",
+   "NCrF vocational credit equivalence",
+   "6% GDP target unmet",
+   "teacher capacity = binding constraint"
+  ]
+ },
+ "gs2-49": {
+  "directive": "critically examine",
+  "intro": [
+   {
+    "t": "data",
+    "x": "**NITI Aayog**'s national **MPI** records roughly **25 crore** people exiting multidimensional poverty between 2013-14 and 2022-23 — a genuine capability gain whose depth and distribution still need scrutiny."
+   }
+  ],
+  "body": [
+   {
+    "h": "Why the gains are real",
+    "p": [
+     {
+      "k": "Capability indicators improved",
+      "x": "Sanitation, cooking fuel, electricity, housing and bank accounts drove the fall — these are direct measures of living standards, not proxies."
+     },
+     {
+      "k": "Scheme attribution",
+      "x": "**Swachh Bharat**, **Ujjwala**, **PMAY**, **Jal Jeevan** and **Saubhagya** map closely onto the improved indicators."
+     }
+    ]
+   },
+   {
+    "h": "Why caution is warranted",
+    "p": [
+     {
+      "k": "Assets measured, not outcomes",
+      "x": "MPI counts a toilet built or a connection issued, not usage, refill affordability or water availability — access is not the same as use."
+     },
+     {
+      "k": "Vulnerability just above the line",
+      "x": "Large numbers sit marginally above the threshold and can fall back after one health shock or crop failure."
+     },
+     {
+      "k": "Inequality persists",
+      "x": "Reduced deprivation coexists with rising wealth concentration — the **IHDI** loss shows growth's distribution remains uneven."
+     }
+    ]
+   },
+   {
+    "h": "Intersecting deprivation",
+    "p": [
+     {
+      "k": "Caste",
+      "x": "SC, ST and especially **PVTG** households show the slowest exit rates, reflecting land and occupational disadvantage."
+     },
+     {
+      "k": "Gender",
+      "x": "Low female **LFPR**, unpaid care burden and asset-ownership gaps mean household-level gains understate women's deprivation."
+     },
+     {
+      "k": "Geography",
+      "x": "Deprivation concentrates in eastern and central states and in **Aspirational Districts** — poverty is spatially clustered, not randomly distributed."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Shift measurement from access to usage and outcomes, and publish MPI disaggregated by caste, gender and district"
+  ],
+  "conc": "The decline in multidimensional poverty is a real achievement of state delivery; converting it into durable well-being requires moving from provision of assets to security of livelihoods.",
+  "flash": [
+   "~25 cr exit MPI, 2013-14 to 2022-23",
+   "Swachh-Ujjwala-PMAY-JJM-Saubhagya",
+   "access ≠ usage; assets ≠ outcomes",
+   "vulnerability just above the line",
+   "caste-gender-geography clustering"
+  ]
+ },
+ "gs2-53": {
+  "directive": "discuss",
+  "lens": "Handle as state-to-state interest management, not commentary on another country's internal politics. Interests are structural and survive regime change.",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "India-Bangladesh ties, long anchored in the **1971** legacy, connectivity and the **2015 Land Boundary Agreement**, have been strained by political transition in Dhaka — testing whether the relationship rests on interests or on incumbents."
+   }
+  ],
+  "body": [
+   {
+    "h": "Sources of strain",
+    "p": [
+     {
+      "k": "Regime discontinuity",
+      "x": "Agreements negotiated with one government face renegotiation pressure from successors, and India's perceived closeness to a single party became a liability."
+     },
+     {
+      "k": "Minority security",
+      "x": "Reported violence against minorities generates Indian domestic political pressure and reciprocal accusations of interference."
+     },
+     {
+      "k": "Water sharing",
+      "x": "The **Ganga Water Treaty (1996)** renewal and the unresolved **Teesta** agreement remain the most emotive bilateral issues."
+     },
+     {
+      "k": "Border management",
+      "x": "Killings at the border, smuggling and irregular migration feed hostile narratives on both sides."
+     },
+     {
+      "k": "External balancing",
+      "x": "Chinese infrastructure and defence supply, and outreach to Pakistan, give Dhaka alternatives and India less leverage."
+     }
+    ]
+   },
+   {
+    "h": "Stabilising measures",
+    "p": [
+     {
+      "k": "Broad-spectrum engagement",
+      "x": "Institutionalise contact across parties, army, business and civil society so ties are not hostage to one dispensation."
+     },
+     {
+      "k": "Deliver connectivity",
+      "x": "Rail, inland waterway, coastal shipping and power-grid links create interdependence that outlasts governments.",
+      "ex": "Cross-border transmission; Maitri Setu"
+     },
+     {
+      "k": "Trade asymmetry gestures",
+      "x": "Non-reciprocal market access and faster border infrastructure address the trade-deficit grievance directly."
+     },
+     {
+      "k": "Resolve water credibly",
+      "x": "Move on Teesta with West Bengal's involvement — a settlement would remove the single largest irritant."
+     },
+     {
+      "k": "Quiet diplomacy on minorities",
+      "x": "Raise concerns through diplomatic channels rather than public messaging that hardens positions."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Anchor ties in **BIMSTEC** and sub-regional connectivity so the bilateral has a multilateral cushion"
+  ],
+  "conc": "India's stake in Bangladesh is structural — stability, connectivity and a secure eastern flank — and such interests are best protected by engaging a country rather than a government.",
+  "flash": [
+   "1971 legacy; LBA 2015",
+   "Ganga Treaty 1996 renewal; Teesta",
+   "border killings + migration",
+   "China + Pakistan outreach",
+   "engage across the spectrum"
+  ]
+ },
+ "gs2-54": {
+  "directive": "discuss",
+  "lens": "Structural impediments, not event narration. State India's declared position on terror-and-talks precisely and keep the register diplomatic.",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The **May 2025** escalation confirmed a doctrinal shift — cross-border terrorism treated as an act of war inviting conventional response — narrowing the space in which normalisation was previously attempted."
+   }
+  ],
+  "body": [
+   {
+    "h": "Structural impediments",
+    "p": [
+     {
+      "k": "Terrorism as policy instrument",
+      "x": "So long as cross-border terror infrastructure persists, India's stated position that terror and talks cannot proceed together forecloses dialogue."
+     },
+     {
+      "k": "The army's primacy",
+      "x": "Pakistan's security establishment retains decisive influence over India policy, so civilian openings rarely bind."
+     },
+     {
+      "k": "Identity-based rivalry",
+      "x": "The dispute is entangled with contested national narratives, which makes territorial compromise domestically costly on both sides."
+     },
+     {
+      "k": "Nuclear overhang",
+      "x": "Nuclear deterrence caps escalation but also emboldens sub-conventional provocation — the stability-instability paradox."
+     },
+     {
+      "k": "Third-party dependence",
+      "x": "External economic and security patrons reduce the cost to Pakistan of maintaining the status quo."
+     },
+     {
+      "k": "Collapsed architecture",
+      "x": "Composite dialogue, trade and people-to-people channels have lapsed, leaving no routine mechanism to manage incidents."
+     }
+    ]
+   },
+   {
+    "h": "India's options",
+    "p": [
+     {
+      "k": "Deterrence by credibility",
+      "x": "A demonstrated willingness to respond raises the cost of proxy attacks, but must be paired with escalation control."
+     },
+     {
+      "k": "Diplomatic isolation",
+      "x": "Sustained pressure through **FATF**-type mechanisms and multilateral fora targets the financing of terror."
+     },
+     {
+      "k": "Leverage and instruments",
+      "x": "Treaty and trade instruments — including the **Indus Waters Treaty**'s status — are now part of India's calibrated toolkit."
+     },
+     {
+      "k": "Internal consolidation",
+      "x": "Development, political process and counter-radicalisation in Jammu and Kashmir reduce the exploitable grievance."
+     },
+     {
+      "k": "Keep channels alive",
+      "x": "Retain **DGMO**-level and back-channel contact for crisis management, which is risk reduction rather than concession."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Pursue conflict *management* — predictable crisis mechanisms and escalation control — while normalisation remains conditional on verifiable action against terror"
+  ],
+  "conc": "Normalisation is not presently available, but stability is — India's task is to deter reliably, retain crisis channels, and let its own development trajectory widen the asymmetry.",
+  "flash": [
+   "terror-and-talks position",
+   "army primacy over India policy",
+   "stability-instability paradox",
+   "FATF-type financial pressure",
+   "DGMO channel = risk reduction"
+  ]
+ },
+ "gs2-57": {
+  "directive": "discuss",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Since the **2020 Galwan** rupture, India-China ties have moved from confrontation to a managed thaw — patrolling understandings and resumed exchanges — without resolving the structural competition beneath."
+   }
+  ],
+  "body": [
+   {
+    "h": "Drivers of stabilisation",
+    "p": [
+     {
+      "k": "External pressure",
+      "x": "Tariff and technology pressure from the West gives both an incentive to lower the cost of a second front."
+     },
+     {
+      "k": "Economic interdependence",
+      "x": "India's manufacturing depends on Chinese intermediates, capital goods and **APIs**; decoupling is slower and costlier than rhetoric implies."
+     },
+     {
+      "k": "Border disengagement",
+      "x": "Patrolling and disengagement arrangements at friction points reduced the risk of accidental escalation."
+     },
+     {
+      "k": "Resumed exchanges",
+      "x": "Direct flights, pilgrimage and visa easing rebuild the routine contact that crisis management requires."
+     },
+     {
+      "k": "Multilateral overlap",
+      "x": "Both operate together in **BRICS**, the **SCO** and climate negotiations, where interests genuinely converge."
+     }
+    ]
+   },
+   {
+    "h": "Enduring limits",
+    "p": [
+     {
+      "k": "Unsettled boundary",
+      "x": "Disengagement is not de-escalation or de-induction; large forces remain forward-deployed and the boundary question is untouched."
+     },
+     {
+      "k": "Trust deficit",
+      "x": "The 2020 breach of border agreements set a precedent that arrangements can be reversed unilaterally."
+     },
+     {
+      "k": "Trade asymmetry",
+      "x": "A large and widening deficit, with market-access barriers to Indian pharma and IT, makes the economic relationship politically unsustainable."
+     },
+     {
+      "k": "Strategic encirclement",
+      "x": "China's presence in the neighbourhood and Indian Ocean, and the **China-Pakistan** axis, constrain India's periphery."
+     },
+     {
+      "k": "Systemic rivalry",
+      "x": "Competition over supply chains, technology standards and Global South leadership is structural, not episodic."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Pursue 'stability without illusion' — restore de-escalation and de-induction, insist on trade reciprocity, and continue building border infrastructure and manufacturing depth"
+  ],
+  "conc": "The thaw is tactical and welcome; the rivalry is structural and enduring — India's task is to manage the relationship without mistaking calm for settlement.",
+  "flash": [
+   "Galwan 2020 rupture",
+   "disengagement ≠ de-escalation/de-induction",
+   "API + intermediates dependence",
+   "trade deficit asymmetry",
+   "BRICS/SCO convergence amid rivalry"
+  ]
+ },
+ "gs2-58": {
+  "directive": "discuss",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "India-Russia ties rest on defence legacy, energy and diplomatic reliability, but are strained by sanctions exposure and Moscow's deepening dependence on Beijing."
+   }
+  ],
+  "body": [
+   {
+    "h": "Enduring value",
+    "p": [
+     {
+      "k": "Defence inventory",
+      "x": "A large share of India's platforms is of Russian origin; spares, upgrades and licensed production cannot be substituted quickly.",
+      "ex": "**S-400**; Su-30MKI; **BrahMos** joint venture"
+     },
+     {
+      "k": "Discounted energy",
+      "x": "Russian crude materially cushioned India's import bill and inflation, aiding macroeconomic stability."
+     },
+     {
+      "k": "Strategic reliability",
+      "x": "Moscow has historically supported India at the **UNSC** and in nuclear and space cooperation.",
+      "ex": "Kudankulam"
+     },
+     {
+      "k": "Eurasian access",
+      "x": "Russia is central to the **INSTC**, Chabahar-linked connectivity and Central Asian outreach."
+     }
+    ]
+   },
+   {
+    "h": "The strains",
+    "p": [
+     {
+      "k": "Sanctions exposure",
+      "x": "Payment, shipping and insurance channels attract secondary-sanctions risk, and **CAATSA**-type pressure complicates defence procurement."
+     },
+     {
+      "k": "Supply reliability",
+      "x": "Wartime production demands have slowed deliveries and spares — the case for diversification is now operational, not political."
+     },
+     {
+      "k": "The China alignment",
+      "x": "Russia's dependence on China narrows its room to back India in a China contingency, eroding the relationship's strategic premium."
+     },
+     {
+      "k": "Shrinking economic base",
+      "x": "Beyond hydrocarbons and defence, trade is thin and unbalanced, with limited investment ties."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Diversify defence procurement while indigenising through **Atmanirbhar** production, so dependence falls without rupture",
+   "Broaden the economic base — fertilisers, nuclear, connectivity, rupee-rouble settlement — and use **INSTC** to give ties new content",
+   "Keep engagement quiet and interest-based, resisting pressure to choose sides publicly"
+  ],
+  "conc": "India's approach should be continuity without dependence — preserving a tested partnership while steadily reducing the leverage any single supplier holds.",
+  "flash": [
+   "S-400, Su-30MKI, BrahMos legacy",
+   "discounted crude cushions import bill",
+   "CAATSA + secondary sanctions risk",
+   "Russia-China alignment erodes premium",
+   "INSTC + rupee-rouble"
+  ]
+ },
+ "gs2-59": {
+  "directive": "critically analyse",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The India-US partnership rests on convergent strategic interests in the Indo-Pacific and deep technology and diaspora ties — now tested by tariff disputes, divergence over Russia and transactional policymaking."
+   }
+  ],
+  "body": [
+   {
+    "h": "Sources of resilience",
+    "p": [
+     {
+      "k": "Strategic convergence",
+      "x": "Shared concern over the balance of power in the Indo-Pacific is structural and survives administrations.",
+      "ex": "**Quad**; **Malabar**"
+     },
+     {
+      "k": "Technology architecture",
+      "x": "**iCET**/**TRUST**, **INDUS-X** and semiconductor and space cooperation embed the relationship in industry, not just diplomacy."
+     },
+     {
+      "k": "Defence interoperability",
+      "x": "Foundational agreements — **LEMOA**, **COMCASA**, **BECA** — and co-production create operational habit."
+     },
+     {
+      "k": "Economic depth",
+      "x": "The US is India's largest export market and a major investor; the diaspora provides durable political constituency."
+     }
+    ]
+   },
+   {
+    "h": "Sources of strain",
+    "p": [
+     {
+      "k": "Trade conflict",
+      "x": "Reciprocal tariffs, market-access demands in agriculture and dairy, and immigration-visa friction hit politically sensitive constituencies in both countries."
+     },
+     {
+      "k": "Divergence on Russia",
+      "x": "India's energy sourcing and defence legacy collide with US sanctions policy, testing tolerance for strategic autonomy."
+     },
+     {
+      "k": "Transactional volatility",
+      "x": "Executive-order-driven policy makes commitments reversible, raising the risk premium on deep alignment."
+     },
+     {
+      "k": "Alliance-vs-autonomy asymmetry",
+      "x": "Washington seeks alignment; Delhi will offer partnership without alliance obligations — an unresolved structural gap."
+     },
+     {
+      "k": "Values friction",
+      "x": "Periodic commentary on domestic issues generates sovereignty-based pushback."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Insulate the strategic and technology pillars from trade disputes through institutionalised dialogue",
+   "Conclude a balanced trade arrangement that protects Indian agriculture while securing market access",
+   "Deepen non-governmental ties — states, universities, industry — so the relationship is less hostage to any administration"
+  ],
+  "conc": "The partnership can withstand these pressures because its foundation is structural rather than sentimental — provided both sides accept that India will be a partner, not an ally.",
+  "flash": [
+   "iCET/TRUST, INDUS-X",
+   "LEMOA-COMCASA-BECA",
+   "reciprocal tariffs + agri/dairy red line",
+   "Russia divergence tests autonomy tolerance",
+   "partnership without alliance"
+  ]
+ },
+ "gs2-60": {
+  "directive": "analyse",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Tariffs have shifted from revenue and protection instruments to instruments of statecraft — 'weaponised interdependence', in which market access itself becomes coercive leverage."
+   }
+  ],
+  "body": [
+   {
+    "h": "How the architecture is changing",
+    "p": [
+     {
+      "k": "From multilateral to plurilateral",
+      "x": "With the **WTO** **Appellate Body** paralysed, rule enforcement has collapsed into bilateral bargaining and regional blocs."
+     },
+     {
+      "k": "Security-justified trade policy",
+      "x": "National-security exceptions, export controls and entity lists convert commerce into a domain of strategic competition."
+     },
+     {
+      "k": "Friend-shoring and de-risking",
+      "x": "Supply chains are reorganised on political alignment rather than cost — efficiency traded for resilience."
+     },
+     {
+      "k": "Non-tariff instruments",
+      "x": "Carbon border adjustment, deforestation rules and data-localisation requirements act as tariffs by other means.",
+      "ex": "**CBAM**"
+     },
+     {
+      "k": "Reciprocal-tariff logic",
+      "x": "Rates set by executive action rather than negotiated schedules make trade policy fast, unpredictable and reversible."
+     }
+    ]
+   },
+   {
+    "h": "India's strategy",
+    "p": [
+     {
+      "k": "Diversify markets",
+      "x": "**India-EU FTA**, **CEPA** deepening, **IMEC** and Africa-Latin America outreach reduce single-market dependence."
+     },
+     {
+      "k": "Build competitiveness, not walls",
+      "x": "**PLI**, logistics cost reduction and quality standards address the deeper competitiveness problem tariffs cannot solve."
+     },
+     {
+      "k": "Defend policy space",
+      "x": "Protect **MSP**, public stockholding under the peace clause, and use tariff-rate quotas rather than blanket liberalisation."
+     },
+     {
+      "k": "Prepare for green protectionism",
+      "x": "Domestic carbon pricing under **CCTS** lets exporters offset **CBAM** liability and retain the revenue at home."
+     },
+     {
+      "k": "Coalition-building",
+      "x": "Work with the **Global South** and like-minded middle powers to restore binding dispute settlement."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Push for **WTO** dispute-settlement restoration while hedging through a diversified basket of balanced bilateral deals"
+  ],
+  "conc": "In a fragmented trading order, resilience comes from diversification and competitiveness rather than retaliation — India's leverage will be the size and quality of its own market.",
+  "flash": [
+   "weaponised interdependence",
+   "WTO Appellate Body paralysis",
+   "friend-shoring: resilience over efficiency",
+   "CBAM = tariff by other means",
+   "CCTS offsets CBAM liability"
+  ]
+ },
+ "gs2-61": {
+  "directive": "discuss",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Chairing an expanded **BRICS** in 2026, India's stated approach is to **reform, not replace** the multilateral order — using the platform for Global South priorities without letting it harden into an anti-Western bloc."
+   }
+  ],
+  "body": [
+   {
+    "h": "Leveraging the chairmanship",
+    "p": [
+     {
+      "k": "Global South agenda",
+      "x": "Development finance, debt distress, food and energy security and climate finance are where BRICS speaks for a genuine constituency."
+     },
+     {
+      "k": "Development finance",
+      "x": "Expand the **New Development Bank**'s local-currency lending and project pipeline as a complement to, not a rival of, the Bretton Woods institutions."
+     },
+     {
+      "k": "Payments resilience",
+      "x": "Support local-currency settlement and payment-system interoperability framed as **de-risking**, not de-dollarisation."
+     },
+     {
+      "k": "DPI as a public good",
+      "x": "Offer India's **DPI** stack — identity, payments, data exchange — as a shareable global good, extending the **G20** legacy."
+     },
+     {
+      "k": "Reform advocacy",
+      "x": "Use the platform to press **UNSC**, **IMF** quota and **WTO** dispute-settlement reform — legitimacy demands, not rejectionist ones."
+     }
+    ]
+   },
+   {
+    "h": "Managing the risks",
+    "p": [
+     {
+      "k": "Bloc-drift risk",
+      "x": "An enlarged membership containing states in open confrontation with the West pulls the grouping toward a confrontational identity India does not want."
+     },
+     {
+      "k": "China's weight",
+      "x": "Asymmetry of economic power lets Beijing shape the agenda; India must build coalitions within BRICS to preserve balance."
+     },
+     {
+      "k": "Coherence after expansion",
+      "x": "A larger, more heterogeneous membership makes consensus slower and dilutes the agenda."
+     },
+     {
+      "k": "Signalling cost",
+      "x": "Currency and payment initiatives are read in Washington as hostile, risking friction with a key partner."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Frame every deliverable as additive to the existing order — reform of institutions, not construction of alternatives",
+   "Anchor outcomes in concrete, apolitical deliverables: NDB lending, DPI, health, agriculture and climate adaptation"
+  ],
+  "conc": "India's chairmanship is an opportunity to prove that Global South leadership and constructive multilateralism are compatible — that reform can be demanded without the order being rejected.",
+  "flash": [
+   "'reform, not replace'",
+   "NDB local-currency lending",
+   "de-risking, not de-dollarisation",
+   "expansion → coherence + bloc-drift risk",
+   "DPI as shareable global good"
+  ]
+ },
+ "gs2-64": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "India-**EU** convergence, long slowed by regulatory divergence, has accelerated under shared de-risking imperatives — culminating in a free trade agreement that is as much strategic as commercial."
+   }
+  ],
+  "body": [
+   {
+    "h": "Strategic drivers",
+    "p": [
+     {
+      "k": "Shared de-risking",
+      "x": "Both seek to reduce concentration of supply chains in a single country, making India a natural partner in the **China+1** shift."
+     },
+     {
+      "k": "Strategic autonomy convergence",
+      "x": "Transactional American policy pushes both toward diversifying partners — an unusual alignment of motives."
+     },
+     {
+      "k": "Technology and defence",
+      "x": "The **Trade and Technology Council**, semiconductor and clean-tech cooperation, and European defence-industrial interest in India."
+     },
+     {
+      "k": "Connectivity",
+      "x": "**IMEC** and the EU's Global Gateway offer an alternative infrastructure model linking India westward."
+     },
+     {
+      "k": "Indo-Pacific alignment",
+      "x": "The EU's Indo-Pacific strategy and maritime-security interest converge with India's **SAGAR** outlook."
+     }
+    ]
+   },
+   {
+    "h": "Implications and frictions",
+    "p": [
+     {
+      "k": "Market diversification",
+      "x": "The EU is collectively among India's largest trading partners; the FTA reduces dependence on any single market."
+     },
+     {
+      "k": "Services and mobility",
+      "x": "Gains depend on professional mobility and data-adequacy recognition, historically the hardest chapters."
+     },
+     {
+      "k": "Sustainability conditionality",
+      "x": "**CBAM**, deforestation rules and labour and environment chapters function as market-access barriers for Indian exporters."
+     },
+     {
+      "k": "Sensitive sectors",
+      "x": "Dairy, agriculture, automobiles and wines-and-spirits remain politically difficult on both sides."
+     },
+     {
+      "k": "Regulatory burden",
+      "x": "EU standards raise compliance costs that **MSMEs** are least equipped to bear."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Seek transition periods and technical assistance for **CBAM** compliance, and press for data-adequacy and mobility outcomes",
+   "Support MSME standards upgradation so the FTA's benefits are not captured only by large exporters"
+  ],
+  "conc": "The India-EU partnership converts shared vulnerability into shared opportunity — its success will be measured by whether Indian small producers, not only large firms, can meet Europe's standards.",
+  "flash": [
+   "shared de-risking / China+1",
+   "TTC; IMEC + Global Gateway",
+   "CBAM + deforestation as barriers",
+   "data adequacy + professional mobility",
+   "MSME standards compliance"
+  ]
+ },
+ "gs2-66": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "data",
+    "x": "West Asia supplies a large share of India's crude and hosts roughly **9 million** Indians remitting substantial foreign exchange — making regional stability a direct Indian national interest, not a distant concern."
+   }
+  ],
+  "body": [
+   {
+    "h": "Why the region is core to India",
+    "p": [
+     {
+      "k": "Energy dependence",
+      "x": "India imports over **85%** of its crude, with the Gulf the largest source; a supply or price shock transmits straight into inflation and the current account."
+     },
+     {
+      "k": "Diaspora and remittances",
+      "x": "The Gulf hosts India's largest overseas community and is the single biggest source of remittances, tying household incomes in Kerala and the south to regional stability."
+     },
+     {
+      "k": "Trade and investment",
+      "x": "The **UAE CEPA**, Gulf sovereign-fund investment and food-security partnerships have deepened economic interdependence."
+     },
+     {
+      "k": "Connectivity stakes",
+      "x": "**IMEC** and **Chabahar** run through the region; conflict stalls both."
+     },
+     {
+      "k": "Maritime security",
+      "x": "Attacks on shipping and chokepoint risk at **Hormuz** and the **Bab-el-Mandeb** raise freight and insurance costs for Indian trade."
+     }
+    ]
+   },
+   {
+    "h": "Implications of renewed conflict",
+    "p": [
+     {
+      "k": "Macroeconomic transmission",
+      "x": "An oil-price spike widens the current-account deficit, pressures the rupee and fuels imported inflation."
+     },
+     {
+      "k": "Evacuation contingency",
+      "x": "Large diaspora concentrations create a standing consular and evacuation obligation.",
+      "ex": "**Operation Ajay**; **Operation Kaveri**"
+     },
+     {
+      "k": "Balancing act",
+      "x": "India maintains simultaneous ties with Israel, the Gulf states and Iran — a de-hyphenation that conflict makes harder to sustain."
+     },
+     {
+      "k": "Radicalisation and security",
+      "x": "Regional conflict has domestic communal and security spillovers India must manage."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Diversify crude sourcing and build strategic petroleum reserves; accelerate the renewable transition as the structural hedge",
+   "Institutionalise diaspora welfare — labour agreements, skill certification and pre-departure protections",
+   "Maintain de-hyphenated engagement and contribute to maritime security operations protecting sea lanes"
+  ],
+  "conc": "West Asia is where India's energy, diaspora and connectivity interests converge — India's strategy must be to remain everyone's partner and no one's participant.",
+  "flash": [
+   "~9 mn diaspora; >85% crude import",
+   "UAE CEPA; Gulf SWF investment",
+   "Hormuz + Bab-el-Mandeb chokepoints",
+   "Op Ajay, Op Kaveri evacuation",
+   "de-hyphenated Israel-Gulf-Iran ties"
+  ]
  }
 }

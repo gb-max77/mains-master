@@ -1,7 +1,7 @@
 /* ── Mains Master — colour IS the structure. Every role has one hue, always. ── */
 :root{
-  --bg:#0b0d12; --bg2:#12151d; --card:#151922; --line:#242a38;
-  --ink:#e8ebf5; --dim:#98a0b8; --faint:#697089;
+  --bg:#0d0f14; --bg2:#141821; --card:#171b25; --line:#262c3a;
+  --ink:#dfe3ef; --dim:#9aa2b8; --faint:#6b7288; --ghost:#4d5468;
   --gold:#f0b74e;      /* title · conclusion — the frame of the answer */
   --blue:#5b8cff;      /* body headings H1/H2/H3 */
   --green:#7ee2a8;     /* examples · way forward — the mark-fetchers */
@@ -122,8 +122,8 @@ button{background:none;border:0;cursor:pointer}
 .qtitle{font-size:18px;font-weight:600;color:var(--dim);letter-spacing:-.005em;margin:0 0 4px;line-height:1.45}
 .qmeta{font-size:12.5px;color:var(--faint);font-weight:600;margin-bottom:18px}
 .qmeta .warn{color:var(--t1)}
-.wc{padding:1px 6px;border-radius:4px;background:var(--bg2)}
-.wc.ok{color:var(--green)} .wc.thin{color:var(--gold)} .wc.over{color:var(--t1)}
+.wc{padding:1px 6px;border-radius:4px;background:transparent;color:var(--ghost);font-weight:500}
+.wc.ok,.wc.thin,.wc.over{color:var(--ghost)}
 
 .intro{font-style:italic;color:var(--gold);margin:0 0 12px;line-height:1.6}
 .intro b{font-style:normal;color:var(--gold);opacity:.7;font-weight:600}
@@ -281,3 +281,41 @@ body[data-mode=scan] .intro:nth-of-type(2){display:none}
   border-radius:10px;white-space:pre-wrap;overflow-x:auto;
   font:13px/1.62 ui-monospace,SFMono-Regular,Menlo,monospace;color:var(--dim);tab-size:2}
 @media (max-width:560px){ #ch-text{font-size:12px;padding:12px} }
+
+
+/* ── the answer sits in its own card, visually separate from the question ── */
+.abox{margin:14px 0 0;padding:20px 22px;background:var(--card);border:1px solid var(--line);
+  border-radius:14px;box-shadow:0 1px 0 #ffffff06 inset}
+.abox > :first-child{margin-top:0}
+.abox > :last-child{margin-bottom:0}
+.abox .bh:first-of-type{margin-top:4px}
+@media (max-width:560px){ .abox{padding:15px 15px;border-radius:12px} }
+
+/* ── reading comfort: three sizes, generous measure, calmer rhythm ── */
+:root[data-size=s]{--fs:15px;--lh:1.60}
+:root[data-size=m]{--fs:16.5px;--lh:1.68}
+:root[data-size=l]{--fs:18px;--lh:1.72}
+html,body{line-height:var(--lh)}
+.abox .pt{margin-bottom:14px}
+.abox .intro{margin-bottom:14px}
+#view-answer .view,#answer{max-width:74ch}
+#btn-size{font-weight:600;letter-spacing:.02em}
+
+/* ── pagers top and bottom ── */
+.pager.top{margin:0 0 4px;padding-top:0;border-top:0;border-bottom:1px solid var(--line);padding-bottom:12px}
+.pager.bottom{margin-top:22px}
+
+/* ── mark as completed ── */
+.done-wrap{display:flex;justify-content:center;margin-top:18px}
+#btn-done{font-size:13.5px;font-weight:600;padding:11px 26px;border-radius:99px;
+  border:1px solid var(--line);color:var(--dim);background:var(--bg2)}
+#btn-done:hover{border-color:var(--green);color:var(--green)}
+#btn-done.on{background:rgba(126,226,168,.12);border-color:var(--green);color:var(--green)}
+
+/* completed questions read as settled, not as clutter */
+.qrow .meta .cm{color:var(--green)}
+.sb-q.done .sb-n::after{content:"✓";margin-left:3px;color:var(--green)}
+
+/* the fixed recall bar overlays the page foot — give the answer view real clearance */
+#view-answer{padding-bottom:150px}
+@media (max-width:560px){ #view-answer{padding-bottom:170px} }

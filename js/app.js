@@ -16,12 +16,28 @@ const store = {
   data: JSON.parse(localStorage.getItem('mm-progress') || '{}'),
   save() { localStorage.setItem(this.k, JSON.stringify(this.data)); },
   rec(qid) { return this.data[qid] || null; },
+  isDone(qid) { return !!this.data[qid]?.done; },
+  toggleDone(qid) {
+    const e = this.data[qid] = this.data[qid] || {};
+    e.done = !e.done;
+    if (e.done) e.doneAt = Date.now(); else delete e.doneAt;
+    if (!e.done && !e.r) delete this.data[qid];       // no state left worth keeping
+    this.save();
+    return !!e.done;
+  },
   // SRS: Blank→1d, Shaky→3d, Confident→10d. Deliberately coarse — this is a 5-week run-in, not Anki.
   mark(qid, r) {
     // clicking the already-selected rating clears it — a question can go back to unmarked
-    if (this.data[qid]?.r === r) { delete this.data[qid]; this.save(); return null; }
+    if (this.data[qid]?.r === r) {
+      const e = this.data[qid];
+      delete e.r; delete e.due; delete e.seen;
+      if (!e.done) delete this.data[qid];
+      this.save();
+      return null;
+    }
     const days = { 1: 1, 2: 3, 3: 10 }[r];
-    this.data[qid] = { r, seen: Date.now(), due: Date.now() + days * 864e5 };
+    const e = this.data[qid] = this.data[qid] || {};
+    Object.assign(e, { r, seen: Date.now(), due: Date.now() + days * 864e5 });
     this.save();
     return r;
   }
@@ -64,7 +80,7 @@ function renderHome() {
     const p = paperOf(pid); if (!p) continue;
     const all = rows(p);
     const done = all.filter(r => ANSWERS[pid]?.[r.qid]).length;          // answer available
-    const rev = all.filter(r => store.rec(r.qid)).length;                // covered in revision
+    const rev = all.filter(r => store.isDone(r.qid)).length;              // marked completed
     const pctD = all.length ? Math.round(done / all.length * 100) : 0;
     const pctR = all.length ? Math.round(rev / all.length * 100) : 0;
     const b = el('button', 'paper');
@@ -73,7 +89,7 @@ function renderHome() {
       <small>${all.length} questions · ${new Date(EXAM[pid]).toLocaleDateString('en-IN', { day: 'numeric', month: 'short' })}</small></span>
       <span class="rings">
         <span class="ring ans" style="--p:${pctD}" title="${done} of ${all.length} have a model answer"><i>${done}</i></span>
-        <span class="ring rev" style="--p:${pctR}" title="${rev} of ${all.length} marked in revision"><i>${rev}</i></span>
+        <span class="ring rev" style="--p:${pctR}" title="${rev} of ${all.length} marked completed"><i>${rev}</i></span>
       </span>`;
     b.onclick = () => go(`#/p/${pid}`);
     wrap.append(b);
@@ -111,6 +127,7 @@ function qRow(r) {
       <span>${r.m}M · ${r.w}w</span>
       ${r.isBranch ? '<span>↳ branch</span>' : ''}
       ${a ? '<span class="ok">✓ written</span>' : ''}
+      ${store.isDone(r.qid) ? '<span class="cm">◉ completed</span>' : ''}
       ${rcTxt}</span><p><span class="qn">Q${r.n}.</span> ${esc(r.q)}</p>`;
   b.onclick = () => go(`#/a/${r.qid}`);
   if (r.isBranch || !r.branches?.length) return b;
@@ -310,7 +327,8 @@ async function renderAnswer(qid) {
     + wc
     + (rc ? ` · last recall: ${['', 'Blank', 'Shaky', 'Confident'][rc.r]}` : '')));
 
-  A.insertAdjacentHTML('beforeend', a ? answerHTML(a) : noAnswerHTML(r));
+  A.insertAdjacentHTML('beforeend',
+    `<div class="abox">${a ? answerHTML(a) : noAnswerHTML(r)}</div>`);
 
   // Branches ride on the same prepared content, so they live WITH the parent rather
   // than as separate destinations — each expands inline instead of navigating away.
@@ -343,6 +361,7 @@ async function renderAnswer(qid) {
   A.append(acts);
 
   paintRecall(qid);
+  paintDone(qid);
   renderPager(r);
   renderSidebar(r);
   applyMode();
@@ -484,12 +503,24 @@ function renderPager(r) {
   const base = r.isBranch ? r.parent : r.qid;
   const i = list.findIndex(x => x.qid === base);
   const prev = i > 0 ? list[i - 1] : null, next = i >= 0 && i < list.length - 1 ? list[i + 1] : null;
-  $('#pg-pos').textContent = i >= 0 ? `Q${list[i].n} of ${list.length}` : '';
-  for (const [btn, tgt] of [[$('#pg-prev'), prev], [$('#pg-next'), next]]) {
-    btn.disabled = !tgt;
-    btn.title = tgt ? tgt.q.slice(0, 90) : '';
-    btn.onclick = tgt ? () => go(`#/a/${tgt.qid}`) : null;
+  const label = i >= 0 ? `Q${list[i].n} · ${i + 1} of ${list.length}` : '';
+  // top and bottom pagers are identical, so drive both from one loop
+  for (const nav of document.querySelectorAll('.pager')) {
+    nav.querySelector('.pg-pos').textContent = label;
+    for (const btn of nav.querySelectorAll('.pg')) {
+      const tgt = btn.dataset.nav === 'prev' ? prev : next;
+      btn.disabled = !tgt;
+      btn.title = tgt ? tgt.q.slice(0, 90) : '';
+      btn.onclick = tgt ? () => go(`#/a/${tgt.qid}`) : null;
+    }
   }
+}
+
+function paintDone(qid) {
+  const done = store.isDone(qid);
+  const b = $('#btn-done');
+  b.classList.toggle('on', done);
+  b.textContent = done ? '✓ Completed — tap to undo' : 'Mark as completed';
 }
 
 function renderSidebar(r) {
@@ -499,7 +530,7 @@ function renderSidebar(r) {
   for (const q of mainRows(r.pid)) {
     if (q.sec !== sec) { sec = q.sec; L.append(el('div', 'sb-sec', esc(sec))); }
     const a = ANSWERS[r.pid]?.[q.qid];
-    const b = el('button', 'sb-q' + (q.qid === base ? ' on' : '') + (a ? '' : ' todo'));
+    const b = el('button', 'sb-q' + (q.qid === base ? ' on' : '') + (a ? '' : ' todo') + (store.isDone(q.qid) ? ' done' : ''));
     b.innerHTML = `<span class="sb-n">Q${q.n}</span><span class="sb-t">${esc(q.q)}</span>`;
     b.onclick = () => { go(`#/a/${q.qid}`); document.body.classList.remove('sb-open'); };
     L.append(b);
@@ -541,6 +572,18 @@ async function route() {
 /* ══════════════════ WIRING ══════════════════ */
 $('#back').onclick = () => history.back();
 $('#go-notes').onclick = () => go('#/n');
+$('#btn-done').onclick = () => { if (cur) { store.toggleDone(cur.qid); paintDone(cur.qid); } };
+
+// Reading size persists — eye comfort is a per-person setting, not a per-session one.
+const SIZES = ['s', 'm', 'l'];
+let sizeIdx = SIZES.indexOf(localStorage.getItem('mm-size') || 'm');
+const applySize = () => document.documentElement.dataset.size = SIZES[sizeIdx < 0 ? 1 : sizeIdx];
+$('#btn-size').onclick = () => {
+  sizeIdx = (sizeIdx + 1) % SIZES.length;
+  localStorage.setItem('mm-size', SIZES[sizeIdx]);
+  applySize();
+};
+applySize();
 $('#n-search').oninput = e => searchNotes(e.target.value.trim());
 $('#btn-search').onclick = () => { if (filt.pid) { go(`#/p/${filt.pid}`); setTimeout(() => $('#q-search').focus(), 60); } };
 $('#q-search').oninput = e => { filt.q = e.target.value; renderList(); };

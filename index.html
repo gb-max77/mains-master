@@ -84,17 +84,26 @@
       <button class="mode" data-mode="scan">60s scan</button>
       <button class="mode" data-mode="cloze">Cloze</button>
     </div>
+    <button class="icon" id="btn-size" title="Reading size">Aa</button>
     <button class="icon" id="btn-step" title="Step through points (→)">▸ Step</button>
   </div>
   <aside id="sidebar" aria-label="Questions in this paper">
     <button id="sb-pin" title="Pin sidebar">☰</button>
     <div id="sb-list"></div>
   </aside>
+  <nav class="pager top" id="pager-top">
+    <button class="pg" data-nav="prev">‹ Previous</button>
+    <span class="pg-pos"></span>
+    <button class="pg" data-nav="next">Next ›</button>
+  </nav>
   <article id="answer"></article>
-  <nav class="pager" id="pager">
-    <button class="pg" id="pg-prev">‹ Previous</button>
-    <span class="pg-pos" id="pg-pos"></span>
-    <button class="pg" id="pg-next">Next ›</button>
+  <div class="done-wrap">
+    <button id="btn-done">Mark as completed</button>
+  </div>
+  <nav class="pager bottom" id="pager-bottom">
+    <button class="pg" data-nav="prev">‹ Previous</button>
+    <span class="pg-pos"></span>
+    <button class="pg" data-nav="next">Next ›</button>
   </nav>
   <div class="recall" id="recall">
     <span>How well did you recall it?</span>

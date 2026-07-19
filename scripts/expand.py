@@ -50,6 +50,18 @@ def main():
         if spec.get('h3'):
             body.append({'h': spec['h3'], 'p': spec.get('add3', [])})
         a['body'] = [b for b in body if b['p']]
+        # Merging corpus points with new ones routinely overshoots. Shed the least
+        # substantive point (shortest expansion) until the answer is inside its band —
+        # never below three points in a section, so structure survives the trim.
+        hi_cap = bud.get(qid, (0, 0))[1]
+        while hi_cap and written_words(a) > hi_cap:
+            cand = [(len(pt.get('x', '')), si, pi)
+                    for si, sec in enumerate(a['body'])
+                    for pi, pt in enumerate(sec['p']) if len(sec['p']) > 3]
+            if not cand:
+                break
+            _, si, pi = min(cand)
+            a['body'][si]['p'].pop(pi)
         for key in ('wf', 'conc', 'flash', 'directive', 'diag'):
             if spec.get(key):
                 a[key] = spec[key]

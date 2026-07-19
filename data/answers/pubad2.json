@@ -530,62 +530,37 @@
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "A frame built for control",
     "p": [
      {
-      "k": "Police and district rule",
-      "x": "Reorganisation strengthened territorial administration and coercive order under colonial priorities."
+      "k": "Revenue-and-order core",
+      "x": "The **Collector** combined revenue collection, magistracy and law and order — a design optimised for extraction and quiescence, not service delivery."
+     },
+     {
+      "k": "Regulatory, not developmental",
+      "x": "The **ICS** was a small elite cadre of generalists governing through subordinate agency; welfare functions were residual."
+     },
+     {
+      "k": "Insulation from the governed",
+      "x": "Covenanted service, tenure security and separation from Indian society produced neutrality and distance in equal measure."
+     },
+     {
+      "k": "Legal instruments of control",
+      "x": "The **Police Act, 1861**, Indian Penal Code and preventive-detention provisions were framed after 1857 to secure the ruler."
      }
     ]
    },
    {
-    "h": "Limits and critical assessment",
-    "p": [
-     {
-      "k": "Collector paradox",
-      "x": "The district head remained coordinator of development while retaining magisterial and revenue authority."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
-     {
-      "k": "Inherited purpose",
-      "x": "Secrecy, control and extraction encouraged rule compliance and distance from the citizen."
-     }
-    ]
-   },
-   {
-    "h": "Significance and consequences",
-    "p": [
-     {
-      "k": "Administrative legacy",
-      "x": "Salaried service, hierarchy and codified procedure influenced later bureaucratic institutions."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Constitutional correction",
-      "x": "Rights, judicial review and reservation progressively subjected inherited administration to equality and accountability."
-     }
-    ]
-   },
-   {
-    "h": "Significance and consequences",
+    "h": "Where control served development",
     "p": [
      {
       "k": "Inherited strengths",
       "x": "Territorial reach, hierarchy, records, district coordination and an all-India service supplied continuity during Partition and integration."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
+     },
+     {
+      "k": "Constitutional correction",
+      "x": "Rights, judicial review and reservation progressively subjected inherited administration to equality and accountability."
+     },
      {
       "k": "Developmental expansion",
       "x": "Planning, public enterprises and community programmes enlarged State functions faster than personnel culture changed."
@@ -593,11 +568,44 @@
      {
       "k": "New mandate",
       "x": "Directive Principles and universal franchise required welfare, redistribution, participation and equal access."
+     },
+     {
+      "k": "Capacity actually created",
+      "x": "A rule-bound, hierarchical, record-keeping administration gave independent India a functioning state apparatus from day one."
+     },
+     {
+      "k": "Continuity through crisis",
+      "x": "That frame delivered partition administration, integration of princely states and the first elections without institutional collapse."
+     },
+     {
+      "k": "Weberian reading",
+      "x": "It was a **rational-legal** bureaucracy in form — but Weber's ideal type is silent on the purpose authority serves, which is exactly the colonial question."
+     }
+    ]
+   },
+   {
+    "h": "Assessment",
+    "p": [
+     {
+      "k": "Patel's defence",
+      "x": "In the Constituent Assembly the services were defended as the frame without which the union would not hold — continuity chosen deliberately, not by default."
+     },
+     {
+      "k": "Reorientation attempted",
+      "x": "Development administration, community development and later missions tried to convert a regulatory cadre into a developmental one."
+     },
+     {
+      "k": "The unfinished shift",
+      "x": "Riggsian **formalism** persists — developmental mandates written onto a structure whose incentives, postings and hierarchy still reward control."
+     },
+     {
+      "k": "Verdict",
+      "x": "The frame was indispensable at independence and inadequate thereafter; the failure lies less in inheriting it than in not redesigning it."
      }
     ]
    }
   ],
-  "conc": "The durable reform is one that strengthens capacity while keeping power constitutionally bounded, publicly answerable and responsive at the point of delivery.",
+  "conc": "India inherited an instrument built to hold a country and asked it to develop one — the steel frame's strength was continuity, its cost was a purpose it was never designed to serve.",
   "directive": "critically examine",
   "flash": [
    "Police and district rule",
@@ -623,6 +631,10 @@
      {
       "k": "Administrative legacy",
       "x": "Salaried service, hierarchy and codified procedure influenced later bureaucratic institutions."
+     },
+     {
+      "k": "Inherited strengths",
+      "x": "Territorial reach, hierarchy, records, district coordination and an all-India service supplied continuity during Partition and integration."
      }
     ]
    },
@@ -653,15 +665,6 @@
      {
       "k": "Separation",
       "x": "Efforts to separate revenue collection from adjudication expressed rule-of-law logic but created coordination and access problems."
-     }
-    ]
-   },
-   {
-    "h": "Significance and consequences",
-    "p": [
-     {
-      "k": "Inherited strengths",
-      "x": "Territorial reach, hierarchy, records, district coordination and an all-India service supplied continuity during Partition and integration."
      }
     ]
    }
@@ -696,6 +699,10 @@
      {
       "k": "Police and district rule",
       "x": "Reorganisation strengthened territorial administration and coercive order under colonial priorities."
+     },
+     {
+      "k": "Contemporary imprint",
+      "x": "Title disputes, tenancy invisibility and revenue-police dominance reflect layered historical records and power."
      }
     ]
    },
@@ -705,15 +712,6 @@
      {
       "k": "Permanent legacy",
       "x": "Absenteeism, tenancy insecurity and concentrated rural authority shaped later land reform and political mobilisation."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
-     {
-      "k": "Contemporary imprint",
-      "x": "Title disputes, tenancy invisibility and revenue-police dominance reflect layered historical records and power."
      }
     ]
    },
@@ -760,7 +758,7 @@
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "What the 1935 Act supplied",
     "p": [
      {
       "k": "Legal continuity",
@@ -777,19 +775,31 @@
      {
       "k": "Transformation",
       "x": "Universal citizenship, fundamental rights, responsible government and judicial supremacy replaced imperial sovereignty."
+     },
+     {
+      "k": "Federal structure",
+      "x": "Provincial autonomy, a division of legislative lists and a federal court supplied the architecture the Constitution later adapted."
+     },
+     {
+      "k": "Administrative continuity",
+      "x": "Governor's powers, the Instrument of Instructions, All-India Services and the Public Service Commission passed almost intact into the new order."
+     },
+     {
+      "k": "Emergency and discretion",
+      "x": "Governor's discretionary powers and emergency provisions became the ancestors of **Articles 356** and the emergency articles."
+     },
+     {
+      "k": "Financial machinery",
+      "x": "The Reserve Bank, federal railway authority and audit arrangements gave independent India ready fiscal institutions."
      }
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "The democratic deficit",
     "p": [
      {
       "k": "Administrative continuity",
       "x": "All-India services, district administration, secretariat procedure, audit and public-service commissions persisted."
-     },
-     {
-      "k": "Path dependence",
-      "x": "A centralised, generalist, order-oriented machinery remained and had to carry welfare and development tasks."
      },
      {
       "k": "1892 and 1909",
@@ -798,11 +808,36 @@
      {
       "k": "1858 settlement",
       "x": "Crown control replaced Company rule; the Secretary of State and Viceroy anchored centralised imperial accountability."
+     },
+     {
+      "k": "Sovereignty withheld",
+      "x": "The Act was a grant of the British Parliament, not an act of a constituent people — the source of authority was the deficit."
+     },
+     {
+      "k": "Centre's overriding power",
+      "x": "Federal in form but unitary in operation, with the Centre retaining the capacity to override provincial government."
+     }
+    ]
+   },
+   {
+    "h": "Assessment",
+    "p": [
+     {
+      "k": "Continuity with transformation",
+      "x": "The Constitution retained the machinery but changed its master — **We the People** replaced parliamentary grant as the source of authority."
+     },
+     {
+      "k": "Rights and directive principles",
+      "x": "Fundamental rights, judicial review and the Directive Principles reoriented the same administrative structure toward welfare."
+     },
+     {
+      "k": "Path dependence",
+      "x": "The inheritance also carried forward centralising instincts and a control-oriented administrative culture that later reform has struggled to shift."
      }
     ]
    }
   ],
-  "conc": "The durable reform is one that strengthens capacity while keeping power constitutionally bounded, publicly answerable and responsive at the point of delivery.",
+  "conc": "The 1935 Act gave India the machinery of a state and the Constitution gave that machinery a people — continuity of form with a revolution in legitimacy.",
   "directive": "examine",
   "flash": [
    "Legal continuity",
@@ -1017,7 +1052,7 @@
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "The mismatch",
     "p": [
      {
       "k": "New mandate",
@@ -1030,51 +1065,73 @@
      {
       "k": "Developmental expansion",
       "x": "Planning, public enterprises and community programmes enlarged State functions faster than personnel culture changed."
-     }
-    ]
-   },
-   {
-    "h": "Significance and consequences",
-    "p": [
+     },
      {
       "k": "Inherited strengths",
       "x": "Territorial reach, hierarchy, records, district coordination and an all-India service supplied continuity during Partition and integration."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Inherited purpose",
-      "x": "Secrecy, control and extraction encouraged rule compliance and distance from the citizen."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
-     {
-      "k": "Collector paradox",
-      "x": "The district head remained coordinator of development while retaining magisterial and revenue authority."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Procedural tension",
-      "x": "Uniform rules protected legality but could delay innovation and respond poorly to local diversity."
      },
+     {
+      "k": "New mandate",
+      "x": "A welfare and developmental state under the Directive Principles required promotion, mobilisation and service delivery — functions the colonial cadre never performed."
+     },
+     {
+      "k": "Structural inheritance",
+      "x": "Hierarchy, generalist leadership, revenue-first district administration and secrecy norms were retained largely unchanged."
+     },
+     {
+      "k": "Attitudinal gap",
+      "x": "An administration trained to regulate was asked to persuade, organise and deliver — a change of role, not merely of task."
+     },
+     {
+      "k": "Appleby's diagnosis",
+      "x": "**Paul Appleby**'s reports found Indian administration capable but over-centralised and procedure-bound for developmental purposes."
+     }
+    ]
+   },
+   {
+    "h": "How the frame was reoriented",
+    "p": [
      {
       "k": "Political interface",
       "x": "Democratic responsiveness increased, but patronage and politicisation could bend neutral structures toward particular interests."
+     },
+     {
+      "k": "Institutional additions",
+      "x": "The **Planning Commission**, Community Development Programme and later missions layered developmental machinery onto the district structure."
+     },
+     {
+      "k": "Panchayati Raj",
+      "x": "**Balwant Rai Mehta (1957)** and the **73rd Amendment** attempted to relocate development to elected local bodies."
+     },
+     {
+      "k": "Specialist entry",
+      "x": "Technical services, public enterprises and later lateral entry brought domain expertise the generalist frame lacked."
+     }
+    ]
+   },
+   {
+    "h": "Where it fell short",
+    "p": [
+     {
+      "k": "Coordination failure",
+      "x": "Parallel developmental agencies fragmented the district, leaving the Collector responsible without command."
+     },
+     {
+      "k": "Formalism persists",
+      "x": "Riggs's gap between prescription and practice describes welfare law robustly written and unevenly realised."
+     },
+     {
+      "k": "Accountability mismatch",
+      "x": "Upward accountability to hierarchy continued to outweigh outward accountability to citizens until **RTI** and social audit intervened."
+     },
+     {
+      "k": "Capacity reform",
+      "x": "**Mission Karmayogi**'s competency framework is the current attempt to change what the cadre is trained to be, not only what it is told to do."
      }
     ]
    }
   ],
-  "conc": "The durable reform is one that strengthens capacity while keeping power constitutionally bounded, publicly answerable and responsive at the point of delivery.",
+  "conc": "India asked a colonial instrument to perform a constitutional purpose — the developmental deficit was structural, and every reform since has been an attempt to close it.",
   "directive": "critically examine",
   "flash": [
    "New mandate",
@@ -1125,6 +1182,10 @@
      {
       "k": "Development role",
       "x": "Enterprises created capacity, regional investment and strategic autonomy beyond immediate profitability."
+     },
+     {
+      "k": "Liberalisation shift",
+      "x": "Competition, disinvestment and private investment reduced the case for routine State production."
      }
     ]
    },
@@ -1134,15 +1195,6 @@
      {
       "k": "Accumulated problems",
       "x": "Multiple objectives, ministerial interference, soft budgets and weak competitive discipline often obscured accountability."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Liberalisation shift",
-      "x": "Competition, disinvestment and private investment reduced the case for routine State production."
      }
     ]
    }
@@ -1514,6 +1566,10 @@
      {
       "k": "Social embeddedness",
       "x": "Caste, kinship, region and class can influence trust and networks, though constitutional recruitment broadens representation."
+     },
+     {
+      "k": "Countervailing values",
+      "x": "Competitive recruitment, judicial review, audit and professional norms preserve important islands of impersonality."
      }
     ]
    },
@@ -1523,15 +1579,6 @@
      {
       "k": "Citizen impact",
       "x": "Intermediation and discretion privilege connected users and turn formal entitlements into negotiated access."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Countervailing values",
-      "x": "Competitive recruitment, judicial review, audit and professional norms preserve important islands of impersonality."
      }
     ]
    }
@@ -1679,7 +1726,7 @@
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "The policy logic",
     "p": [
      {
       "k": "Rationale",
@@ -1688,38 +1735,32 @@
      {
       "k": "Portfolio logic",
       "x": "Retention or exit should follow periodic public-value and strategic-risk analysis, not ideology or short-term budget pressure."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
-     {
-      "k": "Monopoly risk",
-      "x": "Private operation of network or scarce assets may convert public inefficiency into private rent without strong regulation."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
+     },
      {
       "k": "Strategic presence",
       "x": "Ownership may remain justified in defence, atomic energy, critical networks or capabilities where market and security failures are substantial."
+     },
+     {
+      "k": "Monopoly risk",
+      "x": "Private operation of network or scarce assets may convert public inefficiency into private rent without strong regulation."
+     },
+     {
+      "k": "Redefined role",
+      "x": "The **PSE Policy, 2021** confines the State to a bare-minimum presence in four strategic sectors and exits the rest."
+     },
+     {
+      "k": "Efficiency argument",
+      "x": "Strategic sale transfers management control, which portfolio disinvestment never did — the distinction that makes it 'strategic'."
+     },
+     {
+      "k": "Portfolio management",
+      "x": "**DIPAM** and the **National Land Monetisation Corporation** treat public assets as a portfolio to be actively managed."
      }
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "The case against",
     "p": [
-     {
-      "k": "Development role",
-      "x": "Enterprises created capacity, regional investment and strategic autonomy beyond immediate profitability."
-     },
-     {
-      "k": "Liberalisation shift",
-      "x": "Competition, disinvestment and private investment reduced the case for routine State production."
-     },
      {
       "k": "Dynamic review",
       "x": "The strategic label requires periodic evidence and cannot become permanent immunity from competition or exit."
@@ -1727,11 +1768,40 @@
      {
       "k": "Administrative consequence",
       "x": "Government must separate owner, policymaker and regulator and manage a portfolio rather than daily operations."
+     },
+     {
+      "k": "Commanding-heights legacy",
+      "x": "PSEs were built under the **1956 Industrial Policy Resolution** to create capital goods capacity private capital would not fund."
+     },
+     {
+      "k": "Non-commercial obligations",
+      "x": "Regional balance, employment, and supply to remote or unprofitable areas are functions no private buyer will assume."
+     },
+     {
+      "k": "Monopoly and market risk",
+      "x": "Selling into a concentrated market can convert a public monopoly into a private one without any efficiency gain."
+     }
+    ]
+   },
+   {
+    "h": "Assessment",
+    "p": [
+     {
+      "k": "Regulation must precede sale",
+      "x": "Where a monopoly is being transferred, an effective sector regulator is the precondition, not a subsequent fix."
+     },
+     {
+      "k": "Use of proceeds",
+      "x": "Treating disinvestment as capital receipt for capital expenditure — not as revenue plugging — is what makes it defensible."
+     },
+     {
+      "k": "Theory bridge",
+      "x": "This is **NPM**'s purchaser-provider logic applied to ownership; NPG's caution applies too — fragmentation without stewardship."
      }
     ]
    }
   ],
-  "conc": "A narrower public sector demands stronger ownership administration: strategic purpose, board autonomy, transparent obligations and willingness to restructure or exit when rationale disappears.",
+  "conc": "Disinvestment is defensible where the State's presence adds no public value — the test is not ideological but whether the market that replaces it can be regulated.",
   "directive": "critically examine",
   "flash": [
    "Rationale",
@@ -1842,21 +1912,7 @@
      {
       "k": "MoU limits",
       "x": "Indicators can be gamed, external conditions ignored and annual scoring detached from strategic or social purpose."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Autonomy need",
-      "x": "Pricing, procurement, hiring and investment require speed and domain judgement that routine departmental approval can destroy."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
+     },
      {
       "k": "Control problem",
       "x": "Ex ante approvals diffuse responsibility; managers blame government while ministries continue informal intervention."
@@ -1866,6 +1922,10 @@
    {
     "h": "Analysis and application",
     "p": [
+     {
+      "k": "Autonomy need",
+      "x": "Pricing, procurement, hiring and investment require speed and domain judgement that routine departmental approval can destroy."
+     },
      {
       "k": "Board role",
       "x": "Competent independent directors should oversee strategy, risk, executives and integrity rather than ratify ministry decisions."
@@ -1916,6 +1976,10 @@
      {
       "k": "Control problem",
       "x": "Ex ante approvals diffuse responsibility; managers blame government while ministries continue informal intervention."
+     },
+     {
+      "k": "MoU limits",
+      "x": "Indicators can be gamed, external conditions ignored and annual scoring detached from strategic or social purpose."
      }
     ]
    },
@@ -1929,21 +1993,7 @@
      {
       "k": "MoU framework",
       "x": "Negotiated performance commitments clarify enterprise objectives and permit ex post evaluation against agreed conditions."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
-     {
-      "k": "MoU limits",
-      "x": "Indicators can be gamed, external conditions ignored and annual scoring detached from strategic or social purpose."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
+     },
      {
       "k": "Board role",
       "x": "Competent independent directors should oversee strategy, risk, executives and integrity rather than ratify ministry decisions."
@@ -1981,21 +2031,7 @@
      {
       "k": "Public-service obligations",
       "x": "Non-commercial mandates should be explicit, funded and reported instead of hidden in enterprise losses."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
-     {
-      "k": "Monopoly risk",
-      "x": "Private operation of network or scarce assets may convert public inefficiency into private rent without strong regulation."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
+     },
      {
       "k": "Original rationale",
       "x": "Post-independence scarcity, weak private capital and planning placed heavy industry, finance and infrastructure under public ownership."
@@ -2006,8 +2042,16 @@
     "h": "Limits and critical assessment",
     "p": [
      {
+      "k": "Monopoly risk",
+      "x": "Private operation of network or scarce assets may convert public inefficiency into private rent without strong regulation."
+     },
+     {
       "k": "Valuation risk",
       "x": "Information asymmetry, market timing and complex future cash flows can transfer public value below fair price."
+     },
+     {
+      "k": "Accumulated problems",
+      "x": "Multiple objectives, ministerial interference, soft budgets and weak competitive discipline often obscured accountability."
      }
     ]
    },
@@ -2021,15 +2065,6 @@
      {
       "k": "Development role",
       "x": "Enterprises created capacity, regional investment and strategic autonomy beyond immediate profitability."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
-     {
-      "k": "Accumulated problems",
-      "x": "Multiple objectives, ministerial interference, soft budgets and weak competitive discipline often obscured accountability."
      }
     ]
    }
@@ -2055,39 +2090,45 @@
   ],
   "body": [
    {
-    "h": "Limits and critical assessment",
+    "h": "Why a strong centre of government is needed",
     "p": [
      {
-      "k": "Concentration risk",
-      "x": "Parallel channels may weaken ministers, secretaries, Cabinet deliberation and departmental ownership."
-     }
-    ]
-   },
-   {
-    "h": "Significance and consequences",
-    "p": [
+      "k": "Risks",
+      "x": "Proliferation, overlapping membership and opaque decisions can shift responsibility away from line ministries."
+     },
      {
       "k": "Concentration gain",
       "x": "A strong PMO can resolve deadlock, integrate missions and signal priority across a fragmented executive."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
+     },
      {
       "k": "Cabinet Secretariat",
       "x": "It manages Cabinet business, rules of transaction, committee coordination and follow-up across ministries."
      },
      {
-      "k": "Coordination value",
-      "x": "The Cabinet Secretariat is a neutral broker and memory institution rather than an alternative political executive."
+      "k": "Wicked problems",
+      "x": "Climate, pandemics, internal security and urbanisation cut across ministries; no single department can own the outcome."
+     },
+     {
+      "k": "Cabinet Secretariat",
+      "x": "The **Cabinet Secretary** as head of the civil service and the Secretaries' committees are India's principal horizontal coordination machinery."
+     },
+     {
+      "k": "Monitoring capacity",
+      "x": "**PRAGATI** gives the apex direct visibility of stalled projects across ministries and States — coordination through information."
+     },
+     {
+      "k": "Mission-mode delivery",
+      "x": "Aspirational Districts, Gati Shakti and mission structures impose a shared outcome on vertically organised departments."
      }
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "The concentration risk",
     "p": [
+     {
+      "k": "Coordination value",
+      "x": "The Cabinet Secretariat is a neutral broker and memory institution rather than an alternative political executive."
+     },
      {
       "k": "Appropriate division",
       "x": "PMO should set strategic direction and intervene in exceptional bottlenecks; regular coordination should use Cabinet mechanisms."
@@ -2095,29 +2136,44 @@
      {
       "k": "Collective responsibility",
       "x": "Major policy choices require recorded inter-ministerial deliberation and Cabinet authorisation even under strong prime-ministerial leadership."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
-     {
-      "k": "Risks",
-      "x": "Proliferation, overlapping membership and opaque decisions can shift responsibility away from line ministries."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
+     },
      {
       "k": "Political arbitration",
       "x": "Cabinet-level forums can resolve conflicts of priority, jurisdiction and resource that officials cannot settle."
+     },
+     {
+      "k": "Erosion of ministerial responsibility",
+      "x": "When outcomes are steered centrally, the accountability the Constitution places on the minister becomes diffuse."
+     },
+     {
+      "k": "Federal sensitivity",
+      "x": "Union-led coordination of State subjects invites the charge of encroachment even where cooperation is intended."
+     }
+    ]
+   },
+   {
+    "h": "Getting the balance right",
+    "p": [
+     {
+      "k": "Steer, do not row",
+      "x": "The centre should set outcomes, resolve inter-departmental conflict and monitor — not substitute for line-department execution."
+     },
+     {
+      "k": "Institutional, not personal",
+      "x": "Coordination lodged in the Cabinet Secretariat and standing committees survives changes of incumbent; personalised coordination does not."
+     },
+     {
+      "k": "Federal forums",
+      "x": "Route coordination touching States through the **Inter-State Council**, **GST Council** and Zonal Councils."
+     },
+     {
+      "k": "Whole-of-government theory",
+      "x": "This is the post-**NPM** corrective — reintegrating what agencification fragmented, without recreating a command hierarchy."
      }
     ]
    }
   ],
-  "conc": "The durable reform is one that strengthens capacity while keeping power constitutionally bounded, publicly answerable and responsive at the point of delivery.",
+  "conc": "A strong centre of government is the answer to fragmentation, not to disagreement — its legitimacy depends on coordinating outcomes while leaving responsibility where the Constitution placed it.",
   "directive": "examine",
   "flash": [
    "Concentration risk",
@@ -2143,6 +2199,14 @@
      {
       "k": "PMO role",
       "x": "It supports the Prime Minister through policy advice, monitoring, appointments interface and high-priority problem-solving."
+     },
+     {
+      "k": "Appropriate division",
+      "x": "PMO should set strategic direction and intervene in exceptional bottlenecks; regular coordination should use Cabinet mechanisms."
+     },
+     {
+      "k": "Cabinet Secretariat",
+      "x": "It manages Cabinet business, rules of transaction, committee coordination and follow-up across ministries."
      }
     ]
    },
@@ -2156,24 +2220,19 @@
     ]
    },
    {
-    "h": "Core argument",
-    "p": [
-     {
-      "k": "Appropriate division",
-      "x": "PMO should set strategic direction and intervene in exceptional bottlenecks; regular coordination should use Cabinet mechanisms."
-     },
-     {
-      "k": "Cabinet Secretariat",
-      "x": "It manages Cabinet business, rules of transaction, committee coordination and follow-up across ministries."
-     }
-    ]
-   },
-   {
     "h": "Analysis and application",
     "p": [
      {
       "k": "Historical change",
       "x": "Coalition, personality, crisis and policy complexity alter the relative weight of the two institutions."
+     },
+     {
+      "k": "Coordination value",
+      "x": "The Cabinet Secretariat is a neutral broker and memory institution rather than an alternative political executive."
+     },
+     {
+      "k": "Information discipline",
+      "x": "Dashboards need candid departmental evidence and escalation, not competitive reporting of favourable data."
      }
     ]
    },
@@ -2183,19 +2242,6 @@
      {
       "k": "Concentration risk",
       "x": "Parallel channels may weaken ministers, secretaries, Cabinet deliberation and departmental ownership."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Coordination value",
-      "x": "The Cabinet Secretariat is a neutral broker and memory institution rather than an alternative political executive."
-     },
-     {
-      "k": "Information discipline",
-      "x": "Dashboards need candid departmental evidence and escalation, not competitive reporting of favourable data."
      }
     ]
    }
@@ -2425,12 +2471,8 @@
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "The generalist rationale",
     "p": [
-     {
-      "k": "Neutral coordination",
-      "x": "A common service ethos and transferable skills support Cabinet government and crisis redeployment."
-     },
      {
       "k": "Domain deficit",
       "x": "Short tenures can make ministries dependent on consultants, regulators or industry for technical knowledge."
@@ -2438,39 +2480,40 @@
      {
       "k": "Generalist value",
       "x": "Broad experience helps officials integrate legal, financial, federal and political dimensions across sectors."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
+     },
      {
       "k": "Specialist risk",
       "x": "Narrow cadres may optimise sectors, resist mobility and fragment policy across professional silos."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
+     },
      {
-      "k": "Career streams",
-      "x": "Create domain tracks with repeated postings, accredited learning and return pathways rather than permanent isolation."
+      "k": "Neutral coordination",
+      "x": "A generalist secretariat translates between technical possibility and political feasibility, and reconciles competing departmental claims."
+     },
+     {
+      "k": "Public-interest synthesis",
+      "x": "Policy requires weighing incommensurable values — legal, fiscal, social — which no single discipline resolves."
+     },
+     {
+      "k": "Mobility and breadth",
+      "x": "Rotation across sectors and levels builds judgement about administrative reality that deep specialisation does not supply."
+     },
+     {
+      "k": "Constitutional accountability",
+      "x": "The Secretary is answerable to the Minister and through him to Parliament — a role defined by responsibility, not expertise."
      }
     ]
    },
    {
-    "h": "Limits and critical assessment",
+    "h": "The specialist critique",
     "p": [
      {
       "k": "Accountability risk",
       "x": "Advice without mastery weakens challenge to organised interests and obscures who owns analytical assumptions."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
+     },
+     {
+      "k": "Career streams",
+      "x": "Create domain tracks with repeated postings, accredited learning and return pathways rather than permanent isolation."
+     },
      {
       "k": "Lateral entry",
       "x": "Use transparent, merit-based mid-career recruitment for genuine gaps, with conflict rules and institutional induction."
@@ -2478,11 +2521,44 @@
      {
       "k": "Team model",
       "x": "Pair policy generalists, economists, scientists, lawyers and implementation officers around shared outcomes."
+     },
+     {
+      "k": "Domain deficit",
+      "x": "Short tenures across unrelated sectors leave the Secretariat structurally shallow in finance, technology, health and climate."
+     },
+     {
+      "k": "Tenure churn",
+      "x": "Frequent transfers prevent the accumulation of sectoral memory precisely where continuity matters most."
+     },
+     {
+      "k": "Advisory dependence",
+      "x": "Weak in-house expertise increases reliance on consultants, shifting analytical capacity outside the State."
+     },
+     {
+      "k": "Comparative practice",
+      "x": "Most mature administrations combine a generalist policy cadre with strong specialist career streams."
+     }
+    ]
+   },
+   {
+    "h": "Reconciling the two",
+    "p": [
+     {
+      "k": "Domain streams",
+      "x": "The **2nd ARC** and Surinder Nath committee recommended mid-career domain assignment so officers deepen within a sector."
+     },
+     {
+      "k": "Fixed tenure",
+      "x": "Minimum assured tenure is the single reform that would most improve secretariat capability."
+     },
+     {
+      "k": "Karmayogi framework",
+      "x": "Competency-based role definition replaces seniority as the basis for posting — the institutional answer to the debate."
      }
     ]
    }
   ],
-  "conc": "The durable reform is one that strengthens capacity while keeping power constitutionally bounded, publicly answerable and responsive at the point of delivery.",
+  "conc": "The choice is not generalist versus specialist but whether the system rewards depth — India needs generalist judgement built on specialist foundations, and tenure long enough to acquire both.",
   "directive": "critically examine",
   "flash": [
    "Neutral coordination",
@@ -2503,7 +2579,7 @@
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Ministry and Department distinguished",
     "p": [
      {
       "k": "Ministry",
@@ -2512,55 +2588,81 @@
      {
       "k": "Department",
       "x": "A major policy and administrative division under a secretary handles an allocated subject within a ministry."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
-     {
-      "k": "Ambiguity cost",
-      "x": "Multiple approvals, conflicting instructions and direct ministry intervention erode operational ownership."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
+     },
      {
       "k": "Attached office",
       "x": "It provides detailed executive direction, technical advice and linkage between policy and field agencies."
+     },
+     {
+      "k": "Ambiguity cost",
+      "x": "Multiple approvals, conflicting instructions and direct ministry intervention erode operational ownership."
+     },
+     {
+      "k": "Ministry as political unit",
+      "x": "A Ministry is created by the President's allocation of business rules and headed by a Minister — a political and constitutional creation."
+     },
+     {
+      "k": "Department as administrative unit",
+      "x": "A Department is the administrative wing under a Secretary; a Ministry may contain several Departments with distinct charges."
+     },
+     {
+      "k": "Rules of Business",
+      "x": "The **Allocation of Business Rules** and **Transaction of Business Rules** under **Article 77** define what each unit may decide."
+     },
+     {
+      "k": "Secretariat versus execution",
+      "x": "The Secretariat advises on policy; execution rests with attached and subordinate offices — the classic staff-line separation."
      }
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "The wider field structure",
     "p": [
+     {
+      "k": "Feedback failure",
+      "x": "Field knowledge may be filtered through layers while policy is issued without testing implementability."
+     },
      {
       "k": "Subordinate office",
       "x": "It normally executes policy in the field or performs specialised operational tasks under departmental control."
      },
      {
-      "k": "Field organisation",
-      "x": "Territorial or functional units deliver, regulate or inspect close to implementation settings."
-     },
-     {
       "k": "Staff-line distinction",
       "x": "Staff advises and plans; line commands and executes, though modern technical bodies often combine both."
+     },
+     {
+      "k": "Attached offices",
+      "x": "Provide technical advice and execute policy at the national level while remaining under the Department's direction."
+     },
+     {
+      "k": "Autonomous bodies and PSEs",
+      "x": "Societies, statutory boards and enterprises operate at arm's length, with autonomy traded against direct control."
      }
     ]
    },
    {
-    "h": "Limits and critical assessment",
+    "h": "Frictions in practice",
     "p": [
      {
-      "k": "Feedback failure",
-      "x": "Field knowledge may be filtered through layers while policy is issued without testing implementability."
+      "k": "Ambiguity cost",
+      "x": "Overlapping charges between Departments in one Ministry blur responsibility and slow inter-departmental decisions."
+     },
+     {
+      "k": "Coordination burden",
+      "x": "Proliferation of attached, subordinate and autonomous bodies multiplies the coordination load on the Secretariat."
+     },
+     {
+      "k": "Accountability dilution",
+      "x": "Arm's-length bodies dilute ministerial responsibility without always supplying an alternative accountability route."
+     },
+     {
+      "k": "Gulick's relevance",
+      "x": "Departmentalisation by **purpose, process, persons and place** still explains the design — and Simon's critique still explains why the bases conflict."
      }
     ]
    }
   ],
-  "conc": "The durable reform is one that strengthens capacity while keeping power constitutionally bounded, publicly answerable and responsive at the point of delivery.",
+  "conc": "The Ministry carries political responsibility and the Department carries administrative capacity — clarity between them is the precondition of accountable government.",
   "directive": "examine",
   "flash": [
    "Ministry",
@@ -2667,6 +2769,10 @@
      {
       "k": "Feedback failure",
       "x": "Field knowledge may be filtered through layers while policy is issued without testing implementability."
+     },
+     {
+      "k": "Financial risk",
+      "x": "Off-budget borrowing and guarantees can conceal liabilities and create assets without maintenance funding."
      }
     ]
    },
@@ -2684,15 +2790,6 @@
      {
       "k": "Democratic bypass",
       "x": "Boards dominated by State or Union nominees may allocate urban space and funds without council deliberation."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
-     {
-      "k": "Financial risk",
-      "x": "Off-budget borrowing and guarantees can conceal liabilities and create assets without maintenance funding."
      }
     ]
    }
@@ -2859,6 +2956,14 @@
      {
       "k": "Limit—follow-up",
       "x": "Recommendations are advisory and executive responses may be delayed, formal or weakly debated."
+     },
+     {
+      "k": "Limit—referral",
+      "x": "Bills need not be referred, so important legislation may bypass specialised examination."
+     },
+     {
+      "k": "Limit—time and staff",
+      "x": "Short schedules and uneven research capacity restrict independent analysis."
      }
     ]
    },
@@ -2891,19 +2996,6 @@
       "x": "Smaller private deliberations can facilitate evidence-based agreement and reduce performative confrontation."
      }
     ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
-     {
-      "k": "Limit—referral",
-      "x": "Bills need not be referred, so important legislation may bypass specialised examination."
-     },
-     {
-      "k": "Limit—time and staff",
-      "x": "Short schedules and uneven research capacity restrict independent analysis."
-     }
-    ]
    }
   ],
   "conc": "The durable reform is one that strengthens capacity while keeping power constitutionally bounded, publicly answerable and responsive at the point of delivery.",
@@ -2932,6 +3024,10 @@
      {
       "k": "Risks",
       "x": "Ranking encourages gaming, metric substitution and focus on marginally improvable indicators rather than structural deprivation."
+     },
+     {
+      "k": "Federal concern",
+      "x": "Central templates may weaken State ownership unless targets and support reflect local baselines and institutions."
      }
     ]
    },
@@ -2966,15 +3062,6 @@
      {
       "k": "Block extension",
       "x": "Moving closer to frontline delivery may reveal intra-district inequality but increases data and capacity demands."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
-     {
-      "k": "Federal concern",
-      "x": "Central templates may weaken State ownership unless targets and support reflect local baselines and institutions."
      }
     ]
    }
@@ -3137,20 +3224,11 @@
   ],
   "body": [
    {
-    "h": "Significance and consequences",
+    "h": "What changed",
     "p": [
      {
       "k": "Flexibility gain",
       "x": "NITI Aayog can convene States, develop strategy, support data-driven missions and adapt without allocating plan grants."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
-     {
-      "k": "Institutional principle",
-      "x": "Coordination should be transparent and consultative, not a revival of extra-constitutional command planning."
      },
      {
       "k": "Constitutional finance",
@@ -3159,11 +3237,27 @@
      {
       "k": "Needed integration",
       "x": "A rolling national strategy should connect budgets, Finance Commission cycles, State plans and infrastructure pipelines."
+     },
+     {
+      "k": "From directive to indicative",
+      "x": "The **Planning Commission**'s Five Year Plans and plan-allocation power gave way to **NITI Aayog**'s advisory, convening role."
+     },
+     {
+      "k": "Cooperative federalism",
+      "x": "The Governing Council with all Chief Ministers replaced a body that allocated funds to States it did not represent."
+     },
+     {
+      "k": "Competitive federalism",
+      "x": "Ranking through indices — **SDG India Index**, Aspirational Districts, health and school education indices — governs by comparison rather than direction."
+     },
+     {
+      "k": "Constitutional propriety",
+      "x": "Removing plan transfers restored the **Finance Commission** to its constitutional role as the primary channel of devolution."
      }
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "What the change cost",
     "p": [
      {
       "k": "Mission mode",
@@ -3174,13 +3268,42 @@
       "x": "No single process consistently reconciles long-term strategy, macro-fiscal constraints, spatial priorities and sector trade-offs."
      },
      {
-      "k": "Federal asymmetry",
-      "x": "States gain formal voice but tied schemes and centrally designed missions may still narrow fiscal choice."
+      "k": "Long-horizon planning",
+      "x": "The abolition of the plan cycle weakened medium-term, spatially integrated planning that annual budgets do not perform."
+     },
+     {
+      "k": "State planning vacuum",
+      "x": "State Planning Boards lost their central interlocutor without acquiring a substitute, weakening subnational planning capacity."
+     },
+     {
+      "k": "Ranking as governance",
+      "x": "Indices can distort behaviour toward measured indicators and disadvantage States with weaker statistical systems."
+     }
+    ]
+   },
+   {
+    "h": "Assessment",
+    "p": [
+     {
+      "k": "Institutional principle",
+      "x": "Directive planning was ill-suited to a liberalised, federal economy — the shift itself was correct in direction."
+     },
+     {
+      "k": "Needed integration",
+      "x": "Cooperative persuasion works when paired with credible finance; NITI's advice must connect to Finance Commission and budget processes."
+     },
+     {
+      "k": "Capacity role",
+      "x": "The **State Support Mission** repositions NITI as a partner building subnational capability rather than merely scoring it."
+     },
+     {
+      "k": "Theory bridge",
+      "x": "This is the shift from a command hierarchy to **networked governance** — with the same accountability question NPG poses everywhere."
      }
     ]
    }
   ],
-  "conc": "The durable reform is one that strengthens capacity while keeping power constitutionally bounded, publicly answerable and responsive at the point of delivery.",
+  "conc": "India replaced a planner with a convenor — the gain was federal legitimacy, the cost was strategic direction, and the unfinished task is to supply the second without surrendering the first.",
   "directive": "critically examine",
   "flash": [
    "Flexibility gain",
@@ -3300,6 +3423,14 @@
      {
       "k": "Constitutional role",
       "x": "District Planning Committees consolidate panchayat and municipal plans while considering spatial, environmental and shared-resource issues."
+     },
+     {
+      "k": "Departmental silos",
+      "x": "Line schemes arrive with separate guidelines and reporting, crowding out integrated territorial priorities."
+     },
+     {
+      "k": "Empower DPC",
+      "x": "Give the committee technical secretariat, project-appraisal role and formal government response to its integrated plan."
      }
     ]
    },
@@ -3309,19 +3440,6 @@
      {
       "k": "Current weakness",
       "x": "Many DPCs lack staff, data, regular meetings, sector authority and influence over scheme-linked budgets."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Departmental silos",
-      "x": "Line schemes arrive with separate guidelines and reporting, crowding out integrated territorial priorities."
-     },
-     {
-      "k": "Empower DPC",
-      "x": "Give the committee technical secretariat, project-appraisal role and formal government response to its integrated plan."
      }
     ]
    }
@@ -3378,6 +3496,10 @@
      {
       "k": "Corrective learning",
       "x": "Pre-specified review points, pilots and delegated adaptation should connect evidence with programme redesign."
+     },
+     {
+      "k": "Timing",
+      "x": "Late evaluations become historical reports; premature evaluations miss maturation and invite false failure."
      }
     ]
    },
@@ -3391,15 +3513,6 @@
      {
       "k": "Institutional weakness",
       "x": "Implementing ministries may set questions, control data and resist findings that threaten programmes or careers."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Timing",
-      "x": "Late evaluations become historical reports; premature evaluations miss maturation and invite false failure."
      }
     ]
    }
@@ -3519,12 +3632,7 @@
      {
       "k": "Wider context",
       "x": "Cesses, centrally sponsored schemes and borrowing controls shape effective autonomy beyond the Commission's award."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
+     },
      {
       "k": "Performance grants",
       "x": "Conditions can strengthen accounts, revenue effort or service systems, yet may penalise weak jurisdictions least able to comply."
@@ -3715,12 +3823,7 @@
      {
       "k": "Reasoned process",
       "x": "Where appropriate, clear communication of constitutional concern allows reconsideration and reduces avoidable litigation."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
+     },
      {
       "k": "No pre-enactment review",
       "x": "Courts should not decide a Bill's substantive validity before law or direct the merits of assent."
@@ -3876,21 +3979,7 @@
      {
       "k": "Scale challenge",
       "x": "Simultaneous polling concentrates machines, staff, transport, training, security and dispute management into one event."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
-     {
-      "k": "Evaluation",
-      "x": "Compare lifecycle cost and disruption with democratic, legal and operational risks rather than assume one election is inherently simpler."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
+     },
      {
       "k": "Federal concern",
       "x": "State political cycles reflect distinct mandates and crises; forced alignment may nationalise local accountability."
@@ -3900,6 +3989,10 @@
    {
     "h": "Core argument",
     "p": [
+     {
+      "k": "Evaluation",
+      "x": "Compare lifecycle cost and disruption with democratic, legal and operational risks rather than assume one election is inherently simpler."
+     },
      {
       "k": "Planning horizon",
       "x": "Longer uninterrupted periods may aid implementation, though ordinary governance should not halt for every election."
@@ -3989,6 +4082,10 @@
      {
       "k": "Monitoring",
       "x": "Milestones and field feedback can expose delay and support crisis response."
+     },
+     {
+      "k": "Coordinator",
+      "x": "Cross-cutting crises and missions require authority to resolve departmental conflict and align field administration."
      }
     ]
    },
@@ -3998,15 +4095,6 @@
      {
       "k": "Secretariat risk",
       "x": "Direct tasking may bypass Rules of Business, policy memory and interdepartmental examination."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Coordinator",
-      "x": "Cross-cutting crises and missions require authority to resolve departmental conflict and align field administration."
      }
     ]
    }
@@ -4041,6 +4129,10 @@
      {
       "k": "Cabinet role",
       "x": "As secretary to the State Cabinet, the office ensures agenda quality, records decisions and follows implementation."
+     },
+     {
+      "k": "Coordination value",
+      "x": "The Cabinet Secretariat is a neutral broker and memory institution rather than an alternative political executive."
      }
     ]
    },
@@ -4054,20 +4146,19 @@
     ]
    },
    {
-    "h": "Core argument",
-    "p": [
-     {
-      "k": "Coordination value",
-      "x": "The Cabinet Secretariat is a neutral broker and memory institution rather than an alternative political executive."
-     }
-    ]
-   },
-   {
     "h": "Analysis and application",
     "p": [
      {
       "k": "PMO role",
       "x": "It supports the Prime Minister through policy advice, monitoring, appointments interface and high-priority problem-solving."
+     },
+     {
+      "k": "Appropriate division",
+      "x": "PMO should set strategic direction and intervene in exceptional bottlenecks; regular coordination should use Cabinet mechanisms."
+     },
+     {
+      "k": "Historical change",
+      "x": "Coalition, personality, crisis and policy complexity alter the relative weight of the two institutions."
      }
     ]
    },
@@ -4077,19 +4168,6 @@
      {
       "k": "Concentration gain",
       "x": "A strong PMO can resolve deadlock, integrate missions and signal priority across a fragmented executive."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Appropriate division",
-      "x": "PMO should set strategic direction and intervene in exceptional bottlenecks; regular coordination should use Cabinet mechanisms."
-     },
-     {
-      "k": "Historical change",
-      "x": "Coalition, personality, crisis and policy complexity alter the relative weight of the two institutions."
      }
     ]
    }
@@ -4250,6 +4328,10 @@
      {
       "k": "Rationale",
       "x": "National externalities, rights and uneven State capacity justify shared programmes in selected sectors."
+     },
+     {
+      "k": "Fiscal distortion",
+      "x": "Matching requirements and tied releases can pull State resources from locally higher priorities."
      }
     ]
    },
@@ -4259,15 +4341,6 @@
      {
       "k": "Design problem",
       "x": "Uniform guidelines may ignore geography, administrative capability and local service models."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
-     {
-      "k": "Fiscal distortion",
-      "x": "Matching requirements and tied releases can pull State resources from locally higher priorities."
      }
     ]
    },
@@ -4852,6 +4925,10 @@
      {
       "k": "Context",
       "x": "Generic online content cannot substitute for field mentoring, peer problem-solving and State-language realities."
+     },
+     {
+      "k": "Role-based logic",
+      "x": "Competencies should derive from the work of a position rather than generic grade or seniority."
      }
     ]
    },
@@ -4861,15 +4938,6 @@
      {
       "k": "Marketplace gain",
       "x": "Multiple providers and learning records can widen choice and reveal skill gaps, subject to quality control."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Role-based logic",
-      "x": "Competencies should derive from the work of a position rather than generic grade or seniority."
      }
     ]
    }
@@ -5189,12 +5257,7 @@
      {
       "k": "Constitutional purpose",
       "x": "Security against punitive executive whim helps officials give lawful advice and resist partisan pressure."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
+     },
      {
       "k": "Exceptions",
       "x": "Conviction, impracticability of inquiry and security-of-State grounds permit departure under constitutionally specified conditions."
@@ -5207,6 +5270,14 @@
      {
       "k": "Due-process value",
       "x": "Notice, evidence and hearing reduce factual error and protect the morale of the wider service."
+     },
+     {
+      "k": "Distinction",
+      "x": "Poor performance needs documented support and appraisal; misconduct needs prompt disciplinary investigation—neither justifies arbitrary punishment."
+     },
+     {
+      "k": "Interim tools",
+      "x": "Proportionate reassignment and time-bound suspension review protect administration while avoiding punishment before finding."
      }
     ]
    },
@@ -5216,19 +5287,6 @@
      {
       "k": "Performance problem",
       "x": "Weak supervision, delayed charges, vacancies and litigation allow serious misconduct or persistent incapacity to remain unresolved."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Distinction",
-      "x": "Poor performance needs documented support and appraisal; misconduct needs prompt disciplinary investigation—neither justifies arbitrary punishment."
-     },
-     {
-      "k": "Interim tools",
-      "x": "Proportionate reassignment and time-bound suspension review protect administration while avoiding punishment before finding."
      }
     ]
    }
@@ -5289,12 +5347,7 @@
      {
       "k": "Distinction",
       "x": "Poor performance needs documented support and appraisal; misconduct needs prompt disciplinary investigation—neither justifies arbitrary punishment."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
+     },
      {
       "k": "Interim tools",
       "x": "Proportionate reassignment and time-bound suspension review protect administration while avoiding punishment before finding."
@@ -5457,12 +5510,7 @@
      {
       "k": "Political side",
       "x": "Ministerial offices also need professional staffing and respect for written orders; civil-service reform cannot be unilateral."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
+     },
      {
       "k": "Morale",
       "x": "Perceived unfairness, resource gaps and inconsistent discipline erode collective trust even among intrinsically motivated officials."
@@ -5601,6 +5649,10 @@
      {
       "k": "Integrated logic",
       "x": "Assessment connects what citizens are promised, what happens when delivery fails and whether the organisation can improve."
+     },
+     {
+      "k": "Guarantee regimes",
+      "x": "Statutory timelines and designated appeals add enforceability but may encourage superficial disposal if process capacity is unchanged."
      }
     ]
    },
@@ -5610,15 +5662,6 @@
      {
       "k": "Limited diffusion",
       "x": "Voluntary adoption, uneven leadership, generic standards and weak remedies reduced sustained institutionalisation."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Guarantee regimes",
-      "x": "Statutory timelines and designated appeals add enforceability but may encourage superficial disposal if process capacity is unchanged."
      }
     ]
    }
@@ -5856,6 +5899,10 @@
      {
       "k": "Development role",
       "x": "Enterprises created capacity, regional investment and strategic autonomy beyond immediate profitability."
+     },
+     {
+      "k": "Liberalisation shift",
+      "x": "Competition, disinvestment and private investment reduced the case for routine State production."
      }
     ]
    },
@@ -5865,15 +5912,6 @@
      {
       "k": "Accumulated problems",
       "x": "Multiple objectives, ministerial interference, soft budgets and weak competitive discipline often obscured accountability."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Liberalisation shift",
-      "x": "Competition, disinvestment and private investment reduced the case for routine State production."
      }
     ]
    }
@@ -6103,6 +6141,14 @@
      {
       "k": "SNA",
       "x": "Scheme-specific nodal accounts consolidate fund flows, reduce parking and provide a common view of balances."
+     },
+     {
+      "k": "PFMS",
+      "x": "Digital tracking connects sanction, release and expenditure, improving cash visibility and reconciliation."
+     },
+     {
+      "k": "DBT",
+      "x": "Direct transfers can reduce intermediary leakage and payment delay where beneficiary and account records are correct."
      }
     ]
    },
@@ -6112,19 +6158,6 @@
      {
       "k": "Central-control concern",
       "x": "Detailed release conditions and platform dependence may shift implementation finance from federal negotiation to real-time Union permission."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
-     {
-      "k": "PFMS",
-      "x": "Digital tracking connects sanction, release and expenditure, improving cash visibility and reconciliation."
-     },
-     {
-      "k": "DBT",
-      "x": "Direct transfers can reduce intermediary leakage and payment delay where beneficiary and account records are correct."
      }
     ]
    },
@@ -6245,6 +6278,10 @@
      {
       "k": "PFMS",
       "x": "Digital tracking connects sanction, release and expenditure, improving cash visibility and reconciliation."
+     },
+     {
+      "k": "Public linkage",
+      "x": "Committee evidence and open data can connect legislative scrutiny with audit and citizen expertise."
      }
     ]
    },
@@ -6254,15 +6291,6 @@
      {
       "k": "Floor limitation",
       "x": "Political debate concentrates on a few ministries, leaving most expenditure without detailed discussion."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
-     {
-      "k": "Public linkage",
-      "x": "Committee evidence and open data can connect legislative scrutiny with audit and citizen expertise."
      }
     ]
    },
@@ -6323,6 +6351,10 @@
      {
       "k": "Central-control concern",
       "x": "Detailed release conditions and platform dependence may shift implementation finance from federal negotiation to real-time Union permission."
+     },
+     {
+      "k": "Autonomy concern",
+      "x": "An expanding conditional-grant architecture can recreate central direction outside the divisible-pool share."
      }
     ]
    },
@@ -6336,15 +6368,6 @@
      {
       "k": "Performance grants",
       "x": "Conditions can strengthen accounts, revenue effort or service systems, yet may penalise weak jurisdictions least able to comply."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
-     {
-      "k": "Autonomy concern",
-      "x": "An expanding conditional-grant architecture can recreate central direction outside the divisible-pool share."
      }
     ]
    },
@@ -6520,6 +6543,14 @@
      {
       "k": "Implementation design",
       "x": "Prioritise a small sequenced agenda with named owners, milestones, resources and public status reports."
+     },
+     {
+      "k": "Organisational fragmentation",
+      "x": "Cross-cutting recommendations lack a single ministry with authority and incentive to coordinate implementation."
+     },
+     {
+      "k": "Report fatigue",
+      "x": "Repeated commissions restate old proposals without mapping why earlier attempts failed."
      }
     ]
    },
@@ -6529,19 +6560,6 @@
      {
       "k": "Implementation weakness",
       "x": "Delayed constitution, vacancies, dependence on police staff and uncertain enforceability reduce trust."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
-     {
-      "k": "Organisational fragmentation",
-      "x": "Cross-cutting recommendations lack a single ministry with authority and incentive to coordinate implementation."
-     },
-     {
-      "k": "Report fatigue",
-      "x": "Repeated commissions restate old proposals without mapping why earlier attempts failed."
      }
     ]
    },
@@ -6723,12 +6741,7 @@
      {
       "k": "Process phase",
       "x": "Single windows, citizen charters and re-engineering targeted delay, approvals and service standards."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
+     },
      {
       "k": "Digital phase",
       "x": "Identity, payments, platforms and interoperable data enable direct, trackable and population-scale transactions."
@@ -6981,6 +6994,10 @@
      {
       "k": "CDP launch",
       "x": "The programme used development blocks and village-level workers to coordinate agriculture, infrastructure, health and social development."
+     },
+     {
+      "k": "Continuing lesson",
+      "x": "Mobilisation without authority and funds is symbolic; administration without representation lacks ownership."
      }
     ]
    },
@@ -6990,15 +7007,6 @@
      {
       "k": "Participation failure",
       "x": "Bureaucratic targets, official dominance and weak local control turned community development into delivery from above."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
-     {
-      "k": "Continuing lesson",
-      "x": "Mobilisation without authority and funds is symbolic; administration without representation lacks ownership."
      }
     ]
    },
@@ -7080,12 +7088,7 @@
      {
       "k": "Cadre control",
       "x": "State systems can protect professional standards, mobility and continuity, especially where local capacity is uneven."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
+     },
      {
       "k": "Dual command",
       "x": "Conflicting instructions from departmental superiors and local representatives blur priority and blame."
@@ -7140,6 +7143,10 @@
      {
       "k": "Local governments",
       "x": "Predictable transfers should accompany regular State Finance Commissions, timely release and auditable local accounts."
+     },
+     {
+      "k": "Data",
+      "x": "Published formulae, verified local data and status tracking reduce bargaining and delayed transfers."
      }
     ]
    },
@@ -7158,15 +7165,6 @@
      {
       "k": "Accountability gain",
       "x": "Measurable prerequisites may convert funds into institutional reform when support and realistic transition are available."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Data",
-      "x": "Published formulae, verified local data and status tracking reduce bargaining and delayed transfers."
      }
     ]
    }
@@ -7281,6 +7279,10 @@
      {
       "k": "Social role",
       "x": "Groups often support nutrition, health, entitlements and crisis response, making them development intermediaries."
+     },
+     {
+      "k": "Market capability",
+      "x": "Quality, design, working capital, logistics and professional management matter more than repeated loan targets."
      }
     ]
    },
@@ -7290,15 +7292,6 @@
      {
       "k": "Constraints",
       "x": "Over-indebtedness, low-return microenterprise, unpaid cadre work and elite capture can limit transformation."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Market capability",
-      "x": "Quality, design, working capital, logistics and professional management matter more than repeated loan targets."
      }
     ]
    }
@@ -7536,6 +7529,10 @@
      {
       "k": "Institutional capacity",
       "x": "Municipal finance cadres, integrated billing and treasury systems are necessary to use new powers."
+     },
+     {
+      "k": "Accountability condition",
+      "x": "Open budgets, accrual-quality asset records, procurement disclosure and ward-level service reporting justify autonomy."
      }
     ]
    },
@@ -7549,15 +7546,6 @@
      {
       "k": "Bond limit",
       "x": "Market finance serves stronger cities and cannot replace equalisation or fund inherently non-remunerative basic services."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Accountability condition",
-      "x": "Open budgets, accrual-quality asset records, procurement disclosure and ward-level service reporting justify autonomy."
      }
     ]
    }
@@ -7588,6 +7576,10 @@
      {
       "k": "Institutional capacity",
       "x": "Municipal finance cadres, integrated billing and treasury systems are necessary to use new powers."
+     },
+     {
+      "k": "State Finance Commissions",
+      "x": "Regular constitution, credible data and implemented recommendations are essential to a rules-based local fiscal settlement."
      }
     ]
    },
@@ -7601,15 +7593,6 @@
      {
       "k": "Political constraint",
       "x": "State controls, weak cadastres and reluctance to tax local property suppress buoyant municipal sources."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
-     {
-      "k": "State Finance Commissions",
-      "x": "Regular constitution, credible data and implemented recommendations are essential to a rules-based local fiscal settlement."
      }
     ]
    },
@@ -7661,6 +7644,10 @@
      {
       "k": "MPC mandate",
       "x": "Metropolitan Planning Committees should consolidate local plans and prepare integrated development priorities for the region."
+     },
+     {
+      "k": "Urban disaster authorities",
+      "x": "Dedicated arrangements can coordinate dense, cascading risks across infrastructure and municipal jurisdictions."
      }
     ]
    },
@@ -7674,30 +7661,7 @@
      {
       "k": "Fragmentation cost",
       "x": "Separate land, transit, housing, drainage and disaster decisions produce spatial mismatch and unowned externalities."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
-     {
-      "k": "Urban disaster authorities",
-      "x": "Dedicated arrangements can coordinate dense, cascading risks across infrastructure and municipal jurisdictions."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Command clarity",
-      "x": "Pre-agreed incident roles should join metropolitan scale with empowered local and ward response."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
+     },
      {
       "k": "Weak reality",
       "x": "MPCs often lack dedicated staff, data, finance links and authority over powerful parastatals."
@@ -7707,6 +7671,10 @@
    {
     "h": "Analysis and application",
     "p": [
+     {
+      "k": "Command clarity",
+      "x": "Pre-agreed incident roles should join metropolitan scale with empowered local and ward response."
+     },
      {
       "k": "Democratic basis",
       "x": "Representation from elected local bodies must remain central while experts and agencies contribute evidence."
@@ -7799,21 +7767,7 @@
      {
       "k": "MPC mandate",
       "x": "Metropolitan Planning Committees should consolidate local plans and prepare integrated development priorities for the region."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
-     {
-      "k": "Risk integration",
-      "x": "Disaster planning should shape metropolitan land use, transport, utilities and building approvals—not remain a response annex."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
+     },
      {
       "k": "Command clarity",
       "x": "Pre-agreed incident roles should join metropolitan scale with empowered local and ward response."
@@ -7823,6 +7777,10 @@
    {
     "h": "Limits and critical assessment",
     "p": [
+     {
+      "k": "Risk integration",
+      "x": "Disaster planning should shape metropolitan land use, transport, utilities and building approvals—not remain a response annex."
+     },
      {
       "k": "Fragmentation cost",
       "x": "Separate land, transit, housing, drainage and disaster decisions produce spatial mismatch and unowned externalities."
@@ -7873,12 +7831,7 @@
      {
       "k": "Democratic value",
       "x": "Regular local forums improve issue discovery, inclusion and accountability for neighbourhood services."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
+     },
      {
       "k": "Democratic bypass",
       "x": "Boards dominated by State or Union nominees may allocate urban space and funds without council deliberation."
@@ -7899,6 +7852,10 @@
      {
       "k": "Fragmentation",
       "x": "Water, transport and development authorities pursue sector goals while the municipality bears citizen-facing consequences."
+     },
+     {
+      "k": "Knowledge loss",
+      "x": "Project expertise remains in temporary vehicles or consultants rather than strengthening municipal institutions."
      }
     ]
    },
@@ -7908,15 +7865,6 @@
      {
       "k": "Financial risk",
       "x": "Off-budget borrowing and guarantees can conceal liabilities and create assets without maintenance funding."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Knowledge loss",
-      "x": "Project expertise remains in temporary vehicles or consultants rather than strengthening municipal institutions."
      }
     ]
    }
@@ -7968,6 +7916,10 @@
      {
       "k": "Centralisation risk",
       "x": "Additional plans and authorities may create upward reporting without finance or decision space at district, municipal and community levels."
+     },
+     {
+      "k": "Weak reality",
+      "x": "MPCs often lack dedicated staff, data, finance links and authority over powerful parastatals."
      }
     ]
    },
@@ -7977,15 +7929,6 @@
      {
       "k": "MPC mandate",
       "x": "Metropolitan Planning Committees should consolidate local plans and prepare integrated development priorities for the region."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
-     {
-      "k": "Weak reality",
-      "x": "MPCs often lack dedicated staff, data, finance links and authority over powerful parastatals."
      }
     ]
    }
@@ -8152,6 +8095,14 @@
      {
       "k": "Prakash Singh core",
       "x": "State Security Commissions, merit-based leadership tenure, separation of investigation, Police Establishment Boards and complaints authorities target political misuse and weak accountability."
+     },
+     {
+      "k": "Rationale",
+      "x": "Police investigate colleagues and operate within command structures, creating a credibility gap for grave complaints."
+     },
+     {
+      "k": "Federal implementation",
+      "x": "Union standards, State ownership and funded transition plans must align police, forensics, prosecution and courts."
      }
     ]
    },
@@ -8161,19 +8112,6 @@
      {
       "k": "Implementation weakness",
       "x": "Delayed constitution, vacancies, dependence on police staff and uncertain enforceability reduce trust."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
-     {
-      "k": "Rationale",
-      "x": "Police investigate colleagues and operate within command structures, creating a credibility gap for grave complaints."
-     },
-     {
-      "k": "Federal implementation",
-      "x": "Union standards, State ownership and funded transition plans must align police, forensics, prosecution and courts."
      }
     ]
    },
@@ -8507,6 +8445,10 @@
      {
       "k": "Development role",
       "x": "Enterprises created capacity, regional investment and strategic autonomy beyond immediate profitability."
+     },
+     {
+      "k": "Liberalisation shift",
+      "x": "Competition, disinvestment and private investment reduced the case for routine State production."
      }
     ]
    },
@@ -8516,15 +8458,6 @@
      {
       "k": "Accumulated problems",
       "x": "Multiple objectives, ministerial interference, soft budgets and weak competitive discipline often obscured accountability."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Liberalisation shift",
-      "x": "Competition, disinvestment and private investment reduced the case for routine State production."
      }
     ]
    }
@@ -8702,6 +8635,10 @@
      {
       "k": "Local governments",
       "x": "Predictable transfers should accompany regular State Finance Commissions, timely release and auditable local accounts."
+     },
+     {
+      "k": "Data",
+      "x": "Published formulae, verified local data and status tracking reduce bargaining and delayed transfers."
      }
     ]
    },
@@ -8720,15 +8657,6 @@
      {
       "k": "Accountability gain",
       "x": "Measurable prerequisites may convert funds into institutional reform when support and realistic transition are available."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Data",
-      "x": "Published formulae, verified local data and status tracking reduce bargaining and delayed transfers."
      }
     ]
    }
@@ -8759,6 +8687,14 @@
      {
       "k": "Capacity",
       "x": "Exercises, local volunteers, continuity plans and professional municipal risk staff make statutory structures usable."
+     },
+     {
+      "k": "Urban provision",
+      "x": "Dedicated urban authorities can address dense infrastructure and cascading risks that exceed ordinary municipal silos."
+     },
+     {
+      "k": "Local reality",
+      "x": "Ward, panchayat, district and frontline institutions know vulnerable people, routes, shelters and operational constraints."
      }
     ]
    },
@@ -8768,19 +8704,6 @@
      {
       "k": "Centralisation risk",
       "x": "Additional plans and authorities may create upward reporting without finance or decision space at district, municipal and community levels."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
-     {
-      "k": "Urban provision",
-      "x": "Dedicated urban authorities can address dense infrastructure and cascading risks that exceed ordinary municipal silos."
-     },
-     {
-      "k": "Local reality",
-      "x": "Ward, panchayat, district and frontline institutions know vulnerable people, routes, shelters and operational constraints."
      }
     ]
    },

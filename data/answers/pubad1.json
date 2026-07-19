@@ -1425,6 +1425,10 @@
      {
       "k": "Relational leadership",
       "x": "Trust, negotiation and conflict resolution are necessary where no unit controls all required resources."
+     },
+     {
+      "k": "Balanced architecture",
+      "x": "Set outcomes and non-negotiable constraints centrally, then assign accountable owners with operational room."
      }
     ]
    },
@@ -1434,15 +1438,6 @@
      {
       "k": "Hierarchy's limit",
       "x": "Excessive central clearance overloads the apex and weakens departmental responsibility."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Balanced architecture",
-      "x": "Set outcomes and non-negotiable constraints centrally, then assign accountable owners with operational room."
      }
     ]
    }
@@ -1494,6 +1489,10 @@
      {
       "k": "Relational leadership",
       "x": "Trust, negotiation and conflict resolution are necessary where no unit controls all required resources."
+     },
+     {
+      "k": "Balanced architecture",
+      "x": "Set outcomes and non-negotiable constraints centrally, then assign accountable owners with operational room."
      }
     ]
    },
@@ -1503,15 +1502,6 @@
      {
       "k": "Hierarchy's limit",
       "x": "Excessive central clearance overloads the apex and weakens departmental responsibility."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Balanced architecture",
-      "x": "Set outcomes and non-negotiable constraints centrally, then assign accountable owners with operational room."
      }
     ]
    }
@@ -1542,6 +1532,10 @@
      {
       "k": "Core method",
       "x": "Time study, task standardisation, scientific selection, training and differential incentives sought the one best way."
+     },
+     {
+      "k": "Dehumanisation",
+      "x": "Fragmented tasks, close supervision and monetary motivation ignored social needs, tacit knowledge and worker autonomy."
      }
     ]
    },
@@ -1555,20 +1549,15 @@
     ]
    },
    {
-    "h": "Core argument",
-    "p": [
-     {
-      "k": "Dehumanisation",
-      "x": "Fragmented tasks, close supervision and monetary motivation ignored social needs, tacit knowledge and worker autonomy."
-     }
-    ]
-   },
-   {
     "h": "Limits and critical assessment",
     "p": [
      {
       "k": "Labour critique",
       "x": "Scientific claims could legitimise speed-up and unequal control because management defined both standards and evidence."
+     },
+     {
+      "k": "Modern risk",
+      "x": "Goodhart effects, gaming and automation bias arise when measurable proxies displace complex public purpose."
      }
     ]
    },
@@ -1586,15 +1575,6 @@
      {
       "k": "Algorithmic Taylorism",
       "x": "Platforms allocate, monitor and rate work continuously, making control more granular and less contestable."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
-     {
-      "k": "Modern risk",
-      "x": "Goodhart effects, gaming and automation bias arise when measurable proxies displace complex public purpose."
      }
     ]
    }
@@ -1660,12 +1640,7 @@
      {
       "k": "Harmony bias",
       "x": "Conflict over authority, wages and work design may be structural rather than a misunderstanding cured by better relations."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
+     },
      {
       "k": "Contemporary synthesis",
       "x": "Social needs matter, but they should be joined to job design, fair rewards, voice and institutional power analysis."
@@ -1721,6 +1696,10 @@
      {
       "k": "Context",
       "x": "Emergency, low capability or high-risk tasks may require tighter controls without proving a universal X view of human nature."
+     },
+     {
+      "k": "Balanced leadership",
+      "x": "Use minimum necessary control with capability, clear purpose, feedback and genuine opportunities for voice."
      }
     ]
    },
@@ -1730,15 +1709,6 @@
      {
       "k": "Public-sector limit",
       "x": "Law, equality and audit constrain managerial flexibility even where professional autonomy is desirable."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Balanced leadership",
-      "x": "Use minimum necessary control with capability, clear purpose, feedback and genuine opportunities for voice."
      }
     ]
    }
@@ -1833,21 +1803,7 @@
      {
       "k": "Maslow",
       "x": "Needs progress from physiological and safety through belonging and esteem to self-actualisation, highlighting multiple non-monetary motives."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
-     {
-      "k": "Maslow limit",
-      "x": "Order and satisfaction vary across culture, career and circumstance; needs may operate simultaneously."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
+     },
      {
       "k": "Herzberg",
       "x": "Hygiene factors prevent dissatisfaction, while achievement, recognition, responsibility and growth motivate through enriched work."
@@ -1858,23 +1814,13 @@
     "h": "Limits and critical assessment",
     "p": [
      {
+      "k": "Maslow limit",
+      "x": "Order and satisfaction vary across culture, career and circumstance; needs may operate simultaneously."
+     },
+     {
       "k": "Herzberg limit",
       "x": "Methodology and occupational bias weaken a strict two-factor separation; pay can carry symbolic meaning."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "McClelland",
-      "x": "Learned needs for achievement, affiliation and power vary among individuals and can guide role and leadership design."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
+     },
      {
       "k": "McClelland limit",
       "x": "High achievement may not suit interdependent public tasks; power requires institutional and ethical control."
@@ -1884,6 +1830,10 @@
    {
     "h": "Analysis and application",
     "p": [
+     {
+      "k": "McClelland",
+      "x": "Learned needs for achievement, affiliation and power vary among individuals and can guide role and leadership design."
+     },
      {
       "k": "Public context",
       "x": "Service motive, mission valence, fairness and citizen impact supplement the three theories."
@@ -2195,6 +2145,10 @@
      {
       "k": "Systems limit",
       "x": "Its broad vocabulary can describe almost anything while providing weak specific predictions or power analysis."
+     },
+     {
+      "k": "Contingency limit",
+      "x": "Fit can be hard to measure, environments are partly constructed, and values constrain available designs."
      }
     ]
    },
@@ -2208,15 +2162,6 @@
      {
       "k": "Evidence",
       "x": "Burns-Stalker and Lawrence-Lorsch linked organic design and differentiation-integration to environmental conditions."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
-     {
-      "k": "Contingency limit",
-      "x": "Fit can be hard to measure, environments are partly constructed, and values constrain available designs."
      }
     ]
    }
@@ -2475,12 +2420,7 @@
      {
       "k": "Two-way communication",
       "x": "Field consultation before orders and structured feedback after implementation turn reporting into learning."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
+     },
      {
       "k": "Control design",
       "x": "Outcome review, audit trails and peer learning can replace excessive prior approval while retaining accountability."
@@ -2540,12 +2480,7 @@
      {
       "k": "Two-way communication",
       "x": "Field consultation before orders and structured feedback after implementation turn reporting into learning."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
+     },
      {
       "k": "Control design",
       "x": "Outcome review, audit trails and peer learning can replace excessive prior approval while retaining accountability."
@@ -3125,12 +3060,7 @@
      {
       "k": "Overgeneralisation",
       "x": "Labels such as prismatic can flatten variation within developing countries and understate agency and conflict."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
+     },
      {
       "k": "Contemporary revision",
       "x": "Use multi-level, historical and postcolonial comparison that studies hybridity without treating it as deficiency."
@@ -3249,21 +3179,7 @@
      {
       "k": "Power limits",
       "x": "Caste, class, gender violence, device ownership and unpaid work constrain equal participation."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "State dependence",
-      "x": "Credit, rights, markets and public services require responsive institutions; self-help cannot substitute for public obligation."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
+     },
      {
       "k": "Platform risks",
       "x": "Authentication failure, surveillance and data asymmetry may shift burdens from administration to citizens."
@@ -3273,6 +3189,10 @@
    {
     "h": "Analysis and application",
     "p": [
+     {
+      "k": "State dependence",
+      "x": "Credit, rights, markets and public services require responsive institutions; self-help cannot substitute for public obligation."
+     },
      {
       "k": "Design",
       "x": "Invest in federations, community resource persons, assisted access, grievance systems and enterprise capability."
@@ -3328,21 +3248,7 @@
      {
       "k": "Power limits",
       "x": "Caste, class, gender violence, device ownership and unpaid work constrain equal participation."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "State dependence",
-      "x": "Credit, rights, markets and public services require responsive institutions; self-help cannot substitute for public obligation."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
+     },
      {
       "k": "Platform risks",
       "x": "Authentication failure, surveillance and data asymmetry may shift burdens from administration to citizens."
@@ -3352,6 +3258,10 @@
    {
     "h": "Analysis and application",
     "p": [
+     {
+      "k": "State dependence",
+      "x": "Credit, rights, markets and public services require responsive institutions; self-help cannot substitute for public obligation."
+     },
      {
       "k": "Design",
       "x": "Invest in federations, community resource persons, assisted access, grievance systems and enterprise capability."
@@ -3410,12 +3320,7 @@
      {
       "k": "Participation",
       "x": "Communities and vulnerable groups hold contextual knowledge and bear distributional costs of transition."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
+     },
      {
       "k": "Administrative architecture",
       "x": "Nodal coordination, district convergence and legislative review must connect vertical missions to place-based delivery."
@@ -3475,12 +3380,7 @@
      {
       "k": "Participation",
       "x": "Communities and vulnerable groups hold contextual knowledge and bear distributional costs of transition."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
+     },
      {
       "k": "Administrative architecture",
       "x": "Nodal coordination, district convergence and legislative review must connect vertical missions to place-based delivery."
@@ -3958,6 +3858,14 @@
      {
       "k": "Architectural shift",
       "x": "Identity, payments and data exchange become reusable components rather than duplicated departmental systems."
+     },
+     {
+      "k": "Innovation",
+      "x": "Open protocols can allow multiple providers and interfaces while public rules preserve interoperability."
+     },
+     {
+      "k": "State-citizen relation",
+      "x": "Portability and direct delivery can reduce gatekeepers, but may relocate administrative burden onto the individual."
      }
     ]
    },
@@ -3967,19 +3875,6 @@
      {
       "k": "Transaction gain",
       "x": "Shared rails reduce verification, transfer and onboarding costs and permit services at population scale."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
-     {
-      "k": "Innovation",
-      "x": "Open protocols can allow multiple providers and interfaces while public rules preserve interoperability."
-     },
-     {
-      "k": "State-citizen relation",
-      "x": "Portability and direct delivery can reduce gatekeepers, but may relocate administrative burden onto the individual."
      }
     ]
    },
@@ -4100,6 +3995,10 @@
      {
       "k": "Outcome budgeting",
       "x": "It asks whether outputs contribute to changes in citizens' conditions and public purpose."
+     },
+     {
+      "k": "Attribution",
+      "x": "Economic conditions, citizen behaviour and multiple programmes make observed outcomes difficult to assign to one ministry."
      }
     ]
    },
@@ -4109,15 +4008,6 @@
      {
       "k": "Contribution",
       "x": "Logical chains clarify programme assumptions, indicators and cross-department dependencies."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
-     {
-      "k": "Attribution",
-      "x": "Economic conditions, citizen behaviour and multiple programmes make observed outcomes difficult to assign to one ministry."
      }
     ]
    },
@@ -4196,21 +4086,7 @@
      {
       "k": "Developing-country constraint",
       "x": "Shallow markets, volatile capital and development needs make rigid imported thresholds inappropriate."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Fiscal frameworks",
-      "x": "Medium-term debt anchors, transparent deficits and escape clauses can combine credibility with counter-cyclical flexibility."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
+     },
      {
       "k": "Risk disclosure",
       "x": "Guarantees, public enterprises, pensions and off-budget borrowing belong in a comprehensive balance-sheet view."
@@ -4220,6 +4096,10 @@
    {
     "h": "Analysis and application",
     "p": [
+     {
+      "k": "Fiscal frameworks",
+      "x": "Medium-term debt anchors, transparent deficits and escape clauses can combine credibility with counter-cyclical flexibility."
+     },
      {
       "k": "Expenditure test",
       "x": "Appraisal, maintenance and outcome review should distinguish productive borrowing from politically convenient deferral."

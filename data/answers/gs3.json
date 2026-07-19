@@ -1,161 +1,299 @@
 {
  "gs3-1": {
-  "src": "docx",
+  "directive": "critically examine",
   "intro": [
    {
-    "t": "concept",
-    "x": "The Feb 2026 India–US understanding cut the reciprocal tariff from 25% to 18% (dropping the additional 25% Russian-oil penalty), in exchange for market access and a pledge to purchase over $**500 bn** of US energy, **ICT** and other goods — reframing trade as a strategic bargain."
+    "t": "data",
+    "x": "The **February 2026** India-US understanding cut the reciprocal tariff from **25%** to **18%**, dropping the additional Russian-oil penalty, in exchange for market access and a large energy and goods purchase commitment — reframing trade as a strategic bargain."
    }
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Opportunities",
     "p": [
      {
       "k": "Export competitiveness restored",
-      "x": "The US is India's largest export market (~$**87 bn**); tariff relief protects labour-intensive gems, textiles, marine and pharma exports and preserves the merchandise trade surplus."
+      "x": "The **US** is India's largest export market (about **$87 bn**); tariff relief protects labour-intensive gems, textiles, marine and pharma exports."
      },
      {
       "k": "Supply-chain resilience",
-      "x": "'Economic security alignment' on critical minerals, semiconductors and trusted supply chains aids the China+1 pivot and de-risking of GVCs."
+      "x": "Alignment on critical minerals, semiconductors and trusted supply chains aids the **China+1** pivot and de-risking of global value chains."
      },
      {
-      "k": "Investment & technology magnet",
-      "x": "Predictability crowds in **FDI**; complements **TRUST**, **ICET** and **INDUS-X** in dual-use tech and defence co-production."
+      "k": "Investment and technology magnet",
+      "x": "Predictability crowds in **FDI** and complements dual-use technology and defence co-production frameworks.",
+      "ex": "**TRUST**, **iCET**, **INDUS-X**"
      },
+     {
+      "k": "Services and mobility leverage",
+      "x": "A tariff settlement creates space to press the harder asks — professional mobility, visa predictability and data adequacy."
+     }
+    ]
+   },
+   {
+    "h": "Risks",
+    "p": [
      {
       "k": "Strategic-autonomy dilution",
-      "x": "Conditioning relief on cutting discounted Russian crude constrains India's independent energy sourcing and West Asia diversification."
+      "x": "Conditioning relief on cutting discounted Russian crude constrains India's independent energy sourcing and West Asian diversification."
      },
      {
       "k": "Agricultural sensitivity",
-      "x": "Opening to DDGs, soybean oil, tree nuts and apples pressures farm incomes and dairy — the historic 'red line' at the **WTO**."
+      "x": "Opening to **DDGS**, soybean oil, tree nuts and apples pressures farm incomes and dairy — India's historic **WTO** red line."
      },
      {
       "k": "Transactional volatility",
-      "x": "Reciprocal-tariff regimes are reversible by executive order; over-dependence on one partner is itself a risk."
+      "x": "Reciprocal-tariff regimes are reversible by executive order, so concessions are permanent while relief is not."
+     },
+     {
+      "k": "Concentration risk",
+      "x": "Deepening dependence on a single market recreates, in trade, the very vulnerability diversification is meant to cure."
+     },
+     {
+      "k": "Precedent effect",
+      "x": "Concessions granted bilaterally become the baseline demand in every subsequent negotiation."
      }
     ]
-   }
-  ],
-  "wf": [
-   "Diversify: fast-track India–EU **FTA**, **CEPA** deepening and IMEC to spread market risk.",
-   "Defend policy space: protect **MSP**, public stockholding (**WTO** peace clause) and use tariff-rate quotas rather than blanket liberalisation."
-  ],
-  "conc": "Strategic autonomy in a fragmented order lies not in autarky but in a diversified basket of balanced deals that convert market access into economic security."
- },
- "gs3-2": {
-  "src": "docx",
-  "intro": [
+   },
    {
-    "t": "concept",
-    "x": "Effective 22 Sep 2025, **GST** 2.0 collapsed the four-slab structure into a merit rate of 5% and a standard rate of 18%, with a 40% de-merit rate on sin/luxury goods — the boldest simplification since the 2017 rollout."
-   }
-  ],
-  "body": [
-   {
-    "h": "Core dimensions",
+    "h": "India's strategy",
     "p": [
      {
-      "k": "Consumption stimulus",
-      "x": "Rate cuts on **FMCG**, cement, auto, insurance and aspirational goods raise disposable incomes — a demand-side push worth **~₹2 lakh** cr, aiding the post-tariff growth cushion."
+      "k": "Diversify markets",
+      "x": "Fast-track the **India-EU FTA**, deepen **CEPA** arrangements and build **IMEC** to spread market risk."
      },
      {
-      "k": "Revenue buoyancy",
-      "x": "Short-term revenue foregone (**~₹48,000 cr**) is bet against volume-led buoyancy and formalisation; monthly collections already near **₹1.8**–2 lakh cr provide headroom."
+      "k": "Defend policy space",
+      "x": "Protect **MSP** and public stockholding under the peace clause, and use tariff-rate quotas rather than blanket liberalisation."
      },
      {
-      "k": "MSME compliance ease",
-      "x": "Fewer slabs cut classification disputes and litigation; pre-filled returns, faster refunds and simplified registration lower compliance costs."
+      "k": "Build the domestic base",
+      "x": "**PLI**, quality infrastructure and logistics-cost reduction address the competitiveness gap tariffs only mask."
      }
     ]
    }
   ],
   "wf": [
-   "State fiscal anxiety: With compensation cess having ended (June 2022), states fear revenue loss — the **GST Council** must institutionalise a revenue-sharing safety net.",
-   "Complete the reform: Bring petroleum, electricity and real estate into **GST** and operationalise the **GST** Appellate Tribunal (GSTAT) to end inverted-duty and refund frictions."
+   "Convert a defensive tariff settlement into an offensive agenda on services, mobility and technology access"
   ],
-  "conc": "**GST** 2.0 advances the vision of 'One Nation, One Tax' from a compliance regime into a genuine growth and formalisation engine — cooperative federalism's most durable test.",
-  "diag": {
-   "k": "flow",
-   "d": "OLD: 5% ── 12% ── 18% ── 28% (+cess) │ │ │ │ NEW: 5% ◄───┘ 18% ◄──┘ 40% (sin/luxury) (merit) (standard) (de-merit)"
-  }
+  "conc": "Strategic autonomy in a fragmented order lies not in autarky but in a diversified basket of balanced deals that convert market access into economic security.",
+  "flash": [
+   "Feb 2026: 25% → 18% reciprocal tariff",
+   "US ~$87 bn, largest export market",
+   "TRUST/iCET/INDUS-X complementarity",
+   "dairy + agri = WTO red line",
+   "reversible by executive order"
+  ]
  },
- "gs3-3": {
-  "src": "docx",
+ "gs3-2": {
+  "directive": "evaluate",
   "intro": [
    {
-    "t": "concept",
-    "x": "The 16th **FC** (Panagariya) retained vertical devolution at 41% of the divisible pool while recalibrating horizontal criteria and shifting local-body and disaster grants toward conditionality — the fiscal constitution for 2026–31."
+    "t": "data",
+    "x": "Effective **22 September 2025**, **GST 2.0** collapsed four slabs into a merit rate of **5%** and a standard rate of **18%**, with a **40%** de-merit rate on sin and luxury goods — the boldest simplification since the 2017 rollout."
    }
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Impact on consumption",
+    "p": [
+     {
+      "k": "Demand stimulus",
+      "x": "Rate cuts on **FMCG**, cement, auto and insurance raise disposable incomes — a demand-side push cushioning post-tariff growth."
+     },
+     {
+      "k": "Formalisation pull",
+      "x": "A narrower rate spread reduces the incentive to misclassify or stay outside the net."
+     },
+     {
+      "k": "Inflation transmission",
+      "x": "Benefits reach consumers only if rate cuts are passed through, which needs anti-profiteering oversight."
+     }
+    ]
+   },
+   {
+    "h": "Revenue buoyancy and federal finance",
+    "p": [
+     {
+      "k": "The revenue bet",
+      "x": "Short-term revenue foregone of roughly **₹48,000 cr** is wagered against volume-led buoyancy and a wider base."
+     },
+     {
+      "k": "Collection headroom",
+      "x": "Monthly collections near **₹2 lakh cr** provide the cushion that made the rate cut fiscally arguable."
+     },
+     {
+      "k": "State anxiety",
+      "x": "With the **compensation cess** having ended, States bear rate-cut losses without a guarantee — the core federal grievance."
+     },
+     {
+      "k": "Inverted duty structure",
+      "x": "Rationalisation eases but does not eliminate inversion, which continues to lock up working capital in refunds."
+     }
+    ]
+   },
+   {
+    "h": "MSME compliance",
+    "p": [
+     {
+      "k": "Classification simplification",
+      "x": "Fewer slabs sharply cut classification disputes and the litigation that follows them."
+     },
+     {
+      "k": "Process easing",
+      "x": "Pre-filled returns, faster refunds and simplified registration lower the fixed compliance cost that falls hardest on small firms."
+     },
+     {
+      "k": "Dispute resolution",
+      "x": "Operationalising the **GST Appellate Tribunal** is essential, since accumulated disputes are the biggest drag on small-firm cash flow."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Institutionalise a revenue-sharing safety net through the **GST Council**, and complete the reform by bringing petroleum, electricity and real estate into GST"
+  ],
+  "conc": "GST 2.0 advances the 'one nation, one tax' vision by trading rate complexity for buoyancy — its success depends on States being made whole and disputes being resolved.",
+  "flash": [
+   "22 Sep 2025: 5% / 18% / 40%",
+   "~₹48,000 cr revenue foregone",
+   "compensation cess ended → State anxiety",
+   "GSTAT operationalisation",
+   "petroleum, electricity, real estate outside"
+  ]
+ },
+ "gs3-3": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The **16th Finance Commission (2026-31)** retains equity as the dominant devolution principle while introducing an explicit efficiency signal — attempting to reward performance without abandoning need."
+   }
+  ],
+  "body": [
+   {
+    "h": "Horizontal devolution criteria",
     "p": [
      {
       "k": "Equity anchor retained",
-      "x": "Income Distance (42.5%) still dominates, channelling resources to poorer states (Bihar, **UP**, **MP**) — upholding fiscal equalisation."
+      "x": "**Income Distance** at **42.5%** still dominates, channelling resources to States with lower per-capita income — the redistributive core."
      },
      {
       "k": "New efficiency signal",
-      "x": "A 10% 'contribution to GDP' criterion (replacing tax-effort) partly answers richer southern states' grievance of subsidising others."
+      "x": "A **contribution to GDP** criterion at **10%** rewards States generating national output, replacing the older tax-effort measure."
      },
      {
       "k": "Demographic balance",
-      "x": "Retaining Demographic Performance (10%) rewards states that curbed fertility, softening the north–south representation anxiety around delimitation."
+      "x": "Retaining **Demographic Performance** at **10%** compensates States that succeeded in fertility stabilisation and would otherwise lose from 2011 population data."
      },
      {
-      "k": "Empowered local bodies",
-      "x": "**₹7.91 lakh** cr for PRIs/ULBs, but tied to entry conditions — **SFC** constitution, online audited accounts — shifting from entitlement to conditionality."
+      "k": "Area and forest",
+      "x": "Area and **forest-and-ecology** weights recognise the cost of administering large territory and the opportunity cost of conservation."
+     }
+    ]
+   },
+   {
+    "h": "Local bodies and disaster grants",
+    "p": [
+     {
+      "k": "Third-tier transfer",
+      "x": "About **₹7.91 lakh cr** for panchayats and urban local bodies — but tied to entry conditions such as **SFC** constitution and audited accounts online."
+     },
+     {
+      "k": "Conditionality trade-off",
+      "x": "Conditions enforce dormant constitutional mandates, yet penalise precisely those bodies whose weak capacity caused the default."
      },
      {
       "k": "Disaster resilience",
-      "x": "**₹1.55 lakh** cr **DM** grants with 90:10 sharing for Himalayan/**NE** states recognises rising climate risk."
+      "x": "Roughly **₹1.55 lakh cr** in disaster-management grants, with **90:10** sharing for Himalayan and North-Eastern States, shifting weight toward mitigation."
+     }
+    ]
+   },
+   {
+    "h": "Does it balance equity and efficiency?",
+    "p": [
+     {
+      "k": "Broadly yes, in weights",
+      "x": "Equity retains three-quarters of the formula while efficiency gets a defined, transparent share — a defensible compromise."
+     },
+     {
+      "k": "But the pool is shrinking",
+      "x": "Rising **cesses and surcharges**, excluded from the divisible pool under **Article 270**, mean a stable percentage of a falling base."
+     },
+     {
+      "k": "Vertical share is the real question",
+      "x": "Horizontal criteria matter less to States than the vertical share and the predictability of what actually arrives."
      }
     ]
    }
   ],
   "wf": [
-   "Unaddressed cess creep: Cesses and surcharges (outside the Art. 270 divisible pool) have swelled to ~15–18% of gross receipts, shrinking states' effective share — the **FC** lacks power to curb this."
+   "Cap cesses and surcharges as a share of gross tax revenue so horizontal fairness is not defeated by vertical erosion"
   ],
-  "conc": "The 16th **FC** strikes a defensible equity–efficiency balance, but true fiscal federalism needs the Centre to shrink the off-pool cess wedge that quietly erodes devolution.",
-  "diag": {
-   "k": "flow",
-   "d": "HORIZONTAL FORMULA (16th FC):Income Distance 42.5% | Population(2011) 17.5% | Area 10%Demographic Perf. 10% | Forest 10% | GDP Contribution 10% (NEW)"
-  }
+  "conc": "The Commission balances equity and efficiency within the formula — but fiscal federalism will be judged by the size of the pool, not only by how it is divided.",
+  "flash": [
+   "Income Distance 42.5%; GDP contribution 10%",
+   "Demographic Performance 10%",
+   "₹7.91 lakh cr local bodies, conditional",
+   "₹1.55 lakh cr DM grants; 90:10 Himalayan",
+   "Art 270 cess exclusion shrinks the pool"
+  ]
  },
  "gs3-4": {
-  "src": "docx",
+  "directive": "discuss",
   "intro": [
    {
     "t": "concept",
-    "x": "From FY26, the Union has adopted a glide path to bring central-government debt to ~50% (±1%) of GDP by 2030–31, replacing the year-on-year fiscal-deficit target as the primary **FRBM** anchor."
+    "x": "From FY26 the Union has adopted a glide path bringing central-government debt to about **50% of GDP by 2030-31**, replacing the annual fiscal-deficit target as the primary **FRBM** anchor."
    }
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Rationale",
     "p": [
      {
-      "k": "Sound rationale",
-      "x": "A debt anchor captures the sustainability stock, not just the annual flow; it aligns with **IMF** practice and accommodates growth-enhancing borrowing."
+      "k": "Stock, not flow",
+      "x": "A debt anchor captures sustainability directly and aligns with **IMF** practice, accommodating growth-enhancing borrowing."
      },
      {
-      "k": "Counter-cyclical flexibility",
-      "x": "Frees fiscal policy to expand in downturns and consolidate in booms, so long as the debt trajectory is credible — de-emphasising a rigid deficit number."
+      "k": "Counter-cyclical space",
+      "x": "Fiscal policy can expand in downturns and consolidate in booms so long as the debt trajectory stays credible."
      },
      {
       "k": "Capex protection",
-      "x": "Lets the state sustain the **~₹11 lakh** cr capex push without breaching a single-year ceiling, supporting growth multipliers."
+      "x": "It lets the State sustain a large capital-expenditure push without breaching a rigid single-year ceiling."
+     }
+    ]
+   },
+   {
+    "h": "Implications and risks",
+    "p": [
+     {
+      "k": "Transparency risk",
+      "x": "A debt anchor can mask off-budget borrowing and contingent liabilities unless disclosure widens."
+     },
+     {
+      "k": "Needed safeguards",
+      "x": "A **public-sector borrowing requirement** disclosure and an independent **Fiscal Council**, recommended by the FRBM Review Committee."
+     },
+     {
+      "k": "State alignment",
+      "x": "Sub-national debt and guarantees drive general-government debt; the anchor works only if States adopt comparable rules."
      }
     ]
    }
   ],
   "wf": [
-   "Transparency risk: A debt anchor can mask off-budget borrowings and contingent liabilities; needs a public-sector borrowing requirement (**PSBR**) disclosure and independent **Fiscal Council** (13th FC/FRBM Review recommendation)."
+   "Legislate PSBR disclosure and an autonomous fiscal watchdog to make the anchor credible"
   ],
-  "conc": "A debt anchor is a maturer fiscal rule — but its credibility rests on transparent accounting and an autonomous fiscal watchdog."
+  "conc": "A debt anchor is a maturer fiscal rule than a deficit target — but its credibility rests on transparent accounting rather than on the number itself.",
+  "flash": [
+   "~50% of GDP by 2030-31",
+   "stock anchor vs annual flow target",
+   "protects capex from single-year ceiling",
+   "off-budget borrowing risk",
+   "PSBR disclosure + Fiscal Council"
+  ]
  },
  "gs3-17": {
   "src": "docx",
@@ -191,37 +329,81 @@
   "conc": "Welfare and fiscal prudence are not opposites — the test is whether public money builds capabilities or merely buys loyalty."
  },
  "gs3-5": {
-  "src": "docx",
+  "directive": "examine",
   "intro": [
    {
-    "t": "concept",
-    "x": "Though headline unemployment (**PLFS** 2025) is at a multi-year low (~3.2% usual status), ~90% of the workforce remains informal and self-employment/unpaid family labour is rising — signalling a quality, not quantity, deficit."
+    "t": "data",
+    "x": "Headline unemployment is at a multi-year low, yet about **90%** of the workforce remains informal and self-employment is rising — signalling a **quality**, not a quantity, deficit."
    }
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Reading the data correctly",
     "p": [
      {
       "k": "Informality trap",
-      "x": "The bulk of new work is low-productivity own-account and agricultural, lacking social security, written contracts or upward mobility."
+      "x": "Most new work is low-productivity own-account and agricultural, lacking social security, written contracts or upward mobility."
      },
      {
       "k": "Disguised gains",
-      "x": "Falling unemployment partly reflects distress self-employment and women re-entering unpaid farm work, not formal job creation."
+      "x": "Falling unemployment partly reflects distress self-employment and women re-entering unpaid family farm work, not formal job creation."
      },
      {
-      "k": "ELI as a corrective",
-      "x": "The **₹1.07 lakh** cr Employment-Linked Incentive scheme (targeting **~3.5 cr** jobs, **₹15,000** first-salary support, **EPFO**-linked) directly subsidises formal hiring and first-time employees."
+      "k": "Wage stagnation",
+      "x": "Real wage growth has lagged productivity growth, so employment gains have not translated into income gains."
+     },
+     {
+      "k": "Structural anomaly",
+      "x": "Workers have moved from agriculture to construction and services rather than to manufacturing — bypassing the stage that historically created formal jobs."
+     }
+    ]
+   },
+   {
+    "h": "Policy correctives in place",
+    "p": [
+     {
+      "k": "Employment-Linked Incentive",
+      "x": "The **₹1.07 lakh cr** **ELI** scheme subsidises formal hiring, with first-salary support and **EPFO**-linked verification targeting first-time employees."
+     },
+     {
+      "k": "Labour Codes",
+      "x": "In force from **November 2025**, they extend universal social security and a national floor wage, with gig and platform workers formally covered."
+     },
+     {
+      "k": "Skilling and apprenticeship",
+      "x": "**PM Internship** and **NEP**-aligned vocational credit seek to close the employability gap employers report."
+     }
+    ]
+   },
+   {
+    "h": "What would make jobs good jobs",
+    "p": [
+     {
+      "k": "Manufacturing depth",
+      "x": "Scale labour-intensive sectors — textiles, footwear, food processing — through **PLI** and cluster support to absorb surplus farm labour."
+     },
+     {
+      "k": "MSME formalisation",
+      "x": "Credit access and compliance simplification determine whether small firms grow past the threshold where formal jobs appear."
+     },
+     {
+      "k": "Female participation",
+      "x": "Care infrastructure and safe transport are labour-market policy, not welfare — the largest untapped source of formal workers."
      }
     ]
    }
   ],
   "wf": [
-   "Manufacturing & **MSME** depth: Scale labour-intensive sectors (textiles, footwear, food processing) via **PLI** 2.0 and cluster support to absorb surplus farm labour.",
-   "Skilling–industry match: Align **NEP** 2020 skilling and apprenticeships (**PM Internship Scheme**) with demand; formalise gig work under the Social Security Code."
+   "Fund the social-security corpus and enforce the Codes in the informal sector, where the rights exist only on paper"
   ],
-  "conc": "Converting a demographic dividend into growth requires not merely jobs but decent, secure, productive livelihoods — the true measure of Viksit Bharat."
+  "conc": "Converting a demographic dividend into growth requires not merely jobs but decent, secure and productive livelihoods — the true measure of Viksit Bharat.",
+  "flash": [
+   "~90% informal despite low headline UE",
+   "distress self-employment",
+   "ELI ₹1.07 lakh cr, EPFO-linked",
+   "Labour Codes in force Nov 2025",
+   "skipped the manufacturing stage"
+  ]
  },
  "gs3-5-b0": {
   "src": "docx",
@@ -253,37 +435,85 @@
   "conc": "**The Code**s' promise turns on cooperative-federal execution, not statutory intent alone."
  },
  "gs3-6": {
-  "src": "docx",
+  "directive": "critically examine",
   "intro": [
    {
-    "t": "concept",
-    "x": "India is the fastest-growing major economy (~6.5% GDP), yet the gap between growth and well-being persists — the **HDR** docks India ~30% of its **HDI** on adjusting for inequality (**IHDI**), even as multidimensional poverty falls sharply."
+    "t": "data",
+    "x": "India is the fastest-growing major economy, yet the **HDR** docks roughly **30%** of its **HDI** on adjusting for inequality — even as multidimensional poverty falls sharply."
    }
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "The genuine gains",
     "p": [
      {
       "k": "Poverty progress",
-      "x": "**NITI** Aayog's **MPI** shows **~24.8 cr** Indians escaped multidimensional poverty (2013–23), headcount down to ~11–15% — a genuine capability gain in health, education, living standards."
+      "x": "**NITI Aayog**'s **MPI** shows about **24.8 crore** people exiting multidimensional poverty between 2013-14 and 2022-23."
      },
      {
-      "k": "Persistent inequality",
-      "x": "The **IHDI** loss and rising wealth concentration (top-10% holding a majority of national wealth) show growth's uneven distribution."
+      "k": "Capability indicators",
+      "x": "Sanitation, cooking fuel, electricity, housing and bank accounts drove the fall — direct measures of living standards, not proxies."
+     },
+     {
+      "k": "Consumption corroboration",
+      "x": "**HCES 2022-23** shows consumption rising with the rural-urban gap narrowing, consistent with the MPI trend."
+     }
+    ]
+   },
+   {
+    "h": "Why growth is not translating fully",
+    "p": [
+     {
+      "k": "Wealth concentration",
+      "x": "The **IHDI** loss and a rising share of wealth at the top show growth's distribution remains sharply uneven."
+     },
+     {
+      "k": "Access versus outcome",
+      "x": "MPI counts a toilet built or a connection issued, not its use — assets are measured, capabilities assumed."
+     },
+     {
+      "k": "Vulnerability above the line",
+      "x": "Large numbers sit marginally above the threshold and relapse after one health shock or crop failure."
      },
      {
       "k": "Intersectional deprivation",
-      "x": "Caste, gender and geography compound disadvantage — female **LFPR**, **SC**/**ST**/**PVTG** gaps and lagging eastern states reveal that averages hide margins."
+      "x": "Caste, gender and geography compound disadvantage — female **LFPR**, SC/ST and **PVTG** gaps, and lagging eastern States."
+     },
+     {
+      "k": "Jobless character",
+      "x": "Growth concentrated in capital-intensive and skill-intensive sectors limits the trickle-down that employment would otherwise deliver."
+     }
+    ]
+   },
+   {
+    "h": "Correctives",
+    "p": [
+     {
+      "k": "Universal basic services",
+      "x": "Deepen health under **Ayushman Bharat**, education under **NEP** and **JAM**-enabled **DBT** to raise the social floor."
+     },
+     {
+      "k": "Progressive and productive",
+      "x": "Widen the direct-tax base while investing in human capital and formal job creation — growth must be jobs-rich and bottom-heavy."
+     },
+     {
+      "k": "Measure what matters",
+      "x": "Publish outcome-based, disaggregated data by caste, gender and district so redistribution is evidence-led."
      }
     ]
    }
   ],
   "wf": [
-   "Universal basic services: Deepen health (Ayushman Bharat), education (**NEP**) and **JAM**-enabled DBT to raise the social floor.",
-   "Progressive & productive: Widen the direct-tax base, invest in human capital and formal jobs; growth must be jobs-rich and bottom-heavy."
+   "Shift measurement from access to usage and outcomes, and target the districts where deprivation is spatially clustered"
   ],
-  "conc": "A developed nation is measured not by the size of its economy but by the dignity of its most marginal citizen — inclusive growth is the bridge."
+  "conc": "Growth without distribution is arithmetic, not development — inclusive growth requires that averages stop concealing the margins.",
+  "flash": [
+   "IHDI docks ~30% of HDI",
+   "MPI: ~24.8 cr exit, 2013-14 to 2022-23",
+   "HCES 2022-23 gap narrowing",
+   "access ≠ outcome; relapse risk",
+   "caste-gender-geography clustering"
+  ]
  },
  "gs3-14": {
   "src": "docx",
@@ -1874,37 +2104,86 @@
   "conc": "A predictable, calibrated trade policy balances consumer inflation against farmer incomes and export credibility."
  },
  "gs3-33": {
-  "src": "docx",
+  "directive": "discuss",
   "intro": [
    {
     "t": "concept",
-    "x": "Hosting the **AI Impact Summit** 2026 and adopting the **New Delhi Declaration** marked India's arrival as an AI norm-setter, championing an inclusive, 'AI-for-all', application-led model under the **₹10,371 cr** **IndiaAI Mission**."
+    "x": "Hosting the **AI Impact Summit 2026** and issuing the **New Delhi Declaration**, India has staked out an **application-led** model — using AI to solve development problems at population scale rather than competing only at the frontier."
    }
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "The application-led model",
     "p": [
      {
-      "k": "Application-led model",
-      "x": "Rather than chase frontier LLMs alone, India leverages AI for public goods — health, agriculture (Bharat-VISTAAR), education, governance and languages (Bhashini) — 'AI for social empowerment'."
+      "k": "Solve, then scale",
+      "x": "Priority to agriculture advisories, health diagnostics, language access and governance delivery, where AI meets an existing public-delivery stack."
      },
      {
-      "k": "Compute & data commons",
-      "x": "Subsidised **GPU** compute, AIKosh datasets, indigenous foundation models and the IndiaAI Safety Institute build sovereign capacity."
+      "k": "Built on DPI",
+      "x": "India's advantage is not compute but the identity, payments and data-exchange rails on which AI applications can reach hundreds of millions."
      },
+     {
+      "k": "Language as the frontier",
+      "x": "Multilingual models are the precondition for inclusion in a country where English-first tools exclude most users.",
+      "ex": "**BharatGen**; Bhashini"
+     },
+     {
+      "k": "Compute and data commons",
+      "x": "Subsidised **GPU** access and curated public datasets under **AIKosh** lower the entry barrier for startups and researchers."
+     }
+    ]
+   },
+   {
+    "h": "Balancing innovation and safeguards",
+    "p": [
+     {
+      "k": "Techno-legal approach",
+      "x": "Rather than a single restrictive statute, India favours embedding safeguards in the technology and in sectoral regulation."
+     },
+     {
+      "k": "Deepfake and provenance",
+      "x": "Synthetic-media labelling and content provenance are the immediate regulatory priority after the information operations of 2025."
+     },
+     {
+      "k": "Data protection interface",
+      "x": "The **DPDP Act, 2023** governs training data and consent; its exemptions determine how much protection actually binds the State."
+     },
+     {
+      "k": "Algorithmic accountability",
+      "x": "Public-sector deployment needs explainability, bias audit and human review where decisions affect rights."
+     },
+     {
+      "k": "Compute dependence",
+      "x": "Reliance on imported accelerators and foreign foundation models is the strategic vulnerability beneath the application layer."
+     }
+    ]
+   },
+   {
+    "h": "Global positioning",
+    "p": [
      {
       "k": "Global South leadership",
-      "x": "**The New Delhi Declaration** and '**MANAV**/AI-for-humanity' framing position India as the Global South's voice on inclusive, safe AI."
+      "x": "India offers a replicable model of AI for development, extending the **DPI** diplomacy of its **G20** presidency."
+     },
+     {
+      "k": "Norm-shaping",
+      "x": "Participation in international AI governance lets India argue for equitable compute access rather than accepting rules set elsewhere."
      }
     ]
    }
   ],
   "wf": [
-   "Employment disruption: Automation threatens routine IT/**BPO** jobs; needs large-scale reskilling and AI-augmentation, not replacement.",
-   "Privacy & integrity: Deepfakes and AI disinformation threaten elections/social cohesion; enforce **DPDP Act**, content-provenance and platform accountability."
+   "Pair the **IndiaAI Mission**'s compute and data commons with a binding public-sector AI accountability framework"
   ],
-  "conc": "India's wager is that AI can be an equaliser, not a divider — provided guardrails on jobs, privacy and truth keep pace with capability."
+  "conc": "India's contribution to AI will be judged less by the models it builds than by the problems it solves at scale — application-led development is a strategy, not a concession.",
+  "flash": [
+   "AI Impact Summit 2026; New Delhi Declaration",
+   "application-led, built on DPI",
+   "AIKosh datasets + subsidised GPU",
+   "BharatGen/Bhashini multilingual",
+   "techno-legal, not single-statute"
+  ]
  },
  "gs3-33-b0": {
   "src": "docx",
@@ -1926,37 +2205,86 @@
   "conc": "AI sovereignty is an ecosystem, spanning silicon to safety — the true measure of technological self-reliance."
  },
  "gs3-34": {
-  "src": "docx",
+  "directive": "examine",
   "intro": [
    {
     "t": "concept",
-    "x": "The unveiling of the first Made-in-India chips in 2025 (from Sanand and Dholera fabs/OSATs) turned the **₹76,000 cr** **India Semiconductor Mission** from ambition to reality; **ISM** 2.0 (~$**13 bn**) now targets equipment, materials and indigenous IP."
+    "x": "With the first made-in-India chips rolling out, **ISM 2.0** shifts ambition from assembly toward **equipment, materials and indigenous IP** — the segments where value and leverage actually concentrate."
    }
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Progress so far",
     "p": [
      {
-      "k": "Progress",
-      "x": "Approved projects (Micron **OSAT**, Tata–**PSMC** fab at Dholera, **CG** Power, Kaynes, Tata Assembly at Morigaon) anchor a domestic ecosystem across the value chain."
+      "k": "Plants on the ground",
+      "x": "Approved projects span assembly-test and fabrication, converting policy into physical capacity.",
+      "ex": "Micron **OSAT** at Sanand; Tata-**PSMC** fab at Dholera"
+     },
+     {
+      "k": "Design strength",
+      "x": "India already hosts a large share of global chip design talent; the **Design-Linked Incentive** seeks to convert services work into owned IP."
      },
      {
       "k": "Strategic significance",
-      "x": "Chips are the 'new oil' — foundational to AI, defence, EVs, telecom and **DPI**; indigenisation cuts import dependence and supply-chain coercion risk."
+      "x": "Semiconductors are foundational to AI, defence, telecom and electric vehicles — capability here underwrites every other technology mission."
      },
      {
-      "k": "ISM 2.0 depth",
-      "x": "Moving beyond assembly to equipment, gases/chemicals, design (**DLI** scheme) and **IP** builds resilience and value capture."
+      "k": "Demand anchor",
+      "x": "A large domestic electronics and automotive market gives Indian fabs an assured buyer that most latecomers lacked."
+     }
+    ]
+   },
+   {
+    "h": "Persisting challenges",
+    "p": [
+     {
+      "k": "Assembly is not fabrication",
+      "x": "**ATMP/OSAT** captures the lowest share of chain value; leading-edge fabrication remains far ahead technologically."
+     },
+     {
+      "k": "Ecosystem depth",
+      "x": "Ultra-pure chemicals, specialty gases, photoresists, wafers and precision equipment are import-dependent and supplier-concentrated."
+     },
+     {
+      "k": "Utilities and water",
+      "x": "Fabs need uninterrupted power and very large volumes of ultra-pure water — an infrastructure obligation, not merely a subsidy question."
+     },
+     {
+      "k": "Talent pipeline",
+      "x": "Fabrication process engineering is a distinct discipline from design; the shortage is in manufacturing, not in designers."
+     },
+     {
+      "k": "Capital intensity and cycles",
+      "x": "Fabs cost billions with long payback into a notoriously cyclical market — sustained subsidy commitment is unavoidable."
+     }
+    ]
+   },
+   {
+    "h": "Strategic significance",
+    "p": [
+     {
+      "k": "Supply-chain security",
+      "x": "Domestic capacity insulates defence and critical infrastructure from export controls and geopolitical chokepoints."
+     },
+     {
+      "k": "Partnership leverage",
+      "x": "Technology tie-ups and trusted-supplier arrangements shorten the learning curve that going alone would extend by decades."
      }
     ]
    }
   ],
   "wf": [
-   "Challenges: Water/power-intensive fabs, ultra-pure materials import, talent, and the enormous, patient capital and yield learning-curve.",
-   "Ecosystem: Build the surrounding supplier, design-talent (85,000-engineer target) and R&D ecosystem, not just fabs."
+   "Sequence the ecosystem — materials, gases, equipment and process talent — alongside fabs, since a fab without a supply chain is an import-assembly plant"
   ],
-  "conc": "Semiconductor self-reliance is a strategic-autonomy imperative for a digital, AI-driven economy — a marathon India has finally begun to run."
+  "conc": "Semiconductor self-reliance is a decade-long industrial project, not a scheme — India's test is whether it moves from packaging chips to owning the processes that make them.",
+  "flash": [
+   "ISM 2.0: equipment, materials, IP",
+   "Micron OSAT Sanand; Tata-PSMC Dholera",
+   "ATMP/OSAT = lowest value capture",
+   "gases, photoresists, wafers imported",
+   "fab talent ≠ design talent"
+  ]
  },
  "gs3-37": {
   "src": "docx",
@@ -2074,6 +2402,14 @@
      {
       "k": "Persisting challenges",
       "x": "Reliability and crew safety, sustained funding against a modest space budget, deep-space communications and astronaut-training depth."
+     },
+     {
+      "k": "Frugal-engineering advantage",
+      "x": "India's record of low-cost missions makes it a credible partner for developing-country space programmes."
+     },
+     {
+      "k": "Sustained funding",
+      "x": "A modest space budget against a decade-long programme makes political continuity the real risk."
      }
     ]
    }
@@ -2117,37 +2453,89 @@
   "conc": "Public–private synergy is transforming **ISRO**'s monopoly into a vibrant NewSpace economy."
  },
  "gs3-36": {
-  "src": "docx",
+  "directive": "examine",
   "intro": [
    {
-    "t": "concept",
-    "x": "The **₹20,000 cr** **Nuclear Energy Mission** (Budget 2025) targets **100 GW** of nuclear capacity by 2047 (from **~8 GW**) — with Small Modular Reactors and long-awaited legal reforms to draw private and foreign capital as pillars of the clean-energy transition."
+    "t": "data",
+    "x": "The **Nuclear Energy Mission** targets **100 GW by 2047**, backed by **Small Modular Reactors** and amendments to the **Atomic Energy Act, 1962** and the civil-liability law to admit private capital."
    }
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Why nuclear is back",
     "p": [
      {
-      "k": "Clean baseload",
-      "x": "Nuclear provides firm, dispatchable, low-carbon power that complements variable solar/wind — essential for grid stability and net-zero-2070."
+      "k": "Firm clean baseload",
+      "x": "Nuclear supplies dispatchable, low-carbon power that complements intermittent renewables — solving the problem storage alone cannot yet solve."
      },
      {
-      "k": "SMR/BSMR bet",
-      "x": "Bharat Small Modular Reactors (**~200 MW**) can repurpose retiring thermal sites and power hard-to-abate industry."
+      "k": "Land and footprint efficiency",
+      "x": "Very high energy density per hectare, decisive where land acquisition constrains large solar parks."
      },
      {
-      "k": "Legal enablers",
-      "x": "Amending the **Atomic Energy Act, 1962** and the **CLND Act, 2010** (softening supplier liability) unlocks private and foreign participation."
+      "k": "Net-zero arithmetic",
+      "x": "A **2070** net-zero pathway with rising demand is difficult to construct without a substantial firm low-carbon block."
+     },
+     {
+      "k": "The SMR bet",
+      "x": "**Bharat Small Modular Reactors** of around **200 MW** can be sited at retiring coal plants, reusing grid connections, land and skilled workforce."
+     }
+    ]
+   },
+   {
+    "h": "The legal and financial enablers",
+    "p": [
+     {
+      "k": "Opening the sector",
+      "x": "Amending the **Atomic Energy Act** to permit private participation ends the state monopoly that capped capacity growth."
+     },
+     {
+      "k": "The liability blockage",
+      "x": "The **CLND Act, 2010** supplier-liability provision deterred both foreign vendors and domestic component makers; its amendment is the decisive unlock."
+     },
+     {
+      "k": "Capital mobilisation",
+      "x": "Private and institutional capital is essential, since public financing alone cannot fund a 100 GW build-out."
+     },
+     {
+      "k": "Fuel and the three-stage programme",
+      "x": "Domestic uranium is limited; imported fuel under safeguards and eventual **thorium** utilisation define the long-run fuel strategy."
+     }
+    ]
+   },
+   {
+    "h": "Risks to manage",
+    "p": [
+     {
+      "k": "Regulatory independence",
+      "x": "An expanded, privatised sector requires a genuinely independent regulator — the **AERB**'s statutory autonomy remains unfinished business."
+     },
+     {
+      "k": "Public acceptance",
+      "x": "Siting depends on community consent, transparent safety communication and credible rehabilitation."
+     },
+     {
+      "k": "Waste and decommissioning",
+      "x": "Long-term spent-fuel management must be settled before capacity scales, not after."
+     },
+     {
+      "k": "Cost and delivery record",
+      "x": "Nuclear projects globally run over time and budget; SMR economics remain unproven at commercial scale."
      }
     ]
    }
   ],
   "wf": [
-   "Concerns: Supplier-liability dilution vs Bhopal-shaped accountability; safety, waste disposal, cost/time overruns, and fuel (uranium) security.",
-   "Safeguards: An empowered, independent regulator (**NSRA**), robust liability, and public trust/siting consent."
+   "Legislate an independent regulator alongside sectoral opening, and prove SMR economics at pilot scale before committing the build-out"
   ],
-  "conc": "Nuclear energy is indispensable to a reliable clean-energy mix — but its expansion must not trade safety and accountability for speed."
+  "conc": "Nuclear power can supply the firm clean baseload India's transition needs — provided liability, regulation and public trust are settled before capacity, not after.",
+  "flash": [
+   "100 GW by 2047; BSMR ~200 MW",
+   "coal-site repurposing for SMRs",
+   "Atomic Energy Act 1962 amendment",
+   "CLND 2010 supplier liability = blockage",
+   "AERB statutory independence pending"
+  ]
  },
  "gs3-39": {
   "src": "docx",
@@ -2426,40 +2814,85 @@
   "conc": "The deep ocean is the next resource and strategic frontier of the blue economy."
  },
  "gs3-45": {
-  "src": "docx",
+  "directive": "critically examine",
   "intro": [
    {
     "t": "concept",
-    "x": "COP30 at Belém (Nov 2025), the first **COP** in the Amazon, delivered the 'Global Mutirão' (collective-effort) package but disappointed on the two issues that matter most to the developing world — adequate finance and a credible fossil-fuel exit."
+    "x": "**COP30 at Belém** delivered a political package — the **Global Mutirão** decision, a call to triple adaptation finance and a **Just Transition Mechanism** — while omitting the fossil-fuel roadmap a large bloc of countries had demanded."
    }
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "The outcomes",
     "p": [
      {
-      "k": "Global Mutirão",
-      "x": "A political package bridging finance, trade and the 1.5°C goal, plus the 'Belém-to-Baku' roadmap toward the $1.3-trillion climate-finance goal."
+      "k": "Global Mutirão decision",
+      "x": "A consensus package linking finance, trade and the **1.5°C** goal, named for the Brazilian idea of collective effort."
      },
      {
       "k": "Adaptation finance",
-      "x": "A call to triple adaptation finance by 2035 — but the baseline was dropped and the timeline slipped from 2030, diluting ambition."
+      "x": "A call to **triple adaptation finance by 2035** — significant in direction, but with the baseline and sources left undefined."
      },
      {
       "k": "Just Transition Mechanism",
-      "x": "A new institutional mechanism for technical support and cooperation on equitable transitions — a genuine win for the Global South."
+      "x": "A new institutional channel for technical support and cooperation on transition impacts for workers and fossil-dependent economies."
      },
      {
+      "k": "Finance roadmap",
+      "x": "Work continues on scaling climate finance toward the **$1.3 trillion** goal, bridging public and private sources."
+     }
+    ]
+   },
+   {
+    "h": "Where it fell short",
+    "p": [
+     {
       "k": "No fossil-fuel roadmap",
-      "x": "Despite 80+ countries' backing, the final text omitted a phase-out roadmap — a major gap, deferred to voluntary processes."
+      "x": "Despite backing from over eighty countries, the final text omitted a timetable for transitioning away from fossil fuels."
+     },
+     {
+      "k": "Finance without obligation",
+      "x": "Calls to triple adaptation finance carry no binding delivery mechanism — the recurring gap between pledge and disbursement."
+     },
+     {
+      "k": "Adaptation still secondary",
+      "x": "Mitigation continues to attract the bulk of flows, though adaptation is what developing countries need most immediately."
+     },
+     {
+      "k": "Loss and damage capitalisation",
+      "x": "The fund exists but remains far below the scale of assessed need."
+     }
+    ]
+   },
+   {
+    "h": "Implications for India",
+    "p": [
+     {
+      "k": "Adaptation priority",
+      "x": "India's exposure — heat, floods, cyclones, Himalayan hazards — makes adaptation finance the more consequential outcome."
+     },
+     {
+      "k": "Equity argument",
+      "x": "**CBDR-RC** and the right to development remain India's negotiating anchor against uniform phase-out timetables."
+     },
+     {
+      "k": "Trade interface",
+      "x": "Unilateral measures such as **CBAM** shift climate cost onto exporters — the reason India links trade and climate in the same forum."
      }
     ]
    }
   ],
   "wf": [
-   "India's stance: India (via negotiator Chandni Raina) pressed Article 9.1 — that developed nations 'shall provide' public finance — and defended **CBDR-RC** and equity against burden-shifting onto developing countries."
+   "Press for a defined baseline and delivery mechanism for adaptation finance, and for climate-trade measures to be negotiated multilaterally rather than imposed unilaterally"
   ],
-  "conc": "COP30 advanced adaptation and just-transition, but climate justice demands that finance and historical responsibility, not rhetoric, drive the transition."
+  "conc": "Belém advanced the architecture of cooperation but not the ambition of action — the gap between what the science requires and what the text delivers remains the defining failure of the process.",
+  "flash": [
+   "Global Mutirão decision",
+   "triple adaptation finance by 2035",
+   "Just Transition Mechanism",
+   "no fossil-fuel roadmap despite 80+ backers",
+   "CBDR-RC; CBAM trade interface"
+  ]
  },
  "gs3-46": {
   "directive": "examine",
@@ -2511,6 +2944,10 @@
      {
       "k": "Demand-side shift",
       "x": "Time-of-day tariffs and electrification of transport and cooking can move demand toward solar hours."
+     },
+     {
+      "k": "Demand-side shift",
+      "x": "Time-of-day tariffs and electrification of transport and cooking can move consumption into solar hours."
      }
     ]
    }
@@ -3383,37 +3820,90 @@
   "conc": "Industrial safety is a governance and prevention challenge, not merely a response one."
  },
  "gs3-61": {
-  "src": "docx",
+  "directive": "examine",
   "intro": [
    {
     "t": "concept",
-    "x": "Operation Sindoor (May 2025) — India's calibrated strikes on terror infrastructure across the border following the Pahalgam attack — codified a doctrinal shift: cross-border terror is henceforth treated as an act of war inviting conventional retaliation."
+    "x": "**Operation Sindoor** marked a doctrinal shift — treating a cross-border terror attack as an act of war warranting conventional response, and thereby redrawing India's threshold for retaliation."
    }
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "The doctrinal shift",
     "p": [
      {
-      "k": "New deterrence doctrine",
-      "x": "Ends the earlier restraint of 'strategic patience'; establishes a 'new normal' that terror attacks will draw punitive conventional responses, raising the cost for the sponsor state."
+      "k": "From restraint to response",
+      "x": "It ends the earlier posture of strategic patience, establishing that terror attacks will draw a conventional military reply."
      },
      {
-      "k": "Compellence signal",
-      "x": "De-hyphenates terror from talks and rejects the nuclear-blackmail shield behind which sub-conventional terror operated."
+      "k": "Rejecting the nuclear shield",
+      "x": "It signals that a nuclear threshold will not deter conventional retaliation for sub-conventional attacks — a direct answer to the stability-instability paradox."
      },
      {
-      "k": "Indigenous capability",
-      "x": "Validated by home-grown air-defence (Akashteer) and precision systems — deterrence backed by Atmanirbharta."
+      "k": "De-hyphenating terror and talks",
+      "x": "Dialogue is made conditional on verifiable action against terror infrastructure rather than proceeding in parallel with it."
+     },
+     {
+      "k": "Escalation control",
+      "x": "Calibrated, targeted strikes with declared limited objectives are designed to punish without triggering uncontrolled escalation."
+     }
+    ]
+   },
+   {
+    "h": "Capability underpinnings",
+    "p": [
+     {
+      "k": "Indigenous air defence",
+      "x": "Home-grown air-defence and control systems validated the ability to absorb a counter-response.",
+      "ex": "**Akashteer**"
+     },
+     {
+      "k": "Precision strike",
+      "x": "Stand-off precision munitions permit discriminate targeting, which is what makes limited war politically sustainable."
+     },
+     {
+      "k": "Integrated operations",
+      "x": "Joint employment of air, land and electronic capability signalled progress toward theatre-level integration."
+     },
+     {
+      "k": "Non-military instruments",
+      "x": "Placing the **Indus Waters Treaty** in abeyance showed the response is calibrated across domains, not only military."
+     }
+    ]
+   },
+   {
+    "h": "Risks and requirements",
+    "p": [
+     {
+      "k": "Escalation-management burden",
+      "x": "A lowered threshold demands reliable crisis communication and clear signalling, or miscalculation becomes likelier."
+     },
+     {
+      "k": "Sustaining deterrence",
+      "x": "Deterrence by punishment must be repeatable and credible; a doctrine unexercised in a subsequent provocation decays quickly."
+     },
+     {
+      "k": "International messaging",
+      "x": "Framing action within the right of self-defence is what preserves diplomatic room and limits third-party pressure."
+     },
+     {
+      "k": "Internal dimension",
+      "x": "Military deterrence does not substitute for counter-terror capability, intelligence fusion and political process in the affected region."
      }
     ]
    }
   ],
   "wf": [
-   "Escalation risks: Two nuclear neighbours risk inadvertent escalation; needs robust escalation-control, clear red lines, and crisis-communication.",
-   "Complementary tools: Diplomatic isolation (**FATF**, terror-listing), intelligence and economic pressure alongside the military option."
+   "Institutionalise the doctrine through declared thresholds, theatre integration and crisis-communication channels that keep escalation controllable"
   ],
-  "conc": "Credible deterrence must be firm yet controlled — deterring the adversary without stumbling up the escalation ladder."
+  "conc": "Deterrence works only when it is credible and controllable — the new normal must be paired with escalation management, or it becomes a doctrine of risk rather than of restraint.",
+  "flash": [
+   "terror attack = act of war",
+   "rejects nuclear blackmail; stability-instability",
+   "Akashteer air defence; stand-off precision",
+   "IWT abeyance = cross-domain response",
+   "credibility needs repeatability"
+  ]
  },
  "gs3-64": {
   "directive": "analyse",
@@ -3468,6 +3958,14 @@
      {
       "k": "Rights balance",
       "x": "Lawful interception and platform accountability must satisfy the proportionality test of **Puttaswamy (2017)**."
+     },
+     {
+      "k": "Platform accountability",
+      "x": "Encrypted-service obligations under the **IT Rules, 2021** must be balanced against the proportionality test."
+     },
+     {
+      "k": "State-police capacity",
+      "x": "Detection depends on district police technical capability, not only on central agencies."
      }
     ]
    }
@@ -3538,6 +4036,10 @@
      {
       "k": "Whole-of-nation posture",
       "x": "Civil-military-media coordination, media literacy and international cooperation on norms."
+     },
+     {
+      "k": "Media literacy",
+      "x": "Public capacity to interrogate synthetic media is the only defence that scales with the volume of content."
      }
     ]
    }
@@ -3628,6 +4130,10 @@
      {
       "k": "Rehabilitation credibility",
       "x": "Surrendered cadres without livelihoods are a standing reserve for revival."
+     },
+     {
+      "k": "Rehabilitation credibility",
+      "x": "Surrendered cadres without livelihoods remain a standing reserve for revival."
      }
     ]
    }

@@ -4,7 +4,7 @@
     python3 scripts/audit.py            # all papers, summary
     python3 scripts/audit.py gs3 --list # per-question detail for one paper
 """
-import json, os, sys
+import json, os, re, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from add import written_words
 
@@ -22,6 +22,29 @@ def budgets(paper):
                 out[f"{paper}-{q['n']}"] = (q.get('wmin', 0), q['w'], q.get('tier'))
                 for i, b in enumerate(q.get('branches', [])):
                     out[f"{paper}-{q['n']}-b{i}"] = (b.get('wmin', 0), b['w'], b.get('tier'))
+    return out
+
+
+def integrity(bank, valid):
+    """Structural faults that the word-band check cannot see.
+    Note ***text*** is legal — bold+italic — so only 4+ markers are malformed."""
+    out = []
+    for qid, a in bank.items():
+        if qid not in valid:
+            out.append(f"{qid}: orphan, no such question")
+        if not a.get("body"):
+            out.append(f"{qid}: no body")
+        for sec in a.get("body", []):
+            if not sec.get("h"):
+                out.append(f"{qid}: section without heading")
+            for pt in sec.get("p", []):
+                if not (pt.get("x") or "").strip():
+                    out.append(f"{qid}: empty point")
+        blob = json.dumps(a, ensure_ascii=False)
+        if re.search(r"\*{4,}", blob):
+            out.append(f"{qid}: malformed emphasis markers")
+        if re.search(r"[\u3000-\u9fff]", blob):
+            out.append(f"{qid}: stray CJK character")
     return out
 
 
@@ -51,6 +74,11 @@ def main():
         ok = len(bank) - len(short) - len(over)
         grand['ok'] += ok; grand['short'] += len(short)
         grand['over'] += len(over); grand['thinH'] += len(thinH)
+        bad = integrity(bank, {k for k in bud})
+        grand.setdefault('bad', 0)
+        grand['bad'] += len(bad)
+        for b in bad[:5]:
+            print(f"    ⚠ {b}")
         print(f"{paper:8s} {len(bank):4d} written · {ok:4d} in band · {len(short):3d} SHORT · "
               f"{len(over):3d} over · {len(thinH):3d} single-H")
         if detail:
@@ -59,7 +87,7 @@ def main():
             for qid, hs, tier in thinH:
                 print(f"    H{hs:<4d} {qid:14s}  T{tier}")
     print(f"\nTOTAL    in band {grand['ok']} · SHORT {grand['short']} · "
-          f"over {grand['over']} · single-H {grand['thinH']}")
+          f"over {grand['over']} · single-H {grand['thinH']} · structural issues {grand.get('bad', 0)}")
 
 
 if __name__ == '__main__':

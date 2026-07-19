@@ -157,6 +157,34 @@ function qRow(r) {
   return wrap;
 }
 
+// Each chip advertises how many questions it would leave — so you can see a
+// filter is worth applying before applying it.
+function paintChipCounts(p) {
+  const all = rows(p, true);
+  const inTheme = r => filt.theme === 'all' || r.sec === filt.theme;
+  const n = {
+    all: all.filter(inTheme).length,
+    1: 0, 2: 0, 3: 0, todo: 0, thin: 0, weak: 0,
+  };
+  for (const r of all) {
+    if (!inTheme(r)) continue;
+    if (r.tier) n[r.tier]++;
+    const a = ANSWERS[p.id]?.[r.qid];
+    if (!a) n.todo++; else if (isThin(a, r)) n.thin++;
+    const rc = store.rec(r.qid);
+    if (rc && rc.r <= 2) n.weak++;
+  }
+  for (const c of $('#tier-chips').querySelectorAll('.chip')) {
+    const k = c.dataset.tier;
+    c.querySelector('.cnt')?.remove();
+    const s = document.createElement('span');
+    s.className = 'cnt';
+    s.textContent = ` (${n[k] ?? 0})`;
+    c.append(s);
+    c.disabled = (n[k] ?? 0) === 0 && k !== 'all';
+  }
+}
+
 function renderList() {
   const p = paperOf(filt.pid); if (!p) return go('#/');
   $('#list-title').textContent = `${p.icon} ${p.title}`;
@@ -184,6 +212,7 @@ function renderList() {
     return true;
   });
 
+  paintChipCounts(p);
   const L = $('#q-list'); L.innerHTML = '';
   if (!list.length) { L.append(el('div', 'empty', 'No questions match these filters.')); return; }
   let sec = null;

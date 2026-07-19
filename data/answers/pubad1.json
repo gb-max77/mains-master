@@ -1202,5 +1202,3041 @@
    "garbage can antecedent",
    "Nirbhaya 2013; 1991; CoWIN"
   ]
+ },
+ "pubad1-1": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Public Administration's 'identity crisis' arose because its locus (where administration occurs) and focus (what knowledge explains it) repeatedly shifted. Today, identity rests less on one paradigm than on a plural, problem-oriented publicness."
+   }
+  ],
+  "body": [
+   {
+    "h": "From orthodoxy to plurality",
+    "p": [
+     {
+      "k": "Politics-administration phase",
+      "x": "Wilson and Goodnow located the field in government and sought a professional science of execution; the classical school supplied efficiency, hierarchy and principles."
+     },
+     {
+      "k": "Behavioural rupture",
+      "x": "Simon attacked administrative 'proverbs' and replaced universal principles with decision-making, bounded rationality and empirical verification, but narrowed the discipline's normative identity."
+     },
+     {
+      "k": "Publicness restored",
+      "x": "Waldo showed that efficiency is value-laden; Minnowbrook added relevance, change and social equity, making distributive consequences an administrative concern."
+     },
+     {
+      "k": "Post-bureaucratic turns",
+      "x": "NPM introduced markets and performance; governance, New Public Service and public-value approaches added networks, co-production, citizenship and democratic legitimacy."
+     }
+    ]
+   },
+   {
+    "h": "Assessment",
+    "p": [
+     {
+      "k": "Plural paradigms",
+      "x": "Contemporary problems require behavioural, institutional, economic, legal, critical and digital lenses. No single theory explains a platform State, collaborative climate action and street-level discretion together."
+     },
+     {
+      "k": "Enduring identity",
+      "x": "Plurality becomes fragmentation unless anchored in authoritative collective action, constitutional accountability, public value and equity - features that distinguish Public Administration from generic management."
+     }
+    ]
+   }
+  ],
+  "conc": "Therefore, the crisis has not disappeared; it has matured into disciplined pluralism whose unity lies in reconciling State capacity with democratic publicness.",
+  "directive": "comment",
+  "flash": [
+   "locus-focus",
+   "identity crisis",
+   "Simon",
+   "Waldo",
+   "Minnowbrook",
+   "public value"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-6": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Woodrow Wilson's 'The Study of Administration' (1887) sought a distinct study of administration at a time when American government faced the spoils system and growing complexity. His dichotomy was chiefly a reform strategy for competent execution."
+   }
+  ],
+  "body": [
+   {
+    "h": "What the dichotomy achieved",
+    "p": [
+     {
+      "k": "Analytical focus",
+      "x": "Politics would determine broad tasks while administration would study the efficient and detailed execution of public law."
+     },
+     {
+      "k": "Professionalisation",
+      "x": "Insulation from partisan patronage supported merit, training, continuity and a businesslike concern for organisation."
+     },
+     {
+      "k": "Comparative learning",
+      "x": "Administrative techniques could be studied across regimes without importing their constitutional principles."
+     }
+    ]
+   },
+   {
+    "h": "Why factual separation fails",
+    "p": [
+     {
+      "k": "Discretion",
+      "x": "Implementation allocates benefits, interprets ambiguous rules and therefore embodies value choices."
+     },
+     {
+      "k": "Policy role",
+      "x": "Administrators supply expertise, draft options and shape feasibility; Appleby accordingly treated administration as political."
+     },
+     {
+      "k": "Normative critique",
+      "x": "Waldo and New Public Administration rejected value-neutral efficiency where equity and democratic responsibility were at stake."
+     }
+    ]
+   }
+  ],
+  "conc": "Wilson's enduring contribution is not an impermeable wall but a protected sphere of professional competence. Contemporary administration needs politically responsive advice, neutral implementation and accountability for discretion. ### Suggested visual Politics <-> policy advice <-> administration, bounded by accountability",
+  "directive": "discuss",
+  "flash": [
+   "1887",
+   "spoils system",
+   "professional competence",
+   "discretion",
+   "Appleby",
+   "Waldo"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-8": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Public audit expanded as government moved from recording lawful expenditure to managing complex systems and outcomes; wider scope strengthens accountability only if audit preserves its evidentiary and institutional boundary."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Regularity audit",
+      "x": "It verifies authorisation, compliance and financial propriety—the foundational control over public money."
+     },
+     {
+      "k": "Performance audit",
+      "x": "Economy, efficiency and effectiveness examine whether systems use resources and pursue authorised objectives well."
+     },
+     {
+      "k": "Systems audit",
+      "x": "Internal controls, data flows and governance are assessed because errors often arise from design rather than one transaction."
+     },
+     {
+      "k": "Technology audit",
+      "x": "Algorithms, cybersecurity and digital procurement require specialised examination of integrity, resilience and control."
+     }
+    ]
+   },
+   {
+    "h": "Significance and consequences",
+    "p": [
+     {
+      "k": "Accountability gain",
+      "x": "Audit reveals systemic risk, produces comparable evidence and informs legislative financial committees."
+     }
+    ]
+   },
+   {
+    "h": "Limits and critical assessment",
+    "p": [
+     {
+      "k": "Overreach risk",
+      "x": "Judging policy wisdom rather than implementation and evidence can substitute auditor preference for elected choice."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Boundary",
+      "x": "Audit may test stated objectives, appraisal, legality and consequences while avoiding prescription of the political objective itself."
+     },
+     {
+      "k": "Capability",
+      "x": "Multidisciplinary teams and transparent methodology are needed for technical credibility."
+     }
+    ]
+   }
+  ],
+  "conc": "Audit should follow public risk into performance and technology, but its authority remains strongest when it illuminates choices and systems rather than governs them.",
+  "directive": "examine",
+  "flash": [
+   "regularity audit",
+   "performance audit",
+   "systems audit",
+   "technology audit",
+   "policy overreach",
+   "public"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-9-b0": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The proposition belongs to Public Administration's continuing effort to reconcile organisation, managerial capacity and democratic publicness; its value lies in both explanation and usable institutional design. The branch specifically asks about Urwick's classical principles and the 'proverbs' critique."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Common purpose",
+      "x": "Strategy and priorities translate political authority into shared direction across organisations."
+     },
+     {
+      "k": "Structural instruments",
+      "x": "Allocation of business, cabinet or executive committees and lead-agency arrangements clarify roles."
+     },
+     {
+      "k": "Process instruments",
+      "x": "Budgets, plans, interdepartmental groups and joint reviews align timing, resources and dependencies."
+     },
+     {
+      "k": "Information",
+      "x": "Dashboards and staff advice can reveal bottlenecks, but indicators may conceal local quality and gaming."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Relational leadership",
+      "x": "Trust, negotiation and conflict resolution are necessary where no unit controls all required resources."
+     }
+    ]
+   },
+   {
+    "h": "Limits and critical assessment",
+    "p": [
+     {
+      "k": "Hierarchy's limit",
+      "x": "Excessive central clearance overloads the apex and weakens departmental responsibility."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Balanced architecture",
+      "x": "Set outcomes and non-negotiable constraints centrally, then assign accountable owners with operational room."
+     }
+    ]
+   }
+  ],
+  "conc": "Executive coordination succeeds when the centre creates direction and resolves cross-cutting conflict without becoming the operating department for the whole administration.",
+  "directive": "comment",
+  "flash": [
+   "chief executive",
+   "coordination",
+   "allocation of business",
+   "staff advice",
+   "lead agency",
+   "apex overload"
+  ]
+ },
+ "pubad1-9-b1": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The proposition belongs to Public Administration's continuing effort to reconcile organisation, managerial capacity and democratic publicness; its value lies in both explanation and usable institutional design. The branch specifically asks about \"Taylor and Fayol are complementary architects of organisational rationality\" / \"Fayol's principles have weathered time better than…."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Common purpose",
+      "x": "Strategy and priorities translate political authority into shared direction across organisations."
+     },
+     {
+      "k": "Structural instruments",
+      "x": "Allocation of business, cabinet or executive committees and lead-agency arrangements clarify roles."
+     },
+     {
+      "k": "Process instruments",
+      "x": "Budgets, plans, interdepartmental groups and joint reviews align timing, resources and dependencies."
+     },
+     {
+      "k": "Information",
+      "x": "Dashboards and staff advice can reveal bottlenecks, but indicators may conceal local quality and gaming."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Relational leadership",
+      "x": "Trust, negotiation and conflict resolution are necessary where no unit controls all required resources."
+     }
+    ]
+   },
+   {
+    "h": "Limits and critical assessment",
+    "p": [
+     {
+      "k": "Hierarchy's limit",
+      "x": "Excessive central clearance overloads the apex and weakens departmental responsibility."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Balanced architecture",
+      "x": "Set outcomes and non-negotiable constraints centrally, then assign accountable owners with operational room."
+     }
+    ]
+   }
+  ],
+  "conc": "Executive coordination succeeds when the centre creates direction and resolves cross-cutting conflict without becoming the operating department for the whole administration.",
+  "directive": "comment",
+  "flash": [
+   "chief executive",
+   "coordination",
+   "allocation of business",
+   "staff advice",
+   "lead agency",
+   "apex overload"
+  ]
+ },
+ "pubad1-10": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Taylor transformed management by treating work as an object of systematic study, but separated conception from execution in ways that reduced workers to controllable inputs."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Core method",
+      "x": "Time study, task standardisation, scientific selection, training and differential incentives sought the one best way."
+     }
+    ]
+   },
+   {
+    "h": "Significance and consequences",
+    "p": [
+     {
+      "k": "Contribution",
+      "x": "It replaced rule of thumb with measurement, planning and explicit responsibility between management and workers."
+     }
+    ]
+   },
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Dehumanisation",
+      "x": "Fragmented tasks, close supervision and monetary motivation ignored social needs, tacit knowledge and worker autonomy."
+     }
+    ]
+   },
+   {
+    "h": "Limits and critical assessment",
+    "p": [
+     {
+      "k": "Labour critique",
+      "x": "Scientific claims could legitimise speed-up and unequal control because management defined both standards and evidence."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Human Relations correction",
+      "x": "Mayo and later theorists showed that groups, recognition and participation shape performance."
+     },
+     {
+      "k": "Dashboard survival",
+      "x": "Targets, standard operating procedures and process metrics reproduce Taylorist visibility in public services."
+     },
+     {
+      "k": "Algorithmic Taylorism",
+      "x": "Platforms allocate, monitor and rate work continuously, making control more granular and less contestable."
+     }
+    ]
+   },
+   {
+    "h": "Limits and critical assessment",
+    "p": [
+     {
+      "k": "Modern risk",
+      "x": "Goodhart effects, gaming and automation bias arise when measurable proxies displace complex public purpose."
+     }
+    ]
+   }
+  ],
+  "conc": "Taylor's discipline of evidence remains useful; his unilateral architecture of control does not. Measurement should enable professional judgement rather than manufacture obedience.",
+  "directive": "examine",
+  "flash": [
+   "Taylor",
+   "Scientific Management",
+   "one best way",
+   "task planning",
+   "algorithmic management",
+   "Goodhart"
+  ]
+ },
+ "pubad1-14": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The Hawthorne studies challenged the isolated economic-man model by revealing that attention, group relations and informal norms shape output, but the resulting Human Relations approach often underplayed power and conflict."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Empirical shift",
+      "x": "Work behaviour appeared responsive to social context and observation, not merely physical conditions or individual pay."
+     },
+     {
+      "k": "Informal group",
+      "x": "Peer norms, belonging and group sanctions can influence effort more strongly than formal instructions."
+     },
+     {
+      "k": "Communication",
+      "x": "Listening and supervisory attention were presented as sources of morale, cooperation and productivity."
+     }
+    ]
+   },
+   {
+    "h": "Significance and consequences",
+    "p": [
+     {
+      "k": "Organisational contribution",
+      "x": "The approach opened administration to motivation, leadership, participation and informal organisation."
+     }
+    ]
+   },
+   {
+    "h": "Limits and critical assessment",
+    "p": [
+     {
+      "k": "Method critique",
+      "x": "Experimental controls, sample interpretation and the mythology built around the studies limit simple causal claims."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Harmony bias",
+      "x": "Conflict over authority, wages and work design may be structural rather than a misunderstanding cured by better relations."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Contemporary synthesis",
+      "x": "Social needs matter, but they should be joined to job design, fair rewards, voice and institutional power analysis."
+     }
+    ]
+   }
+  ],
+  "conc": "Human Relations corrected mechanical administration but did not replace political economy; humane organisations require both social understanding and structural justice.",
+  "directive": "critically examine",
+  "flash": [
+   "Hawthorne",
+   "informal group",
+   "morale",
+   "communication",
+   "harmony bias",
+   "managerial manipulation"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-19": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "McGregor's Theory X and Theory Y describe managerial assumptions that can become self-fulfilling through organisational design; they are not fixed psychological types of workers."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Theory X",
+      "x": "Management assumes work avoidance and therefore relies on close control, sanctions, narrow jobs and centralised authority."
+     },
+     {
+      "k": "Theory Y",
+      "x": "Management assumes people can exercise self-direction, accept responsibility and use creativity when work conditions support commitment."
+     },
+     {
+      "k": "Self-fulfilling process",
+      "x": "Rigid control can produce passivity, while meaningful discretion and trust can elicit responsibility."
+     },
+     {
+      "k": "Design implication",
+      "x": "Y favours enriched jobs, participation, delegated authority, information sharing and alignment of personal and organisational goals."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Context",
+      "x": "Emergency, low capability or high-risk tasks may require tighter controls without proving a universal X view of human nature."
+     }
+    ]
+   },
+   {
+    "h": "Limits and critical assessment",
+    "p": [
+     {
+      "k": "Public-sector limit",
+      "x": "Law, equality and audit constrain managerial flexibility even where professional autonomy is desirable."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Balanced leadership",
+      "x": "Use minimum necessary control with capability, clear purpose, feedback and genuine opportunities for voice."
+     }
+    ]
+   }
+  ],
+  "conc": "McGregor's enduring contribution is reflexive: managers should examine how their assumptions create the behaviour later used to justify those assumptions.",
+  "directive": "examine",
+  "flash": [
+   "Theory X",
+   "Theory Y",
+   "self-fulfilling prophecy",
+   "job enrichment",
+   "participation",
+   "minimum necessary control"
+  ]
+ },
+ "pubad1-20": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "AI both relaxes and reproduces Simon's bounded rationality: it expands information processing while remaining constrained by data, models, objectives and human institutional design."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Bounded rationality",
+      "x": "Decision-makers face limited information, time and cognition and therefore satisfice rather than optimise."
+     },
+     {
+      "k": "Intelligence phase",
+      "x": "AI can detect patterns and anomalies across volumes that exceed unaided attention."
+     },
+     {
+      "k": "Design phase",
+      "x": "Simulation and prediction expand alternatives, though available options remain framed by model builders and recorded data."
+     },
+     {
+      "k": "Choice phase",
+      "x": "Optimisation may improve consistency, but public choices contain values that cannot be inferred from accuracy alone."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "New bounds",
+      "x": "Biased data, distribution shift, opaque models and automation bias create artificial limits and false confidence."
+     },
+     {
+      "k": "Fact-value distinction",
+      "x": "AI can inform factual premises; legitimate institutions must determine normative priorities and trade-offs."
+     },
+     {
+      "k": "Human-machine design",
+      "x": "Use AI for search and comparison while officials exercise contextual judgement and remain responsible."
+     },
+     {
+      "k": "Procedural safeguards",
+      "x": "Explainability, contestability, audit and fallback protect citizens affected by automated support."
+     }
+    ]
+   }
+  ],
+  "conc": "AI does not abolish administrative man; it relocates boundedness into sociotechnical systems. Better decisions require governed augmentation, not automated abdication.",
+  "directive": "examine",
+  "flash": [
+   "Simon",
+   "bounded rationality",
+   "satisficing",
+   "intelligence-design-choice",
+   "automation bias",
+   "human oversight"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-22": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Maslow, Herzberg and McClelland illuminate different motivational mechanisms; none is a universal hierarchy or formula for public servants."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Maslow",
+      "x": "Needs progress from physiological and safety through belonging and esteem to self-actualisation, highlighting multiple non-monetary motives."
+     }
+    ]
+   },
+   {
+    "h": "Limits and critical assessment",
+    "p": [
+     {
+      "k": "Maslow limit",
+      "x": "Order and satisfaction vary across culture, career and circumstance; needs may operate simultaneously."
+     }
+    ]
+   },
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Herzberg",
+      "x": "Hygiene factors prevent dissatisfaction, while achievement, recognition, responsibility and growth motivate through enriched work."
+     }
+    ]
+   },
+   {
+    "h": "Limits and critical assessment",
+    "p": [
+     {
+      "k": "Herzberg limit",
+      "x": "Methodology and occupational bias weaken a strict two-factor separation; pay can carry symbolic meaning."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "McClelland",
+      "x": "Learned needs for achievement, affiliation and power vary among individuals and can guide role and leadership design."
+     }
+    ]
+   },
+   {
+    "h": "Limits and critical assessment",
+    "p": [
+     {
+      "k": "McClelland limit",
+      "x": "High achievement may not suit interdependent public tasks; power requires institutional and ethical control."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Public context",
+      "x": "Service motive, mission valence, fairness and citizen impact supplement the three theories."
+     },
+     {
+      "k": "Integrated use",
+      "x": "Secure fair conditions, enrich jobs, recognise contribution and match roles with motives rather than use one incentive."
+     }
+    ]
+   }
+  ],
+  "conc": "Motivation is person-task-organisation fit: the theories are diagnostic lenses whose value lies in designing fair conditions, meaningful work and credible public purpose together.",
+  "directive": "examine",
+  "flash": [
+   "Maslow",
+   "Herzberg",
+   "McClelland",
+   "hygiene",
+   "job enrichment",
+   "public service motivation"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-23": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Bureaucracy's role in development is contingent: the same organisation can mobilise capacity, obstruct change or itself become the target of reform depending on autonomy, competence and political settlement."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Agent",
+      "x": "A capable bureaucracy can plan, coordinate infrastructure, deliver services and support long-term transformation."
+     },
+     {
+      "k": "Obstacle",
+      "x": "Proceduralism, rent seeking, status-quo interests and weak field responsiveness can delay or distort development."
+     },
+     {
+      "k": "Object",
+      "x": "Development requires administrative reform in staffing, finance, information, accountability and intergovernmental relations."
+     },
+     {
+      "k": "Embedded autonomy",
+      "x": "Professional insulation from particularistic capture should coexist with structured links to firms, communities and elected leadership."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Capability",
+      "x": "Recruitment, domain knowledge, organisational learning and implementation systems determine whether directives become results."
+     },
+     {
+      "k": "Incentives",
+      "x": "Targets without resources or credible career and accountability systems encourage compliance rituals and gaming."
+     },
+     {
+      "k": "Political direction",
+      "x": "Clear, stable and inclusive priorities enable administration; predatory or fragmented politics can redirect capacity towards extraction."
+     }
+    ]
+   }
+  ],
+  "conc": "Developmental bureaucracy is neither inherently benevolent nor doomed; it emerges where political purpose, embedded autonomy, capability and public accountability reinforce one another.",
+  "directive": "examine",
+  "flash": [
+   "development administration",
+   "embedded autonomy",
+   "state capacity",
+   "incentives",
+   "political settlement",
+   "organisational learning"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-23-b0": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The proposition belongs to Public Administration's continuing effort to reconcile organisation, managerial capacity and democratic publicness; its value lies in both explanation and usable institutional design. The branch specifically asks about McClelland — the need for achievement rather than the lure of money distinguishes the high performer."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Agent",
+      "x": "A capable bureaucracy can plan, coordinate infrastructure, deliver services and support long-term transformation."
+     },
+     {
+      "k": "Obstacle",
+      "x": "Proceduralism, rent seeking, status-quo interests and weak field responsiveness can delay or distort development."
+     },
+     {
+      "k": "Object",
+      "x": "Development requires administrative reform in staffing, finance, information, accountability and intergovernmental relations."
+     },
+     {
+      "k": "Embedded autonomy",
+      "x": "Professional insulation from particularistic capture should coexist with structured links to firms, communities and elected leadership."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Capability",
+      "x": "Recruitment, domain knowledge, organisational learning and implementation systems determine whether directives become results."
+     },
+     {
+      "k": "Incentives",
+      "x": "Targets without resources or credible career and accountability systems encourage compliance rituals and gaming."
+     },
+     {
+      "k": "Political direction",
+      "x": "Clear, stable and inclusive priorities enable administration; predatory or fragmented politics can redirect capacity towards extraction."
+     }
+    ]
+   }
+  ],
+  "conc": "Developmental bureaucracy is neither inherently benevolent nor doomed; it emerges where political purpose, embedded autonomy, capability and public accountability reinforce one another.",
+  "directive": "examine",
+  "flash": [
+   "development administration",
+   "embedded autonomy",
+   "state capacity",
+   "incentives",
+   "political settlement",
+   "organisational learning"
+  ]
+ },
+ "pubad1-24": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Morale, motivation and productivity interact, but respectively describe collective psychological climate, willingness to exert effort and the conversion of inputs into valued output."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Morale",
+      "x": "Shared confidence, belonging and faith in leadership shape group resilience and cooperation."
+     },
+     {
+      "k": "Motivation",
+      "x": "Needs, expectations, fairness and mission influence the direction, intensity and persistence of individual effort."
+     },
+     {
+      "k": "Productivity",
+      "x": "Outputs relative to resources depend on skills, tools, process and demand, not effort alone."
+     },
+     {
+      "k": "Positive link",
+      "x": "Fair treatment and meaningful work can raise motivation; repeated contribution and recognition strengthen morale."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Non-equivalence",
+      "x": "High morale may coexist with comfortable underperformance, while fear can temporarily increase measured output and destroy trust."
+     },
+     {
+      "k": "System effect",
+      "x": "Motivated staff cannot compensate indefinitely for broken workflows, vacancies or unavailable authority."
+     },
+     {
+      "k": "Public complication",
+      "x": "Quality, legality, equity and citizen trust matter alongside quantity and may require time-consuming professional judgement."
+     },
+     {
+      "k": "Diagnosis",
+      "x": "Use climate surveys, absenteeism, turnover, service outcomes and qualitative feedback rather than one proxy."
+     }
+    ]
+   }
+  ],
+  "conc": "Productivity is an organisational outcome, not a psychological synonym; sustainable improvement joins motivated individuals, cohesive teams and enabling systems.",
+  "directive": "discuss",
+  "flash": [
+   "morale",
+   "motivation",
+   "productivity",
+   "group climate",
+   "mission valence",
+   "enabling system"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-25": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Digital organisations often possess abundant signals but lack shared attention and meaning; communication failure therefore shifts from absence to cognitive and architectural overload."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Overload",
+      "x": "Continuous dashboards, messages and alerts exceed attention, obscuring what requires decision and what is merely visible."
+     },
+     {
+      "k": "Fragmentation",
+      "x": "Email, platforms and databases create parallel records and incompatible versions of organisational reality."
+     },
+     {
+      "k": "Distortion",
+      "x": "Metrics lose context as they move upward; favourable numbers travel faster than implementation problems."
+     },
+     {
+      "k": "Algorithmic filtering",
+      "x": "Ranking and recommendation systems determine visibility without necessarily disclosing their criteria."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Media leanness",
+      "x": "Text-rich digital interaction may lose tacit cues, ambiguity resolution and trust needed for complex coordination."
+     },
+     {
+      "k": "Silos",
+      "x": "Technical interoperability does not overcome professional language, incentives or jurisdictional boundaries."
+     },
+     {
+      "k": "Design response",
+      "x": "Define authoritative channels, data ownership, escalation rules and audience-specific summaries."
+     },
+     {
+      "k": "Human practices",
+      "x": "Use synchronous dialogue for ambiguity, protected focus time and feedback loops from street level."
+     }
+    ]
+   }
+  ],
+  "conc": "The remedy is not more data but communicative governance: curated signals, common meanings, reciprocal feedback and explicit responsibility for action.",
+  "directive": "discuss",
+  "flash": [
+   "information overload",
+   "fragmentation",
+   "distortion",
+   "media richness",
+   "algorithmic filtering",
+   "feedback"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-28": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Systems theory explains why organisations cannot be understood as isolated parts, whereas contingency theory explains why no single design is optimal across environments and tasks."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Systems core",
+      "x": "Organisations receive inputs, transform them into outputs and depend on feedback and environmental exchange."
+     },
+     {
+      "k": "Interdependence",
+      "x": "Subsystem changes generate intended and unintended effects elsewhere; optimisation of a unit may damage the whole."
+     },
+     {
+      "k": "Open systems",
+      "x": "Boundaries are permeable and organisational survival depends on adaptation and resource relationships."
+     }
+    ]
+   },
+   {
+    "h": "Significance and consequences",
+    "p": [
+     {
+      "k": "Systems contribution",
+      "x": "The approach supplies holism, feedback, equifinality and attention to environment."
+     }
+    ]
+   },
+   {
+    "h": "Limits and critical assessment",
+    "p": [
+     {
+      "k": "Systems limit",
+      "x": "Its broad vocabulary can describe almost anything while providing weak specific predictions or power analysis."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Contingency core",
+      "x": "Effective structure depends on technology, uncertainty, size, strategy and environment."
+     },
+     {
+      "k": "Evidence",
+      "x": "Burns-Stalker and Lawrence-Lorsch linked organic design and differentiation-integration to environmental conditions."
+     }
+    ]
+   },
+   {
+    "h": "Limits and critical assessment",
+    "p": [
+     {
+      "k": "Contingency limit",
+      "x": "Fit can be hard to measure, environments are partly constructed, and values constrain available designs."
+     }
+    ]
+   }
+  ],
+  "conc": "Systems theory tells the administrator where to look; contingency theory helps decide what may work there. Both require supplementation by politics, culture and institutional values.",
+  "directive": "discuss",
+  "flash": [
+   "open system",
+   "feedback",
+   "equifinality",
+   "contingency",
+   "Burns-Stalker",
+   "Lawrence-Lorsch"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-29": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Contemporary organisations add matrix, network and mission forms to hierarchy because complex problems cross functions, but legal authority and ultimate responsibility still require vertical structure."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Matrix",
+      "x": "Dual functional and project authority improves specialised integration but may produce role conflict and negotiation costs."
+     },
+     {
+      "k": "Network",
+      "x": "Interdependent public, private and civic actors pool resources where no organisation controls the complete solution."
+     },
+     {
+      "k": "Mission mode",
+      "x": "Time-bound, outcome-focused teams cut across routine departments and concentrate political and administrative attention."
+     },
+     {
+      "k": "Hierarchy retained",
+      "x": "Budgets, appointments, coercion and legal accountability still need authorised chains and reviewable decisions."
+     }
+    ]
+   },
+   {
+    "h": "Significance and consequences",
+    "p": [
+     {
+      "k": "Gain",
+      "x": "Lateral forms improve innovation, learning and responsiveness to multi-dimensional problems."
+     }
+    ]
+   },
+   {
+    "h": "Limits and critical assessment",
+    "p": [
+     {
+      "k": "Risk",
+      "x": "Blurred authority creates forum shopping, duplicated work and accountability deficits after failure."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Capability",
+      "x": "Boundary-spanning skills, shared data, trust and conflict resolution become central administrative resources."
+     },
+     {
+      "k": "Design",
+      "x": "Specify decision rights, convening authority, common outcomes, escalation paths and sunset or mainstreaming rules."
+     }
+    ]
+   }
+  ],
+  "conc": "The pyramid is becoming a platform for lateral coordination rather than disappearing; the task is to gain adaptability without losing responsibility.",
+  "directive": "examine",
+  "flash": [
+   "matrix",
+   "network",
+   "mission mode",
+   "hierarchy",
+   "boundary spanning",
+   "accountability"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-31": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "State size measures the reach or expenditure of public institutions; State capacity measures their ability to decide, coordinate, implement and learn legitimately."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Extractive capacity",
+      "x": "Raising revenue and information without predation provides the material base for collective action."
+     },
+     {
+      "k": "Administrative capacity",
+      "x": "Professional personnel, organisation, data and logistics convert policy into consistent service and regulation."
+     },
+     {
+      "k": "Coercive capacity",
+      "x": "A lawful monopoly of force protects order while remaining bounded by rights and civilian control."
+     },
+     {
+      "k": "Regulatory capacity",
+      "x": "Expert, credible institutions can shape private behaviour and enforce standards against powerful interests."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Coordinative capacity",
+      "x": "Cross-sector and intergovernmental alignment matters where authority and resources are dispersed."
+     },
+     {
+      "k": "Relational capacity",
+      "x": "Evans's embedded autonomy joins competent bureaucracy with structured social ties rather than isolation or capture."
+     },
+     {
+      "k": "Legitimacy",
+      "x": "Trust, fairness and participation improve information and voluntary compliance; coercion cannot substitute indefinitely."
+     },
+     {
+      "k": "Adaptive capacity",
+      "x": "Monitoring, experimentation and correction make the State resilient under uncertainty."
+     }
+    ]
+   }
+  ],
+  "conc": "Development depends on a capable and legitimate State performing contextually chosen functions; arguments over size are secondary to how authority becomes reliable action.",
+  "directive": "examine",
+  "flash": [
+   "State capacity",
+   "extractive",
+   "administrative",
+   "regulatory",
+   "embedded autonomy",
+   "adaptive capacity"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-33": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Public corporations and government companies are alternative efforts to combine public purpose with managerial flexibility; their legal forms create different channels of control but do not guarantee performance."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Corporation form",
+      "x": "A special statute defines mandate, powers and accountability, giving public-law identity and relative operational autonomy."
+     },
+     {
+      "k": "Company form",
+      "x": "Incorporation under company law offers familiar boards, commercial procedures and easier restructuring."
+     },
+     {
+      "k": "Control contrast",
+      "x": "Corporations face statute-specific parliamentary control; companies rely more on ownership rights, company governance and executive direction."
+     },
+     {
+      "k": "Flexibility",
+      "x": "Government companies can adapt capital and subsidiaries faster, though dominant ownership may produce informal ministerial control."
+     }
+    ]
+   },
+   {
+    "h": "Limits and critical assessment",
+    "p": [
+     {
+      "k": "Accountability risk",
+      "x": "Multiple principals—ministry, legislature, board, market and audit—can create either scrutiny or evasive blame."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Contemporary relevance",
+      "x": "Strategic and network sectors may justify public enterprise where externalities, security or natural monopoly are substantial."
+     },
+     {
+      "k": "Competitive sectors",
+      "x": "Clear public-service obligations and periodic ownership review are preferable to indefinite presence based on history."
+     }
+    ]
+   }
+  ],
+  "conc": "Legal form is an enabling shell; autonomy with accountable boards and an explicit rationale for public ownership determines contemporary value.",
+  "directive": "critically examine",
+  "flash": [
+   "public corporation",
+   "government company",
+   "commercial autonomy",
+   "public ownership",
+   "performance compact",
+   "board"
+  ]
+ },
+ "pubad1-34": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Headquarters and field units face a permanent tension: the centre protects legality and common standards, while the field possesses contextual knowledge and must act under variable conditions."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Sources of conflict",
+      "x": "Uniform instructions, delayed approvals, target pressure, resource mismatch and poor feedback produce mutual distrust."
+     },
+     {
+      "k": "Information asymmetry",
+      "x": "Headquarters sees aggregate priorities; field officials see local constraints and citizen consequences."
+     },
+     {
+      "k": "Authority principle",
+      "x": "Policy, minimum standards and high-risk controls belong centrally; method and case adaptation should be delegated where feasible."
+     },
+     {
+      "k": "Subsidiarity",
+      "x": "Decisions should rest at the lowest level with capability and accountability to handle them."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Exception management",
+      "x": "Clear thresholds for escalation and documented deviation prevent both paralysis and arbitrary localism."
+     },
+     {
+      "k": "Two-way communication",
+      "x": "Field consultation before orders and structured feedback after implementation turn reporting into learning."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Control design",
+      "x": "Outcome review, audit trails and peer learning can replace excessive prior approval while retaining accountability."
+     }
+    ]
+   }
+  ],
+  "conc": "Effective allocation combines central coherence with bounded field discretion, supported by capacity, feedback and transparent exception rules.",
+  "directive": "examine",
+  "flash": [
+   "headquarters-field",
+   "subsidiarity",
+   "field discretion",
+   "escalation",
+   "feedback",
+   "outcome control"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-34-b0": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The proposition belongs to Public Administration's continuing effort to reconcile organisation, managerial capacity and democratic publicness; its value lies in both explanation and usable institutional design. The branch specifically asks about Line, staff and auxiliary agencies — a difference of function, not rank."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Sources of conflict",
+      "x": "Uniform instructions, delayed approvals, target pressure, resource mismatch and poor feedback produce mutual distrust."
+     },
+     {
+      "k": "Information asymmetry",
+      "x": "Headquarters sees aggregate priorities; field officials see local constraints and citizen consequences."
+     },
+     {
+      "k": "Authority principle",
+      "x": "Policy, minimum standards and high-risk controls belong centrally; method and case adaptation should be delegated where feasible."
+     },
+     {
+      "k": "Subsidiarity",
+      "x": "Decisions should rest at the lowest level with capability and accountability to handle them."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Exception management",
+      "x": "Clear thresholds for escalation and documented deviation prevent both paralysis and arbitrary localism."
+     },
+     {
+      "k": "Two-way communication",
+      "x": "Field consultation before orders and structured feedback after implementation turn reporting into learning."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Control design",
+      "x": "Outcome review, audit trails and peer learning can replace excessive prior approval while retaining accountability."
+     }
+    ]
+   }
+  ],
+  "conc": "Effective allocation combines central coherence with bounded field discretion, supported by capacity, feedback and transparent exception rules.",
+  "directive": "examine",
+  "flash": [
+   "headquarters-field",
+   "subsidiarity",
+   "field discretion",
+   "escalation",
+   "feedback",
+   "outcome control"
+  ]
+ },
+ "pubad1-35": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Results-based accountability corrects fixation on rule compliance, but public authority remains legitimate only when both the means used and outcomes produced are answerable."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Traditional model",
+      "x": "Hierarchy, law, audit and procedure require officials to explain exercise of delegated authority."
+     },
+     {
+      "k": "Results turn",
+      "x": "NPM and performance management emphasise outputs, outcomes, managerial discretion and user experience."
+     }
+    ]
+   },
+   {
+    "h": "Significance and consequences",
+    "p": [
+     {
+      "k": "Gain",
+      "x": "Outcome information exposes formally correct programmes that fail to solve the public problem."
+     }
+    ]
+   },
+   {
+    "h": "Limits and critical assessment",
+    "p": [
+     {
+      "k": "Substitution risk",
+      "x": "Targets can legitimise unlawful shortcuts, inequity or manipulation when process is treated as an obstacle."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Attribution",
+      "x": "Outcomes arise from multiple actors and environments, making simple individual blame or reward unreliable."
+     },
+     {
+      "k": "Gaming",
+      "x": "Metric fixation creates cream-skimming and data distortion where complex value is reduced to auditable numbers."
+     },
+     {
+      "k": "Integrated model",
+      "x": "Define lawful discretion, publish results, explain deviations and review distribution as well as aggregate performance."
+     },
+     {
+      "k": "Forums",
+      "x": "Legislatures, courts, audit, citizens and professional bodies ask different but complementary accountability questions."
+     }
+    ]
+   }
+  ],
+  "conc": "Authority answers 'by what right and process?'; results answer 'to what effect and for whom?'. Democratic administration requires both questions simultaneously.",
+  "directive": "critically examine",
+  "flash": [
+   "answerability",
+   "results",
+   "process",
+   "attribution",
+   "gaming",
+   "multiple accountabilities"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-36": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Data protection and RTI protect different dimensions of democratic citizenship: autonomy from unjustified exposure and the ability to scrutinise public power."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "RTI purpose",
+      "x": "Access reverses official secrecy, enabling participation, accountability and exposure of maladministration."
+     },
+     {
+      "k": "Privacy purpose",
+      "x": "Personal data rules limit collection, use and disclosure and recognise dignity and informational self-determination."
+     },
+     {
+      "k": "False binary",
+      "x": "Information held by government is not automatically public, while privacy cannot shield public action or corruption."
+     },
+     {
+      "k": "Public-interest test",
+      "x": "Disclosure should weigh relevance to public duty, harm, consent, statutory exemptions and possible severability."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Institutional tension",
+      "x": "Broad personal-information exemptions or executive power to define disclosure can tilt the balance toward secrecy."
+     },
+     {
+      "k": "Proactive disclosure",
+      "x": "Budgets, decisions, contracts and anonymised datasets reduce case-by-case conflict and expose institutional conduct."
+     },
+     {
+      "k": "Data minimisation",
+      "x": "Government should not collect unnecessary personal data merely because later non-disclosure is available."
+     },
+     {
+      "k": "Independent oversight",
+      "x": "Information and data-protection authorities require coherent jurisdiction, reasons and review."
+     }
+    ]
+   }
+  ],
+  "conc": "The correct settlement is privacy for persons and transparency for power, operationalised through necessity, severability and a strong public-interest test.",
+  "directive": "examine",
+  "flash": [
+   "privacy",
+   "personal information",
+   "public-interest test",
+   "severability",
+   "proactive disclosure",
+   "transparency"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-39": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Discretion is the space law deliberately or unavoidably leaves for judgement; arbitrariness arises when that space lacks relevant reasons, consistency or review."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Necessity",
+      "x": "Complexity, uncertainty and individual circumstances prevent legislation from pre-deciding every administrative case."
+     },
+     {
+      "k": "Rule of law",
+      "x": "Authority, purpose, relevant considerations and equality set the outer boundary of lawful choice."
+     },
+     {
+      "k": "Proportionality",
+      "x": "A restrictive measure should pursue a legitimate aim, be suitable and necessary, and maintain balance with affected rights."
+     },
+     {
+      "k": "Legitimate expectation",
+      "x": "Consistent practice or promise may require fair procedure and reasoned departure, without freezing lawful policy change."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Reasoned decisions",
+      "x": "Reasons expose evidence, values and trade-offs, discourage improper purpose and enable review."
+     },
+     {
+      "k": "Guidelines",
+      "x": "Published criteria improve consistency while allowing justified exceptions rather than covert rigidity."
+     },
+     {
+      "k": "Procedural fairness",
+      "x": "Notice, hearing and disclosure correct factual error before discretion hardens into a decision."
+     }
+    ]
+   },
+   {
+    "h": "Limits and critical assessment",
+    "p": [
+     {
+      "k": "Review limits",
+      "x": "Courts should test legality and rationality without routinely substituting their policy preference or technical judgement."
+     }
+    ]
+   }
+  ],
+  "conc": "The administrative objective is structured discretion: enough flexibility to serve purpose, enclosed by rights, reasons, transparency and proportionate review.",
+  "directive": "critically examine",
+  "flash": [
+   "discretion",
+   "arbitrariness",
+   "proportionality",
+   "legitimate expectation",
+   "reasons",
+   "structured discretion"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-41": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Social audit opens programme records to collective verification, while whistle-blowing enables insiders to reveal hidden wrongdoing; each democratises accountability from a different knowledge position."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Social audit",
+      "x": "Rights-holders compare records with works, payments and lived outcomes through an independent public process."
+     },
+     {
+      "k": "Democratic value",
+      "x": "It converts beneficiaries from passive recipients into co-auditors and makes local facts publicly contestable."
+     },
+     {
+      "k": "Whistle-blowing",
+      "x": "Insiders disclose illegality or serious risk that hierarchy and ordinary audit fail to surface."
+     },
+     {
+      "k": "Complementarity",
+      "x": "Community evidence reveals field divergence; insider evidence reveals concealed decisions and networks."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Retaliation",
+      "x": "Employment loss, violence, transfer and litigation deter both participants and officials unless protection is credible."
+     },
+     {
+      "k": "Capture",
+      "x": "Local elites may stage audits, while agencies may identify or isolate whistle-blowers through procedural demands."
+     },
+     {
+      "k": "Institutional design",
+      "x": "Independent facilitation, full records, public hearings, time-bound recovery and action-taken reports strengthen social audit."
+     },
+     {
+      "k": "Whistle safeguards",
+      "x": "Confidential channels, interim relief, burden-sensitive inquiry and penalties for retaliation are essential."
+     }
+    ]
+   }
+  ],
+  "conc": "Participation produces accountability only when evidence can lead to remedy and truth-tellers can act without bearing the cost of institutional failure.",
+  "directive": "examine",
+  "flash": [
+   "social audit",
+   "whistle-blower",
+   "community monitoring",
+   "retaliation",
+   "capture",
+   "action taken"
+  ]
+ },
+ "pubad1-44": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Tribunals seek specialised, less formal and quicker adjudication, but weak independence and automatic appellate layers can make them a detour rather than an alternative."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Rationale",
+      "x": "Expert members and tailored procedure can improve decisions in technical, high-volume administrative disputes."
+     },
+     {
+      "k": "Speed promise",
+      "x": "Focused jurisdiction may reduce ordinary-court burden, provided vacancies and case management are controlled."
+     },
+     {
+      "k": "Executive dependence",
+      "x": "Appointments, tenure, infrastructure and finance controlled by litigant ministries undermine perceived impartiality."
+     },
+     {
+      "k": "Composition",
+      "x": "Judicial and technical expertise should match function without allowing domain insiders to dominate legal adjudication."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Accessibility",
+      "x": "Benches, affordable procedure, legal aid and digital options must prevent centralised expert justice from becoming distant."
+     },
+     {
+      "k": "Judicial review",
+      "x": "Constitutional supervision protects legality and independence, but routine multi-tier appeals can erase the speed advantage."
+     },
+     {
+      "k": "Quality",
+      "x": "Reasoned decisions, precedent systems, training and publication improve consistency."
+     }
+    ]
+   }
+  ],
+  "conc": "Tribunalisation succeeds when specialised first-instance justice is genuinely independent and accessible, with focused—not duplicative—judicial review.",
+  "directive": "discuss",
+  "flash": [
+   "tribunal",
+   "expertise",
+   "independence",
+   "access",
+   "judicial review",
+   "vacancy"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-46": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Delegated legislation is indispensable because legislatures cannot specify every technical detail or update rule, yet delegation must remain subordinate to the policy and limits of the parent statute."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Necessity",
+      "x": "Expertise, speed, local variation and changing technology justify executive rule-making within a legislative framework."
+     },
+     {
+      "k": "Essential function",
+      "x": "The legislature must determine policy, purpose and basic standards rather than transfer an unlimited law-making power."
+     },
+     {
+      "k": "Excessive delegation",
+      "x": "Vague authority, broad modification of statutes or uncontrolled sub-delegation weakens representative responsibility."
+     },
+     {
+      "k": "Legislative control",
+      "x": "Laying procedures, scrutiny committees, sunset clauses and mandatory consultation enable ex ante and ex post review."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Judicial control",
+      "x": "Courts may invalidate rules that exceed the Act, violate rights, use irrelevant considerations or breach required procedure."
+     },
+     {
+      "k": "Procedural legitimacy",
+      "x": "Notice, impact assessment, reasons and publication improve technical quality and affected-party voice."
+     },
+     {
+      "k": "Emergency rules",
+      "x": "Accelerated action may be justified, but should trigger prompt review and expiry unless affirmatively continued."
+     }
+    ]
+   }
+  ],
+  "conc": "Delegation is legitimate as bounded, reviewable implementation; efficiency cannot convert the executive into an unconstrained substitute legislature.",
+  "directive": "critically examine",
+  "flash": [
+   "delegated legislation",
+   "parent Act",
+   "essential legislative function",
+   "laying",
+   "ultra vires",
+   "sunset clause"
+  ]
+ },
+ "pubad1-48": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Comparative Public Administration regained practical breadth after the decline of universal development models, but new indicators and policy-transfer tools can reproduce the decontextualisation they sought to overcome."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Early comparative turn",
+      "x": "The CAG and Riggs challenged descriptive parochialism through ecological, cross-cultural and developmental analysis."
+     },
+     {
+      "k": "Decline",
+      "x": "Grand models offered weak prediction, donor priorities shifted and the US-centred modernisation frame faced criticism."
+     },
+     {
+      "k": "Political economy",
+      "x": "Contemporary work examines institutions, interests, rents, coalitions and State capacity rather than administrative form alone."
+     },
+     {
+      "k": "Governance indicators",
+      "x": "Cross-national measures enable comparison and agenda setting but compress contested concepts into data proxies."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Policy transfer",
+      "x": "Diffusion studies analyse lesson-drawing, coercion and translation instead of assuming best practice travels intact."
+     },
+     {
+      "k": "Multi-level governance",
+      "x": "Global regimes, cities, networks and digital platforms expand comparison beyond the nation-state."
+     },
+     {
+      "k": "Restored relevance",
+      "x": "Climate, pandemics and regulatory problems require comparative learning about institutions under different conditions."
+     }
+    ]
+   },
+   {
+    "h": "Limits and critical assessment",
+    "p": [
+     {
+      "k": "Continuing risks",
+      "x": "Index gaming, methodological nationalism, selection bias and donor-driven templates remain."
+     }
+    ]
+   }
+  ],
+  "conc": "Relevance has been restored conditionally: comparison is strongest when it explains why practices work differently, not when it ranks systems by a universal template.",
+  "directive": "explain",
+  "flash": [
+   "Comparative Public Administration",
+   "ecology",
+   "political economy",
+   "governance indicators",
+   "policy transfer",
+   "context"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-53": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "France, Britain and the United States represent distinct bargains among career service, political control, expertise and openness; none can be transplanted without constitutional context."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "France",
+      "x": "A prestigious, centralised administrative elite and corps tradition historically linked specialised formation, mobility and strong State capacity."
+     },
+     {
+      "k": "British model",
+      "x": "A permanent, politically neutral and anonymous career service emphasises generalist advice, ministerial responsibility and unified recruitment."
+     },
+     {
+      "k": "United States",
+      "x": "A large political executive overlays a merit civil service, increasing responsiveness and specialist entry but risking politicisation and discontinuity."
+     },
+     {
+      "k": "Recruitment",
+      "x": "France and Britain rely more on competitive career entry; the US combines merit systems with extensive political appointments."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Minister-official relation",
+      "x": "British anonymity contrasts with more visible US appointees and France's stronger administrative elite in policymaking."
+     },
+     {
+      "k": "Lesson—merit",
+      "x": "Competence, tenure protection and ethical norms are common capacity foundations."
+     },
+     {
+      "k": "Lesson—expertise",
+      "x": "Mid-career entry and professional streams can deepen domains if integrated with institutional memory and public accountability."
+     },
+     {
+      "k": "Caution—elite closure",
+      "x": "Career cohesion can become social exclusivity, groupthink and distance from citizens."
+     }
+    ]
+   }
+  ],
+  "conc": "Developing democracies should combine merit, professional depth and lawful political direction while avoiding both self-governing bureaucratic elites and patronage administrations.",
+  "directive": "compare and contrast",
+  "flash": [
+   "French corps",
+   "British generalist",
+   "US political appointments",
+   "neutrality",
+   "specialisation",
+   "comparative caution"
+  ]
+ },
+ "pubad1-54": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The ecological approach made comparative administration contextual by relating formal institutions to social, economic and political environments, but its early models often treated Western modernity as the implicit destination."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Core advance",
+      "x": "Administrative structures cannot be understood apart from values, economy, social stratification and political authority."
+     },
+     {
+      "k": "Riggs",
+      "x": "Fused-prismatic-diffracted and related concepts highlighted formalism, heterogeneity and overlapping roles in transitional settings."
+     },
+     {
+      "k": "Comparative value",
+      "x": "The approach explains why identical legal forms produce different practices across societies."
+     },
+     {
+      "k": "Anti-universalism",
+      "x": "It weakened direct institutional transplantation by emphasising fit between reform and environment."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Evolutionism",
+      "x": "Linear movement towards differentiated Western structures risks ranking societies rather than explaining plural trajectories."
+     },
+     {
+      "k": "Overgeneralisation",
+      "x": "Labels such as prismatic can flatten variation within developing countries and understate agency and conflict."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Contemporary revision",
+      "x": "Use multi-level, historical and postcolonial comparison that studies hybridity without treating it as deficiency."
+     }
+    ]
+   }
+  ],
+  "conc": "Ecology remains indispensable as a warning against context-free reform, provided comparison becomes reciprocal and historical rather than a taxonomy of distance from the West.",
+  "directive": "comment",
+  "flash": [
+   "ecological approach",
+   "Riggs",
+   "formalism",
+   "heterogeneity",
+   "evolutionism",
+   "institutional fit"
+  ]
+ },
+ "pubad1-58": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Sen's capability approach defines development as expansion of people's substantive freedom to be and do what they have reason to value, not merely growth of income or administrative outputs."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Functionings",
+      "x": "Achievements such as health, learning, mobility and participation describe realised states of being and doing."
+     },
+     {
+      "k": "Capabilities",
+      "x": "The genuine opportunity set matters because identical resources convert differently across persons and environments."
+     },
+     {
+      "k": "Agency",
+      "x": "People are agents who shape goals and institutions, not passive recipients of welfare."
+     },
+     {
+      "k": "Freedom duality",
+      "x": "Process freedom and opportunity freedom require both fair participation and substantive options."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Administrative implication",
+      "x": "Programme design should diagnose conversion barriers—gender, disability, location, norms and public services."
+     },
+     {
+      "k": "Measurement",
+      "x": "Multidimensional outcomes and disaggregated access supplement expenditure, physical targets and aggregate income."
+     },
+     {
+      "k": "Participation",
+      "x": "Public reasoning helps select valued capabilities and prevents experts from imposing a universal list."
+     },
+     {
+      "k": "Convergence",
+      "x": "Health, education, nutrition, transport and digital access must coordinate because capabilities are jointly produced."
+     }
+    ]
+   }
+  ],
+  "conc": "The capability approach transforms development administration from delivering things to expanding effective agency—requiring multidimensional, participatory and context-sensitive governance.",
+  "directive": "examine",
+  "flash": [
+   "capability",
+   "functioning",
+   "agency",
+   "conversion factors",
+   "public reasoning",
+   "development"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-59": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Women's collectives, digital public infrastructure and social capital can multiply development capability, but they also reflect the inequalities of the society and State in which they operate."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Collective agency",
+      "x": "SHGs pool voice, savings and information, enabling women to negotiate services, markets and household decisions."
+     },
+     {
+      "k": "Social capital",
+      "x": "Trust and repeated cooperation lower transaction costs, though bonding ties may exclude outsiders or reinforce hierarchy."
+     },
+     {
+      "k": "DPI",
+      "x": "Interoperable identity, payments and data rails can expand access and reduce administrative friction."
+     },
+     {
+      "k": "Convergence",
+      "x": "Collectives can mediate last-mile digital access and convert platforms into locally intelligible development services."
+     }
+    ]
+   },
+   {
+    "h": "Limits and critical assessment",
+    "p": [
+     {
+      "k": "Power limits",
+      "x": "Caste, class, gender violence, device ownership and unpaid work constrain equal participation."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "State dependence",
+      "x": "Credit, rights, markets and public services require responsive institutions; self-help cannot substitute for public obligation."
+     }
+    ]
+   },
+   {
+    "h": "Limits and critical assessment",
+    "p": [
+     {
+      "k": "Platform risks",
+      "x": "Authentication failure, surveillance and data asymmetry may shift burdens from administration to citizens."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Design",
+      "x": "Invest in federations, community resource persons, assisted access, grievance systems and enterprise capability."
+     }
+    ]
+   }
+  ],
+  "conc": "Collective and digital capabilities deepen development when they redistribute voice and make the State more reachable; otherwise they can digitise or collectivise existing exclusion.",
+  "directive": "discuss",
+  "flash": [
+   "women's collectives",
+   "social capital",
+   "agency",
+   "digital exclusion",
+   "digital",
+   "public"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-59-b1": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The proposition belongs to Public Administration's continuing effort to reconcile organisation, managerial capacity and democratic publicness; its value lies in both explanation and usable institutional design. The branch specifically asks about \"Self-help groups have feminised the grassroots economy.\"."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Collective agency",
+      "x": "SHGs pool voice, savings and information, enabling women to negotiate services, markets and household decisions."
+     },
+     {
+      "k": "Social capital",
+      "x": "Trust and repeated cooperation lower transaction costs, though bonding ties may exclude outsiders or reinforce hierarchy."
+     },
+     {
+      "k": "DPI",
+      "x": "Interoperable identity, payments and data rails can expand access and reduce administrative friction."
+     },
+     {
+      "k": "Convergence",
+      "x": "Collectives can mediate last-mile digital access and convert platforms into locally intelligible development services."
+     }
+    ]
+   },
+   {
+    "h": "Limits and critical assessment",
+    "p": [
+     {
+      "k": "Power limits",
+      "x": "Caste, class, gender violence, device ownership and unpaid work constrain equal participation."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "State dependence",
+      "x": "Credit, rights, markets and public services require responsive institutions; self-help cannot substitute for public obligation."
+     }
+    ]
+   },
+   {
+    "h": "Limits and critical assessment",
+    "p": [
+     {
+      "k": "Platform risks",
+      "x": "Authentication failure, surveillance and data asymmetry may shift burdens from administration to citizens."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Design",
+      "x": "Invest in federations, community resource persons, assisted access, grievance systems and enterprise capability."
+     }
+    ]
+   }
+  ],
+  "conc": "Collective and digital capabilities deepen development when they redistribute voice and make the State more reachable; otherwise they can digitise or collectivise existing exclusion.",
+  "directive": "discuss",
+  "flash": [
+   "women's collectives",
+   "social capital",
+   "agency",
+   "digital exclusion",
+   "digital",
+   "public"
+  ]
+ },
+ "pubad1-60": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Sustainable development challenges routine administration to value future generations, ecological thresholds and cross-sector effects that annual budgets and departmental mandates usually discount."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Long horizon",
+      "x": "Appraisal should include life-cycle costs, resilience and irreversible environmental loss rather than immediate outputs alone."
+     },
+     {
+      "k": "Intergenerational equity",
+      "x": "Institutions must represent future interests through statutory duties, fiscal rules and transparent impact assessment."
+     },
+     {
+      "k": "Policy coherence",
+      "x": "Energy, water, agriculture, cities and welfare require integrated targets because progress in one domain can damage another."
+     },
+     {
+      "k": "Localisation",
+      "x": "Global goals must be translated into locally chosen outcomes, responsibilities and indicators rather than copied as a reporting grid."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Budget alignment",
+      "x": "Plans, procurement and capital budgets should map resources to outcomes and identify harmful incentives."
+     },
+     {
+      "k": "Participation",
+      "x": "Communities and vulnerable groups hold contextual knowledge and bear distributional costs of transition."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Administrative architecture",
+      "x": "Nodal coordination, district convergence and legislative review must connect vertical missions to place-based delivery."
+     }
+    ]
+   }
+  ],
+  "conc": "Localising the SDGs is administrative integration: future-sensitive appraisal, coherent budgets, place-based participation and accountability for trade-offs.",
+  "directive": "comment",
+  "flash": [
+   "sustainable development",
+   "intergenerational equity",
+   "policy coherence",
+   "SDG localisation",
+   "life-cycle appraisal",
+   "place-based governance"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-60-b0": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The proposition belongs to Public Administration's continuing effort to reconcile organisation, managerial capacity and democratic publicness; its value lies in both explanation and usable institutional design. The branch specifically asks about Weidner's goal-orientation and change-orientation."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Long horizon",
+      "x": "Appraisal should include life-cycle costs, resilience and irreversible environmental loss rather than immediate outputs alone."
+     },
+     {
+      "k": "Intergenerational equity",
+      "x": "Institutions must represent future interests through statutory duties, fiscal rules and transparent impact assessment."
+     },
+     {
+      "k": "Policy coherence",
+      "x": "Energy, water, agriculture, cities and welfare require integrated targets because progress in one domain can damage another."
+     },
+     {
+      "k": "Localisation",
+      "x": "Global goals must be translated into locally chosen outcomes, responsibilities and indicators rather than copied as a reporting grid."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Budget alignment",
+      "x": "Plans, procurement and capital budgets should map resources to outcomes and identify harmful incentives."
+     },
+     {
+      "k": "Participation",
+      "x": "Communities and vulnerable groups hold contextual knowledge and bear distributional costs of transition."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Administrative architecture",
+      "x": "Nodal coordination, district convergence and legislative review must connect vertical missions to place-based delivery."
+     }
+    ]
+   }
+  ],
+  "conc": "Localising the SDGs is administrative integration: future-sensitive appraisal, coherent budgets, place-based participation and accountability for trade-offs.",
+  "directive": "comment",
+  "flash": [
+   "sustainable development",
+   "intergenerational equity",
+   "policy coherence",
+   "SDG localisation",
+   "life-cycle appraisal",
+   "place-based governance"
+  ]
+ },
+ "pubad1-63": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Neutrality and anonymity protect impartial competence and ministerial responsibility, but politicisation and direct digital visibility have made their traditional form harder to sustain."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Neutrality",
+      "x": "Civil servants serve successive elected governments faithfully while remaining within law and giving candid advice."
+     },
+     {
+      "k": "Anonymity",
+      "x": "Ministers ordinarily own departmental decisions, shielding permanent officials from partisan credit or blame."
+     },
+     {
+      "k": "Politicisation",
+      "x": "Partisan appointments, transfers and demands for loyalty can replace responsiveness to lawful government with personal allegiance."
+     },
+     {
+      "k": "Social media",
+      "x": "Officials now communicate rapidly and visibly; personal advocacy can compromise perceived impartiality and confidentiality."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Public demand",
+      "x": "Complex crises require experts to explain evidence, and complete invisibility may weaken trust and accountability."
+     },
+     {
+      "k": "New boundary",
+      "x": "Authorised factual communication and professional explanation are compatible with restraint from partisan campaigning."
+     },
+     {
+      "k": "Candid advice",
+      "x": "Protected internal dissent, recorded options and lawful refusal safeguard competence under political direction."
+     },
+     {
+      "k": "Accountability",
+      "x": "Anonymity should not conceal misconduct; legislative and legal forums must identify responsible officials when needed."
+     }
+    ]
+   }
+  ],
+  "conc": "The modern ethic is not silent bureaucracy but non-partisan professionalism: visible enough to explain, protected enough to advise and accountable enough to answer.",
+  "directive": "critically examine",
+  "flash": [
+   "neutrality",
+   "anonymity",
+   "politicisation",
+   "ministerial responsibility",
+   "social media",
+   "candid advice"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-65": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Rank and position classification embody different organising logics: one builds a career around the person and service, the other recruits and rewards against the requirements of a defined job."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Rank system",
+      "x": "Officials hold a personal grade and may move across posts, favouring a unified career and broad administrative identity."
+     },
+     {
+      "k": "Position system",
+      "x": "Jobs are analysed and graded by duties, skill and responsibility, supporting post-specific recruitment and pay."
+     },
+     {
+      "k": "Recruitment",
+      "x": "Rank favours common entrance and potential; position favours demonstrated competencies for an existing vacancy."
+     },
+     {
+      "k": "Specialisation",
+      "x": "Position classification builds technical depth, while rank mobility can produce generalist coordination but weaken domains."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Career development",
+      "x": "Rank offers predictable progression and organisational loyalty; position offers lateral entry and skill-market alignment."
+     },
+     {
+      "k": "Flexibility",
+      "x": "Rank eases redeployment across changing priorities; detailed position systems may become rigid or classification-heavy."
+     },
+     {
+      "k": "Equity",
+      "x": "Rank standardises service conditions; position can justify equal pay for equal work but also fragment cadres."
+     },
+     {
+      "k": "Public fit",
+      "x": "Senior coordination may benefit from broad careers, while specialised regulatory and scientific roles need position logic."
+     }
+    ]
+   }
+  ],
+  "conc": "Neither person nor post should dominate absolutely; a hybrid should preserve public-service careers while making expertise and role requirements consequential.",
+  "directive": "examine",
+  "flash": [
+   "rank classification",
+   "position classification",
+   "career service",
+   "job analysis",
+   "specialisation",
+   "hybrid"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-66": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Government appraisal fails when a confidential annual rating is detached from job purpose, evidence, learning and consequential career decisions."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Dual purpose",
+      "x": "Appraisal should support capability development while supplying fair evidence for deployment, progression and accountability."
+     },
+     {
+      "k": "Role clarity",
+      "x": "Assess agreed responsibilities and competencies for the actual post, not generic personality descriptors."
+     },
+     {
+      "k": "Outcome caution",
+      "x": "Use controllable contributions, quality and collaboration; raw programme outcomes may reflect team and environmental factors."
+     },
+     {
+      "k": "Multi-source evidence",
+      "x": "Supervisor judgement, work products, stakeholder feedback and self-reflection reduce one-rater bias."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Continuous dialogue",
+      "x": "Mid-cycle feedback and coaching allow correction before an annual score becomes a surprise."
+     },
+     {
+      "k": "Learning plan",
+      "x": "Each review should produce targeted training, mentoring or stretch assignment tied to the next role."
+     },
+     {
+      "k": "Career link",
+      "x": "Competency evidence should influence placement and progression without making every rating a competitive tournament."
+     },
+     {
+      "k": "Fairness",
+      "x": "Calibrated standards, reasoned ratings, employee response and appeal protect trust and candour."
+     }
+    ]
+   }
+  ],
+  "conc": "Appraisal becomes developmental when it is a recurring evidence-and-coaching process; career consequences should follow demonstrated capability, not ritual scores.",
+  "directive": "critically examine",
+  "flash": [
+   "performance appraisal",
+   "competency",
+   "continuous feedback",
+   "development plan",
+   "multi-source",
+   "career progression"
+  ]
+ },
+ "pubad1-67": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Public employees possess legitimate associational and workplace interests, but bargaining occurs within democratic sovereignty, legislated budgets and the obligation to maintain essential services."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Distinct context",
+      "x": "The employer is accountable to citizens and legislatures; agreements cannot privately dispose of statutory powers or public funds."
+     },
+     {
+      "k": "Employee voice",
+      "x": "Consultation and bargaining can improve morale, work design, safety and implementation knowledge."
+     },
+     {
+      "k": "Fiscal boundary",
+      "x": "Wages and conditions have opportunity costs and require transparent costing within authorised budgets."
+     },
+     {
+      "k": "Essential services",
+      "x": "Continuity obligations justify notice, minimum-service and emergency arrangements, not blanket suppression of voice."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Scope",
+      "x": "Pay, safety and procedures are more bargainable than core policy, statutory duties or appointments reserved by law."
+     },
+     {
+      "k": "Representation",
+      "x": "Clear recognition rules and protection against retaliation prevent fragmented or politicised consultation."
+     },
+     {
+      "k": "Dispute resolution",
+      "x": "Conciliation, mediation, fact-finding and impartial arbitration can reduce disruptive escalation."
+     }
+    ]
+   }
+  ],
+  "conc": "A balanced system protects organised employee voice within transparent fiscal, legal and service-continuity rules, making participation compatible with public accountability.",
+  "directive": "critically examine",
+  "flash": [
+   "collective bargaining",
+   "sovereignty",
+   "essential services",
+   "fiscal responsibility",
+   "joint consultation",
+   "arbitration"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-70-b2": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The proposition belongs to Public Administration's continuing effort to reconcile organisation, managerial capacity and democratic publicness; its value lies in both explanation and usable institutional design. The branch specifically asks about Dror's normative-optimum model — between the rationalist's arrogance and the incrementalist's timidity."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Rational model",
+      "x": "It seeks exhaustive alternatives and consequences but exceeds information, time and cognitive capacity."
+     },
+     {
+      "k": "Incrementalism",
+      "x": "Lindblom's successive limited comparisons are feasible and pluralist but may entrench existing distributions."
+     },
+     {
+      "k": "Fundamental scan",
+      "x": "Decision-makers periodically examine the broad field, values and strategic directions."
+     },
+     {
+      "k": "Detailed scan",
+      "x": "Within that frame, selected areas receive focused analysis and incremental adjustment."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Adaptive depth",
+      "x": "The amount of scanning varies with stakes, uncertainty, capability and reversibility."
+     }
+    ]
+   },
+   {
+    "h": "Significance and consequences",
+    "p": [
+     {
+      "k": "Contribution",
+      "x": "It distinguishes high-order policy choice from routine decisions while connecting them in one process."
+     },
+     {
+      "k": "Equity gain",
+      "x": "Strategic review can question assumptions and excluded options that incremental bargaining leaves untouched."
+     }
+    ]
+   },
+   {
+    "h": "Limits and critical assessment",
+    "p": [
+     {
+      "k": "Limit",
+      "x": "The theory offers no precise rule for scan breadth; power still determines which fundamentals become visible."
+     }
+    ]
+   }
+  ],
+  "conc": "Mixed-scanning is a disciplined pragmatism: broad enough to challenge path dependence, selective enough to remain administratively usable.",
+  "directive": "critically examine",
+  "flash": [
+   "Etzioni",
+   "mixed-scanning",
+   "synoptic",
+   "incrementalism",
+   "fundamental decision",
+   "adaptive depth"
+  ]
+ },
+ "pubad1-75": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The proposition belongs to Public Administration's continuing effort to reconcile organisation, managerial capacity and democratic publicness; its value lies in both explanation and usable institutional design. Here, \"The tidy 'policy cycle' of the textbooks bears little resemblance to the untidy reality of policy-making.\" Critically examine… is the organising focus."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core analysis",
+    "p": [
+     {
+      "k": "Conceptual claim",
+      "x": "Define the central concept in the theorist's own terms and identify the problem in classical or contemporary administration to which it responds. Apply this dimension directly to the terms and actors named in the question."
+     },
+     {
+      "k": "Causal mechanism",
+      "x": "Explain how authority, motivation, information, structure, environment or decision premises produce the predicted administrative behaviour. Apply this dimension directly to the terms and actors named in the question."
+     },
+     {
+      "k": "Theoretical contribution",
+      "x": "Show what the formulation added to earlier schools and why it altered the discipline's locus, focus or unit of analysis. Apply this dimension directly to the terms and actors named in the question."
+     },
+     {
+      "k": "Critical limits",
+      "x": "Test assumptions about rationality, harmony, culture, power, hierarchy and generalisability; no administrative theory is context-free. Apply this dimension directly to the terms and actors named in the question."
+     }
+    ]
+   },
+   {
+    "h": "Critical assessment",
+    "p": [
+     {
+      "k": "Contemporary application",
+      "x": "Apply the insight to networks, digital systems, street-level discretion, performance management or collaborative governance. Apply this dimension directly to the terms and actors named in the question."
+     }
+    ]
+   }
+  ],
+  "conc": "Therefore, \"The tidy 'policy cycle' of the textbooks bears little resemblance to the untidy… should be judged through context, institutional capacity, distributional effects and accountable implementation rather than through a one-dimensional claim.",
+  "directive": "critically examine",
+  "flash": [
+   "tidy",
+   "policy",
+   "cycle",
+   "textbooks",
+   "bears",
+   "little"
+  ]
+ },
+ "pubad1-76": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Evidence informs policy within a political and institutional process; it cannot determine values, distribute losses or automatically overcome incentives to ignore inconvenient findings."
+   }
+  ],
+  "body": [
+   {
+    "h": "Significance and consequences",
+    "p": [
+     {
+      "k": "Evidence contribution",
+      "x": "Administrative data, trials, qualitative research and comparative experience clarify diagnosis, mechanisms and effects."
+     }
+    ]
+   },
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Value boundary",
+      "x": "Evidence cannot decide the moral weight of equity, liberty, risk or intergenerational trade-offs."
+     },
+     {
+      "k": "Political use",
+      "x": "Actors select, frame or delay research to legitimise prior positions; evidence is also a resource in contestation."
+     },
+     {
+      "k": "Institutional incentives",
+      "x": "Spending deadlines, target pressure and fear of failure favour positive activity reports over causal learning."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Monitoring",
+      "x": "Continuous indicators show implementation state but may invite gaming and rarely establish attribution."
+     },
+     {
+      "k": "Evaluation",
+      "x": "Independent designs test contribution or causality, yet results may arrive after the policy window and travel poorly across contexts."
+     },
+     {
+      "k": "Evidence system",
+      "x": "Pre-register questions, preserve evaluator independence, link datasets and publish null or adverse findings."
+     },
+     {
+      "k": "Deliberation",
+      "x": "Combine technical evidence with stakeholder knowledge and transparent explanation of value choices."
+     }
+    ]
+   }
+  ],
+  "conc": "The realistic ideal is evidence-informed policy: rigorous knowledge enters an explicit process of values, politics and institutional learning instead of masquerading as automatic choice.",
+  "directive": "examine",
+  "flash": [
+   "evidence-informed policy",
+   "monitoring",
+   "evaluation",
+   "attribution",
+   "gaming",
+   "policy learning"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-78": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Digital Public Infrastructure changes administrative improvement from putting existing departments online to providing interoperable rails on which many public and private services can be assembled."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Architectural shift",
+      "x": "Identity, payments and data exchange become reusable components rather than duplicated departmental systems."
+     }
+    ]
+   },
+   {
+    "h": "Significance and consequences",
+    "p": [
+     {
+      "k": "Transaction gain",
+      "x": "Shared rails reduce verification, transfer and onboarding costs and permit services at population scale."
+     }
+    ]
+   },
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Innovation",
+      "x": "Open protocols can allow multiple providers and interfaces while public rules preserve interoperability."
+     },
+     {
+      "k": "State-citizen relation",
+      "x": "Portability and direct delivery can reduce gatekeepers, but may relocate administrative burden onto the individual."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Exclusion",
+      "x": "Authentication failure, weak connectivity, literacy and inaccurate records can turn efficient systems into rights barriers."
+     },
+     {
+      "k": "Data power",
+      "x": "Linkage may enable profiling and surveillance unless minimisation, consent and institutional purpose are enforced."
+     },
+     {
+      "k": "Concentration",
+      "x": "Dominant applications or vendors can control access even above nominally open rails."
+     },
+     {
+      "k": "Administrative design",
+      "x": "Provide assisted access, exception handling, correction, audit and non-digital continuity."
+     }
+    ]
+   }
+  ],
+  "conc": "DPI is transformative when it remains a rights-respecting public foundation; interoperability must expand agency rather than make citizens legible but helpless.",
+  "directive": "critically examine",
+  "flash": [
+   "interoperability",
+   "public rails",
+   "authentication",
+   "data governance",
+   "assisted access",
+   "digital"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-80": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Traditional O&M analysed structure and procedure episodically; digital administration requires continuous redesign of end-to-end services, data and controls."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Classical role",
+      "x": "Organisation and Methods units simplified forms, procedures, work measurement and office layout to improve economy."
+     },
+     {
+      "k": "New unit of analysis",
+      "x": "Begin with the citizen's whole journey across departments rather than automate each internal file separately."
+     },
+     {
+      "k": "Process mining",
+      "x": "Event data can reveal delay, rework and bottlenecks, subject to data quality and contextual interpretation."
+     },
+     {
+      "k": "Rule simplification",
+      "x": "Remove unnecessary approvals and documents before digitisation to avoid encoding obsolete control."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Interoperability",
+      "x": "Common standards and accountable data exchange replace repeated submission while preserving purpose limitation."
+     },
+     {
+      "k": "Continuous cycle",
+      "x": "Measure, test, redesign and monitor because user behaviour and technology change after launch."
+     },
+     {
+      "k": "Controls by design",
+      "x": "Audit logs, segregation of duties and exception alerts can strengthen accountability without multiple physical signatures."
+     },
+     {
+      "k": "Inclusion",
+      "x": "Assisted and offline channels, accessibility and grievance correction must be designed into the process."
+     }
+    ]
+   }
+  ],
+  "conc": "O&M should become a permanent public-service design function: simplify purpose, integrate journeys and improve continuously while keeping rights and accountability visible.",
+  "directive": "comment",
+  "flash": [
+   "process re-engineering",
+   "process mining",
+   "interoperability",
+   "service design",
+   "continuous improvement",
+   "organisation"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-83": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Performance and outcome budgeting reconnect expenditure with results, but measurement cannot by itself attribute social change or restore a weak legislative power of the purse."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Performance budgeting",
+      "x": "It links inputs with activities and outputs, making the cost and volume of administrative work visible."
+     },
+     {
+      "k": "Outcome budgeting",
+      "x": "It asks whether outputs contribute to changes in citizens' conditions and public purpose."
+     }
+    ]
+   },
+   {
+    "h": "Significance and consequences",
+    "p": [
+     {
+      "k": "Contribution",
+      "x": "Logical chains clarify programme assumptions, indicators and cross-department dependencies."
+     }
+    ]
+   },
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Attribution",
+      "x": "Economic conditions, citizen behaviour and multiple programmes make observed outcomes difficult to assign to one ministry."
+     }
+    ]
+   },
+   {
+    "h": "Limits and critical assessment",
+    "p": [
+     {
+      "k": "Metric risk",
+      "x": "Agencies may select easy targets, count activity or neglect unmeasured quality and equity."
+     },
+     {
+      "k": "Legislative weakness",
+      "x": "Compressed debate and limited research mean richer documents may receive little effective scrutiny."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Improvement",
+      "x": "Use independent evaluation, baselines, distributional indicators and explanations of variance rather than target tables alone."
+     },
+     {
+      "k": "Budget consequence",
+      "x": "Results should inform review and redesign, not produce mechanical cuts that punish difficult populations."
+     }
+    ]
+   }
+  ],
+  "conc": "Results budgeting improves the language of accountability; causal evaluation, political judgement and legislative capacity determine whether that language changes allocation.",
+  "directive": "discuss",
+  "flash": [
+   "performance budgeting",
+   "outcome budgeting",
+   "logic model",
+   "attribution",
+   "gaming",
+   "legislative scrutiny"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+ },
+ "pubad1-85": {
+  "src": "mainslab",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Public debt transfers resources across time: it can finance assets and shock absorption for future beneficiaries, or transfer taxes and constrained choices when borrowing funds current consumption or hidden risk."
+   }
+  ],
+  "body": [
+   {
+    "h": "Core argument",
+    "p": [
+     {
+      "k": "Intergenerational bridge",
+      "x": "Long-lived infrastructure justifies spreading cost across cohorts that use it."
+     },
+     {
+      "k": "Macroeconomic role",
+      "x": "Borrowing supports demand during severe downturns and prevents destructive cuts, especially when private demand collapses."
+     },
+     {
+      "k": "Burden channel",
+      "x": "Interest, refinancing and currency exposure can crowd out future services and reduce fiscal sovereignty."
+     },
+     {
+      "k": "Not simple morality",
+      "x": "Future generations inherit public assets, institutions and growth as well as liabilities; debt quality matters more than debt alone."
+     }
+    ]
+   },
+   {
+    "h": "Limits and critical assessment",
+    "p": [
+     {
+      "k": "Developing-country constraint",
+      "x": "Shallow markets, volatile capital and development needs make rigid imported thresholds inappropriate."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Fiscal frameworks",
+      "x": "Medium-term debt anchors, transparent deficits and escape clauses can combine credibility with counter-cyclical flexibility."
+     }
+    ]
+   },
+   {
+    "h": "Limits and critical assessment",
+    "p": [
+     {
+      "k": "Risk disclosure",
+      "x": "Guarantees, public enterprises, pensions and off-budget borrowing belong in a comprehensive balance-sheet view."
+     }
+    ]
+   },
+   {
+    "h": "Analysis and application",
+    "p": [
+     {
+      "k": "Expenditure test",
+      "x": "Appraisal, maintenance and outcome review should distinguish productive borrowing from politically convenient deferral."
+     }
+    ]
+   }
+  ],
+  "conc": "Responsible debt policy is intergenerational stewardship: borrow transparently for resilience and productive capacity, then maintain a credible path that protects future fiscal choice.",
+  "directive": "comment",
+  "flash": [
+   "public debt",
+   "intergenerational equity",
+   "debt anchor",
+   "escape clause",
+   "fiscal risk",
+   "productive borrowing"
+  ],
+  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
  }
 }

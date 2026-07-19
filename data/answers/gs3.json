@@ -840,6 +840,10 @@
      {
       "k": "Export handholding",
       "x": "District Export Hubs and e-commerce onboarding connect small units to buyers beyond the district."
+     },
+     {
+      "k": "Cluster credit",
+      "x": "Cluster-based lending lets banks assess a trade rather than an individual borrower, cutting appraisal cost."
      }
     ]
    }
@@ -1251,6 +1255,10 @@
      {
       "k": "Integration requirement",
       "x": "Both modes deliver only when connected to road and rail at the last mile."
+     },
+     {
+      "k": "Employment effect",
+      "x": "Terminal, boat-building and ground-handling work creates local employment along both networks."
      }
     ]
    }
@@ -1636,6 +1644,10 @@
      {
       "k": "Swap arrangements",
       "x": "Central-bank currency swap lines provide contingent liquidity in stressed periods."
+     },
+     {
+      "k": "Policy credibility",
+      "x": "A predictable fiscal and monetary framework is itself a defence — it shortens the duration of any outflow episode."
      }
     ]
    }
@@ -2233,20 +2245,70 @@
   "src": "docx",
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Why insurance alone is insufficient",
     "p": [
      {
       "k": "Insurance limits",
       "x": "**PMFBY** covers yield loss but not price risk, basis risk or long-term adaptation; low voluntary uptake persists."
      },
      {
+      "k": "Covers loss, not risk",
+      "x": "**PMFBY** compensates after damage but does nothing to reduce the probability of damage."
+     },
+     {
+      "k": "Basis and coverage gaps",
+      "x": "Area-based yield estimation diverges from individual loss, and tenants without records are largely excluded."
+     },
+     {
+      "k": "Delay and trust",
+      "x": "Slow settlement erodes confidence, so voluntary enrolment falls precisely where risk is highest."
+     }
+    ]
+   },
+   {
+    "h": "An integrated risk framework",
+    "p": [
+     {
       "k": "Integrated framework",
       "x": "Combine insurance with price-deficiency support, weather-indexed products, disaster-risk financing, resilient inputs and diversified incomes (livestock, agroforestry)."
+     },
+     {
+      "k": "Prevention layer",
+      "x": "Climate-resilient varieties, micro-irrigation and soil-carbon restoration reduce exposure before any claim arises."
+     },
+     {
+      "k": "Anticipatory layer",
+      "x": "Agro-advisories and forecast-based action let farmers change sowing or harvest timing ahead of a predicted shock."
+     },
+     {
+      "k": "Transfer layer",
+      "x": "Parametric and weather-index products settle on objective triggers, removing assessment delay.",
+      "ex": "**DigiClaim**; satellite yield estimation"
+     },
+     {
+      "k": "Diversification layer",
+      "x": "Allied income from livestock, horticulture and non-farm work is the household's own hedge against crop failure."
+     },
+     {
+      "k": "Institutional layer",
+      "x": "**FPO**-level aggregation makes premiums and payouts administratively viable for smallholders."
+     },
+     {
+      "k": "Public risk pool",
+      "x": "A national agricultural risk pool spreads correlated regional losses that private insurers cannot absorb alone."
+     },
+     {
+      "k": "Credit linkage",
+      "x": "Restructuring and moratorium provisions must trigger automatically on a declared event, not on application."
+     },
+     {
+      "k": "Data backbone",
+      "x": "Accurate, granular yield and weather data is the precondition for every layer of the stack to function."
      }
     ]
    }
   ],
-  "conc": "Risk must be managed across the value chain — insurance is one layer, not the whole shield."
+  "conc": "Risk management is a stack, not a product — insurance is the last layer, and it works only when prevention and anticipation have already reduced the loss."
  },
  "gs3-26": {
   "directive": "discuss",
@@ -2308,20 +2370,51 @@
   "src": "docx",
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "The IFS model",
     "p": [
      {
       "k": "IFS model",
       "x": "Combining crops + livestock + fishery + agroforestry recycles waste-as-input, diversifies income and buffers climate/price shocks."
      },
      {
+      "k": "Definition",
+      "x": "Crops combined with livestock, aquaculture or agroforestry so that each enterprise's waste becomes another's input.",
+      "ex": "Rice-fish-duck; crop-dairy-vermicompost"
+     }
+    ]
+   },
+   {
+    "h": "Why it raises income",
+    "p": [
+     {
       "k": "Doubling incomes",
       "x": "Multiple income streams from the same land raise smallholder viability (Ashok Dalwai Committee)."
+     },
+     {
+      "k": "Income security",
+      "x": "Multiple enterprises diversify risk across crop failure, price crash and weather shock."
+     },
+     {
+      "k": "Input-cost fall",
+      "x": "On-farm recycling of residue and manure cuts dependence on purchased fertiliser and fodder."
+     },
+     {
+      "k": "Nutritional security",
+      "x": "Household access to milk, eggs and fish addresses hidden hunger directly."
+     },
+     {
+      "k": "Constraints",
+      "x": "High set-up cost, labour intensity and technical skill deter adoption without support.",
+      "ex": "**ICAR-AICRP** models across 25 states"
+     },
+     {
+      "k": "Policy support",
+      "x": "**Viksit Krishi Sankalp Abhiyan** deploys scientists to disseminate region-specific IFS models."
      }
     ]
    }
   ],
-  "conc": "**IFS** turns the small farm into a resilient, circular income system."
+  "conc": "IFS suits precisely the small and marginal farmer that input-intensive monoculture serves worst — resource recycling substitutes capital with knowledge."
  },
  "gs3-30": {
   "directive": "examine",
@@ -2734,20 +2827,69 @@
   "src": "docx",
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Expanding the farmer's choice",
     "p": [
      {
       "k": "Choice & competition",
       "x": "e-**NAM** (~1.3k mandis linked), private mandis, direct marketing and FPOs break **APMC** monopsony and middleman margins."
      },
      {
+      "k": "Beyond the mandi",
+      "x": "Direct sale, contract arrangements and e-trading platforms end dependence on a single regulated buyer."
+     },
+     {
+      "k": "Price discovery",
+      "x": "**e-NAM** integration allows bids across mandis, narrowing the gap between farm-gate and terminal price."
+     },
+     {
+      "k": "Aggregation",
+      "x": "**FPOs** convert fragmented lots into commercially graded volumes buyers will negotiate for."
+     }
+    ]
+   },
+   {
+    "h": "Making the choice bankable",
+    "p": [
+     {
       "k": "Warehousing & finance",
       "x": "Negotiable warehouse receipts (**WDRA**) let farmers store and borrow, avoiding distress sales."
+     },
+     {
+      "k": "Warehouse receipts",
+      "x": "Negotiable receipts under **WDRA** let farmers borrow against stored produce instead of selling at harvest lows."
+     },
+     {
+      "k": "Grading and assaying",
+      "x": "Quality certification is the precondition for remote and digital sale — buyers must trust the lot unseen."
+     },
+     {
+      "k": "Logistics",
+      "x": "Farm-gate collection, pack houses and cold chain determine whether a distant market is actually reachable."
+     },
+     {
+      "k": "Residual risk",
+      "x": "Contract enforcement and dispute resolution remain weak, so smallholders bear counterparty risk."
+     },
+     {
+      "k": "Digital payment trail",
+      "x": "Direct electronic payment to the farmer's account removes commission deduction and creates a credit history."
+     },
+     {
+      "k": "Price intelligence",
+      "x": "Real-time arrival and price data let farmers time sales rather than accept the first offer."
+     },
+     {
+      "k": "Regulatory balance",
+      "x": "Reform must widen options without dismantling the mandi safety net that small farmers still depend on."
+     },
+     {
+      "k": "Contract farming safeguards",
+      "x": "Registration, model agreements and dispute mechanisms protect the smallholder in bilateral deals."
      }
     ]
    }
   ],
-  "conc": "Marketing reform shifts price-making power toward the farmer."
+  "conc": "Marketing reform succeeds when it changes who the farmer can sell to and when — infrastructure and finance, not deregulation alone, deliver that."
  },
  "gs3-32": {
   "directive": "examine",
@@ -2805,58 +2947,138 @@
   "src": "docx",
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Why allied sectors drive rural income",
     "p": [
      {
       "k": "Allied growth",
       "x": "Livestock/dairy (~30% of agri-**GVA**) and fisheries ('Blue Revolution', **PMMSY**) grow faster than crops and cushion climate risk."
      },
      {
+      "k": "Faster growth",
+      "x": "Livestock, dairy and fisheries have grown faster than crop agriculture and now contribute a large share of agricultural output."
+     },
+     {
+      "k": "Steady cash flow",
+      "x": "Daily and weekly income from milk and fish smooths the seasonal lumpiness of crop earnings."
+     }
+    ]
+   },
+   {
+    "h": "Inclusivity and constraints",
+    "p": [
+     {
       "k": "Inclusive",
       "x": "Landless and women-dominated; **Rashtriya Gokul Mission**, dairy cooperatives (Amul model) and **PM** Matsya Sampada raise incomes."
+     },
+     {
+      "k": "Landless participation",
+      "x": "Livestock ownership requires no land, making it the principal asset of landless and marginal households."
+     },
+     {
+      "k": "Women's enterprise",
+      "x": "Dairy and small-ruminant rearing are largely women-managed, so income accrues where it is most likely to be spent on nutrition."
+     },
+     {
+      "k": "Institutional backbone",
+      "x": "Cooperatives and missions supply procurement, veterinary care and breed improvement.",
+      "ex": "**Rashtriya Gokul Mission**; **PMMSY**"
+     },
+     {
+      "k": "Constraints",
+      "x": "Fodder scarcity, disease burden and cold-chain gaps cap productivity and market reach."
      }
     ]
    }
   ],
-  "conc": "Allied sectors are the fastest, most inclusive route to rural income diversification."
+  "conc": "Allied activities are the most inclusive route to rural income growth — they reward labour and care rather than landholding."
  },
  "gs3-32-b1": {
   "src": "docx",
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "The distortion",
     "p": [
      {
       "k": "Distortion",
       "x": "Cheap urea causes over-use, **NPK** imbalance and soil degradation; subsidy (**~₹1.7 lakh** cr) strains the exchequer."
      },
      {
+      "k": "Skewed nutrient use",
+      "x": "Heavy urea subsidy relative to phosphatic and potassic fertiliser has pushed the **N:P:K** ratio far from agronomic balance."
+     },
+     {
+      "k": "Soil and fiscal cost",
+      "x": "Over-application degrades soil health and nitrate-pollutes groundwater while consuming a large share of the subsidy bill."
+     }
+    ]
+   },
+   {
+    "h": "The reform path",
+    "p": [
+     {
       "k": "Reform",
       "x": "Nano-urea/nano-**DAP** cut import dependence and runoff; **PM**-**PRANAM** rewards states reducing chemical use; Nutrient-Based Subsidy and soil-health-card-guided application."
+     },
+     {
+      "k": "Nano-fertilisers",
+      "x": "Nano urea and DAP cut volume, transport and storage cost while reducing runoff losses — though field efficacy data are still accumulating."
+     },
+     {
+      "k": "PM-PRANAM",
+      "x": "Incentivises States that reduce chemical fertiliser use by sharing the subsidy saved — aligning fiscal and ecological goals."
+     },
+     {
+      "k": "Balanced nutrition",
+      "x": "Soil Health Cards and **NBS** pricing aim to correct relative prices so farmers apply what soils need."
      }
     ]
    }
   ],
-  "conc": "Balanced, tech-led nutrient management protects both soil and the fiscal."
+  "conc": "Fertiliser reform must change relative prices, not merely the product — subsidy design is what determines what a farmer puts in the soil."
  },
  "gs3-32-b2": {
   "src": "docx",
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Cost to the farmer",
     "p": [
      {
       "k": "Income loss",
       "x": "Ad-hoc export bans (rice, wheat, onion) to curb domestic inflation depress farm-gate prices, penalising farmers."
      },
      {
+      "k": "Income loss",
+      "x": "Sudden export bans on rice, wheat, sugar or onion transfer the price gain from producer to consumer at the farmer's expense."
+     },
+     {
+      "k": "Investment disincentive",
+      "x": "Unpredictable bans discourage the quality and capacity investment that export markets require."
+     }
+    ]
+   },
+   {
+    "h": "Cost to India's export standing",
+    "p": [
+     {
       "k": "Reliability cost",
       "x": "Frequent bans dent India's credibility as a stable supplier, ceding market share."
+     },
+     {
+      "k": "Reliability damage",
+      "x": "Buyers who lose a contracted shipment diversify to other origins and rarely return quickly."
+     },
+     {
+      "k": "Global food security",
+      "x": "As a major supplier of rice, Indian restrictions raise world prices and hit import-dependent developing economies."
+     },
+     {
+      "k": "Better instruments",
+      "x": "Buffer releases, tariff calibration and minimum export prices manage domestic supply with less collateral damage than an outright ban."
      }
     ]
    }
   ],
-  "conc": "A predictable, calibrated trade policy balances consumer inflation against farmer incomes and export credibility."
+  "conc": "Consumer protection and export credibility must be balanced with calibrated instruments — a ban solves this season's inflation at the cost of next decade's market."
  },
  "gs3-33": {
   "directive": "discuss",
@@ -2944,20 +3166,75 @@
   "src": "docx",
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "What sovereignty actually requires",
     "p": [
      {
       "k": "Full-stack sovereignty",
       "x": "Compute (GPUs/chips), data (Indian-language corpora), models, talent and safety institutions — not merely a home-grown **LLM**."
      },
      {
+      "k": "Compute layer",
+      "x": "Domestic **GPU** capacity and access to accelerators, without which model training is a rented capability."
+     },
+     {
+      "k": "Data layer",
+      "x": "Curated, consented, Indian-language datasets — the input no foreign model can substitute.",
+      "ex": "**AIKosh**"
+     },
+     {
+      "k": "Model layer",
+      "x": "Indigenous foundation models tuned to Indian languages and contexts.",
+      "ex": "**BharatGen**"
+     },
+     {
+      "k": "Talent and semiconductors",
+      "x": "Research depth and chip capability underpin everything above them."
+     }
+    ]
+   },
+   {
+    "h": "Why it matters strategically",
+    "p": [
+     {
       "k": "Strategic autonomy",
       "x": "Reduce dependence on foreign compute/cloud; secure critical-mineral and semiconductor supply chains that underpin AI."
+     },
+     {
+      "k": "Avoiding rented capability",
+      "x": "Dependence on foreign models embeds others' values, safety choices and pricing in India's public systems."
+     },
+     {
+      "k": "Security applications",
+      "x": "Defence, intelligence and critical-infrastructure use cannot run on models whose weights and updates are controlled abroad."
+     },
+     {
+      "k": "Regulatory reach",
+      "x": "Sovereignty is what makes domestic accountability rules enforceable rather than advisory."
+     },
+     {
+      "k": "Realistic scope",
+      "x": "Full-stack autarky is neither affordable nor necessary; the aim is control over choke points, not self-sufficiency at every layer."
+     },
+     {
+      "k": "Safety and evaluation",
+      "x": "Domestic red-teaming and evaluation capacity is needed to certify models for public use."
+     },
+     {
+      "k": "Open-weight strategy",
+      "x": "Publicly funded open models give startups and states a base to build on without licensing dependence."
+     },
+     {
+      "k": "Energy footprint",
+      "x": "Training and inference are power-intensive, tying AI sovereignty to reliable clean electricity."
+     },
+     {
+      "k": "Talent retention",
+      "x": "Research depth depends on retaining AI scientists who currently migrate to better-funded labs abroad."
      }
     ]
    }
   ],
-  "conc": "AI sovereignty is an ecosystem, spanning silicon to safety — the true measure of technological self-reliance."
+  "conc": "Sovereign AI means the ability to choose and to refuse — control of compute, data and a domestic model option, not independence from the world."
  },
  "gs3-34": {
   "directive": "examine",
@@ -3051,12 +3328,29 @@
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "The three pillars",
     "p": [
      {
       "k": "Three pillars",
       "x": "Quantum computing (exponential problem-solving via qubits), quantum communication (unhackable **QKD**), and quantum sensing (ultra-precise navigation, imaging)."
      },
+     {
+      "k": "Quantum computing",
+      "x": "Qubits exploiting superposition and entanglement solve certain problems — factorisation, optimisation, molecular simulation — intractably faster than classical machines."
+     },
+     {
+      "k": "Quantum communication",
+      "x": "**QKD** detects interception physically rather than mathematically, offering security independent of computational assumptions."
+     },
+     {
+      "k": "Quantum sensing",
+      "x": "Atomic clocks, gravimeters and magnetometers give precision navigation and subsurface detection without satellite dependence."
+     }
+    ]
+   },
+   {
+    "h": "Mission and strategic significance",
+    "p": [
      {
       "k": "NQM objectives",
       "x": "50–1,000-qubit computers, satellite-based secure **QKD**, and four thematic hubs (T-Hubs) in computing, communication, sensing and materials."
@@ -3064,6 +3358,22 @@
      {
       "k": "Strategic edge",
       "x": "Applications in defence, drug discovery, finance, weather and secure communication."
+     },
+     {
+      "k": "Mission architecture",
+      "x": "The **National Quantum Mission** funds thematic hubs across computing, communication, sensing and materials with staged qubit targets."
+     },
+     {
+      "k": "The 'Q-day' threat",
+      "x": "Sufficiently powerful quantum computers would break current public-key cryptography — hence the urgency of post-quantum migration."
+     },
+     {
+      "k": "Strategic applications",
+      "x": "Secure military communication, cryptanalysis, precision navigation in **GPS**-denied environments and materials discovery."
+     },
+     {
+      "k": "Constraints",
+      "x": "Cryogenic infrastructure, error correction, fabrication capability and a very thin talent pool."
      }
     ]
    }
@@ -3072,7 +3382,7 @@
    "Cryptographic threat: Quantum computers can break **RSA**/**ECC** encryption ('Q-Day'); India must migrate to post-quantum cryptography and build quantum-secure networks now.",
    "Talent & fabrication: Invest in quantum hardware, cryogenics and a skilled workforce to avoid import dependence."
   ],
-  "conc": "Quantum supremacy is the next strategic frontier — leadership here is inseparable from national and cyber security."
+  "conc": "Quantum technology is a strategic capability with a deadline — India must build both the machines and the post-quantum defences before others finish theirs."
  },
  "gs3-43": {
   "src": "docx",
@@ -3084,12 +3394,21 @@
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "The gap",
     "p": [
      {
       "k": "The gap",
       "x": "Under-investment, and a skew where the state funds ~60% while private R&D is thin — the reverse of innovation leaders."
      },
+     {
+      "k": "Spending shortfall",
+      "x": "India's **GERD** remains below **1%** of **GDP**, far under comparable economies, and has been broadly flat for years."
+     }
+    ]
+   },
+   {
+    "h": "The corrective architecture",
+    "p": [
      {
       "k": "ANRF fix",
       "x": "A **₹50,000 cr** foundation to seed university research and, crucially, crowd in private/philanthropic funding (~70% non-government target)."
@@ -3097,6 +3416,10 @@
      {
       "k": "Deep-tech push",
       "x": "**The Deep-Tech Startup Policy**, **RDI** scheme (**₹1 lakh** cr corpus) and iDEX support long-gestation innovation in AI, space, biotech and semiconductors."
+     },
+     {
+      "k": "Anusandhan National Research Foundation",
+      "x": "**ANRF** is designed to fund university research and, critically, to crowd in private and philanthropic money."
      }
     ]
    }
@@ -3104,7 +3427,7 @@
   "wf": [
    "Ecosystem reform: Ease of doing research, industry–academia linkage, **IP** commercialisation, and raising private R&D through incentives."
   ],
-  "conc": "A knowledge economy needs research intensity, not just patent counts — **ANRF** is the lever to lift India's innovation frontier."
+  "conc": "India publishes like a research power and spends like a developing one — closing that gap requires private participation, not merely a larger public budget."
  },
  "gs3-35": {
   "directive": "discuss",
@@ -3192,20 +3515,69 @@
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Capability milestones",
     "p": [
      {
       "k": "SpaDeX milestone",
       "x": "India's successful in-space docking made it the fourth nation with the capability — vital for **BAS**, refuelling and debris removal."
      },
      {
+      "k": "SpaDeX docking",
+      "x": "Autonomous rendezvous and docking is the prerequisite for space stations, refuelling and sample-return missions."
+     },
+     {
+      "k": "Reform architecture",
+      "x": "**IN-SPACe** authorises and regulates private activity while **NSIL** commercialises **ISRO** technology."
+     },
+     {
+      "k": "Policy opening",
+      "x": "The Indian Space Policy 2023 and liberalised **FDI** allow private launch vehicles and satellite manufacture."
+     }
+    ]
+   },
+   {
+    "h": "The private space economy",
+    "p": [
+     {
       "k": "Private economy",
       "x": "~250+ space startups (Skyroot, Agnikul, Pixxel); target to raise India's global space-economy share from ~2% to ~8%."
+     },
+     {
+      "k": "Startup ecosystem",
+      "x": "Private launch, satellite and downstream-analytics firms have moved from prototypes to commercial contracts."
+     },
+     {
+      "k": "Downstream is the market",
+      "x": "Earth-observation analytics, connectivity and navigation services are where most global space revenue sits."
+     },
+     {
+      "k": "Constraints",
+      "x": "Access to test facilities, patient capital and export-control clearances remain the binding limits."
+     },
+     {
+      "k": "Strategic dimension",
+      "x": "A domestic industrial base gives assured launch access independent of foreign providers."
+     },
+     {
+      "k": "Regulatory clarity",
+      "x": "A predictable authorisation regime and liability framework is what lets private capital commit to long-gestation space projects."
+     },
+     {
+      "k": "Global market position",
+      "x": "Cost-competitive launch and manufacturing let India bid for international payload and constellation work."
+     },
+     {
+      "k": "Skills pipeline",
+      "x": "Aerospace engineering capacity must scale beyond ISRO to staff a private industry."
+     },
+     {
+      "k": "Debris responsibility",
+      "x": "A growing constellation footprint makes orbital-debris mitigation a licensing condition, not an afterthought."
      }
     ]
    }
   ],
-  "conc": "Public–private synergy is transforming **ISRO**'s monopoly into a vibrant NewSpace economy."
+  "conc": "India's space reform shifted ISRO from operator to enabler — the private sector's growth is now the measure of whether that shift worked."
  },
  "gs3-36": {
   "directive": "examine",
@@ -3302,7 +3674,7 @@
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "What Operation Sindoor demonstrated",
     "p": [
      {
       "k": "Combat-proven indigenisation",
@@ -3317,31 +3689,118 @@
       "x": "Defence production crossed **~₹1.5 lakh** cr and exports **~₹24,000 cr**; self-reliance ensures wartime supply security."
      }
     ]
+   },
+   {
+    "h": "Building the deterrent",
+    "p": [
+     {
+      "k": "Layered air defence",
+      "x": "Integrating indigenous and imported systems into a single air picture is what converts individual weapons into a shield.",
+      "ex": "**Akashteer** control network"
+     },
+     {
+      "k": "Drone and counter-drone",
+      "x": "Cheap offensive drones and layered counter-**UAS** proved decisive at the tactical level."
+     },
+     {
+      "k": "Deterrence economics",
+      "x": "Cost-per-intercept must stay below cost-per-attack, or a defender is exhausted by cheaper offence."
+     },
+     {
+      "k": "Industrial base",
+      "x": "Sustained deterrence requires magazine depth and surge production, not showcase platforms."
+     },
+     {
+      "k": "Remaining gaps",
+      "x": "Aero-engines, high-end sensors and certain semiconductors remain import-dependent chokepoints."
+     },
+     {
+      "k": "Network-centric warfare",
+      "x": "Sensor-to-shooter integration matters more than individual platform quality in contested airspace."
+     },
+     {
+      "k": "Electronic warfare",
+      "x": "Jamming, spoofing and spectrum dominance proved as decisive as kinetic capability."
+     },
+     {
+      "k": "Sustainment",
+      "x": "Ammunition stocks, spares and maintenance depth determine how long capability can actually be used."
+     }
+    ]
    }
   ],
   "wf": [
    "Sustain the edge: Deepen R&D, private participation (iDEX, DcPP), critical-technology (jet engines, semiconductors) gaps, and escalation-control doctrine."
   ],
-  "conc": "Technological self-reliance is the backbone of credible deterrence — Atmanirbharta in defence is strategic autonomy in practice."
+  "conc": "Combat validation is the strongest possible endorsement of indigenisation — the next test is whether production capacity can sustain what capability has proved."
  },
  "gs3-39-b0": {
   "src": "docx",
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "The record",
     "p": [
      {
       "k": "Record numbers",
       "x": "Defence production **~₹1.5 lakh** cr and exports **~₹24,000 cr** (to ~100 countries) — from a historic import-dependence."
      },
      {
+      "k": "Production and exports",
+      "x": "Domestic defence production and exports have both reached record levels, with exports reaching a wide set of countries."
+     },
+     {
+      "k": "Order composition",
+      "x": "A rising share of capital procurement is reserved for domestic industry under the positive indigenisation lists."
+     }
+    ]
+   },
+   {
+    "h": "The reform stack",
+    "p": [
+     {
       "k": "Reform stack",
       "x": "Positive indigenisation lists, ~68% capital budget for domestic procurement, iDEX startups, **DAP-2020**, and corporatised **OFB** (7 DPSUs)."
+     },
+     {
+      "k": "Private participation",
+      "x": "Corporatisation of ordnance factories and opening to private primes broke the public-sector monopoly."
+     },
+     {
+      "k": "R&D and startups",
+      "x": "**iDEX** and **TDF** fund startups to solve service-defined problems, shortening the innovation cycle."
+     },
+     {
+      "k": "Procurement reform",
+      "x": "**DAP 2020**, Buy Indian-IDDM preference and leasing options changed what the services may buy and how."
+     },
+     {
+      "k": "Persistent gaps",
+      "x": "Aero-engine technology, testing infrastructure, long trial cycles and delayed payments constrain the private base."
+     },
+     {
+      "k": "Export enablers",
+      "x": "Open general export licences, lines of credit and defence attaché support converted capability into orders."
+     },
+     {
+      "k": "Testing infrastructure",
+      "x": "Shared certification and trial facilities are the missing public good for private entrants."
+     },
+     {
+      "k": "Design ownership",
+      "x": "Licensed production without design authority leaves upgrade and export rights with the original supplier."
+     },
+     {
+      "k": "MSME base",
+      "x": "Tier-2 and tier-3 component suppliers determine whether primes can scale production."
+     },
+     {
+      "k": "Quality assurance",
+      "x": "Independent certification builds the export credibility on which repeat orders depend."
      }
     ]
    }
   ],
-  "conc": "From largest arms importer toward a net exporter — a strategic and economic transformation."
+  "conc": "Atmanirbharta has moved from slogan to order book — closing the technology gap in engines and sensors is the remaining frontier."
  },
  "gs3-40": {
   "src": "docx",
@@ -3353,15 +3812,36 @@
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "The connectivity leap",
     "p": [
      {
       "k": "Connectivity leap",
       "x": "Satcom can bridge the last-mile digital divide in remote, hilly, island and border regions where terrestrial networks fail."
      },
      {
+      "k": "Satellite broadband",
+      "x": "Low-earth-orbit constellations deliver low-latency connectivity to terrain where terrestrial fibre is uneconomic."
+     },
+     {
+      "k": "NavIC",
+      "x": "An indigenous navigation system removes dependence on foreign constellations for civilian and strategic positioning."
+     }
+    ]
+   },
+   {
+    "h": "Governance and security",
+    "p": [
+     {
       "k": "Governance & security",
       "x": "NavIC aids transport, disaster alerts and defence; **EO** data powers agriculture, urban planning and border monitoring."
+     },
+     {
+      "k": "Spectrum policy",
+      "x": "Administrative assignment of satellite spectrum, rather than auction, was chosen to reflect the shared nature of the resource."
+     },
+     {
+      "k": "Security requirements",
+      "x": "Gateway localisation, lawful interception and encryption norms are the conditions for operating over Indian territory."
      }
     ]
    }
@@ -3369,26 +3849,55 @@
   "wf": [
    "Regulatory challenges: Administrative vs auction-based spectrum allocation, security vetting of foreign constellations, data localisation, and orbital-debris/space-traffic management (**IN**-SPACe rules)."
   ],
-  "conc": "The satcom revolution can universalise connectivity — if regulation balances competition, security and sustainability of orbit."
+  "conc": "Space has become everyday infrastructure — the policy task is to keep it accessible, secure and orbitally sustainable at once."
  },
  "gs3-40-b0": {
   "src": "docx",
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "NISAR's capability",
     "p": [
      {
       "k": "NISAR capability",
       "x": "The **NASA-ISRO** **SAR** satellite (2025) images the entire globe every 12 days, detecting cm-scale land/ice deformation through cloud and darkness."
      },
      {
+      "k": "Dual-frequency radar",
+      "x": "A joint **NASA-ISRO** mission carrying L-band and S-band synthetic aperture radar, imaging through cloud and at night."
+     },
+     {
+      "k": "Change detection",
+      "x": "Repeat-pass interferometry detects ground movement at centimetre scale — the basis for deformation monitoring."
+     }
+    ]
+   },
+   {
+    "h": "Applications",
+    "p": [
+     {
       "k": "Applications",
       "x": "Early warning for landslides/subsidence (Joshimath-type), flood and crop mapping, glacier and coastline monitoring — a force-multiplier for **DRR**."
+     },
+     {
+      "k": "Disaster management",
+      "x": "Detects land subsidence, landslide creep and glacier movement before failure, and maps flood extent through cloud cover."
+     },
+     {
+      "k": "Agriculture",
+      "x": "Soil moisture and biomass estimation support yield forecasting and insurance settlement."
+     },
+     {
+      "k": "Climate monitoring",
+      "x": "Ice-sheet dynamics, permafrost and forest carbon measurement feed national inventories."
+     },
+     {
+      "k": "Open data",
+      "x": "Free, open access multiplies the value by letting states, researchers and startups build applications."
      }
     ]
    }
   ],
-  "conc": "Eyes in the sky turn disaster response from reactive to anticipatory."
+  "conc": "Earth observation converts satellites into a public utility — NISAR's value lies less in the imagery than in the decisions it makes possible earlier."
  },
  "gs3-38": {
   "src": "docx",
@@ -3400,7 +3909,7 @@
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Where biotechnology delivers",
     "p": [
      {
       "k": "Health security",
@@ -3415,31 +3924,113 @@
       "x": "Bio-manufacturing of bioplastics, biofuels (ethanol blending) and enzymes advances the circular, low-carbon economy."
      }
     ]
+   },
+   {
+    "h": "The mission architecture and constraints",
+    "p": [
+     {
+      "k": "BioE3 policy",
+      "x": "Biotechnology for **Economy, Environment and Employment** targets bio-manufacturing hubs and a shift from petro-based to bio-based production."
+     },
+     {
+      "k": "Biopharma SHAKTI",
+      "x": "Supports indigenous discovery and development, moving India from generic manufacturing toward original biologics."
+     },
+     {
+      "k": "Bio-manufacturing",
+      "x": "Precision fermentation and enzyme-based processes can substitute imported chemicals and reduce industrial emissions."
+     },
+     {
+      "k": "Regulatory clarity",
+      "x": "Predictable, science-based approval for **GM** and gene-edited products is the binding constraint on translation."
+     },
+     {
+      "k": "Biosafety and access",
+      "x": "Dual-use risk, biosafety capacity and affordability of advanced therapies require regulation to keep pace with capability."
+     },
+     {
+      "k": "Bio-economy scale",
+      "x": "India's bio-economy has grown rapidly and is targeted to expand several-fold this decade."
+     },
+     {
+      "k": "Vaccine and diagnostics base",
+      "x": "Established manufacturing capacity gives India global standing in health security."
+     },
+     {
+      "k": "Skilled workforce",
+      "x": "Bio-manufacturing needs process engineers and technicians, a distinct pipeline from research biologists."
+     }
+    ]
    }
   ],
   "wf": [
    "Enablers: Bio-foundries and bio-AI hubs, regulatory streamlining (**GEAC**/biosafety), skilled talent, and **IP**/ethics frameworks."
   ],
-  "conc": "Biotechnology unites health, food and climate goals — India's route to a sustainable, high-value bioeconomy."
+  "conc": "Biotechnology is where India's scientific base most directly meets its health, food and climate needs — the gap is regulatory and translational rather than scientific."
  },
  "gs3-38-b0": {
   "src": "docx",
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "The breakthrough",
     "p": [
      {
       "k": "Breakthrough",
       "x": "India's indigenous **CAR-T** cell therapy (NexCAR19) makes cutting-edge cancer immunotherapy available at a fraction of Western cost."
      },
      {
+      "k": "India's first CAR-T",
+      "x": "**NexCAR19**, developed by **IIT Bombay** and **Tata Memorial**, made India one of few countries with indigenous CAR-T capability."
+     },
+     {
+      "k": "How it works",
+      "x": "A patient's own T-cells are engineered to recognise a tumour antigen — a living therapy rather than a molecule."
+     },
+     {
+      "k": "Gene-therapy pipeline",
+      "x": "Trials in haemophilia and sickle-cell disease target conditions with high domestic burden."
+     }
+    ]
+   },
+   {
+    "h": "The affordability challenge",
+    "p": [
+     {
       "k": "Affordability",
       "x": "Even at **~₹30 lakh** (vs ~$400,000 abroad), it remains out of reach for most — needs scale, insurance coverage and public funding."
+     },
+     {
+      "k": "Cost differential",
+      "x": "Indigenous development brought a therapy costing crores abroad to a fraction of that price — the strongest argument for domestic capability."
+     },
+     {
+      "k": "Still unaffordable",
+      "x": "Even reduced, the cost far exceeds household capacity and current insurance cover."
+     },
+     {
+      "k": "Delivery constraint",
+      "x": "Cell therapy needs specialised centres, cold chain and trained teams concentrated in a few cities."
+     },
+     {
+      "k": "Policy need",
+      "x": "Public insurance inclusion, managed-entry agreements and manufacturing scale are what convert capability into access."
+     },
+     {
+      "k": "Regulatory pathway",
+      "x": "**CDSCO** approval frameworks for cell and gene therapy are new; predictable review is essential to sustain the pipeline."
+     },
+     {
+      "k": "Manufacturing scale",
+      "x": "Domestic vector and cell-processing capacity determines whether cost falls further with volume."
+     },
+     {
+      "k": "Equity dimension",
+      "x": "Advanced therapy risks widening the gap between metropolitan tertiary care and district health systems."
      }
     ]
    }
   ],
-  "conc": "Frugal biotech innovation can democratise advanced medicine — if paired with access financing."
+  "conc": "Indigenous cell and gene therapy proves India can innovate at the frontier — the unfinished task is making the frontier reachable for those who need it."
  },
  "gs3-41": {
   "src": "docx",
@@ -3451,12 +4042,29 @@
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "The vulnerability",
     "p": [
      {
       "k": "Vulnerability",
       "x": "India imports ~100% of several critical minerals; supply is concentrated (China dominates processing), exposing EVs, electronics, defence and renewables to coercion."
      },
+     {
+      "k": "Import dependence",
+      "x": "India is almost wholly import-dependent for lithium, cobalt, nickel and rare earths that underpin **EV**, electronics and defence manufacturing."
+     },
+     {
+      "k": "Processing chokepoint",
+      "x": "Refining, not mining, is the concentrated stage — a single country dominates midstream processing regardless of ore origin."
+     },
+     {
+      "k": "Weaponisation risk",
+      "x": "Export controls on processed minerals and magnets can halt downstream industry at short notice."
+     }
+    ]
+   },
+   {
+    "h": "India's response",
+    "p": [
      {
       "k": "NCMM response",
       "x": "The **₹34,300 cr** **National Critical Mineral Mission** (2025) covers exploration, domestic mining (**MMDR** auctions), recycling, and a stockpile."
@@ -3464,6 +4072,27 @@
      {
       "k": "Overseas & partnerships",
       "x": "**KABIL**'s acquisitions (Argentina lithium), the Minerals Security Partnership and Quad supply-chain initiatives diversify sourcing."
+     },
+     {
+      "k": "National Critical Mineral Mission",
+      "x": "Funds exploration, processing capacity and recycling across the value chain, with minerals reserved for central auction under the **MMDR Amendment, 2023**."
+     },
+     {
+      "k": "Overseas assets",
+      "x": "**KABIL** and bilateral arrangements secure equity stakes and long-term offtake abroad.",
+      "ex": "Argentina, Australia, Africa"
+     },
+     {
+      "k": "Plurilateral alignment",
+      "x": "Participation in the **Mineral Security Partnership** pools diplomatic and financial weight."
+     },
+     {
+      "k": "Circularity",
+      "x": "Urban mining and battery recycling under the **Battery Waste Management Rules, 2022** are the only domestic 'deposit' India controls."
+     },
+     {
+      "k": "Social licence",
+      "x": "Mining in **Fifth Schedule** areas requires **PESA** and **FRA** consent, or supply projects become conflicts."
      }
     ]
    }
@@ -3471,7 +4100,7 @@
   "wf": [
    "Urban mining & R&D: E-waste recycling, substitute materials, and processing capacity to move up the value chain, not just mine ore."
   ],
-  "conc": "Critical-mineral security is foundational to Atmanirbharta in clean energy and strategic technology — a supply-chain imperative."
+  "conc": "Mineral security is the hidden foundation of energy security — India must build midstream processing and circularity, or trade dependence on oil for dependence on ore."
  },
  "gs3-42": {
   "src": "docx",
@@ -3483,7 +4112,7 @@
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "The key distinction",
     "p": [
      {
       "k": "Key distinction",
@@ -3491,8 +4120,25 @@
       "ex": ", Bt cotton) — hence exempted from stringent GM biosafety rules (2022)."
      },
      {
+      "k": "Gene editing versus GM",
+      "x": "**SDN-1** and **SDN-2** edits alter the plant's own genome without inserting foreign **DNA**, unlike transgenic modification."
+     }
+    ]
+   },
+   {
+    "h": "Potential and safeguards",
+    "p": [
+     {
       "k": "Potential",
       "x": "Higher yield, water-saving, drought/salinity tolerance and shorter duration — advancing climate resilience and food security."
+     },
+     {
+      "k": "Trait gains",
+      "x": "Released rice lines target higher yield, shorter duration and drought tolerance — traits with direct water and climate benefit."
+     },
+     {
+      "k": "Speed of breeding",
+      "x": "Editing compresses a decade of conventional breeding into a few seasons."
      }
     ]
    }
@@ -3500,7 +4146,7 @@
   "wf": [
    "Regulatory concerns: Ensuring off-target-effect safety, transparent labelling, biosafety oversight, farmers' seed rights, and public trust to avoid the **GM**-crop backlash."
   ],
-  "conc": "Genome editing offers **GM**'s promise without its transgenic risks — a calibrated, science-based framework can make it a food-security tool."
+  "conc": "Gene editing offers the gains of biotechnology with a lighter regulatory footprint — sustaining public trust requires transparency about what was edited and why."
  },
  "gs3-44": {
   "src": "docx",
@@ -3512,7 +4158,7 @@
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Drivers across sectors",
     "p": [
      {
       "k": "Human-health drivers",
@@ -3521,6 +4167,27 @@
      {
       "k": "Animal & environment",
       "x": "Antibiotics as growth-promoters in poultry/livestock/aquaculture, and pharmaceutical effluent contaminating water."
+     },
+     {
+      "k": "Human health",
+      "x": "Over-the-counter sale without prescription, incomplete courses and empirical prescribing accelerate resistance."
+     }
+    ]
+   },
+   {
+    "h": "The One Health response",
+    "p": [
+     {
+      "k": "Animal and agriculture",
+      "x": "Antibiotics used as growth promoters in poultry and aquaculture enter the food chain and the environment."
+     },
+     {
+      "k": "Environmental route",
+      "x": "Pharmaceutical effluent and untreated sewage create selection pressure in rivers and soil."
+     },
+     {
+      "k": "One Health framing",
+      "x": "Human, animal and environmental health are a single system — action in one sector alone cannot succeed."
      }
     ]
    }
@@ -3528,45 +4195,107 @@
   "wf": [
    "One Health approach: Integrated human–animal–environment surveillance, the **National Act**ion Plan on **AMR**, the Red Line campaign, antibiotic stewardship, new-drug R&D, and effluent norms."
   ],
-  "conc": "Containing **AMR** needs a whole-of-society One Health response — safeguarding the miracle of antibiotics for future generations."
+  "conc": "AMR is a governance failure before it is a biological one — it will be contained by regulating use across all three sectors, not by discovering new drugs alone."
  },
  "gs3-44-b0": {
   "src": "docx",
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "The storage imperative",
     "p": [
      {
       "k": "Storage imperative",
       "x": "As renewables hit 50% of capacity, battery/pumped storage is the 'real frontier' for round-the-clock clean power and grid stability."
      },
      {
+      "k": "Why storage decides the transition",
+      "x": "Solar peaks midday and demand peaks in the evening; without storage, renewable capacity cannot displace thermal baseload."
+     },
+     {
+      "k": "Technology mix",
+      "x": "Battery storage for short duration, pumped hydro for bulk shifting, and emerging long-duration chemistries for seasonal balancing."
+     },
+     {
+      "k": "Policy instruments",
+      "x": "Viability-gap funding for battery storage and storage-linked round-the-clock tenders create the market."
+     }
+    ]
+   },
+   {
+    "h": "Building the value chain",
+    "p": [
+     {
       "k": "Value chain",
       "x": "**PLI-ACC** (**₹18,100 cr**), **VGF** for **BESS**, critical-mineral security and battery recycling to build an indigenous, circular ecosystem."
+     },
+     {
+      "k": "Cell manufacturing",
+      "x": "The **PLI** for advanced chemistry cells targets domestic gigafactory capacity rather than imported cell assembly."
+     },
+     {
+      "k": "Upstream dependence",
+      "x": "Lithium, cobalt and graphite must be secured abroad or substituted through alternative chemistries."
+     },
+     {
+      "k": "Recycling as supply",
+      "x": "Battery recycling under the **Battery Waste Management Rules, 2022** creates a domestic secondary source and reduces import need."
      }
     ]
    }
   ],
-  "conc": "Storage is the linchpin that converts renewable capacity into reliable energy."
+  "conc": "Storage is the pivot on which India's renewable target turns — and the value chain beneath it is a mineral question as much as a manufacturing one."
  },
  "gs3-44-b1": {
   "src": "docx",
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Deep Ocean Mission and Samudrayaan",
     "p": [
      {
       "k": "Samudrayaan",
       "x": "The **₹4,077 cr** **Deep Ocean Mission**'s Matsya-6000 submersible aims to send humans to 6,000 m — for polymetallic-nodule and rare-earth exploration."
      },
      {
+      "k": "Crewed submersible",
+      "x": "**Matsya-6000** aims to carry a crew to 6,000 m, placing India among a handful of nations with deep-submergence capability."
+     },
+     {
+      "k": "Mission pillars",
+      "x": "Deep-sea mining technology, ocean climate advisory, biodiversity exploration, offshore energy and desalination."
+     },
+     {
+      "k": "Resource target",
+      "x": "Polymetallic nodules in the **Central Indian Ocean Basin**, where India holds an **ISA** exploration allocation."
+     }
+    ]
+   },
+   {
+    "h": "Blue economy and strategic dimensions",
+    "p": [
+     {
       "k": "Blue economy",
       "x": "Deep-sea minerals, biodiversity, ocean-energy and desalination, plus strategic presence in the Indian Ocean."
+     },
+     {
+      "k": "Blue economy value",
+      "x": "Fisheries, marine biotechnology, offshore energy and shipping form a growing share of coastal livelihoods and output."
+     },
+     {
+      "k": "Strategic presence",
+      "x": "Sustained deep-sea operations extend India's scientific and operational reach across the Indian Ocean."
+     },
+     {
+      "k": "Technology spillover",
+      "x": "Pressure-hull materials, life support and deep-sea robotics have wide industrial application."
+     },
+     {
+      "k": "Environmental caution",
+      "x": "Benthic ecosystems recover over geological timescales, so exploration must precede any exploitation decision."
      }
     ]
    }
   ],
-  "conc": "The deep ocean is the next resource and strategic frontier of the blue economy."
+  "conc": "The deep ocean is India's least-explored frontier — capability must be built with the scientific humility that its ecology demands."
  },
  "gs3-45": {
   "directive": "critically examine",
@@ -3724,20 +4453,70 @@
   "src": "docx",
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Grid and storage",
     "p": [
      {
       "k": "Grid & storage",
       "x": "Smart grids, inter-regional transmission and grid-scale storage to absorb variable renewables without instability."
      },
      {
+      "k": "Integration is the frontier",
+      "x": "Adding capacity is now easy; absorbing variable generation without curtailment is the hard part."
+     },
+     {
+      "k": "Transmission",
+      "x": "Inter-regional corridors are needed to move western solar and wind to eastern and southern demand.",
+      "ex": "**Green Energy Corridor**"
+     },
+     {
+      "k": "Flexibility and forecasting",
+      "x": "Balancing reserves, demand response and accurate renewable forecasting keep the grid stable at high penetration."
+     }
+    ]
+   },
+   {
+    "h": "Green hydrogen",
+    "p": [
+     {
       "k": "Green hydrogen",
       "x": "**The National Green Hydrogen Mission** (**₹19,744 cr**) decarbonises steel, fertiliser and refining, and stores surplus renewable energy."
+     },
+     {
+      "k": "Why hydrogen",
+      "x": "It decarbonises what electrons cannot reach — fertiliser, refining, steel and long-haul transport."
+     },
+     {
+      "k": "National Green Hydrogen Mission",
+      "x": "Targets large annual production capacity with incentives for electrolyser manufacturing and production."
+     },
+     {
+      "k": "Cost barrier",
+      "x": "Green hydrogen remains costlier than grey; cheap renewable power and electrolyser scale are what close the gap."
+     },
+     {
+      "k": "Export opportunity",
+      "x": "Ammonia and hydrogen exports to decarbonising economies could make India an energy exporter for the first time."
+     },
+     {
+      "k": "DISCOM solvency",
+      "x": "Distribution utilities must be bankable offtakers, or storage and hydrogen projects cannot raise capital."
+     },
+     {
+      "k": "Market design",
+      "x": "Time-of-day tariffs, ancillary-services markets and capacity contracts price flexibility so it gets built."
+     },
+     {
+      "k": "Sector coupling",
+      "x": "Linking power, transport and industry demand lets surplus renewable generation find a use rather than be curtailed."
+     },
+     {
+      "k": "Land and siting",
+      "x": "Transmission corridors and storage sites need land and clearances on the same timeline as generation."
      }
     ]
    }
   ],
-  "conc": "Integration infrastructure, not generation capacity, now defines transition success."
+  "conc": "The renewable frontier has shifted from generation to integration — grids, storage and hydrogen decide whether installed capacity becomes delivered decarbonisation."
  },
  "gs3-47": {
   "directive": "explain",

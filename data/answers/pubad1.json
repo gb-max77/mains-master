@@ -6198,5 +6198,773 @@
    "Barnard and Simon bridge them",
    "contingency absorbs both"
   ]
+ },
+ "pubad1-20-b0": {
+  "directive": "comment",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "**Simon** replaced 'economic man' with **administrative man** — a chooser who **satisfices** within cognitive and organisational limits rather than optimising over all alternatives."
+   }
+  ],
+  "body": [
+   {
+    "h": "Why bounded rationality is the honest account",
+    "p": [
+     {
+      "k": "Cognitive limits",
+      "x": "No administrator can know every alternative, every consequence or every value weighting a decision implies."
+     },
+     {
+      "k": "Satisficing",
+      "x": "The search stops at the first alternative meeting an aspiration level, not at the optimum."
+     },
+     {
+      "k": "Premise control",
+      "x": "Organisations decide by supplying decision premises — the official chooses inside a frame the structure has already set."
+     },
+     {
+      "k": "Comparative honesty",
+      "x": "Comprehensive rationality describes no observed decision; bounded rationality describes almost all of them."
+     }
+    ]
+   },
+   {
+    "h": "Administrative implications",
+    "p": [
+     {
+      "k": "Design beats exhortation",
+      "x": "Improving decisions means improving premises — information systems, checklists and default rules."
+     },
+     {
+      "k": "Incrementalism follows",
+      "x": "**Lindblom**'s successive limited comparisons is bounded rationality applied to policy."
+     },
+     {
+      "k": "AI extends the bound",
+      "x": "Machines widen computational capacity but supply no values — Simon's fact-value distinction becomes operationally urgent."
+     },
+     {
+      "k": "Bounded, not irrational",
+      "x": "Simon's man is rational within limits — the constraint is capacity, not caprice."
+     }
+    ]
+   }
+  ],
+  "conc": "Simon's contribution was to make administrative theory descriptively honest — reform must therefore work on the limits of choice rather than assume they can be wished away.",
+  "flash": [
+   "administrative man vs economic man",
+   "satisficing at aspiration level",
+   "premise control",
+   "Lindblom incrementalism",
+   "AI extends compute, not values"
+  ]
+ },
+ "pubad1-20-b1": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "**Simon** distinguished **programmed** decisions — repetitive, rule-governed — from **non-programmed** ones that are novel and value-laden; technology has been steadily shifting the boundary between them."
+   }
+  ],
+  "body": [
+   {
+    "h": "The continuum",
+    "p": [
+     {
+      "k": "Programmed decisions",
+      "x": "Routine, high-volume, resolvable by standard operating procedure — eligibility checks, licence renewals, pension calculation."
+     },
+     {
+      "k": "Non-programmed decisions",
+      "x": "Novel, ill-structured, requiring judgement about competing values — crisis response, policy design, resource trade-offs."
+     },
+     {
+      "k": "Techniques for each",
+      "x": "Simon paired habit and SOP with the programmed end, and heuristic judgement and training with the other."
+     },
+     {
+      "k": "A continuum, not a dichotomy",
+      "x": "Most administrative work sits between, with structured components inside a judgemental frame."
+     }
+    ]
+   },
+   {
+    "h": "How technology moves the line",
+    "p": [
+     {
+      "k": "Automation of the routine",
+      "x": "Rule engines and workflow systems have absorbed the programmed end wholesale.",
+      "ex": "Faceless assessment; **DBT** eligibility"
+     },
+     {
+      "k": "Decision support upward",
+      "x": "Analytics and dashboards structure previously unstructured problems.",
+      "ex": "**PRAGATI**; Krishi-DSS"
+     },
+     {
+      "k": "Machine learning blurs it",
+      "x": "Systems now make probabilistic judgements in areas once reserved for discretion — welfare targeting, risk scoring, policing."
+     },
+     {
+      "k": "New non-programmed work",
+      "x": "Officials increasingly decide *about* systems — what to automate, on what data, with what appeal."
+     }
+    ]
+   },
+   {
+    "h": "What this demands of administration",
+    "p": [
+     {
+      "k": "Reasons must survive",
+      "x": "Automated adverse decisions still require notice, intelligible reasons and human review under natural justice."
+     },
+     {
+      "k": "Proxy risk",
+      "x": "Algorithms optimise a specified proxy; misstate the public purpose and efficiency accelerates the error."
+     },
+     {
+      "k": "Skill shift",
+      "x": "The premium moves from procedural accuracy to judgement, interpretation and system oversight.",
+      "ex": "**Mission Karmayogi** competencies"
+     },
+     {
+      "k": "Accountability anchor",
+      "x": "Someone must remain answerable for the value component of every choice, however computed."
+     },
+     {
+      "k": "Equity of automation",
+      "x": "Automating the programmed end frees scarce judgement for cases that need it — if the freed capacity is redeployed rather than cut."
+     },
+     {
+      "k": "Audit trail",
+      "x": "Machine decisions must log inputs and rules so that review is possible after the fact."
+     },
+     {
+      "k": "Simon's warning holds",
+      "x": "Organisations decide by controlling premises; training data and model design are now where premises are set."
+     },
+     {
+      "k": "Capacity to contest",
+      "x": "Citizens need a route to challenge an automated classification, or the continuum becomes a one-way ratchet."
+     }
+    ]
+   }
+  ],
+  "conc": "Technology has automated the programmed end and made the non-programmed end more consequential — the administrator's work is migrating from deciding cases to governing the systems that decide them.",
+  "flash": [
+   "programmed vs non-programmed",
+   "SOP/habit vs heuristic judgement",
+   "automation absorbs the routine",
+   "ML blurs the boundary",
+   "reasons and appeal must survive"
+  ]
+ },
+ "pubad1-21-b0": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "**Burns** separated **transactional** leadership — exchange of reward for compliance — from **transformational** leadership that elevates followers' purposes; public organisations are increasingly said to need the second."
+   }
+  ],
+  "body": [
+   {
+    "h": "The case for transformational leadership",
+    "p": [
+     {
+      "k": "Weak transactional levers",
+      "x": "Public leaders have limited control over pay, promotion and dismissal — influence must substitute for reward power."
+     },
+     {
+      "k": "Bass's four I's",
+      "x": "Idealised influence, inspirational motivation, intellectual stimulation and individualised consideration."
+     },
+     {
+      "k": "Mission ambiguity",
+      "x": "Where outputs are hard to measure, shared purpose does the coordinating work targets cannot."
+     },
+     {
+      "k": "Public-service motivation",
+      "x": "**Perry**'s PSM shows public employees respond to meaning and service ethic more than to incentive alone."
+     },
+     {
+      "k": "Reform requires it",
+      "x": "Changing entrenched administrative culture is precisely the transformational task."
+     }
+    ]
+   },
+   {
+    "h": "The limits in a public setting",
+    "p": [
+     {
+      "k": "Legality constrains vision",
+      "x": "Officials act under statute; a leader cannot redefine purposes Parliament has set."
+     },
+     {
+      "k": "Tenure churn",
+      "x": "Short, arbitrary postings prevent the sustained relationship transformation requires."
+     },
+     {
+      "k": "Democratic caution",
+      "x": "Charismatic administrative leadership can shade into unaccountable personalisation of office."
+     },
+     {
+      "k": "Transactional still necessary",
+      "x": "Reliable service delivery needs standards, monitoring and consequence — the two modes are complementary."
+     },
+     {
+      "k": "Distributed leadership",
+      "x": "Multi-agency delivery needs collaborative and distributed leadership more than a single heroic figure."
+     }
+    ]
+   },
+   {
+    "h": "The Indian setting",
+    "p": [
+     {
+      "k": "Situational demand",
+      "x": "District administration is directive in disaster and participative in development — style must follow the situation."
+     },
+     {
+      "k": "Trainable competency",
+      "x": "**Mission Karmayogi** treats leadership as a competency to be built rather than a trait to be found."
+     },
+     {
+      "k": "Institutional safeguard",
+      "x": "Fixed tenure and a **Civil Services Board** for postings, as the **2nd ARC** urged, are the precondition for any leadership style to take root."
+     },
+     {
+      "k": "Servant and ethical leadership",
+      "x": "**Greenleaf**'s servant leadership fits stewardship better than heroic models where the office outlasts the holder."
+     },
+     {
+      "k": "Succession and institution",
+      "x": "The test of public leadership is the institution left behind, not the tenure's visibility."
+     },
+     {
+      "k": "Development route",
+      "x": "Structured exposure, mentoring and 360-degree feedback, as the **2nd ARC** recommended, rather than seniority alone."
+     },
+     {
+      "k": "Crisis leadership",
+      "x": "Disaster and epidemic response test public leadership where authority is ambiguous and stakes are highest."
+     }
+    ]
+   }
+  ],
+  "conc": "Public leadership needs transformational purpose inside transactional reliability — and in India its binding constraint is tenure, not talent.",
+  "flash": [
+   "Burns transactional vs transformational",
+   "Bass's four I's",
+   "Perry public-service motivation",
+   "legality + tenure constrain",
+   "distributed leadership for networks"
+  ]
+ },
+ "pubad1-22-b0": {
+  "directive": "comment",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "**Herzberg**'s two-factor theory holds that **hygiene** factors remove dissatisfaction while only **motivators** produce satisfaction — the two run on separate scales, not opposite ends of one."
+   }
+  ],
+  "body": [
+   {
+    "h": "The two factors",
+    "p": [
+     {
+      "k": "Hygiene factors",
+      "x": "Pay, working conditions, supervision, job security and policy — extrinsic and contextual; absent they demotivate, present they merely neutralise."
+     },
+     {
+      "k": "Motivators",
+      "x": "Achievement, recognition, the work itself, responsibility and advancement — intrinsic to the task."
+     },
+     {
+      "k": "The asymmetry",
+      "x": "Improving hygiene moves an employee from dissatisfied to not-dissatisfied, which is not the same as motivated."
+     },
+     {
+      "k": "Job enrichment",
+      "x": "Herzberg's prescription is vertical loading — adding responsibility and control, not merely more tasks."
+     }
+    ]
+   },
+   {
+    "h": "Public-service application and critique",
+    "p": [
+     {
+      "k": "Pay commissions",
+      "x": "Revised pay corrects grievance but does not by itself raise performance — a hygiene intervention answering a motivator problem."
+     },
+     {
+      "k": "What motivates in government",
+      "x": "Meaningful postings, autonomy, recognition and visible impact — consistent with **Perry**'s public-service motivation."
+     },
+     {
+      "k": "Methodological criticism",
+      "x": "The critical-incident method invites attribution bias — people credit success to themselves and failure to context."
+     },
+     {
+      "k": "Cross-check",
+      "x": "**Maslow** and **Alderfer** locate the same insight differently — higher-order needs, once salient, are what actually drive effort."
+     }
+    ]
+   }
+  ],
+  "conc": "Fixing hygiene is necessary and never sufficient — an administration that only improves pay and conditions will remove complaint without creating commitment.",
+  "flash": [
+   "hygiene vs motivators, separate scales",
+   "not-dissatisfied ≠ motivated",
+   "job enrichment = vertical loading",
+   "pay commissions are hygiene",
+   "critical-incident bias critique"
+  ]
+ },
+ "pubad1-25-b0": {
+  "directive": "comment",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Communication is the organisation's **nervous system** — **Barnard** made it the first executive function, since no structure can coordinate what it cannot transmit."
+   }
+  ],
+  "body": [
+   {
+    "h": "Formal communication",
+    "p": [
+     {
+      "k": "Directions of flow",
+      "x": "Downward for instruction, upward for feedback, horizontal for coordination — each with distinct pathologies."
+     },
+     {
+      "k": "Barnard's centrality",
+      "x": "He listed maintaining communication as the executive's first function, before securing effort or formulating purpose."
+     },
+     {
+      "k": "Barriers",
+      "x": "Hierarchy filters upward flow, jargon obscures, overload buries signal, and secrecy norms restrict lateral sharing."
+     }
+    ]
+   },
+   {
+    "h": "The grapevine",
+    "p": [
+     {
+      "k": "Why it exists",
+      "x": "It fills gaps the formal system leaves — it is fast, and it carries what people actually want to know."
+     },
+     {
+      "k": "Its uses",
+      "x": "Managers can read it as a barometer of morale and use it to test reactions before formal announcement."
+     },
+     {
+      "k": "Its dangers",
+      "x": "Distortion, rumour and anxiety spread as quickly as information; in the digital workplace it leaves a permanent, forwardable record."
+     },
+     {
+      "k": "Administrative response",
+      "x": "Suppression fails; the answer is to make the formal channel faster and more credible than the informal one."
+     }
+    ]
+   }
+  ],
+  "conc": "The grapevine is a symptom rather than a disease — it grows in exactly the space that formal communication has failed to occupy.",
+  "flash": [
+   "Barnard: first executive function",
+   "downward/upward/horizontal flows",
+   "hierarchy filters upward feedback",
+   "grapevine as morale barometer",
+   "fix the formal channel, not the informal"
+  ]
+ },
+ "pubad1-26": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**Motivation** is an individual drive toward a goal; **morale** is a group's collective attitude toward the organisation — related, but neither guarantees the other."
+   }
+  ],
+  "body": [
+   {
+    "h": "The distinction",
+    "p": [
+     {
+      "k": "Unit of analysis",
+      "x": "Motivation is individual and task-directed; morale is collective and organisation-directed."
+     },
+     {
+      "k": "Time horizon",
+      "x": "Motivation fluctuates with task and incentive; morale is a more stable climate built over time."
+     },
+     {
+      "k": "Sources",
+      "x": "Motivation responds to achievement and reward; morale responds to fairness, security, leadership and group cohesion."
+     },
+     {
+      "k": "Measurement",
+      "x": "Motivation shows in effort on a task; morale shows in absenteeism, turnover, grievances and cooperation."
+     }
+    ]
+   },
+   {
+    "h": "Why high morale need not raise productivity",
+    "p": [
+     {
+      "k": "The Hawthorne caution",
+      "x": "Contented groups may set and enforce restrictive output norms — cohesion can protect low effort as easily as high."
+     },
+     {
+      "k": "Direction matters",
+      "x": "Morale indicates satisfaction with the organisation, not alignment with its goals; a comfortable unit may resist change."
+     },
+     {
+      "k": "Missing capability",
+      "x": "Willingness without competence, tools or clear objectives produces cheerful ineffectiveness."
+     },
+     {
+      "k": "Evidence",
+      "x": "Research finds the satisfaction-performance link weak and often reversed — performance may cause satisfaction rather than follow it."
+     },
+     {
+      "k": "Administrative implication",
+      "x": "Morale surveys must be paired with outcome measurement, or a well-liked office is mistaken for an effective one."
+     },
+     {
+      "k": "Determinants of morale",
+      "x": "Fair treatment, job security, competent supervision, group cohesion and confidence in leadership."
+     },
+     {
+      "k": "Administrative use",
+      "x": "Morale is a leading indicator — it falls before performance does, which makes it worth measuring."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Build morale through fairness and security, but drive performance through clear goals, capability and consequence"
+  ],
+  "conc": "Morale is the soil and motivation the seed — a contented organisation is a precondition for performance, never a substitute for managing it.",
+  "flash": [
+   "individual vs group; task vs organisation",
+   "Hawthorne restrictive output norms",
+   "satisfaction-performance link is weak",
+   "performance may cause satisfaction",
+   "pair morale surveys with outcomes"
+  ]
+ },
+ "pubad1-27": {
+  "directive": "explain",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "**Argyris** distinguished **single-loop** learning, which corrects error within existing assumptions, from **double-loop** learning, which questions the governing assumptions themselves."
+   }
+  ],
+  "body": [
+   {
+    "h": "The two loops",
+    "p": [
+     {
+      "k": "Single-loop",
+      "x": "Detect deviation and adjust action — the thermostat model. Efficient, but it never asks whether the target is right."
+     },
+     {
+      "k": "Double-loop",
+      "x": "Detect deviation and interrogate the governing variables — the goal, the policy, the assumption behind both."
+     },
+     {
+      "k": "Model I behaviour",
+      "x": "Defensive routines — win, do not lose, suppress negative feeling — which protect the assumption from examination."
+     },
+     {
+      "k": "Model II behaviour",
+      "x": "Valid information, free informed choice and internal commitment, which make double-loop learning possible."
+     }
+    ]
+   },
+   {
+    "h": "Why bureaucracies are single-loop",
+    "p": [
+     {
+      "k": "Rule orientation",
+      "x": "Procedure defines success, so deviation is corrected rather than the procedure questioned."
+     },
+     {
+      "k": "Blame culture",
+      "x": "Where error attracts sanction, information about failure is concealed — the precondition of learning is removed."
+     },
+     {
+      "k": "Skilled incompetence",
+      "x": "Officials become expert at avoiding the conversation that would surface the real problem."
+     },
+     {
+      "k": "Indian evidence",
+      "x": "Scheme evaluation that reports expenditure and coverage but never revisits programme design is single-loop by construction."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Build double-loop capacity through independent evaluation, protected dissent, post-project review and blame-free error reporting"
+  ],
+  "conc": "An administration that only corrects error will perfect the wrong policy — learning requires the safety to question the assumption, not merely the diligence to fix the deviation.",
+  "flash": [
+   "single-loop = correct within assumptions",
+   "double-loop = question the assumptions",
+   "Model I defensive routines",
+   "skilled incompetence",
+   "evaluation must revisit design"
+  ]
+ },
+ "pubad1-30": {
+  "directive": "comment",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**Ad hoc and advisory bodies** — commissions, committees, task forces and boards — import expertise and legitimacy the permanent structure lacks, at the price of a clear line of responsibility."
+   }
+  ],
+  "body": [
+   {
+    "h": "What they contribute",
+    "p": [
+     {
+      "k": "Expertise",
+      "x": "They bring specialist and academic knowledge a generalist secretariat cannot hold in-house.",
+      "ex": "Finance and Law Commissions; expert committees"
+     },
+     {
+      "k": "Consensus building",
+      "x": "Representation of affected interests makes contested decisions politically absorbable."
+     },
+     {
+      "k": "Detachment",
+      "x": "Distance from routine allows examination of problems the line hierarchy is too invested to reopen."
+     },
+     {
+      "k": "Flexibility",
+      "x": "A task force can be assembled and dissolved without permanent establishment cost."
+     }
+    ]
+   },
+   {
+    "h": "How they diffuse responsibility",
+    "p": [
+     {
+      "k": "Advice without accountability",
+      "x": "Members bear no answerability for outcomes; the department retains responsibility for advice it did not frame."
+     },
+     {
+      "k": "Delay as strategy",
+      "x": "Referring a difficult question to a committee can substitute for deciding it."
+     },
+     {
+      "k": "Implementation gap",
+      "x": "Recommendations lapse where no one owns them — India's long record of unimplemented reform reports."
+     },
+     {
+      "k": "Staff-line tension",
+      "x": "Advisory bodies can encroach on line authority, blurring who directs.",
+      "ex": "Gulick's staff-line distinction"
+     }
+    ]
+   }
+  ],
+  "conc": "Advisory bodies enlarge the state's knowledge and dilute its answerability — their value depends on a named authority obliged to accept, reject or act with reasons.",
+  "flash": [
+   "expertise, consensus, detachment, flexibility",
+   "advice without accountability",
+   "committee as substitute for decision",
+   "implementation gap",
+   "staff-line encroachment"
+  ]
+ },
+ "pubad1-40": {
+  "directive": "comment",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**Discretion** is unavoidable — no statute can anticipate every case — so administrative law's task is not to abolish it but to structure, confine and check it."
+   }
+  ],
+  "body": [
+   {
+    "h": "Why discretion is necessary",
+    "p": [
+     {
+      "k": "Legislative limits",
+      "x": "Parliament cannot foresee every circumstance; delegation of judgement is the price of general rules."
+     },
+     {
+      "k": "Individualised justice",
+      "x": "Rigid uniform application produces injustice in the exceptional case."
+     },
+     {
+      "k": "Technical and emergency need",
+      "x": "Specialist and urgent decisions cannot await legislative amendment."
+     },
+     {
+      "k": "Street-level reality",
+      "x": "Frontline officials exercise discretion in practice regardless of what the rulebook says.",
+      "ex": "**Lipsky**"
+     }
+    ]
+   },
+   {
+    "h": "How abuse is controlled",
+    "p": [
+     {
+      "k": "Structuring",
+      "x": "**Davis**'s prescription — open plans, rules, findings and precedents narrow the space in which arbitrariness can operate."
+     },
+     {
+      "k": "Reasoned orders",
+      "x": "A speaking order demonstrates application of mind and enables appeal."
+     },
+     {
+      "k": "Judicial review",
+      "x": "Courts strike down decisions that are illegal, irrational or procedurally improper.",
+      "ex": "Wednesbury unreasonableness; **Article 14** non-arbitrariness"
+     },
+     {
+      "k": "Transparency and audit",
+      "x": "**RTI**, audit and social audit expose patterns of misuse a single appeal cannot."
+     },
+     {
+      "k": "Ombudsman route",
+      "x": "**Lokpal** and **Lokayukta** address maladministration that is lawful in form but arbitrary in substance."
+     }
+    ]
+   }
+  ],
+  "conc": "Discretion is the space where administration meets the individual case — the object of law is to keep that space reasoned and reviewable rather than to close it.",
+  "flash": [
+   "discretion unavoidable, abuse avoidable",
+   "Davis: structure, confine, check",
+   "speaking orders",
+   "Wednesbury + Art 14",
+   "RTI and audit expose patterns"
+  ]
+ },
+ "pubad1-43": {
+  "directive": "comment",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "**Dicey** held that **administrative law** and separate administrative courts were incompatible with the rule of law — a position the regulatory and welfare state has made untenable."
+   }
+  ],
+  "body": [
+   {
+    "h": "Dicey's objection",
+    "p": [
+     {
+      "k": "Equality before ordinary law",
+      "x": "He insisted all persons, officials included, be subject to the ordinary courts and ordinary law."
+     },
+     {
+      "k": "Rule of law trinity",
+      "x": "Supremacy of regular law, equality before it, and rights derived from judicial decisions rather than a constitutional grant."
+     }
+    ]
+   },
+   {
+    "h": "Why it cannot be sustained",
+    "p": [
+     {
+      "k": "Misreading droit administratif",
+      "x": "The **Conseil d'État** in fact developed a demanding jurisprudence controlling administrative power, not shielding it."
+     },
+     {
+      "k": "The administrative state exists",
+      "x": "Welfare, licensing and regulation require officials to make decisions affecting rights daily; a body of law governing that power is unavoidable."
+     },
+     {
+      "k": "Specialist adjudication",
+      "x": "Technical disputes need expert tribunals; ordinary courts lack both capacity and expertise.",
+      "ex": "**Article 323A/323B** tribunals"
+     },
+     {
+      "k": "Dicey's own retreat",
+      "x": "He later conceded the growth of administrative discretion and the need for its regulation."
+     },
+     {
+      "k": "What survives",
+      "x": "His enduring contribution is the insistence that administrative power be legally accountable — the premise of judicial review itself."
+     }
+    ]
+   }
+  ],
+  "conc": "Dicey lost the argument about form and won the argument about principle — administrative law exists precisely to deliver the accountability of official power that he demanded.",
+  "flash": [
+   "rule of law trinity",
+   "distrust of droit administratif",
+   "Conseil d'État actually controls power",
+   "tribunals under Art 323A/323B",
+   "Dicey's later concession"
+  ]
+ },
+ "pubad1-43-b0": {
+  "directive": "comment",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "**Dicey**'s hostility to **droit administratif** rested on a misreading — he took a separate jurisdiction for official immunity when it was in fact a specialised regime of official liability."
+   }
+  ],
+  "body": [
+   {
+    "h": "The misreading",
+    "p": [
+     {
+      "k": "What he assumed",
+      "x": "That separate administrative courts existed to protect officials from the consequences ordinary citizens face."
+     },
+     {
+      "k": "What it actually is",
+      "x": "The **Conseil d'État** developed doctrines of state liability often stricter than the common law then offered."
+     },
+     {
+      "k": "No-fault liability",
+      "x": "French administrative law recognised compensation for lawful state action causing disproportionate harm — an idea English law lacked."
+     },
+     {
+      "k": "Expert adjudication",
+      "x": "Judges specialised in administration decided administrative disputes more competently than generalist courts."
+     }
+    ]
+   },
+   {
+    "h": "The consequences of the error",
+    "p": [
+     {
+      "k": "Delayed development",
+      "x": "Dicey's authority retarded the growth of a coherent administrative law in England for decades."
+     },
+     {
+      "k": "Convergence since",
+      "x": "Common-law systems have since built tribunals, ombudsmen and review doctrines that perform the same function."
+     },
+     {
+      "k": "Indian position",
+      "x": "India blends both — ordinary courts under **Articles 32 and 226** plus specialised tribunals, with judicial review as an unamendable check.",
+      "ex": "**L. Chandra Kumar (1997)**"
+     }
+    ]
+   }
+  ],
+  "conc": "The dispute was never between law and no law but between two ways of subjecting power to it — and the systems have converged on the answer Dicey feared.",
+  "flash": [
+   "separate jurisdiction ≠ immunity",
+   "Conseil d'État state liability",
+   "no-fault compensation doctrine",
+   "retarded English administrative law",
+   "L. Chandra Kumar 1997"
+  ]
  }
 }

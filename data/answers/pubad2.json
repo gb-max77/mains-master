@@ -278,71 +278,59 @@
   "directive": "comment"
  },
  "pubad2-1-b0": {
-  "src": "mainslab",
+  "directive": "comment",
   "intro": [
    {
-    "t": "concept",
-    "x": "Indian administration evolved through layered institutional inheritances; its present form must be read through both continuity and democratic transformation."
+    "t": "thinker",
+    "x": "Kautilya's **Arthashastra** is less a work of political philosophy than a working manual of administration — it prescribes structures, audits, salaries and ethics for running a state."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Statecraft and administrative machinery",
     "p": [
      {
-      "k": "Board governance",
-      "x": "Professional boards and transparent appointments replace administrative department-style control."
+      "k": "Saptanga theory",
+      "x": "Seven interdependent limbs — **Swami, Amatya, Janapada, Durga, Kosha, Danda, Mitra** — an organic conception in which no element functions alone."
      },
      {
-      "k": "Administrative consequence",
-      "x": "Government must separate owner, policymaker and regulator and manage a portfolio rather than daily operations."
+      "k": "Specialised bureaucracy",
+      "x": "Graded **Adhyakshas** (superintendents) for mines, forests, trade and weights — functional departmentalisation two millennia before Gulick."
      },
      {
-      "k": "Original rationale",
-      "x": "Post-independence scarcity, weak private capital and planning placed heavy industry, finance and infrastructure under public ownership."
-     },
-     {
-      "k": "Development role",
-      "x": "Enterprises created capacity, regional investment and strategic autonomy beyond immediate profitability."
+      "k": "Fiscal administration",
+      "x": "**Kosha** as the sinew of the state, with detailed revenue heads, budgeting and audit of receipts against expenditure."
      }
     ]
    },
    {
-    "h": "Limits and critical assessment",
+    "h": "Administrative ethics",
     "p": [
      {
-      "k": "Accumulated problems",
-      "x": "Multiple objectives, ministerial interference, soft budgets and weak competitive discipline often obscured accountability."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Liberalisation shift",
-      "x": "Competition, disinvestment and private investment reduced the case for routine State production."
+      "k": "Yogakshema",
+      "x": "The ruler's duty of welfare and security — *'in the happiness of his subjects lies the king's happiness'*, an early public-interest standard."
      },
      {
-      "k": "Strategic presence",
-      "x": "Ownership may remain justified in defence, atomic energy, critical networks or capabilities where market and security failures are substantial."
+      "k": "Anti-corruption vigilance",
+      "x": "Kautilya's forty modes of embezzlement and a standing espionage system show corruption treated as an administrative certainty to be audited, not an aberration."
      },
      {
-      "k": "Public-service obligations",
-      "x": "Non-commercial mandates should be explicit, funded and reported instead of hidden in enterprise losses."
+      "k": "Limits",
+      "x": "It served monarchical *raison d'état*, relied on surveillance, and had no conception of rights or representation."
      }
     ]
    }
   ],
-  "conc": "A balanced administrative response must preserve the legitimate objective while correcting design, capacity and accountability deficits.",
-  "directive": "discuss",
+  "wf": [
+   "Anchor modern probity codes and **CVC** vigilance in this indigenous tradition rather than treating ethics as an import"
+  ],
+  "conc": "The Arthashastra shows Indian administrative thought is millennia old — its welfare ethic and audit-minded realism still speak to a state seeking both capacity and probity.",
   "flash": [
-   "Board governance",
-   "Administrative consequence",
-   "Original rationale",
-   "Development role",
-   "Accumulated problems",
-   "Liberalisation shift"
+   "Saptanga seven limbs",
+   "Adhyakshas = functional departments",
+   "Kosha, danda-niti",
+   "Yogakshema welfare duty",
+   "forty modes of embezzlement"
   ]
  },
  "pubad2-2": {
@@ -1792,66 +1780,75 @@
   ]
  },
  "pubad2-13-b0": {
-  "src": "mainslab",
+  "directive": "examine",
   "intro": [
    {
     "t": "concept",
-    "x": "Indian administration operates within a constitutional order that makes authority legitimate only when legality, social justice and democratic accountability reinforce one another."
+    "x": "Parliamentary control operates on two planes — the **floor**, which is visible, adversarial and episodic, and the **committee room**, which is technical, cross-party and continuous."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Control on the floor",
     "p": [
      {
-      "k": "Central control",
-      "x": "Transfer, inspection and record systems aimed to prevent local entrenchment and fictitious military claims."
+      "k": "Instruments",
+      "x": "Question Hour, Zero Hour, calling-attention motions, adjournment and no-confidence motions expose administration to direct interrogation."
      },
      {
-      "k": "Mansab",
-      "x": "Numerical rank located an officer within the imperial hierarchy and defined status, pay and military obligation."
+      "k": "Publicity value",
+      "x": "The floor's strength is visibility — it forces a minister to answer in public, which no committee can replicate."
      },
      {
-      "k": "Dual ranking",
-      "x": "The distinction between personal rank and cavalry obligation sought to separate status from the contingent to be maintained."
+      "k": "Structural decline",
+      "x": "Fewer sitting days, frequent disruption and the **guillotine** mean most demands for grants pass without discussion."
      },
      {
-      "k": "Jagir finance",
-      "x": "Revenue assignments generally funded mansabdars without transferring sovereign ownership of land."
+      "k": "Partisan logic",
+      "x": "Floor debate rewards confrontation over scrutiny, so information yields to position-taking."
      }
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "Control in the committee room",
     "p": [
      {
-      "k": "Integration",
-      "x": "A graded service elite connected diverse nobles and commanders to imperial patronage and campaigns."
+      "k": "The financial committees",
+      "x": "**PAC**, Estimates and Public Undertakings Committees examine expenditure after the fact, working on **CAG** reports."
      },
      {
-      "k": "Jagirdari pressure",
-      "x": "Mismatch between assessed revenue, actual collection and available assignments sharpened competition and short-term extraction."
+      "k": "Departmentally related committees",
+      "x": "The **24 DRSCs** since 1993 examine demands for grants, bills and policy continuously, away from the camera."
      },
      {
-      "k": "Local consequences",
-      "x": "Frequent transfer could discourage long-term investment and intensify pressure through intermediaries on cultivators."
+      "k": "Cross-party working",
+      "x": "Committees sit in private without a whip, so members behave as legislators rather than as partisans — their reports are usually unanimous."
      },
      {
-      "k": "Political strain",
-      "x": "Expansion, fiscal limits and factional competition weakened the centre's ability to discipline assignments and service."
+      "k": "Weaknesses",
+      "x": "Falling referral of bills, non-binding recommendations, thin research support and delayed action-taken replies blunt the effect."
+     },
+     {
+      "k": "Estimates Committee",
+      "x": "Examines whether policy is being executed economically and suggests alternative forms of organisation."
+     },
+     {
+      "k": "Public Undertakings Committee",
+      "x": "Scrutinises public enterprise autonomy and performance, a domain the floor rarely reaches."
      }
     ]
    }
   ],
-  "conc": "A balanced administrative response must preserve the legitimate objective while correcting design, capacity and accountability deficits.",
-  "directive": "discuss",
+  "wf": [
+   "Make committee referral of bills the default, fund research staff, and require time-bound action-taken reports, as the **2nd ARC** urged"
+  ],
+  "conc": "The floor supplies visibility and the committee room supplies scrutiny — parliamentary control has weakened precisely where the two have ceased to reinforce each other.",
   "flash": [
-   "Central control",
-   "Mansab",
-   "Dual ranking",
-   "Jagir finance",
-   "Integration",
-   "Jagirdari pressure"
+   "Question Hour vs guillotine",
+   "PAC/Estimates/PUC on CAG reports",
+   "24 DRSCs since 1993",
+   "no whip in committee = cross-party",
+   "non-binding, weak follow-up"
   ]
  },
  "pubad2-14": {
@@ -3925,71 +3922,87 @@
   ]
  },
  "pubad2-32-b0": {
-  "src": "mainslab",
+  "directive": "examine",
   "intro": [
    {
     "t": "concept",
-    "x": "Indian administration is shaped by constitutional purpose, inherited institutions and uneven implementation capacity; reform must preserve continuity where useful while democratising authority and delivery. The branch specifically asks about ToR and challenges before the 16th FC."
+    "x": "The **16th Finance Commission**'s terms of reference frame the classic fiscal-federal question — how to divide a shrinking divisible pool between a Union with expanding commitments and States with rising expenditure responsibility."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "The terms of reference",
     "p": [
      {
-      "k": "Early exclusion",
-      "x": "London-based examination, age limits, education and racial practice restricted Indian entry despite formal competition."
+      "k": "Core mandate",
+      "x": "Under **Article 280**, to recommend the vertical share of Union taxes, horizontal distribution among States, and grants-in-aid under **Article 275**."
      },
      {
-      "k": "Political pressure",
-      "x": "Nationalist criticism linked exclusion to unrepresentative policy and demanded simultaneous examination and equality of opportunity."
+      "k": "Local bodies",
+      "x": "To recommend measures to augment State funds for panchayats and municipalities on the basis of **State Finance Commission** recommendations."
      },
      {
-      "k": "Islington Commission",
-      "x": "It accepted increased Indian recruitment but favoured gradual change and multiple entry channels that preserved European predominance."
+      "k": "Disaster financing",
+      "x": "To review the funding arrangements for disaster management under the **Disaster Management Act, 2005**."
      },
      {
-      "k": "Underlying logic",
-      "x": "Concession sought administrative legitimacy and collaboration without surrendering the commanding positions of the colonial State."
+      "k": "Notable omission",
+      "x": "Unlike its predecessor, its ToR does not carry a separate defence and internal-security fund mandate — a point States had contested."
      }
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "The challenges before it",
     "p": [
      {
-      "k": "Post-war pressure",
-      "x": "Constitutional reform and educated Indian opinion made a visibly foreign superior service politically untenable."
+      "k": "Shrinking divisible pool",
+      "x": "Rising **cesses and surcharges**, excluded by **Article 270**, mean a stable percentage of a falling base — the States' central grievance."
      },
      {
-      "k": "Lee Commission",
-      "x": "It accelerated Indianisation, supported direct recruitment in India and helped frame institutional protection for public services."
+      "k": "Post-GST autonomy",
+      "x": "With most indirect taxes subsumed and compensation ended, States have lost independent revenue handles."
      },
      {
-      "k": "Administrative principle",
-      "x": "The debate gradually moved toward merit, service security and a commission-based personnel system."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
+      "k": "Equity versus efficiency",
+      "x": "Income-distance weighting aids poorer States while performing States demand reward — the demographic question makes this politically charged."
+     },
      {
-      "k": "Limit",
-      "x": "Numerical entry did not automatically transform imperial purpose, hierarchy or social composition."
+      "k": "Population year",
+      "x": "Use of **2011** data still aggrieves States that curbed fertility, the same anxiety that surrounds delimitation."
+     },
+     {
+      "k": "Fiscal discipline",
+      "x": "Rising State debt, guarantees and off-budget borrowing complicate any assessment of genuine fiscal need."
+     },
+     {
+      "k": "Vertical share pressure",
+      "x": "The Union cites defence, subsidy and welfare commitments to resist raising the States' share beyond the existing level."
+     },
+     {
+      "k": "Conditionality drift",
+      "x": "Tying local-body and sector grants to entry conditions converts constitutional entitlement into performance reward."
+     },
+     {
+      "k": "Data quality",
+      "x": "Reliable, comparable State fiscal data is the precondition for any formula that claims to measure need or effort."
+     },
+     {
+      "k": "Timing constraint",
+      "x": "Recommendations must be framed before the census and delimitation reset the political arithmetic they rest on."
      }
     ]
    }
   ],
-  "conc": "A balanced administrative response must preserve the legitimate objective while correcting design, capacity and accountability deficits.",
-  "directive": "discuss",
+  "wf": [
+   "Cap cesses and surcharges as a share of gross tax revenue, and settle the population-year question through the **Inter-State Council** rather than by formula alone"
+  ],
+  "conc": "The Commission's real test is not the percentage it recommends but whether the pool it divides remains large and predictable enough for States to plan against.",
   "flash": [
-   "Early exclusion",
-   "Political pressure",
-   "Islington Commission",
-   "Underlying logic",
-   "Post-war pressure",
-   "Lee Commission"
+   "Art 280 mandate; Art 275 grants",
+   "SFC-based local body augmentation",
+   "Art 270 cess exclusion shrinks pool",
+   "post-GST loss of revenue handles",
+   "2011 population year grievance"
   ]
  },
  "pubad2-32-b1": {
@@ -5421,50 +5434,87 @@
   ]
  },
  "pubad2-47-b1": {
-  "src": "mainslab",
+  "directive": "examine",
   "intro": [
    {
     "t": "concept",
-    "x": "Civil-service reform must combine merit and expertise with representation, constitutional neutrality, motivation and enforceable accountability."
+    "x": "Recruitment reform selects better entrants; **capacity building** determines what they become over a thirty-year career — which is why **Mission Karmayogi** targets the second rather than the first."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Why capacity building is the binding constraint",
     "p": [
      {
-      "k": "Political side",
-      "x": "Ministerial offices also need professional staffing and respect for written orders; civil-service reform cannot be unilateral."
+      "k": "Rules to roles",
+      "x": "**Mission Karmayogi** shifts training from rule-based induction to **competency-based** role definition — behaviour, functional and domain competencies for each post."
      },
      {
-      "k": "Evaluation",
-      "x": "Assess changed work behaviour and service outcomes, not enrolment, hours or quiz scores."
+      "k": "Continuous, not episodic",
+      "x": "**iGOT-Karmayogi** makes learning on-demand and lifelong rather than a mid-career course, reaching the cutting-edge functionary training never used to touch."
      },
      {
-      "k": "Motivation",
-      "x": "Public-service purpose declines when competence and integrity do not influence responsibility or career opportunity."
+      "k": "Institutional architecture",
+      "x": "A **Capacity Building Commission** to standardise content and audit outcomes, with a special purpose vehicle to own the platform."
+     },
+     {
+      "k": "Citizen-centric framing",
+      "x": "The stated aim is an official who is *creative, proactive, professional and technology-enabled* rather than merely procedurally correct."
      }
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "What determines whether it works",
     "p": [
      {
-      "k": "Politicisation",
-      "x": "Personal loyalty and selective enforcement replace faithful service to the elected government under law."
+      "k": "Postings must follow competency",
+      "x": "Training changes nothing if postings remain seniority- and preference-driven; competency mapping has to bind deployment decisions."
+     },
+     {
+      "k": "Tenure",
+      "x": "Domain capability cannot accumulate under short, arbitrary tenures — assured minimum tenure is the precondition, as the **2nd ARC** held."
+     },
+     {
+      "k": "Appraisal linkage",
+      "x": "Unless learning outcomes enter performance appraisal and empanelment, participation becomes compliance."
+     },
+     {
+      "k": "Beyond the elite",
+      "x": "The **AIS** is a small fraction of the workforce; State and cutting-edge staff carry most citizen interaction and need the same investment."
+     },
+     {
+      "k": "Theory bridge",
+      "x": "This is Argyris's **double-loop learning** applied to the state — questioning governing assumptions, not merely correcting procedural error."
+     },
+     {
+      "k": "Mentoring and lateral exposure",
+      "x": "Structured mentoring, sabbaticals and private or academic secondment widen the frame a career service builds."
+     },
+     {
+      "k": "Measuring the outcome",
+      "x": "Capacity building must be evaluated on service delivery, not on training days completed."
+     },
+     {
+      "k": "Digital competence",
+      "x": "Data literacy and comfort with AI-assisted decision tools are now core competencies, not specialist add-ons."
+     },
+     {
+      "k": "Institutional memory",
+      "x": "Codified knowledge repositories offset the loss of continuity that frequent transfers cause."
      }
     ]
    }
   ],
-  "conc": "A balanced administrative response must preserve the legitimate objective while correcting design, capacity and accountability deficits.",
-  "directive": "discuss",
+  "wf": [
+   "Tie competency assessment to posting and empanelment, and extend the framework to State cadres where the citizen actually meets the state"
+  ],
+  "conc": "A future-ready civil service will be made by what it learns after entry, not by how it was selected — capacity building is the reform on which every other one depends.",
   "flash": [
-   "Political side",
-   "Evaluation",
-   "Motivation",
-   "Reform—postings",
-   "Politicisation",
-   "Reform—careers"
+   "Mission Karmayogi: rules → roles",
+   "iGOT platform; Capacity Building Commission",
+   "competency must bind postings",
+   "tenure is the precondition",
+   "Argyris double-loop"
   ]
  },
  "pubad2-48": {
@@ -5702,67 +5752,59 @@
   ]
  },
  "pubad2-51": {
-  "src": "mainslab",
+  "directive": "comment",
   "intro": [
    {
     "t": "concept",
-    "x": "Civil-service reform must combine merit and expertise with representation, constitutional neutrality, motivation and enforceable accountability."
+    "x": "The **Unified Pension Scheme** attempts to reconcile the employee's demand for assured retirement income with the fiscal discipline that made the **National Pension System** necessary."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "The middle path",
     "p": [
      {
-      "k": "Constitutional purpose",
-      "x": "Security against punitive executive whim helps officials give lawful advice and resist partisan pressure."
+      "k": "Assured payout",
+      "x": "Guarantees a defined proportion of average basic pay for a qualifying service period, restoring the predictability **NPS** removed."
      },
      {
-      "k": "Core protection",
-      "x": "A civil servant cannot ordinarily be dismissed or removed by an authority subordinate to the appointing authority and receives reasonable inquiry opportunity."
-     },
-     {
-      "k": "Exceptions",
-      "x": "Conviction, impracticability of inquiry and security-of-State grounds permit departure under constitutionally specified conditions."
-     },
-     {
-      "k": "Due-process value",
-      "x": "Notice, evidence and hearing reduce factual error and protect the morale of the wider service."
+      "k": "Contributory funding",
+      "x": "Unlike the old scheme, it remains funded by employee and enhanced government contributions — the liability is provisioned, not deferred."
      }
     ]
    },
    {
-    "h": "Limits and critical assessment",
+    "h": "Why the compromise was needed",
     "p": [
      {
-      "k": "Performance problem",
-      "x": "Weak supervision, delayed charges, vacancies and litigation allow serious misconduct or persistent incapacity to remain unresolved."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
-     {
-      "k": "Distinction",
-      "x": "Poor performance needs documented support and appraisal; misconduct needs prompt disciplinary investigation—neither justifies arbitrary punishment."
+      "k": "The NPS problem",
+      "x": "Market-linked annuities exposed retirees to investment risk and produced replacement rates employees regarded as inadequate."
      },
      {
-      "k": "Interim tools",
-      "x": "Proportionate reassignment and time-bound suspension review protect administration while avoiding punishment before finding."
+      "k": "State fiscal risk",
+      "x": "Several States reverting to the old scheme created a large contingent liability that **RBI** State Finances reports flagged as unsustainable."
+     },
+     {
+      "k": "Residual concerns",
+      "x": "The guarantee transfers investment risk back to the exchequer; long-run cost depends on corpus returns and demographic assumptions."
+     },
+     {
+      "k": "Equity question",
+      "x": "Assured pensions cover a small formal workforce, while most Indian workers rely on the far thinner **APY** and **e-Shram** provision."
      }
     ]
    }
   ],
-  "conc": "The durable reform is one that strengthens capacity while keeping power constitutionally bounded, publicly answerable and responsive at the point of delivery.",
-  "directive": "comment",
+  "wf": [
+   "Publish actuarial projections and hold contribution rates to them, and deepen contributory old-age cover for the unorganised workforce"
+  ],
+  "conc": "The scheme buys industrial peace with a manageable and provisioned liability — its legitimacy rests on being actuarially honest rather than politically convenient.",
   "flash": [
-   "Constitutional purpose",
-   "Core protection",
-   "Exceptions",
-   "Due-process value",
-   "Performance problem",
-   "Distinction"
+   "assured payout on qualifying service",
+   "contributory + funded, unlike OPS",
+   "DR indexation restores real value",
+   "States reverting to OPS = contingent risk",
+   "APY/e-Shram cover the rest"
   ]
  },
  "pubad2-52": {

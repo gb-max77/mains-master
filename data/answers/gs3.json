@@ -2885,6 +2885,10 @@
      {
       "k": "Contract farming safeguards",
       "x": "Registration, model agreements and dispute mechanisms protect the smallholder in bilateral deals."
+     },
+     {
+      "k": "Enabler",
+      "x": "Assured procurement through **FPO** tie-ups converts a price signal into a sale."
      }
     ]
    }
@@ -3725,6 +3729,10 @@
      {
       "k": "Sustainment",
       "x": "Ammunition stocks, spares and maintenance depth determine how long capability can actually be used."
+     },
+     {
+      "k": "Enabler",
+      "x": "Joint doctrine and theatre integration convert platforms into combat power."
      }
     ]
    }
@@ -3796,6 +3804,10 @@
      {
       "k": "Quality assurance",
       "x": "Independent certification builds the export credibility on which repeat orders depend."
+     },
+     {
+      "k": "Enabler",
+      "x": "Long-term order visibility lets private firms invest in capacity ahead of demand."
      }
     ]
    }
@@ -3959,6 +3971,10 @@
      {
       "k": "Skilled workforce",
       "x": "Bio-manufacturing needs process engineers and technicians, a distinct pipeline from research biologists."
+     },
+     {
+      "k": "Enabler",
+      "x": "Public-private translation centres bridge laboratory discovery and commercial scale."
      }
     ]
    }
@@ -4026,6 +4042,10 @@
      {
       "k": "Equity dimension",
       "x": "Advanced therapy risks widening the gap between metropolitan tertiary care and district health systems."
+     },
+     {
+      "k": "Enabler",
+      "x": "Health-technology assessment should decide public funding on cost per outcome."
      }
     ]
    }
@@ -4597,12 +4617,33 @@
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Sectoral pathways",
     "p": [
      {
       "k": "Sectoral pathways",
       "x": "Power (renewables + nuclear + green hydrogen), transport (EVs, biofuels, rail), industry (**CCTS**, **CCUS**), and buildings/efficiency."
      },
+     {
+      "k": "Power",
+      "x": "**500 GW** non-fossil capacity by 2030, storage-backed, with coal retirement sequenced rather than abrupt."
+     },
+     {
+      "k": "Industry",
+      "x": "Green hydrogen for steel, fertiliser and refining, with the **CCTS** carbon market pricing residual emissions."
+     },
+     {
+      "k": "Transport",
+      "x": "Electrification, ethanol blending and modal shift of freight to rail and coastal shipping."
+     },
+     {
+      "k": "Sinks",
+      "x": "An additional carbon sink through afforestation and restoration under the **NDC** commitment."
+     }
+    ]
+   },
+   {
+    "h": "Behaviour, finance and credibility",
+    "p": [
      {
       "k": "LiFE",
       "x": "A behavioural, 'pro-planet-people' approach — mindful consumption as a mitigation lever, an Indian civilisational contribution to climate action."
@@ -4610,6 +4651,26 @@
      {
       "k": "Finance gap",
       "x": "The transition needs an estimated ~$10 trillion by 2070; domestic finance alone is inadequate."
+     },
+     {
+      "k": "LiFE as demand-side policy",
+      "x": "**Mission LiFE** targets consumption behaviour — the dimension mitigation policy usually ignores."
+     },
+     {
+      "k": "Equity anchor",
+      "x": "**CBDR-RC** and per-capita emissions well below the global average underpin India's claim to a development runway."
+     },
+     {
+      "k": "Finance gap",
+      "x": "Transition needs trillions of dollars; delivered international climate finance remains far below pledged levels."
+     },
+     {
+      "k": "Adaptation priority",
+      "x": "India's exposure makes adaptation finance more consequential than mitigation support."
+     },
+     {
+      "k": "Credibility",
+      "x": "India is among the few major economies on track for its stated targets, which strengthens its negotiating hand."
      }
     ]
    }
@@ -4617,7 +4678,7 @@
   "wf": [
    "Equity arguments: **CBDR-RC**, historical responsibility, low per-capita emissions, the right to development, and the demand for adequate climate finance and technology transfer from the Global North."
   ],
-  "conc": "India seeks a just transition — climate responsibility matched by climate justice, growth and equity held together."
+  "conc": "India's net-zero path is a development strategy as much as a climate one — its credibility rests on delivering the transition without pausing the growth that funds it."
  },
  "gs3-49": {
   "src": "docx",
@@ -4629,7 +4690,7 @@
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Why the problem persists",
     "p": [
      {
       "k": "Fragmented jurisdiction",
@@ -4642,6 +4703,39 @@
      {
       "k": "Source complexity",
       "x": "Multiple sectors (transport, power, agriculture, construction) need simultaneous action, not siloed fixes."
+     },
+     {
+      "k": "Airshed, not city",
+      "x": "Pollution is regional but regulation is municipal, so action in one city is defeated by sources outside it."
+     },
+     {
+      "k": "Meteorological trap",
+      "x": "Winter inversion and low wind speed concentrate emissions that the same sources produce year-round."
+     }
+    ]
+   },
+   {
+    "h": "What would actually work",
+    "p": [
+     {
+      "k": "Airshed governance",
+      "x": "The **Commission for Air Quality Management** is the right institutional form — an airshed regulator with statutory authority over the NCR region."
+     },
+     {
+      "k": "Attack the year-round base",
+      "x": "Stubble burning is episodic; transport, industry, power and dust are the constant load that determines the annual average."
+     },
+     {
+      "k": "Crop-residue economics",
+      "x": "Paddy straw needs a market — biomass power, bio-CNG and pelletisation — since penalties alone have not worked."
+     },
+     {
+      "k": "Clean fuel transition",
+      "x": "Household **LPG** under **Ujjwala**, industrial fuel switching and electrified public transport cut emissions at source."
+     },
+     {
+      "k": "Monitoring and enforcement",
+      "x": "Dense monitoring, real-time emission tracking and penalties with actual consequence — **NCAP** targets lack enforceable teeth."
      }
     ]
    }
@@ -4650,7 +4744,7 @@
    "Airshed approach: Manage pollution at the airshed/regional level (the Commission for Air Quality Management model), with source-apportionment-based, multi-sectoral, legally-backed plans.",
    "Structural fixes: Clean fuels, public transport, ex-situ stubble use (bio-**CNG**, pusa decomposer), and continuous monitoring with accountability."
   ],
-  "conc": "Clean air needs airshed governance and health-based standards — treating breathing clean air as an enforceable right (Art. 21)."
+  "conc": "North India's air will not clear through emergency measures in December — it requires airshed-level regulation of the year-round base load."
  },
  "gs3-50": {
   "src": "docx",
@@ -4662,7 +4756,7 @@
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "India's regulatory response",
     "p": [
      {
       "k": "SUP ban",
@@ -4673,8 +4767,45 @@
       "x": "Makes producers/importers/brand-owners responsible for collecting and recycling packaging waste, via a credit-based online portal."
      },
      {
+      "k": "Single-use ban",
+      "x": "Prohibition on identified single-use plastic items targets the least recyclable and most littered categories."
+     },
+     {
+      "k": "Extended Producer Responsibility",
+      "x": "**EPR** makes producers legally responsible for collection and recycling, with tradable certificates creating a compliance market."
+     },
+     {
+      "k": "Standards",
+      "x": "Mandated recycled content and rules on compostable and biodegradable labelling close substitution loopholes."
+     }
+    ]
+   },
+   {
+    "h": "Gaps and the way forward",
+    "p": [
+     {
       "k": "Gaps",
       "x": "Weak monitoring, fake **EPR** certificates, low recycling infrastructure, and the dominance of multilayered plastics."
+     },
+     {
+      "k": "Informal sector reality",
+      "x": "Waste pickers do most of India's actual recycling but remain outside formal EPR value flows."
+     },
+     {
+      "k": "Segregation failure",
+      "x": "EPR cannot function without source segregation, which municipal systems largely fail to enforce."
+     },
+     {
+      "k": "Certificate integrity",
+      "x": "Fraudulent recycling certificates undermine the market EPR depends on; audit capacity is thin."
+     },
+     {
+      "k": "Alternatives and cost",
+      "x": "Substitutes remain costlier, so bans without affordable alternatives shift consumption to informal supply."
+     },
+     {
+      "k": "Global context",
+      "x": "With the international plastics treaty stalled over production caps, national action carries proportionately more weight."
      }
     ]
    }
@@ -4682,26 +4813,75 @@
   "wf": [
    "Strengthen **EPR**: Robust **MRV**, deposit-refund systems, plastic-credit integrity, alternatives (compostables), and integrating the informal waste-picker sector."
   ],
-  "conc": "In the treaty's absence, credible **EPR** and a circular-economy shift are India's frontline against the plastic crisis."
+  "conc": "Plastic control fails at segregation and succeeds at design — India must integrate the informal recycler and make producers accountable for what they put on the market."
  },
  "gs3-50-b0": {
   "src": "docx",
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "The EPR regimes",
     "p": [
      {
       "k": "E-waste & battery EPR",
       "x": "India is a top e-waste generator; **EPR** rules (2022) and Battery Waste Rules mandate producer take-back and recycling targets."
      },
      {
+      "k": "E-waste rules",
+      "x": "The **E-Waste (Management) Rules, 2022** place collection targets on producers with an EPR certificate market and registered recyclers."
+     },
+     {
+      "k": "Battery waste",
+      "x": "The **Battery Waste Management Rules, 2022** mandate recovery targets and recycled-content obligations for new batteries."
+     },
+     {
+      "k": "Why it matters",
+      "x": "Recovered lithium, cobalt, copper and rare earths are a domestic secondary supply of exactly the minerals India must otherwise import."
+     }
+    ]
+   },
+   {
+    "h": "Building circularity",
+    "p": [
+     {
       "k": "Urban mining",
       "x": "Recovering critical minerals (gold, copper, lithium, cobalt) from waste reduces import dependence and closes the loop."
+     },
+     {
+      "k": "Urban mining",
+      "x": "Concentrations of valuable metals in discarded electronics exceed those in mined ore — the economics favour recovery if collection works."
+     },
+     {
+      "k": "Informal dominance",
+      "x": "The overwhelming share of e-waste is handled informally through unsafe acid leaching and open burning, harming workers and recovering little."
+     },
+     {
+      "k": "Formalisation route",
+      "x": "Integrating informal collectors as aggregators for authorised recyclers preserves livelihoods while raising recovery rates."
+     },
+     {
+      "k": "Design for recovery",
+      "x": "Repairability, modularity and a **right to repair** extend product life before recycling is needed."
+     },
+     {
+      "k": "Enforcement gap",
+      "x": "Under-reporting, certificate fraud and weak traceability keep formal recovery far below the mandated targets."
+     },
+     {
+      "k": "Producer accountability",
+      "x": "Take-back obligations and deposit-refund schemes tie the producer to end-of-life outcomes."
+     },
+     {
+      "k": "Standards and traceability",
+      "x": "Certified recycler registries and material passports make recovered content verifiable."
+     },
+     {
+      "k": "Decisive gap",
+      "x": "Municipal collection is the choke point — EPR targets fail where segregated collection does not reach the household."
      }
     ]
    }
   ],
-  "conc": "The circular economy turns waste into a resource and a strategic-mineral supply."
+  "conc": "Circularity is industrial policy in disguise — every tonne recovered domestically is a tonne of critical mineral India does not have to import."
  },
  "gs3-51": {
   "src": "docx",
@@ -4713,12 +4893,29 @@
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "The development case",
     "p": [
      {
       "k": "Development rationale",
       "x": "Strategic border infrastructure (against China) and connectivity require land; the amendment offers exemptions within **100 km** of borders and for security projects."
      },
+     {
+      "k": "Strategic infrastructure",
+      "x": "Exemptions for border-area projects within a defined distance of the frontier respond to a genuine security and connectivity need."
+     },
+     {
+      "k": "Procedural certainty",
+      "x": "Defining what constitutes 'forest' aims to end decades of litigation over the **Godavarman** dictionary meaning."
+     },
+     {
+      "k": "Plantation incentive",
+      "x": "Easing restrictions on non-forest land encourages private plantation and agroforestry."
+     }
+    ]
+   },
+   {
+    "h": "Conservation and rights concerns",
+    "p": [
      {
       "k": "Conservation concern",
       "x": "Exemptions risk diluting the T.N. Godavarman (1996) protection of all forests, threatening biodiversity, carbon sinks and climate goals."
@@ -4726,6 +4923,26 @@
      {
       "k": "Community rights",
       "x": "Tension with the **Forest Rights Act, 2006** (gram-sabha consent) and tribal/forest-dweller livelihoods."
+     },
+     {
+      "k": "Narrowed protection",
+      "x": "Restricting the Act's scope to recorded forests removes protection from unrecorded but ecologically functional forest land."
+     },
+     {
+      "k": "Ecologically sensitive areas",
+      "x": "Himalayan and Western Ghats projects carry landslide, seismic and hydrological risks that a clearance exemption does not remove."
+     },
+     {
+      "k": "Compensatory afforestation limits",
+      "x": "A young plantation does not replace a mature forest's biodiversity, carbon or hydrology for decades."
+     },
+     {
+      "k": "Community rights",
+      "x": "**FRA, 2006** requires **Gram Sabha** consent; diluting clearance procedure risks bypassing that statutory safeguard."
+     },
+     {
+      "k": "Cumulative impact",
+      "x": "Project-by-project clearance ignores the aggregate effect of many projects in one fragile landscape."
      }
     ]
    }
@@ -4733,26 +4950,80 @@
   "wf": [
    "Reconciliation: Science-based, transparent **EIA**; compensatory afforestation of quality (not just quantity); gram-sabha consent; and 'net-gain' biodiversity offsets."
   ],
-  "conc": "Security and ecology are not opposites — sustainable development and community stewardship can secure both the border and the forest."
+  "conc": "Security and connectivity are legitimate imperatives, but in fragile landscapes the cheapest infrastructure is the one that accounts for the disaster it might trigger."
  },
  "gs3-51-b0": {
   "src": "docx",
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Drivers of conflict",
     "p": [
      {
       "k": "Drivers",
       "x": "Habitat fragmentation, corridor loss, linear infrastructure and shrinking prey drive elephants/leopards into human areas; the latest elephant census shows worrying regional declines."
      },
      {
+      "k": "Habitat fragmentation",
+      "x": "Linear infrastructure, mining and plantations sever corridors, forcing wildlife through human-use landscapes."
+     },
+     {
+      "k": "Corridor loss",
+      "x": "Elephants move along traditional routes; blocking them converts migration into crop raiding and confrontation."
+     },
+     {
+      "k": "Prey depletion and land-use change",
+      "x": "Falling prey base pushes carnivores toward livestock, while cropping patterns near forest edges attract herbivores."
+     },
+     {
+      "k": "Population pressure",
+      "x": "Settlement and cultivation at the forest boundary raise encounter frequency regardless of animal numbers."
+     }
+    ]
+   },
+   {
+    "h": "Measures for coexistence",
+    "p": [
+     {
       "k": "Coexistence",
       "x": "Secure corridors, early-warning tech, eco-development committees, timely compensation, and Project Elephant/Tiger landscape management."
+     },
+     {
+      "k": "Corridor protection",
+      "x": "Securing and restoring identified elephant and tiger corridors, with underpasses and overpasses on linear infrastructure."
+     },
+     {
+      "k": "Early warning",
+      "x": "**AI**-enabled camera traps, thermal sensors and SMS alerts give villages time to avoid encounters."
+     },
+     {
+      "k": "Barriers that work",
+      "x": "Solar and bio-fencing, trenches and beehive fences, chosen to the species rather than applied uniformly."
+     },
+     {
+      "k": "Compensation that is prompt",
+      "x": "Fast, adequate ex-gratia and crop insurance determine whether communities tolerate wildlife or retaliate."
+     },
+     {
+      "k": "Community stewardship",
+      "x": "Eco-development committees and primary response teams make local people participants in protection.",
+      "ex": "**Project Elephant**; **Project Tiger**"
+     },
+     {
+      "k": "Land-use planning",
+      "x": "Regulating cropping and settlement at forest fringes reduces encounter frequency at source."
+     },
+     {
+      "k": "Institutional capacity",
+      "x": "Trained rapid-response teams and veterinary support determine outcomes once conflict occurs."
+     },
+     {
+      "k": "Decisive gap",
+      "x": "Corridor land must be secured through acquisition or easement before development forecloses the route entirely."
      }
     ]
    }
   ],
-  "conc": "Coexistence needs connected habitats and shared stakes for local communities."
+  "conc": "Conflict is a land-use problem wearing a wildlife mask — coexistence depends on protecting corridors and compensating losses faster than resentment accumulates."
  },
  "gs3-52": {
   "src": "docx",
@@ -4764,15 +5035,32 @@
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Why wetlands matter",
     "p": [
      {
       "k": "Ecosystem services",
       "x": "Flood buffering, groundwater recharge, water purification, carbon storage, biodiversity, fisheries and micro-climate regulation."
      },
      {
+      "k": "Ecosystem services",
+      "x": "Flood buffering, groundwater recharge, water purification, carbon storage and fisheries — services a city must otherwise build and pay for."
+     }
+    ]
+   },
+   {
+    "h": "The protection framework and its gaps",
+    "p": [
+     {
       "k": "Framework",
       "x": "The Wetlands (Conservation and Management) Rules, 2017 embody Ramsar's 'wise use'; Amrit Dharohar promotes conservation-through-livelihoods; the National Plan for Conservation of Aquatic Ecosystems funds restoration."
+     },
+     {
+      "k": "Ramsar network",
+      "x": "India has Asia's largest network of Ramsar sites, but designation carries no automatic domestic protection."
+     },
+     {
+      "k": "Wetland Rules, 2017",
+      "x": "Prohibit conversion and encroachment, but exclude river channels and depend on State authorities that are frequently unconstituted."
      }
     ]
    }
@@ -4780,26 +5068,63 @@
   "wf": [
    "Gaps & fixes: Poor enforcement, unclear demarcation and urban encroachment persist — needs delineation, brick-wall protection of city wetlands, and integration into urban planning."
   ],
-  "conc": "Protecting wetlands is climate adaptation and water security in one — natural infrastructure worth preserving."
+  "conc": "A wetland is drainage infrastructure that maintains itself — cities that fill them pay later in floods, water scarcity and heat."
  },
  "gs3-52-b0": {
   "src": "docx",
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Why they reduce disaster risk",
     "p": [
      {
       "k": "Bio-shields",
       "x": "Mangroves (**MISHTI** scheme) and wetlands blunt cyclones, storm surges and floods — cost-effective, self-repairing 'green infrastructure'."
      },
      {
+      "k": "Storm-surge attenuation",
+      "x": "Mangrove belts dissipate wave energy and reduce surge height and inland penetration during cyclones."
+     },
+     {
+      "k": "Flood storage",
+      "x": "Wetlands absorb peak flow and release it slowly, flattening the flood hydrograph downstream."
+     },
+     {
+      "k": "Erosion control",
+      "x": "Root systems bind sediment, stabilising shorelines against the erosion that hard structures often worsen."
+     },
+     {
+      "k": "Co-benefits",
+      "x": "Carbon sequestration in blue-carbon ecosystems and nursery habitat for fisheries come at no additional cost."
+     }
+    ]
+   },
+   {
+    "h": "Limits and requirements",
+    "p": [
+     {
       "k": "Limits",
       "x": "Nature-based solutions cannot substitute for emissions cuts or hard defences in extreme events; must complement, not replace, engineering."
+     },
+     {
+      "k": "Threshold effects",
+      "x": "Protection depends on belt width, species and health — a degraded fringe offers little defence."
+     },
+     {
+      "k": "Not a substitute",
+      "x": "Bio-shields complement rather than replace early warning, evacuation and building codes."
+     },
+     {
+      "k": "Competing land use",
+      "x": "Aquaculture, ports and settlement convert precisely the intertidal land the shield requires."
+     },
+     {
+      "k": "Restoration approach",
+      "x": "**MISHTI** targets mangrove restoration along the coastline with community participation."
      }
     ]
    }
   ],
-  "conc": "Nature-based solutions are a powerful, but partial, layer of resilience."
+  "conc": "Nature-based defences are the cheapest coastal infrastructure available — they must be valued as assets on the balance sheet rather than as land awaiting conversion."
  },
  "gs3-53": {
   "src": "docx",
@@ -4811,7 +5136,7 @@
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Why the Himalaya is failing",
     "p": [
      {
       "k": "Carrying-capacity breach",
@@ -4824,6 +5149,48 @@
      {
       "k": "Planning failure",
       "x": "Absence of hazard-zonation-based land use and enforcement."
+     },
+     {
+      "k": "Young and rising terrain",
+      "x": "Tectonically active, steep and composed of unconsolidated material — instability is the baseline condition, not the exception."
+     },
+     {
+      "k": "Climate amplification",
+      "x": "Cloudbursts, glacier retreat and permafrost thaw raise both the frequency and the magnitude of triggers."
+     }
+    ]
+   },
+   {
+    "h": "What Himalayan development must change",
+    "p": [
+     {
+      "k": "Carrying capacity",
+      "x": "Settlement, tourism and construction have outrun the geological and hydrological capacity of specific valleys.",
+      "ex": "**Joshimath** subsidence; **Dharali**"
+     },
+     {
+      "k": "Construction practice",
+      "x": "Slope cutting, muck dumping, tunnelling and unregulated multi-storey building destabilise the very slopes they occupy."
+     },
+     {
+      "k": "Binding microzonation",
+      "x": "Hazard maps must govern building approvals and hydropower siting — mapping without regulatory force changes nothing."
+     },
+     {
+      "k": "Cumulative assessment",
+      "x": "River basins need basin-level impact assessment rather than project-by-project clearance."
+     },
+     {
+      "k": "Regulated tourism",
+      "x": "Registration caps, waste management and seasonal limits on pilgrimage and tourist volumes."
+     },
+     {
+      "k": "Local knowledge and livelihoods",
+      "x": "Traditional building forms and community-based warning systems outperform imported designs in this terrain."
+     },
+     {
+      "k": "Ecological restoration",
+      "x": "Slope stabilisation, catchment treatment and native afforestation rebuild the buffer construction removed."
      }
     ]
    }
@@ -4831,26 +5198,75 @@
   "wf": [
    "Reform: **SC**-mandated carrying-capacity studies, hazard microzonation, cap on construction/tourists, slope-sensitive engineering, early-warning systems, and eco-sensitive-zone enforcement."
   ],
-  "conc": "Development in the Himalaya must respect ecological thresholds — resilience, not reckless growth, is the mountain imperative."
+  "conc": "The Himalaya cannot be developed the way the plains were — its safety depends on accepting that geology, not demand, sets the limit."
  },
  "gs3-53-b0": {
   "src": "docx",
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Marine heatwaves and bleaching",
     "p": [
      {
       "k": "Marine heatwaves",
       "x": "Rising SSTs triggered the fourth global coral-bleaching event (2023–25), damaging reefs (Lakshadweep, Gulf of Mannar)."
      },
      {
+      "k": "What they are",
+      "x": "Prolonged periods of anomalously high sea-surface temperature, rising in frequency, duration and intensity with ocean warming."
+     },
+     {
+      "k": "Bleaching mechanism",
+      "x": "Heat stress expels the symbiotic **zooxanthellae** that give coral its colour and most of its nutrition, leaving it starved and vulnerable."
+     },
+     {
+      "k": "Indian exposure",
+      "x": "Reefs in the Gulf of Mannar, Lakshadweep, the Andamans and the Gulf of Kachchh have suffered repeated bleaching episodes."
+     },
+     {
+      "k": "Compounding stressors",
+      "x": "Ocean acidification, sedimentation, pollution and destructive fishing reduce the recovery window between events."
+     }
+    ]
+   },
+   {
+    "h": "Impacts and response",
+    "p": [
+     {
       "k": "Impacts",
       "x": "Loss of reef biodiversity, fish nurseries and coastal protection — hitting fisher livelihoods and food security."
+     },
+     {
+      "k": "Fisheries impact",
+      "x": "Reef degradation collapses nursery habitat, hitting artisanal fishers hardest and shifting catch composition and location."
+     },
+     {
+      "k": "Coastal protection loss",
+      "x": "Reefs dissipate wave energy; their degradation raises erosion and surge exposure for the coast behind them."
+     },
+     {
+      "k": "Livelihood and tourism",
+      "x": "Reef tourism and associated livelihoods decline with reef health, concentrating loss in island economies."
+     },
+     {
+      "k": "Response",
+      "x": "Marine protected areas, coral restoration and nurseries, land-based pollution control, and monitoring under the **Deep Ocean Mission**."
+     },
+     {
+      "k": "The real fix",
+      "x": "Local management buys time; only emission reduction addresses the cause."
+     },
+     {
+      "k": "Monitoring capacity",
+      "x": "Sustained reef and temperature monitoring is needed to distinguish recoverable bleaching from mortality."
+     },
+     {
+      "k": "Alternative livelihoods",
+      "x": "Mariculture and reef-safe tourism reduce pressure while retaining coastal incomes."
      }
     ]
    }
   ],
-  "conc": "Ocean warming is a slow-onset disaster for coastal ecology and fisheries resilience."
+  "conc": "Coral reefs are the ocean's early-warning system — their bleaching is a measurable signal that marine ecosystems are crossing thresholds faster than they can adapt."
  },
  "gs3-54": {
   "src": "docx",
@@ -4862,7 +5278,7 @@
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "The two criticisms",
     "p": [
      {
       "k": "EIA",
@@ -4877,31 +5293,81 @@
       "x": "PILs and the constitutional right to a healthy environment (Art. 21, 48A, 51A-g) empower public oversight."
      }
     ]
+   },
+   {
+    "h": "Reconciling rigour with speed",
+    "p": [
+     {
+      "k": "Fix appraisal quality",
+      "x": "Accredited consultants, standardised baseline data and public disclosure raise **EIA** credibility at the front end."
+     },
+     {
+      "k": "Shift effort to compliance",
+      "x": "Continuous emission monitoring, third-party audit and self-reporting with penalties move regulation from permission to performance."
+     },
+     {
+      "k": "Cumulative and strategic assessment",
+      "x": "Regional carrying-capacity studies decide what a landscape can take before individual projects are appraised."
+     }
+    ]
    }
   ],
   "wf": [
    "Balanced reform: Transparent, science-based, time-bound clearances; genuine public consultation; strong monitoring; and neither obstruction nor dilution."
   ],
-  "conc": "Effective environmental governance is a facilitator of sustainable development, not its adversary."
+  "conc": "India's environmental regulation is strong on permission and weak on performance — the reform is to trade front-loaded delay for continuous, enforced accountability."
  },
  "gs3-54-b0": {
   "src": "docx",
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Why pollution persists",
     "p": [
      {
       "k": "Persistence",
       "x": "Despite **~₹40,000 cr** Namami Gange, untreated sewage (the largest source), industrial effluent, low **STP** utilisation and non-perennial flow keep rivers polluted."
      },
      {
+      "k": "Sewage is the main load",
+      "x": "Domestic sewage, not industry, contributes most river pollution, and treatment capacity lags generation by a wide margin."
+     },
+     {
+      "k": "Plants without operation",
+      "x": "Built **STPs** frequently run below capacity or not at all for want of power, sewerage connection and operating funds."
+     },
+     {
+      "k": "Environmental flow",
+      "x": "Excessive abstraction for irrigation leaves too little flow to dilute or assimilate any load at all."
+     }
+    ]
+   },
+   {
+    "h": "Governance reforms needed",
+    "p": [
+     {
       "k": "Reforms",
       "x": "River-basin (not state-wise) governance, ensuring ecological flow, faecal-sludge management, decentralised treatment, and community 'Arth Ganga' stakes."
+     },
+     {
+      "k": "River-basin authority",
+      "x": "Governance must follow the basin rather than administrative boundaries, with binding allocation and quality standards."
+     },
+     {
+      "k": "Fund operation, not just capital",
+      "x": "Tie central assistance to measured treated-effluent quality rather than to plants commissioned."
+     },
+     {
+      "k": "Enforce industrial standards",
+      "x": "Real-time effluent monitoring with automatic penalties for grossly polluting industries."
+     },
+     {
+      "k": "Guarantee ecological flow",
+      "x": "Statutory minimum flows, reallocating irrigation abstraction where necessary."
      }
     ]
    }
   ],
-  "conc": "River rejuvenation needs basin-level governance and assured flow, not just treatment plants."
+  "conc": "Rivers stay polluted because treatment is measured in plants built rather than water cleaned — outcome-linked finance is the reform that would change that."
  },
  "gs3-55": {
   "directive": "examine",
@@ -5319,39 +5785,102 @@
   "src": "docx",
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Why the community is the first responder",
     "p": [
      {
       "k": "First responders",
       "x": "Communities are the true first responders; Aapda Mitra trains local volunteers in rescue, first-aid and evacuation."
      },
      {
+      "k": "The golden hour",
+      "x": "Most lives are saved in the first hours by neighbours, before any formal force arrives."
+     },
+     {
+      "k": "Local knowledge",
+      "x": "Communities know their own hazard history, escape routes and vulnerable residents better than any external agency."
+     },
+     {
+      "k": "Aapda Mitra",
+      "x": "Trains community volunteers in search, rescue and first aid across disaster-prone districts, creating a standing local capability."
+     }
+    ]
+   },
+   {
+    "h": "Institutionalising local capacity",
+    "p": [
+     {
       "k": "Local governance",
       "x": "PRIs/ULBs, village disaster plans and school safety build ground-up resilience aligned with the Sendai Framework (2015–30)."
+     },
+     {
+      "k": "Local government mandate",
+      "x": "Panchayats and ward committees must hold disaster-management plans, funds and drills — the tier the **2005 Act** engaged least."
+     },
+     {
+      "k": "Inclusive planning",
+      "x": "Women, elderly and disabled residents face distinct evacuation needs that generic plans miss."
+     },
+     {
+      "k": "Sendai alignment",
+      "x": "**Priority 4** on preparedness and 'Build Back Better' is delivered locally or not at all."
      }
     ]
    }
   ],
-  "conc": "Resilience is built bottom-up — empowered communities are the backbone of disaster preparedness."
+  "conc": "Disaster resilience is built at the ward and village level — national authorities can plan and fund it, but only the community can execute it in the first hour."
  },
  "gs3-60-b1": {
   "src": "docx",
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Prevention failure",
     "p": [
      {
       "k": "Prevention failure",
       "x": "Bhopal (1984), Vizag styrene (2020) and recurring factory blasts reflect lax safety audits, siting near habitation, and weak enforcement."
      },
      {
+      "k": "Regulatory capacity",
+      "x": "Factory inspectorates and pollution boards are understaffed relative to the number of hazardous units they must inspect."
+     },
+     {
+      "k": "Siting and encroachment",
+      "x": "Settlements grow around hazardous installations, eliminating the buffer zones that safety distances assume."
+     },
+     {
+      "k": "Safety culture",
+      "x": "Deferred maintenance, contract labour without training and unreported near-misses precede almost every major incident.",
+      "ex": "**Bhopal, 1984**; recurrent gas-leak incidents"
+     }
+    ]
+   },
+   {
+    "h": "The governance fix",
+    "p": [
+     {
       "k": "Governance fix",
       "x": "Rigorous inspections, off-site emergency plans, **MAH**-unit regulation, **PLI Act** insurance, and community right-to-know."
+     },
+     {
+      "k": "Statutory framework",
+      "x": "The **MSIHC Rules** and **Chemical Accidents Rules** require on-site and off-site plans that are frequently unrehearsed."
+     },
+     {
+      "k": "Independent process-safety audit",
+      "x": "Third-party audit with public disclosure of findings, rather than self-certification."
+     },
+     {
+      "k": "Land-use enforcement",
+      "x": "Statutory buffer zones enforced against encroachment in both directions."
+     },
+     {
+      "k": "Community right to know",
+      "x": "Residents around hazardous units need hazard information, alarm familiarity and rehearsed evacuation."
      }
     ]
    }
   ],
-  "conc": "Industrial safety is a governance and prevention challenge, not merely a response one."
+  "conc": "Industrial disasters are prevention failures with long warning periods — they are governed by inspection capacity and safety culture, not by response speed."
  },
  "gs3-61": {
   "directive": "examine",
@@ -5595,20 +6124,73 @@
   "src": "docx",
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "The hybrid spectrum",
     "p": [
      {
       "k": "Hybrid spectrum",
       "x": "Adversaries blend cyber-attacks, disinformation, economic coercion, proxies and limited kinetic action below the threshold of open war."
      },
      {
+      "k": "Definition",
+      "x": "Coordinated use of cyber, informational, economic, legal and kinetic instruments below the threshold of declared war."
+     },
+     {
+      "k": "Cyber operations",
+      "x": "Intrusion into critical infrastructure, data theft and ransomware deliver strategic effect with deniability."
+     },
+     {
+      "k": "Information operations",
+      "x": "Disinformation and deepfakes target societal cohesion and decision-making rather than military assets."
+     },
+     {
+      "k": "Economic instruments",
+      "x": "Supply-chain dependence, export controls and investment screening are used coercively."
+     },
+     {
+      "k": "Proxies",
+      "x": "Non-state actors and criminal networks provide deniability and complicate attribution."
+     }
+    ]
+   },
+   {
+    "h": "A whole-of-nation response",
+    "p": [
+     {
       "k": "Whole-of-nation",
       "x": "Integrated civil–military–private-sector response, resilient critical infrastructure, theatre commands, and societal preparedness."
+     },
+     {
+      "k": "The attribution problem",
+      "x": "Grey-zone action is designed to stay below the threshold that would justify response — the deliberate strategic ambiguity."
+     },
+     {
+      "k": "Institutional integration",
+      "x": "**Defence Cyber Agency**, **NCIIPC**, **CERT-In** and **NSCS** must operate as one system, not parallel agencies."
+     },
+     {
+      "k": "Societal resilience",
+      "x": "Media literacy, fact-checking capacity and public trust in institutions are defences no agency can substitute for."
+     },
+     {
+      "k": "Doctrine and thresholds",
+      "x": "Declared response thresholds and proportionate options deter probing better than case-by-case reaction."
+     },
+     {
+      "k": "International norms",
+      "x": "Working with partners on cyber norms and attribution builds collective cost for the aggressor."
+     },
+     {
+      "k": "Legal framework",
+      "x": "Clear domestic law on cyber operations and information warfare defines the state's own permissible response."
+     },
+     {
+      "k": "Exercise and readiness",
+      "x": "Cross-agency simulation of hybrid scenarios reveals the seams before an adversary finds them."
      }
     ]
    }
   ],
-  "conc": "Grey-zone threats demand a comprehensive national-security-strategy and whole-of-nation resilience."
+  "conc": "Hybrid warfare targets the seams between agencies and between state and society — India's defence must be as integrated as the attack is distributed."
  },
  "gs3-62": {
   "directive": "examine",
@@ -5767,7 +6349,7 @@
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "The strategy",
     "p": [
      {
       "k": "Technology-led surveillance",
@@ -5780,6 +6362,43 @@
      {
       "k": "Infrastructure catch-up",
       "x": "**BRO** roads, tunnels, and forward airfields to offset China's **LAC** infrastructure edge."
+     },
+     {
+      "k": "Differentiated threat",
+      "x": "The China border requires infrastructure and surveillance against a peer military; the Pakistan border requires counter-infiltration and anti-smuggling."
+     },
+     {
+      "k": "Border infrastructure",
+      "x": "Roads, tunnels and airstrips under **BRO** and the **India-China Border Roads** programme close a long-standing logistics asymmetry."
+     }
+    ]
+   },
+   {
+    "h": "Persistent constraints",
+    "p": [
+     {
+      "k": "Technology-led surveillance",
+      "x": "**CIBMS** integrates radar, thermal imaging, sensors and command centres for continuous monitoring where fencing is impractical."
+     },
+     {
+      "k": "Counter-drone layer",
+      "x": "Cross-border drone smuggling of weapons and narcotics required a dedicated detection and neutralisation grid."
+     },
+     {
+      "k": "Populated borders",
+      "x": "The **Vibrant Villages Programme** treats settled frontier villages as strategic assets, reversing out-migration through connectivity and livelihoods."
+     },
+     {
+      "k": "Terrain and climate",
+      "x": "High-altitude, riverine and desert stretches each defeat a single standard solution."
+     },
+     {
+      "k": "Unsettled boundary",
+      "x": "Differing perceptions of the **LAC** make patrolling itself a source of friction, requiring protocols alongside infrastructure."
+     },
+     {
+      "k": "Coordination",
+      "x": "Multiple forces, agencies and state governments operate in the same space, making unified command essential."
      }
     ]
    }
@@ -5787,26 +6406,80 @@
   "wf": [
    "Persistent gaps: Terrain, tunnels, drone incursions and riverine borders; needs anti-tunnel/anti-drone tech, better **BADP** delivery, and one-force-one-border clarity."
   ],
-  "conc": "Secure borders rest on technology, infrastructure and empowered border communities working together."
+  "conc": "Border management has shifted from manning a line to holding a region — infrastructure, surveillance and settled populations together do what fencing alone never could."
  },
  "gs3-66-b0": {
   "src": "docx",
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "How instability spills over",
     "p": [
      {
       "k": "Spillovers",
       "x": "Political churn in Bangladesh, Myanmar's civil war and porous borders enable refugee flows, arms/drug trafficking, insurgent sanctuaries and Chinese influence."
      },
      {
+      "k": "Refugee and migration pressure",
+      "x": "Political collapse or conflict displaces populations across porous borders, straining border states' resources and demography."
+     },
+     {
+      "k": "Arms and narcotics flow",
+      "x": "Weakened state control lets weapons and drugs move through routes insurgent groups also use."
+     },
+     {
+      "k": "Safe havens",
+      "x": "Ungoverned space across the frontier offers sanctuary to insurgent groups operating in India's north-east."
+     },
+     {
+      "k": "Radicalisation and trafficking",
+      "x": "Instability creates recruitment pools and trafficking networks that reach into Indian territory."
+     },
+     {
+      "k": "External exploitation",
+      "x": "Adversaries use neighbouring instability to acquire influence, ports and intelligence access along India's periphery."
+     }
+    ]
+   },
+   {
+    "h": "India's response",
+    "p": [
+     {
       "k": "Response",
       "x": "Border fencing, calibrated Free-Movement-Regime review, intelligence-sharing, and development diplomacy to stabilise the periphery."
+     },
+     {
+      "k": "Border management",
+      "x": "Fencing, surveillance and the review of free-movement arrangements balance security against legitimate cross-border kinship ties."
+     },
+     {
+      "k": "Engage broadly",
+      "x": "Contact across the political spectrum, army and civil society keeps relationships from depending on any one government."
+     },
+     {
+      "k": "Development diplomacy",
+      "x": "Connectivity, power and humanitarian assistance build stakes in stability.",
+      "ex": "**Neighbourhood First**; **BIMSTEC**"
+     },
+     {
+      "k": "Intelligence cooperation",
+      "x": "Joint mechanisms on terrorism, trafficking and counterfeit currency address shared rather than competing threats."
+     },
+     {
+      "k": "Internal resilience",
+      "x": "Development and political process in border states reduce the grievance external actors can exploit."
+     },
+     {
+      "k": "Diaspora and kinship ties",
+      "x": "Cross-border ethnic links are both a vulnerability and a channel of influence India can use constructively."
+     },
+     {
+      "k": "Multilateral anchoring",
+      "x": "Regional platforms give bilateral relationships a cushion when governments change."
      }
     ]
    }
   ],
-  "conc": "A stable neighbourhood is India's first security perimeter."
+  "conc": "India's internal security has an external perimeter — a stable neighbourhood is not charity but the cheapest form of border management."
  },
  "gs3-70": {
   "src": "docx",
@@ -5818,7 +6491,7 @@
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Roots of the conflict",
     "p": [
      {
       "k": "Roots",
@@ -5831,6 +6504,43 @@
      {
       "k": "Myanmar spillover",
       "x": "The porous border, Free-Movement Regime, ethnic kinship, and drug/arms flows from Myanmar's civil war fuel the conflict."
+     },
+     {
+      "k": "Land and identity",
+      "x": "Contested claims over hill and valley land, forest rights and settlement patterns underlie the ethnic divide."
+     },
+     {
+      "k": "Administrative asymmetry",
+      "x": "Differential arrangements for hill districts and the valley have long produced competing grievances over representation and resources."
+     }
+    ]
+   },
+   {
+    "h": "Security implications and the way forward",
+    "p": [
+     {
+      "k": "Trigger and escalation",
+      "x": "Disputed **Scheduled Tribe** status claims and demands for separate administration converted political contestation into violence."
+     },
+     {
+      "k": "Security implications",
+      "x": "Looted weapons, armed volunteer groups and ethnically segregated territory make restoration of ordinary policing extraordinarily difficult."
+     },
+     {
+      "k": "Myanmar spillover",
+      "x": "Post-coup instability, cross-border kinship and the review of the free-movement regime add an external dimension."
+     },
+     {
+      "k": "Narcotics and insurgency",
+      "x": "Poppy cultivation and trafficking finance armed groups and entrench the conflict economy."
+     },
+     {
+      "k": "Displacement",
+      "x": "Large-scale internal displacement and segregation harden the divide with every month it persists."
+     },
+     {
+      "k": "Way forward",
+      "x": "Impartial security response, disarmament, a credible political dialogue with all communities, and time-bound rehabilitation of the displaced."
      }
     ]
    }
@@ -5838,7 +6548,7 @@
   "wf": [
    "Durable peace: Impartial security, disarmament, inter-community dialogue and confidence-building, humanitarian rehabilitation, border management (fencing/**FMR** review), and addressing land/rights grievances."
   ],
-  "conc": "Lasting peace in the North-East needs reconciliation and inclusive development, not merely the restoration of order."
+  "conc": "Manipur's conflict is a land-and-identity dispute that violence has hardened into geography — restoring the state's neutrality is the precondition for any political settlement."
  },
  "gs3-65": {
   "src": "docx",
@@ -5850,7 +6560,7 @@
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "The evolving threat",
     "p": [
      {
       "k": "Evolving threat",
@@ -5863,6 +6573,43 @@
      {
       "k": "Scale",
       "x": "Cybercrime now accounts for a large and rising share of reported financial crime."
+     },
+     {
+      "k": "'Digital arrest' fraud",
+      "x": "Impersonation of police, customs or courts over video call, coercing victims into transferring funds under threat of arrest."
+     },
+     {
+      "k": "Transnational scam centres",
+      "x": "Organised compounds in South-East Asia, often staffed by trafficked workers, industrialise fraud at scale against Indian victims."
+     },
+     {
+      "k": "Mule-account networks",
+      "x": "Layered transfers through rented bank accounts and shell entities defeat conventional transaction monitoring."
+     }
+    ]
+   },
+   {
+    "h": "The institutional response",
+    "p": [
+     {
+      "k": "Reporting and freezing",
+      "x": "The **National Cybercrime Reporting Portal** and **1930** helpline enable rapid freezing of funds within the golden hour."
+     },
+     {
+      "k": "Coordination",
+      "x": "**I4C** coordinates across states, and the **Citizen Financial Cyber Fraud Reporting and Management System** links banks to police."
+     },
+     {
+      "k": "Federal constraint",
+      "x": "Police is a **State** subject while the crime is transnational — jurisdiction is the structural weakness."
+     },
+     {
+      "k": "Attribution difficulty",
+      "x": "Perpetrators operate outside Indian jurisdiction, requiring mutual legal assistance that moves far slower than the money."
+     },
+     {
+      "k": "Prevention",
+      "x": "Bank-level velocity checks, telecom action against spoofed numbers and sustained public awareness are the cheapest interventions."
      }
     ]
    }
@@ -5870,26 +6617,71 @@
   "wf": [
    "Strengthen response: Faster inter-bank/telecom coordination, international cooperation (extradition, scam-centre crackdowns), **KYC**/mule-account controls, capacity of state cyber-cells, and public awareness."
   ],
-  "conc": "Cyber-fraud is organised transnational crime at scale — countering it needs a networked, whole-of-government and international response."
+  "conc": "Cyber-fraud is organised transnational crime using a consumer interface — countering it needs financial-system controls and international cooperation more than local policing."
  },
  "gs3-65-b0": {
   "src": "docx",
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "The protection framework",
     "p": [
      {
       "k": "Framework",
       "x": "Power, banking, telecom, transport and health are **CII**; the **NCIIPC** (under Sec 70, **IT Act**) is the nodal protector; **CERT**-In handles incident response."
      },
      {
+      "k": "What CII means",
+      "x": "Infrastructure whose incapacitation would debilitate national security, economy, public health or safety — power, banking, telecom, transport, defence."
+     },
+     {
+      "k": "Statutory basis",
+      "x": "**Section 70** of the **IT Act, 2000** allows declaration of protected systems, with **NCIIPC** as the nodal agency."
+     },
+     {
+      "k": "Operational layer",
+      "x": "**CERT-In** handles incident response, with mandatory reporting of specified incidents within a fixed window."
+     },
+     {
+      "k": "Sectoral CERTs",
+      "x": "Power, banking and telecom have sector-specific response teams closer to the operators they serve."
+     }
+    ]
+   },
+   {
+    "h": "Persistent gaps",
+    "p": [
+     {
       "k": "Gaps",
       "x": "Legacy/unpatched systems, **IT-OT** convergence risks, supply-chain vulnerabilities, and skills shortage; needs mandatory audits, threat-sharing and a modern cyber-security law."
+     },
+     {
+      "k": "Legacy OT systems",
+      "x": "Industrial control and **SCADA** systems were designed for isolation, not for the internet connectivity now bolted onto them."
+     },
+     {
+      "k": "Supply-chain risk",
+      "x": "Imported hardware and firmware in critical networks create dependencies that cannot be audited after installation."
+     },
+     {
+      "k": "Private ownership",
+      "x": "Most critical infrastructure is privately operated, so security depends on incentives and mandates rather than direct control."
+     },
+     {
+      "k": "Skills and drills",
+      "x": "Shortage of **OT** security specialists and infrequent red-team exercises leave plans untested."
+     },
+     {
+      "k": "Convergence of threats",
+      "x": "State-sponsored intrusion and criminal ransomware increasingly use the same access routes, blurring the response model."
+     },
+     {
+      "k": "Public-private drills",
+      "x": "Joint sectoral exercises test whether declared plans work under live conditions."
      }
     ]
    }
   ],
-  "conc": "Protecting **CII** is foundational to economic and national security in a digital age."
+  "conc": "Critical infrastructure protection is a public-private problem — the state can set standards, but resilience is built in operator networks it does not own."
  },
  "gs3-67": {
   "src": "docx",
@@ -5901,12 +6693,29 @@
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "The strategic challenge",
     "p": [
      {
       "k": "Strategic challenges",
       "x": "**PLA**-Navy presence and dual-use ports, sea-lane vulnerability, undersea-cable/pipeline sabotage risk, and non-traditional threats (piracy, trafficking)."
      },
+     {
+      "k": "Chinese naval expansion",
+      "x": "Growing blue-water capability, dual-use port access and regular survey and research vessel deployments in the Indian Ocean."
+     },
+     {
+      "k": "Chokepoint dependence",
+      "x": "Trade and energy transit through **Hormuz**, **Bab-el-Mandeb** and **Malacca** makes sea-lane security an economic necessity."
+     },
+     {
+      "k": "Non-traditional threats",
+      "x": "Piracy, trafficking, illegal fishing and the maritime terror route demonstrated in **26/11**."
+     }
+    ]
+   },
+   {
+    "h": "India's maritime response",
+    "p": [
      {
       "k": "SAGAR → MAHASAGAR",
       "x": "India's vision has evolved from **SAGAR** (Security and Growth for All in the Region) to MAHASAGAR (Mutual and Holistic Advancement for Security and Growth Across Regions) — as net security provider and first responder (**HADR**, anti-piracy escorts)."
@@ -5914,6 +6723,26 @@
      {
       "k": "Coastal security",
       "x": "Post-26/11 three-tier architecture (Navy–Coast Guard–Marine Police), NC3I/Sagar network, and coastal radar chains."
+     },
+     {
+      "k": "From SAGAR to MAHASAGAR",
+      "x": "An evolution from regional security-and-growth to a broader vision of security and growth across the wider ocean region."
+     },
+     {
+      "k": "Capability and presence",
+      "x": "Mission-based deployments, indigenous carrier and submarine construction, and first-responder humanitarian assistance."
+     },
+     {
+      "k": "Domain awareness",
+      "x": "The **Information Fusion Centre-IOR** and white-shipping agreements build a shared maritime picture with partners."
+     },
+     {
+      "k": "Coastal security",
+      "x": "Layered surveillance by the Navy, Coast Guard and marine police with coastal radar chains after 26/11."
+     },
+     {
+      "k": "Partnerships",
+      "x": "**Quad** maritime cooperation, **IONS**, **Colombo Security Conclave** and bilateral logistics agreements extend reach."
      }
     ]
    }
@@ -5921,7 +6750,7 @@
   "wf": [
    "Strengthen: Maritime domain awareness (**IFC-IOR**), blue-water capability, port infrastructure, **IONS**/Colombo Security Conclave, and Quad maritime initiatives."
   ],
-  "conc": "As a resident **IOR** power, India's security and prosperity are inseparable from a free, open and stable maritime order."
+  "conc": "India's maritime strategy rests on being the region's preferred security partner — presence, domain awareness and assistance secure more than tonnage alone."
  },
  "gs3-68": {
   "src": "docx",
@@ -5933,7 +6762,7 @@
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "How terror financing has evolved",
     "p": [
      {
       "k": "Evolving methods",
@@ -5946,6 +6775,43 @@
      {
       "k": "FATF standing",
       "x": "India secured a favourable **FATF** Mutual Evaluation (2024), placing it among the better-performing regimes — strengthening its push for global counter-terror-financing norms."
+     },
+     {
+      "k": "Virtual assets",
+      "x": "Cryptocurrency, privacy coins and mixers move value across borders outside the correspondent banking system."
+     },
+     {
+      "k": "Trade-based laundering",
+      "x": "Over- and under-invoicing of legitimate trade disguises value transfer inside ordinary commerce."
+     }
+    ]
+   },
+   {
+    "h": "The counter-architecture",
+    "p": [
+     {
+      "k": "Hawala and cash couriers",
+      "x": "Informal value transfer persists precisely because it leaves no auditable trail."
+     },
+     {
+      "k": "Legal machinery",
+      "x": "**PMLA**, **UAPA** and the **NIA** provide investigation and asset-attachment powers across jurisdictions."
+     },
+     {
+      "k": "Financial intelligence",
+      "x": "**FIU-IND** analyses suspicious transaction reports; virtual-asset service providers are now reporting entities."
+     },
+     {
+      "k": "International standing",
+      "x": "**FATF** compliance and mutual evaluation shape both India's reputation and its pressure on others."
+     },
+     {
+      "k": "Enforcement gap",
+      "x": "Conviction rates lag attachments, and cross-border evidence collection remains slow relative to the speed of transfer."
+     },
+     {
+      "k": "Non-profit route",
+      "x": "Misuse of charitable and shell entities requires beneficial-ownership transparency."
      }
     ]
    }
@@ -5953,26 +6819,79 @@
   "wf": [
    "Stay ahead: Regulate VDAs, strengthen crypto-tracing, international information-sharing, choke narco-terror funds, and push the Comprehensive Convention on International Terrorism (**CCIT**)."
   ],
-  "conc": "Following and choking the money trail is among the most effective ways to dismantle terror networks."
+  "conc": "Terror financing follows the path of least regulation — countering it requires the regulatory perimeter to expand as fast as the technology does."
  },
  "gs3-68-b0": {
   "src": "docx",
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "The new vectors",
     "p": [
      {
       "k": "New vectors",
       "x": "Crypto, offshore betting/gaming apps and hawala-fintech hybrids move illicit value across borders instantly, outpacing regulation."
      },
      {
+      "k": "Virtual digital assets",
+      "x": "Pseudonymous wallets, cross-chain bridges and decentralised exchanges break the identity link that anti-money-laundering rules depend on."
+     },
+     {
+      "k": "Offshore gaming and betting",
+      "x": "Online platforms registered abroad process large volumes of Indian money outside domestic reporting obligations."
+     },
+     {
+      "k": "Fintech-hawala hybrids",
+      "x": "Legitimate payment rails layered over informal settlement networks give traditional hawala a digital front end."
+     },
+     {
+      "k": "Mule networks",
+      "x": "Rented accounts and shell entities fragment transfers below reporting thresholds."
+     }
+    ]
+   },
+   {
+    "h": "The AML response",
+    "p": [
+     {
       "k": "AML response",
       "x": "Bring **VDA** service-providers under **PMLA**, regulate offshore-gaming payments, strengthen **FIU** analytics, and global cooperation."
+     },
+     {
+      "k": "Bringing VASPs into the perimeter",
+      "x": "Virtual-asset service providers are reporting entities under the **PMLA**, with **KYC** and suspicious-transaction obligations."
+     },
+     {
+      "k": "Travel rule",
+      "x": "**FATF**'s requirement to transmit originator and beneficiary information with virtual-asset transfers closes the anonymity gap."
+     },
+     {
+      "k": "Blockchain analytics",
+      "x": "Chain-analysis capability lets investigators trace flows that were assumed untraceable."
+     },
+     {
+      "k": "Cross-border cooperation",
+      "x": "Offshore platforms require mutual legal assistance, platform-level cooperation and, where necessary, access blocking."
+     },
+     {
+      "k": "Capacity gap",
+      "x": "Investigators and prosecutors need technical training that current recruitment and posting patterns do not supply."
+     },
+     {
+      "k": "Regulatory clarity",
+      "x": "Taxation without a clear regulatory framework pushes activity offshore rather than into compliance."
+     },
+     {
+      "k": "Private-sector duty",
+      "x": "Exchanges and payment providers are the first line of detection and must be held to enforceable standards."
+     },
+     {
+      "k": "Decisive gap",
+      "x": "Cross-border information sharing on virtual-asset flows is the only route to tracing value that leaves the jurisdiction."
      }
     ]
    }
   ],
-  "conc": "The **AML** regime must evolve as fast as the technologies that launder money."
+  "conc": "Anti-money-laundering is a race between regulatory perimeter and financial innovation — India's task is to keep the perimeter one step behind the technology rather than a decade."
  },
  "gs3-71": {
   "src": "docx",
@@ -5984,7 +6903,7 @@
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "What the new laws require",
     "p": [
      {
       "k": "Tech-led investigation",
@@ -5997,6 +6916,43 @@
      {
       "k": "Transformation",
       "x": "Faster, evidence-based conviction; reduced reliance on confession; better inter-agency coordination."
+     },
+     {
+      "k": "Forensic mandate",
+      "x": "Compulsory forensic examination for offences carrying seven years or more makes scientific evidence the default, not the exception."
+     },
+     {
+      "k": "Digital-first procedure",
+      "x": "Electronic **FIR**, zero **FIR**, videographed search and seizure, and statutory investigation timelines."
+     }
+    ]
+   },
+   {
+    "h": "The enabling infrastructure",
+    "p": [
+     {
+      "k": "NAFIS",
+      "x": "The national fingerprint identification system enables cross-state matching of a suspect against a single database."
+     },
+     {
+      "k": "CCTNS and ICJS",
+      "x": "**CCTNS** links police stations nationally, while **ICJS** connects police, courts, prosecution, prisons and forensics into one chain."
+     },
+     {
+      "k": "Forensic capacity",
+      "x": "Laboratory throughput, mobile forensic vans and trained examiners are the binding constraint on the seven-year mandate."
+     },
+     {
+      "k": "Chain of custody",
+      "x": "Digital evidence demands documented handling and disclosure standards under the **BSA** to survive challenge."
+     },
+     {
+      "k": "Training and staffing",
+      "x": "Investigators must be trained in digital evidence, and investigation must be separated from law-and-order duty to allow specialisation."
+     },
+     {
+      "k": "Rights safeguard",
+      "x": "Expanded data collection needs proportionality safeguards consistent with **Puttaswamy**."
      }
     ]
    }
@@ -6004,7 +6960,7 @@
   "wf": [
    "Safeguards: Data-protection (**DPDP Act**), oversight against surveillance overreach, guarding against algorithmic bias, forensic-capacity build-up, and due-process/privacy (Puttaswamy) protections."
   ],
-  "conc": "Technology can make policing efficient and fair — but only within a rights-respecting framework that guards liberty."
+  "conc": "The new codes legislate a scientific criminal justice system — delivering it depends on laboratories, training and integration, not on the statute book."
  },
  "gs3-72": {
   "src": "docx",
@@ -6016,7 +6972,7 @@
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Dimensions of the nexus",
     "p": [
      {
       "k": "Dimensions",
@@ -6026,6 +6982,51 @@
       "k": "Threat impact",
       "x": "Youth addiction (",
       "ex": ", Punjab), radicalisation funding, and criminalisation of border economies."
+     },
+     {
+      "k": "Golden Crescent and Golden Triangle",
+      "x": "India sits between the world's two major opiate-producing regions, making it both a transit and a consumption market."
+     },
+     {
+      "k": "Narco-terror financing",
+      "x": "Drug proceeds fund weapons procurement and cadre payments for insurgent and terror groups."
+     },
+     {
+      "k": "Routes",
+      "x": "Maritime consignments, cross-border drone drops, courier networks and darknet marketplaces operate in parallel."
+     }
+    ]
+   },
+   {
+    "h": "Impact and response",
+    "p": [
+     {
+      "k": "Synthetic shift",
+      "x": "Methamphetamine and precursor-chemical diversion have partly displaced plant-based narcotics, complicating detection."
+     },
+     {
+      "k": "Institutional response",
+      "x": "**NCB** coordination, the **NDPS Act**, port and container scanning, and **NCORD** coordination across agencies."
+     },
+     {
+      "k": "Regional cooperation",
+      "x": "Maritime interdiction with partner navies and intelligence sharing with neighbours target the transit route."
+     },
+     {
+      "k": "Demand reduction",
+      "x": "**Nasha Mukt Bharat Abhiyaan** treats consumption as a public-health problem alongside enforcement."
+     },
+     {
+      "k": "Structural weakness",
+      "x": "Precursor-chemical regulation, port scanning coverage and inter-agency data sharing remain the exploitable gaps."
+     },
+     {
+      "k": "Rehabilitation capacity",
+      "x": "De-addiction infrastructure remains thin relative to the addicted population enforcement identifies."
+     },
+     {
+      "k": "Decisive gap",
+      "x": "Precursor-chemical control at source is cheaper and more effective than interdicting finished narcotics downstream."
      }
     ]
    }
@@ -6033,25 +7034,78 @@
   "wf": [
    "Coordinated response: **NCB**-led coordination, **NCORD** mechanism, drone-detection at borders, port/container scanning, financial-intelligence tracking, international cooperation (UNODC), and demand-reduction (de-addiction)."
   ],
-  "conc": "Breaking the narco-terror nexus needs a seamless security, financial and public-health response across borders and agencies."
+  "conc": "The narco-terror nexus converts addiction into insurgent finance — breaking it requires attacking money and demand, not merely seizing consignments."
  },
  "gs3-72-b0": {
   "src": "docx",
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "How the two converge",
     "p": [
      {
       "k": "Convergence",
       "x": "Terror groups use organised-crime networks (smuggling, extortion, counterfeiting, D-company-type syndicates) for logistics and funds; crime groups exploit terror-created instability."
      },
      {
+      "k": "Service relationship",
+      "x": "Criminal networks supply terror groups with weapons, forged documents, safe houses and money laundering as a paid service."
+     },
+     {
+      "k": "Shared infrastructure",
+      "x": "Both use the same smuggling routes, hawala channels and corrupt facilitators, making the networks operationally indistinguishable."
+     },
+     {
+      "k": "Transformation",
+      "x": "Groups migrate along a spectrum — ideological outfits adopting criminal financing, criminal syndicates adopting political cover."
+     },
+     {
+      "k": "Transnational reach",
+      "x": "Fugitive syndicates operating from abroad combine extortion, smuggling and terror facilitation across jurisdictions."
+     }
+    ]
+   },
+   {
+    "h": "The counter-response",
+    "p": [
+     {
       "k": "Response",
       "x": "Integrated intelligence, asset-seizure (**UAPA**/**PMLA**), extradition, and transnational cooperation to sever the crime-terror pipeline."
+     },
+     {
+      "k": "Follow the money",
+      "x": "Financial investigation and asset attachment under **PMLA** disrupt the shared infrastructure more effectively than arrests."
+     },
+     {
+      "k": "Legal instruments",
+      "x": "**UAPA**, **MCOCA**-type State legislation and **NIA** jurisdiction address the organised dimension."
+     },
+     {
+      "k": "Intelligence fusion",
+      "x": "**MAC**, **NATGRID** and state special branches must share across the crime-terror boundary that agencies are organised around."
+     },
+     {
+      "k": "International cooperation",
+      "x": "Extradition, Interpol notices and mutual legal assistance are essential where principals operate abroad."
+     },
+     {
+      "k": "Local prevention",
+      "x": "Community policing and youth employment reduce the recruitment pool both networks draw on."
+     },
+     {
+      "k": "Witness protection",
+      "x": "Prosecution of organised networks collapses without credible witness protection."
+     },
+     {
+      "k": "Asset recovery",
+      "x": "Confiscation and reinvestment of criminal proceeds removes the incentive that arrests alone leave intact."
+     },
+     {
+      "k": "Decisive gap",
+      "x": "Corruption of officials is the enabling link — internal vigilance is a counter-organised-crime instrument."
      }
     ]
    }
   ],
-  "conc": "The crime–terror continuum requires an equally integrated, cross-border enforcement response."
+  "conc": "Crime and terror converge at the level of logistics and finance — counter-strategy must therefore be organised around networks rather than around motives."
  }
 }

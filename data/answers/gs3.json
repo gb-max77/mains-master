@@ -914,37 +914,81 @@
   ]
  },
  "gs3-22": {
-  "src": "docx",
+  "directive": "examine",
   "intro": [
    {
     "t": "concept",
-    "x": "The 2026 India–US deal's agricultural market-opening (soybean oil, DDGs, tree nuts, apples) tested India's most sensitive red line — protecting ~45% of the workforce dependent on farming and its food security."
+    "x": "Agricultural market access was the hardest chapter of the 2026 trade negotiation because Indian farming is a **subsistence base for livelihoods**, not an export industry — a distinction the **WTO**'s subsidy architecture does not fully recognise."
    }
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Why liberalisation is sensitive",
     "p": [
      {
       "k": "Income vulnerability",
-      "x": "Subsidised imports from advanced economies (whose farm subsidies dwarf India's) can depress domestic prices, hitting small and marginal farmers' incomes."
+      "x": "Subsidised imports from advanced economies undercut prices for producers whose per-farmer support is a fraction of theirs.",
+      "ex": "Soybean oil, **DDGS**, tree nuts, apples"
      },
      {
-      "k": "Food & livelihood security",
-      "x": "Unlike commercial exporters, Indian farming is a subsistence base; liberalisation risks dairy, edible oil and cereal self-reliance."
+      "k": "Structural fragility",
+      "x": "About **89%** of holdings are small and marginal, so a price shock transmits directly to household consumption, not to a firm's balance sheet.",
+      "ex": "**NSS 2019**"
      },
      {
-      "k": "WTO asymmetry",
-      "x": "Developed nations' Green/Blue-box subsidies escape limits, while India's **MSP**/public stockholding faces the 10% de minimis Amber-box cap and the 'peace clause' dispute."
+      "k": "Dairy as the red line",
+      "x": "Dairy supports crores of landless and marginal households through cooperatives; import competition here is a livelihood question, not a tariff one."
+     }
+    ]
+   },
+   {
+    "h": "The WTO asymmetry",
+    "p": [
+     {
+      "k": "Box architecture",
+      "x": "**Green Box** support (decoupled, uncapped) suits rich countries; India's instruments fall in the trade-distorting **Amber Box**.",
+      "ex": "**PM-KISAN** is Green Box; **MSP** is Amber"
+     },
+     {
+      "k": "De minimis ceiling",
+      "x": "Developing members may give up to **10%** of production value as Amber support — a limit computed against outdated external reference prices."
+     },
+     {
+      "k": "Public stockholding",
+      "x": "Procurement for food security sits under a **Peace Clause** that is temporary and conditional; a permanent solution remains unagreed."
+     }
+    ]
+   },
+   {
+    "h": "India's strategy",
+    "p": [
+     {
+      "k": "Defend policy space",
+      "x": "Protect **MSP**, public stockholding and the right to calibrate tariffs, using tariff-rate quotas rather than blanket liberalisation."
+     },
+     {
+      "k": "Build competitiveness",
+      "x": "Productivity, quality standards, **GI** branding and value addition are the durable answer that tariffs cannot substitute for."
+     },
+     {
+      "k": "Reduce import dependence",
+      "x": "Missions on oilseeds and pulses attack the vulnerability at source.",
+      "ex": "**NMEO-Oilseeds (2024-31)**; **Mission for Aatmanirbharta in Pulses**"
      }
     ]
    }
   ],
   "wf": [
-   "Defend policy space: Pursue a permanent public-stockholding solution, special safeguard mechanism (**SSM**) for import surges, and tariff-rate quotas instead of blanket cuts.",
-   "Competitiveness: Raise productivity, value-addition and geographical-indication exports so trade becomes an opportunity, not a threat."
+   "Press for a permanent public-stockholding solution and reform of the reference-price formula at the **WTO**"
   ],
-  "conc": "India must integrate with world agriculture on its own terms — defending the farmer's livelihood while leveraging export strengths."
+  "conc": "India must integrate with world agriculture on its own terms — defending the smallholder's floor while competing on quality rather than on subsidy.",
+  "flash": [
+   "Green/Amber/Blue boxes; PM-KISAN vs MSP",
+   "de minimis 10% for developing members",
+   "Peace Clause temporary",
+   "~89% small & marginal (NSS 2019)",
+   "NMEO-Oilseeds; Pulses Mission"
+  ]
  },
  "gs3-22-b0": {
   "src": "docx",
@@ -1004,6 +1048,11 @@
      {
       "k": "Resource logic",
       "x": "In water-stressed belts, horticulture yields more income per drop than paddy — a rational response to falling water tables."
+     },
+     {
+      "k": "Policy signal",
+      "x": "Missions and cluster schemes have actively tilted incentives toward horticulture.",
+      "ex": "**MIDH**; **National Horticulture Mission**"
      }
     ]
    },
@@ -1112,36 +1161,88 @@
   ]
  },
  "gs3-25": {
-  "src": "docx",
+  "directive": "examine",
   "intro": [
    {
-    "t": "concept",
-    "x": "With extreme-weather events on the majority of days in 2025, climate volatility — erratic monsoons, heat stress, unseasonal rain — has become the single largest risk to Indian agriculture and food security."
+    "t": "data",
+    "x": "With extreme-weather events recorded on the majority of days in 2025, climate volatility — erratic monsoon, heat stress, unseasonal rain — is now the **central operating risk** of Indian agriculture, not a tail risk."
    }
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "How volatility transmits to the farm",
+    "p": [
+     {
+      "k": "Yield shocks",
+      "x": "Terminal heat during grain-filling and unseasonal rain at harvest cut both yield and grade, hitting realised price twice."
+     },
+     {
+      "k": "Rainfed exposure",
+      "x": "Roughly half the net sown area is unirrigated, so monsoon distribution — not just quantity — decides the season."
+     },
+     {
+      "k": "Water stress",
+      "x": "Erratic rainfall pushes farmers deeper onto groundwater, converting a climate shock into an aquifer problem.",
+      "ex": "**CGWB** flags Punjab-Haryana depletion"
+     },
+     {
+      "k": "Pest and disease shift",
+      "x": "Warming expands pest ranges and generations per season, raising input costs and residue risk."
+     }
+    ]
+   },
+   {
+    "h": "The resilience toolkit",
     "p": [
      {
       "k": "Resilient genetics",
-      "x": "Climate-resilient, heat/drought/flood-tolerant and short-duration varieties (109 released in 2024; genome-edited rice) reduce yield loss."
+      "x": "Heat, drought and flood-tolerant, short-duration varieties shorten exposure windows.",
+      "ex": "**ICAR** climate-resilient varieties; **NICRA**"
      },
      {
-      "k": "Insurance reform",
-      "x": "**PMFBY** with tech (satellite/drone-based yield estimation, DigiClaim) to speed settlement and cut basis risk."
+      "k": "Insurance that pays fast",
+      "x": "**PMFBY** with satellite and drone-based yield estimation and **DigiClaim** shortens the claim cycle that determines whether insurance actually smooths income."
      },
      {
-      "k": "Adaptive practices",
-      "x": "Realigned cropping calendars, agro-advisories, micro-irrigation and crop diversification to agro-climatic zones."
+      "k": "Adaptive agronomy",
+      "x": "Realigned sowing calendars, agro-advisories, micro-irrigation and crop diversification away from water-intensive staples."
+     },
+     {
+      "k": "Soil as buffer",
+      "x": "Organic carbon restoration raises water-holding capacity — the cheapest available drought insurance."
+     }
+    ]
+   },
+   {
+    "h": "Systemic gaps",
+    "p": [
+     {
+      "k": "Advisory last mile",
+      "x": "Forecasts exist, but block-level actionable advisories reach only a fraction of farmers.",
+      "ex": "**Bharat-VISTAAR**; Krishi-DSS"
+     },
+     {
+      "k": "Insurance coverage",
+      "x": "Tenant and oral-lease cultivators — the most exposed — are largely outside **PMFBY** because they cannot prove cultivation."
+     },
+     {
+      "k": "Fiscal exposure",
+      "x": "Recurrent relief and loan waivers substitute for adaptation, crowding out the capital investment that would reduce future losses."
      }
     ]
    }
   ],
   "wf": [
-   "Systemic resilience: Scale climate-resilient villages, restore soil carbon (natural farming), strengthen the Weather Watch/Mission Mausam early-warning, and mainstream **NICRA** research."
+   "Scale climate-resilient village clusters, link agro-advisories to insurance triggers, and bring tenants into **PMFBY** through the crop-sown registry"
   ],
-  "conc": "Climate-proofing agriculture is central to protecting rural livelihoods and national food security in a warming world."
+  "conc": "Climate-proofing agriculture is now the core of rural income security — adaptation must move from scheme pilots to the default design of every farm intervention.",
+  "flash": [
+   "extreme weather on most days, 2025",
+   "~50% net sown area rainfed",
+   "NICRA + ICAR resilient varieties",
+   "PMFBY DigiClaim; tenants excluded",
+   "soil carbon = cheapest drought insurance"
+  ]
  },
  "gs3-25-b0": {
   "src": "docx",
@@ -1163,32 +1264,60 @@
   "conc": "Risk must be managed across the value chain — insurance is one layer, not the whole shield."
  },
  "gs3-26": {
-  "src": "docx",
+  "directive": "discuss",
   "intro": [
    {
-    "t": "concept",
-    "x": "**The National Mission** on Natural Farming (**₹2,481 cr**, **~1 cr** farmers, 15,000 clusters) promotes chemical-free, low-cost, agro-ecological farming to restore soil and cut import-dependent input costs."
+    "t": "data",
+    "x": "The **National Mission on Natural Farming** (**₹2,481 cr**, targeting about **1 crore** farmers across 15,000 clusters) promotes chemical-free, livestock-based farming as a route to lower costs and restored soils."
    }
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "The promise",
     "p": [
      {
-      "k": "Cost & ecology",
-      "x": "Eliminating synthetic fertiliser/pesticide (using Jeevamrit/Beejamrit) lowers cultivation cost and restores soil microbiome, water retention and carbon."
+      "k": "Input-cost collapse",
+      "x": "Replacing synthetic fertiliser and pesticide with on-farm **Jeevamrit** and **Beejamrit** cuts the largest cash outgo and the debt built on it."
      },
      {
-      "k": "Farmer resilience",
-      "x": "Lower input debt reduces distress; premium/organic markets and **GI** branding add value."
+      "k": "Soil restoration",
+      "x": "Microbial activity, organic carbon and water-holding capacity recover, reducing irrigation demand."
+     },
+     {
+      "k": "Market premium",
+      "x": "Certified chemical-free and **GI**-branded produce commands price premia in domestic and export markets."
+     }
+    ]
+   },
+   {
+    "h": "The constraints",
+    "p": [
+     {
+      "k": "Transition yield dip",
+      "x": "Yields typically fall in the early years; without bridging support, smallholders cannot absorb the gap."
+     },
+     {
+      "k": "Evidence contested",
+      "x": "Long-term, replicated yield data remain thin, so scaling ahead of evidence risks food-security trade-offs."
+     },
+     {
+      "k": "Livestock dependence",
+      "x": "The model presumes cattle for inputs, which landless and small farmers may not own."
      }
     ]
    }
   ],
   "wf": [
-   "Yield-transition risk: Initial yield dips deter adoption; needs rigorous evidence, hand-holding, certification (**PGS**/Jaivik Bharat), and market assurance before mass scaling."
+   "Fund the transition period, build rigorous long-term trials, and pair adoption with certification and assured procurement"
   ],
-  "conc": "Natural farming can align productivity with sustainability — but must be scaled on science, not faith, to protect food security."
+  "conc": "Natural farming can align productivity with sustainability, but it must be scaled on evidence and support — not on enthusiasm alone.",
+  "flash": [
+   "NMNF ₹2,481 cr, ~1 cr farmers",
+   "Jeevamrit/Beejamrit replace inputs",
+   "transition yield dip is the barrier",
+   "livestock dependence excludes landless",
+   "certification gap kills the premium"
+  ]
  },
  "gs3-26-b0": {
   "src": "docx",
@@ -1210,168 +1339,411 @@
   "conc": "**IFS** turns the small farm into a resilient, circular income system."
  },
  "gs3-30": {
-  "src": "docx",
+  "directive": "examine",
   "intro": [
    {
-    "t": "concept",
-    "x": "India is the world's largest groundwater extractor (~250 bcm/yr); agriculture uses ~80% of water, much of it wasted through flood irrigation of water-intensive paddy/sugarcane in water-scarce regions."
+    "t": "data",
+    "x": "Agriculture consumes roughly **80%** of India's water and the country is the world's largest groundwater extractor — so irrigation efficiency, not supply augmentation, is the binding constraint."
    }
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "The twin challenges",
+    "p": [
+     {
+      "k": "Groundwater over-draft",
+      "x": "Extraction exceeds recharge across the north-west, converting a renewable buffer into a mined resource.",
+      "ex": "**CGWB**: Punjab's stage of extraction above **150%**"
+     },
+     {
+      "k": "Flood irrigation losses",
+      "x": "Canal and flood methods lose water to conveyance and evaporation before it reaches the root zone."
+     },
+     {
+      "k": "Crop-water mismatch",
+      "x": "Paddy and sugarcane are grown where water is scarcest, driven by assured procurement and subsidised power rather than by hydrology."
+     }
+    ]
+   },
+   {
+    "h": "The response",
     "p": [
      {
       "k": "Micro-irrigation",
-      "x": "Per-Drop-More-Crop (**PMKSY**) drip/sprinkler raises water-use efficiency 40–60%; the Micro-Irrigation Fund expands coverage."
+      "x": "**Per Drop More Crop** under **PMKSY** funds drip and sprinkler, raising water-use efficiency substantially where adopted."
      },
      {
-      "k": "PMKSY pillars",
-      "x": "Accelerated Irrigation Benefit, watershed development, and command-area development to close the irrigation-potential gap."
+      "k": "Command-area and watershed",
+      "x": "PMKSY's other pillars — accelerated irrigation benefit, watershed development and command-area development — address conveyance and recharge."
      },
      {
-      "k": "Supply augmentation",
-      "x": "Reservoir/tank rejuvenation, aquifer recharge (Atal Bhujal in over-exploited blocks) and rainwater harvesting."
+      "k": "Participatory aquifer management",
+      "x": "**Atal Bhujal Yojana** makes the community the manager of a shared aquifer, with data-based water budgeting."
+     },
+     {
+      "k": "Solar pumping done right",
+      "x": "**PM-KUSUM** cuts diesel cost and emissions, but without metering it can worsen extraction — the incentive must be paired with a buy-back for saved power."
+     }
+    ]
+   },
+   {
+    "h": "What is still missing",
+    "p": [
+     {
+      "k": "Pricing and metering",
+      "x": "Rational power pricing or direct benefit transfer for electricity is the reform every committee recommends and few states attempt."
+     },
+     {
+      "k": "Crop realignment",
+      "x": "Shifting paddy from the north-west toward the eastern belt with matching procurement is the structural fix.",
+      "ex": "Punjab's maize diversification push"
+     },
+     {
+      "k": "Measurement",
+      "x": "Without aquifer-level monitoring and volumetric accounting, efficiency gains are rebounded into expanded area rather than saved water."
      }
     ]
    }
   ],
   "wf": [
-   "Perverse incentives: Free/subsidised farm power drives over-pumping; reform via metering, **DBT**-for-power (Paddy-diversification/**DSR**), solar pumps (PM-KUSUM) and rational water pricing.",
-   "Crop realignment: Shift paddy from Punjab/Haryana toward less thirsty millets/pulses."
+   "Combine micro-irrigation with volumetric measurement and power-pricing reform, or efficiency gains will be absorbed by area expansion"
   ],
-  "conc": "Aligning cropping and pricing with water endowment is essential for 'more crop per drop' and long-term food security."
+  "conc": "Aligning cropping and pricing with the water endowment is the only durable route to 'more crop per drop' — technology alone cannot outrun a free-input incentive.",
+  "flash": [
+   "agriculture ~80% of water use",
+   "Punjab extraction >150%",
+   "PMKSY Per Drop More Crop; Atal Bhujal",
+   "PM-KUSUM without metering = risk",
+   "rebound effect needs volumetric accounting"
+  ]
  },
  "gs3-27": {
-  "src": "docx",
+  "directive": "examine",
   "intro": [
    {
     "t": "concept",
-    "x": "Insecure and opaque land records — a legacy of incomplete land reforms — lock up rural capital; **DILRMP**, SVAMITVA and model tenancy laws aim to convert land into a bankable, investable asset."
+    "x": "Insecure and presumptive land records — the unfinished business of land reform — immobilise rural capital; **DILRMP** and **SVAMITVA** attempt to convert possession into bankable, provable title."
    }
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "What digitisation delivers",
     "p": [
      {
-      "k": "Digitised titles",
-      "x": "**DILRMP**'s **ULPIN** ('Bhu-Aadhaar') and SVAMITVA property cards (**~2.4 cr** issued) reduce disputes and enable collateralised credit."
+      "k": "Unique parcel identity",
+      "x": "**ULPIN** ('Bhu-Aadhaar') gives every parcel a permanent geo-referenced identifier, ending the ambiguity that fuels litigation."
      },
      {
-      "k": "Tenancy security",
-      "x": "**The Model Agricultural Land Leasing Act** legalises leasing so tenants access credit/insurance while owners retain rights — unlocking fallow land."
+      "k": "Rights where none were recorded",
+      "x": "**SVAMITVA** drone survey of inhabited village land issues property cards for homesteads that never had records."
      },
      {
-      "k": "Investment unlock",
-      "x": "Clear titles crowd in private investment, consolidation and mechanisation."
+      "k": "Credit unlock",
+      "x": "Verifiable title converts land from a dead asset into collateral, enabling formal credit at lower cost."
+     },
+     {
+      "k": "Litigation reduction",
+      "x": "A very large share of civil litigation is land-related; authoritative records attack the source rather than the symptom."
+     }
+    ]
+   },
+   {
+    "h": "Why tenancy reform must accompany it",
+    "p": [
+     {
+      "k": "The invisible cultivator",
+      "x": "Oral and concealed tenancy leaves the actual tiller off the record, and therefore outside credit, insurance and disaster relief."
+     },
+     {
+      "k": "Legalise to record",
+      "x": "The **NITI Aayog Model Agricultural Land Leasing Act** legalises leasing so tenants gain documented rights without owners fearing loss of title."
+     },
+     {
+      "k": "Historical lesson",
+      "x": "Where tenants were actually recorded, security followed; where reform stopped at statute, it did not.",
+      "ex": "**Operation Barga**, West Bengal; **Kerala 1969**"
+     },
+     {
+      "k": "Consolidation gains",
+      "x": "Recorded, consolidated holdings enable mechanisation and irrigation economies.",
+      "ex": "Punjab and Haryana consolidation"
+     }
+    ]
+   },
+   {
+    "h": "Remaining gaps",
+    "p": [
+     {
+      "k": "Presumptive, not conclusive",
+      "x": "Indian records evidence possession, not guaranteed ownership — conclusive titling with a state guarantee remains the unfinished step."
+     },
+     {
+      "k": "Data quality and exclusion",
+      "x": "Digitising an inaccurate register entrenches the error; women's and tribal customary rights are frequently unrecorded."
+     },
+     {
+      "k": "Alienation risk",
+      "x": "In **Fifth Schedule** areas, formalisation without **PESA** safeguards can accelerate land transfer away from tribal owners."
      }
     ]
    }
   ],
   "wf": [
-   "Lessons from history: Earlier land reforms (tenancy, ceiling, consolidation) succeeded unevenly (Kerala, **WB**) — implementation and political will, not statute, were decisive.",
-   "Conclusive titling: Move from presumptive to conclusive titles with dispute-resolution and **GIS** mapping."
+   "Move to conclusive titling with dispute resolution and a state guarantee; record tenants and women co-owners as a condition of digitisation"
   ],
-  "conc": "Secure land rights are the missing foundation of agricultural credit, investment and dignity."
+  "conc": "Secure, recorded land rights are the missing foundation of agricultural credit and investment — the reform that makes every other farm scheme work.",
+  "flash": [
+   "DILRMP + ULPIN Bhu-Aadhaar",
+   "SVAMITVA drone survey property cards",
+   "Model Land Leasing Act; Operation Barga",
+   "presumptive → conclusive titling",
+   "PESA safeguards in Fifth Schedule"
+  ]
  },
  "gs3-28": {
-  "src": "docx",
+  "directive": "examine",
   "intro": [
    {
-    "t": "concept",
-    "x": "Food processing bridges farm and factory — raising farmer incomes, cutting the **~₹1.5 lakh** cr post-harvest losses, and generating non-farm rural jobs — yet India processes barely ~10% of its produce."
+    "t": "data",
+    "x": "Food processing converts perishable surplus into stored value — addressing post-harvest losses estimated at over **₹1.5 lakh crore** a year while creating rural non-farm employment."
    }
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Why it is the critical link",
     "p": [
      {
-      "k": "Scope",
-      "x": "A ~$**500 bn** sector opportunity; value-addition, exports and demand for horticulture/dairy/marine make it a sunrise sector."
-     },
-     {
-      "k": "Scheme thrust",
-      "x": "**PLI-FPI** (**₹10,900 cr**) rewards scale and branding; **PM** Kisan SAMPADA funds mega food parks, cold chains and agro-processing clusters; **PMFME** formalises micro-enterprises (One-District-One-Product)."
+      "k": "Farm-gate value capture",
+      "x": "Processing raises realisation per unit and shifts the farmer from price-taker on a perishable to supplier of a storable input."
      },
      {
       "k": "Employment multiplier",
-      "x": "Labour-intensive and rural-located, it absorbs surplus farm labour."
+      "x": "Labour-intensive and rurally located, it absorbs surplus farm labour without requiring migration."
+     },
+     {
+      "k": "Demand-side pull",
+      "x": "Urbanisation and dietary diversification are expanding ready-to-cook, dairy and horticultural demand faster than staple demand."
+     },
+     {
+      "k": "Export orientation",
+      "x": "Processed and value-added exports earn more per tonne and are less exposed to raw-commodity price cycles."
      }
     ]
-   }
-  ],
-  "wf": [
-   "Bottlenecks: Fragmented supply, cold-chain gaps, credit and skill shortages, and quality/standard compliance.",
-   "Fixes: **FPO**-backbone aggregation, farm-gate infrastructure, **MSME** credit, and market linkage."
-  ],
-  "conc": "A robust food-processing chain is the surest route to doubling farmer incomes and rural industrialisation."
- },
- "gs3-29": {
-  "src": "docx",
-  "intro": [
+   },
    {
-    "t": "concept",
-    "x": "**PMGKAY** provides free foodgrains to **~80 cr** people (extended to 2028) — a formidable food-security shield, but one that raises fiscal (**~₹2 lakh** cr/yr) and nutritional-adequacy questions."
-   }
-  ],
-  "body": [
-   {
-    "h": "Core dimensions",
+    "h": "The value chain and its gaps",
     "p": [
      {
-      "k": "Achievement",
-      "x": "The **NFSA** + **PMGKAY** safety net prevented hunger during **COVID** and shocks — a rights-based entitlement (Art. 21)."
+      "k": "Sourcing and aggregation",
+      "x": "Cooperative and **FPO** aggregation is what makes smallholder supply bankable for a processor.",
+      "ex": "**Amul**'s village dairy procurement; SAFAL"
      },
      {
-      "k": "Fiscal weight",
-      "x": "Open-ended free grain plus rising **MSP** procurement strains the food subsidy and **FCI**'s finances; buffer stocks often exceed norms."
+      "k": "Cold chain and post-harvest",
+      "x": "Pack houses, reefer transport and grading are the weakest link — losses concentrate between farm and first mile."
      },
      {
-      "k": "Nutrition gap",
-      "x": "Cereal-centric **PDS** delivers calories but not protein/micronutrients — India carries a high malnutrition and anaemia burden (**NFHS-5**)."
+      "k": "Scheme architecture",
+      "x": "**PLI-FPI** rewards scale and branding, **PMFME** formalises micro-units, and **PMKSY** funds cold chains and mega food parks."
+     },
+     {
+      "k": "Structural constraints",
+      "x": "Fragmented supply, credit access, skill shortage and inconsistent quality standards deter investment in the mid-segment."
+     }
+    ]
+   },
+   {
+    "h": "Making it inclusive",
+    "p": [
+     {
+      "k": "Micro-enterprise route",
+      "x": "**One District One Product** under PMFME lets small units enter without competing with large branded players."
+     },
+     {
+      "k": "Standards and traceability",
+      "x": "**FSSAI** compliance and traceability are the entry ticket to organised retail and export markets."
+     },
+     {
+      "k": "Market linkage",
+      "x": "E-commerce and quick-commerce channels shorten the chain, but require packaging and shelf-life capability small units often lack."
      }
     ]
    }
   ],
   "wf": [
-   "Calorie → nutrition: Fortified rice, millets (Shree Anna) and pulses/oil in **PDS**; converge with **POSHAN** Abhiyaan and mid-day meals.",
-   "Efficiency: **DBT**/cash-choice pilots, **ONORC** portability, and procurement diversification beyond wheat/paddy."
+   "Build farm-gate infrastructure and **FPO**-led aggregation first — processing capacity without assured, graded supply runs below capacity"
   ],
-  "conc": "Food security must evolve from filling stomachs to nourishing bodies — nutrition security is the next frontier."
+  "conc": "Food processing is the surest route from raising production to raising incomes — it converts an agricultural surplus into a rural industrial base.",
+  "flash": [
+   "post-harvest loss >₹1.5 lakh cr",
+   "PLI-FPI + PMFME + PMKSY",
+   "Amul/SAFAL aggregation model",
+   "cold chain = weakest link",
+   "ODOP; FSSAI traceability"
+  ]
  },
- "gs3-31": {
-  "src": "docx",
+ "gs3-29": {
+  "directive": "critically examine",
   "intro": [
    {
-    "t": "concept",
-    "x": "With a dedicated Ministry of Cooperation (2021) and the 'Sahkar se Samriddhi' vision, cooperatives and FPOs are being revitalised as vehicles to give India's ~86% small/marginal farmers scale and bargaining power."
+    "t": "data",
+    "x": "**PMGKAY** provides free foodgrain to about **81 crore** people, extended to **2028** — the world's largest food-security programme, and a growing claim on the food subsidy bill."
    }
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "What it achieves",
+    "p": [
+     {
+      "k": "Hunger prevention",
+      "x": "The **NFSA**-plus-PMGKAY floor demonstrably prevented mass hunger during the pandemic and subsequent price shocks."
+     },
+     {
+      "k": "Price stabilisation",
+      "x": "Buffer operations, **OMSS** and Bharat Brand retail interventions moderate cereal inflation for consumers."
+     },
+     {
+      "k": "Farmer support linkage",
+      "x": "Assured **MSP** procurement for the central pool gives producers a guaranteed market against distress sales."
+     },
+     {
+      "k": "Portability",
+      "x": "**ONORC** now enables ration access anywhere in the country — decisive for migrant households."
+     }
+    ]
+   },
+   {
+    "h": "Fiscal and design concerns",
+    "p": [
+     {
+      "k": "Open-ended cost",
+      "x": "Free grain plus rising procurement and carrying costs make the food subsidy structurally rigid and hard to unwind."
+     },
+     {
+      "k": "Targeting on stale data",
+      "x": "Coverage still rests on the **2011** Census-linked base, so both exclusion of the newly poor and inclusion of the ineligible persist."
+     },
+     {
+      "k": "Leakage",
+      "x": "Despite digitisation, a significant share of allocated grain does not reach intended beneficiaries."
+     },
+     {
+      "k": "Production distortion",
+      "x": "Guaranteed procurement of rice and wheat entrenches a water-intensive cropping pattern in already depleted basins."
+     }
+    ]
+   },
+   {
+    "h": "The nutrition gap",
+    "p": [
+     {
+      "k": "Calories, not nutrition",
+      "x": "A cereal-centric basket delivers energy but not protein and micronutrients — India's deficits are of quality, not quantity."
+     },
+     {
+      "k": "Corrective steps",
+      "x": "Fortified rice across states, and millets under **Shree Anna**, begin to diversify the basket."
+     },
+     {
+      "k": "Beyond grain",
+      "x": "Pulses and edible oil in the basket, and convergence with **POSHAN** and school meals, address the deficit where it actually sits."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Update the beneficiary base with fresh enumeration, diversify the basket toward pulses and millets, and pilot cash-choice in surplus states"
+  ],
+  "conc": "Food security must evolve from filling stomachs to nourishing bodies — the next reform is nutritional, not quantitative.",
+  "flash": [
+   "~81 cr beneficiaries; PMGKAY to 2028",
+   "OMSS + Bharat Brand price stabilisation",
+   "2011-base targeting error",
+   "ONORC portability",
+   "fortified rice + Shree Anna millets"
+  ]
+ },
+ "gs3-31": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "With a dedicated **Ministry of Cooperation (2021)** and the **'Sahkar se Samriddhi'** vision, cooperatives are being repositioned from a legacy credit channel into the aggregation backbone of smallholder agriculture."
+   }
+  ],
+  "body": [
+   {
+    "h": "The revitalisation agenda",
     "p": [
      {
       "k": "PACS modernisation",
-      "x": "Computerisation of ~63,000 **PACS** and multi-service model bye-laws turn them into rural business hubs (credit, storage, fertiliser, **CSC**)."
+      "x": "Computerisation of about **63,000 PACS** onto a common platform, with model bye-laws letting them run over two dozen services beyond credit."
      },
      {
       "k": "Decentralised storage",
-      "x": "The **₹1 lakh** cr 'world's largest grain-storage plan' builds godowns at **PACS** level — cutting transport cost and post-harvest loss."
+      "x": "The **₹1 lakh crore** grain-storage plan builds godowns at PACS level so farmers can store rather than sell at harvest-time lows."
      },
      {
-      "k": "FPO aggregation",
-      "x": "The 10,000-**FPO** scheme aggregates produce, enabling collective input purchase, machinery and market access."
+      "k": "New national bodies",
+      "x": "National-level cooperatives for exports, organic produce and seeds give primary societies a market beyond the district."
+     },
+     {
+      "k": "FPO convergence",
+      "x": "The **10,000 FPO** scheme aggregates produce for collective input purchase, grading and bargaining."
+     }
+    ]
+   },
+   {
+    "h": "Why aggregation matters",
+    "p": [
+     {
+      "k": "Countering fragmentation",
+      "x": "With the overwhelming majority of holdings small and marginal, scale can only be achieved horizontally through collectives."
+     },
+     {
+      "k": "Demonstrated model",
+      "x": "Dairy cooperatives show what integration from procurement to brand can deliver for smallholder incomes.",
+      "ex": "**Amul**; the Anand pattern"
+     },
+     {
+      "k": "Market power",
+      "x": "Collectives shift the farmer from price-taker to negotiator in input, credit and output markets."
+     }
+    ]
+   },
+   {
+    "h": "Persistent weaknesses",
+    "p": [
+     {
+      "k": "Governance capture",
+      "x": "Elite and political capture of boards, delayed elections and weak audit remain the sector's chronic ailment."
+     },
+     {
+      "k": "Regional skew",
+      "x": "Cooperative strength is concentrated in a few western and southern states; the east and north-east are institutionally thin."
+     },
+     {
+      "k": "Professionalisation deficit",
+      "x": "Boards need managerial and market capability, not only representation, to run multi-service enterprises."
+     },
+     {
+      "k": "Dependence on the state",
+      "x": "Excessive registrar control undermines the autonomy that makes a cooperative a member institution rather than an agency."
      }
     ]
    }
   ],
   "wf": [
-   "Governance: Professionalise management, ensure transparency/audit, and prevent elite capture and political interference."
+   "Professionalise management, enforce timely elections and independent audit, and expand cooperative depth in the eastern states"
   ],
-  "conc": "Cooperation converts smallholder fragmentation into collective strength — 'prosperity through cooperation'."
+  "conc": "Cooperation converts smallholder fragmentation into collective strength — but prosperity through cooperation requires member control, not merely state promotion.",
+  "flash": [
+   "Ministry of Cooperation 2021",
+   "63,000 PACS computerised; multi-service bye-laws",
+   "₹1 lakh cr decentralised storage",
+   "10,000 FPO scheme",
+   "Amul/Anand pattern; governance capture"
+  ]
  },
  "gs3-31-b0": {
   "src": "docx",
@@ -1393,32 +1765,56 @@
   "conc": "Marketing reform shifts price-making power toward the farmer."
  },
  "gs3-32": {
-  "src": "docx",
+  "directive": "examine",
   "intro": [
    {
-    "t": "concept",
-    "x": "The Namo Drone Didi scheme (**₹1,261 cr**) equips ~15,000 women SHGs with agri-drones — merging precision agriculture with women's economic empowerment."
+    "t": "data",
+    "x": "**Namo Drone Didi** (**₹1,261 crore**) equips around **15,000** women's **SHGs** with agri-drones — coupling precision agriculture with a rural service-enterprise model."
    }
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Agricultural gains",
     "p": [
      {
-      "k": "Precision & productivity",
-      "x": "Drones enable uniform spraying, seeding and crop monitoring, cutting input use, water and labour while raising efficiency."
+      "k": "Precision application",
+      "x": "Uniform aerial spraying cuts chemical and water use per acre and reduces the farmer's direct exposure to pesticide."
      },
      {
-      "k": "Women's empowerment",
-      "x": "SHGs earn rental/service income as drone pilots ('Drone Didis'), gaining skills, assets and agency in a male-dominated field."
+      "k": "Speed and timeliness",
+      "x": "Large areas can be covered in the narrow window when pest control or nutrient spray is effective."
+     }
+    ]
+   },
+   {
+    "h": "Livelihood and equity gains",
+    "p": [
+     {
+      "k": "Service enterprise",
+      "x": "SHGs earn rental and service income as drone operators, moving women from farm labour into a technology service business."
+     },
+     {
+      "k": "Status and agency",
+      "x": "Operating high-value equipment shifts women's standing within the household and the village economy."
+     },
+     {
+      "k": "Enablers required",
+      "x": "Training, repair and spares ecosystems, credit for the asset, and eased **DGCA** rules determine whether the drone flies after year one."
      }
     ]
    }
   ],
   "wf": [
-   "Enablers: Training, **DGCA**-eased rules, repair ecosystems, and credit; integrate with AgriStack advisories."
+   "Guarantee demand through custom-hiring aggregation and build district-level repair and pilot-certification capacity"
   ],
-  "conc": "Technology in women's hands multiplies both farm productivity and social empowerment."
+  "conc": "Technology placed in women's hands multiplies both farm productivity and social standing — provided the enterprise around the equipment is built as carefully as the equipment itself.",
+  "flash": [
+   "Namo Drone Didi ₹1,261 cr, ~15,000 SHGs",
+   "precision spray cuts input + exposure",
+   "multispectral → PMFBY yield estimation",
+   "DGCA rules + repair ecosystem",
+   "idle-asset risk without assured demand"
+  ]
  },
  "gs3-32-b0": {
   "src": "docx",
@@ -2604,158 +3000,349 @@
   ]
  },
  "gs3-56": {
-  "src": "docx",
+  "directive": "discuss",
   "intro": [
    {
     "t": "concept",
-    "x": "The Disaster Management (Amendment) Act, 2025 — the first major overhaul of the 2005 Act — recasts India's **DM** architecture around urban risk, data and statutory clarity, responding to a decade of Chennai-to-Dharali disasters."
+    "x": "The **Disaster Management (Amendment) Act, 2025** — the first overhaul since 2005 — moves Indian practice further along the **Sendai** shift from *managing disasters* to *managing disaster risk*."
    }
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Key provisions",
     "p": [
      {
-      "k": "Urban DM Authorities",
-      "x": "A new Section 41A empowers states to set up UDMAs in state capitals and large municipal cities to plan for urban-specific risks — flooding, heatwaves, fires."
+      "k": "Urban Disaster Management Authorities",
+      "x": "A new **Section 41A** lets states constitute **UDMAs** for state capitals and large cities — recognising that urban risk needs a dedicated authority, not a district appendage."
      },
      {
-      "k": "Disaster databases",
-      "x": "Mandated national and state disaster databases (risk assessments, mitigation plans, real-time data) to enable evidence-based, anticipatory management."
+      "k": "Statutory disaster databases",
+      "x": "National and state databases covering risk assessment, mitigation projects, expenditure and loss — the evidentiary base **HRVCA** requires."
      },
      {
-      "k": "Statutory clarity",
-      "x": "**NDMA**/**SDMA** to prepare (not just approve) plans; the High-Level Committee gets statutory status for **NDRF**/**NDMF** assistance."
+      "k": "Plan-making relocated",
+      "x": "**NDMA** and **SDMA** will now *prepare* the national and state plans rather than merely approve them, ending divided ownership."
+     }
+    ]
+   },
+   {
+    "h": "Why it matters",
+    "p": [
+     {
+      "k": "Urban risk is the growth area",
+      "x": "Metropolitan flooding, fires and heat concentrate exposure where population and assets are densest — the 2005 Act was district-centric."
+     },
+     {
+      "k": "From relief to risk reduction",
+      "x": "Databases and mandatory risk assessment shift spending from the **4Rs** of rescue-relief-rehabilitation-restoration toward prevention and preparedness."
+     },
+     {
+      "k": "Investment logic",
+      "x": "Every rupee in mitigation avoids several in future loss — the World Bank's **Lifelines** finding that $1 in resilience saves $4-7."
+     }
+    ]
+   },
+   {
+    "h": "Criticisms",
+    "p": [
+     {
+      "k": "Centralisation concern",
+      "x": "An expanded **NDMA** mandate risks crowding out state authorities in a subject where local knowledge decides outcomes."
+     },
+     {
+      "k": "Capacity and finance gap",
+      "x": "UDMAs without dedicated staff and funds replicate the SDMA problem — a body on paper with no execution capability."
+     },
+     {
+      "k": "Notified-disaster list untouched",
+      "x": "Heatwaves and lightning remain outside the notified list, so **SDRF/NDRF** relief cannot flow to India's most frequent killers."
      }
     ]
    }
   ],
   "wf": [
-   "Critiques: Fears of centralisation and **NDMA** over-expansion, no notification of heatwaves as a disaster, and capacity/funding gaps at the urban level.",
-   "Way forward: Adequate **ULB** capacity and finance, community participation, and integrating the database with early-warning."
+   "Fund and staff UDMAs, expand the notified-disaster list to heat and lightning, and build ward-level community response teams"
   ],
-  "conc": "**The Act** rightly shifts focus from relief to preparedness and urban risk — its success hinges on capacitated, empowered local institutions."
+  "conc": "The Act rightly moves India from relief to preparedness and puts urban risk on the statute book — its promise now depends on capacity and finance at the tier that actually responds.",
+  "flash": [
+   "Sec 41A Urban DM Authorities",
+   "statutory disaster databases",
+   "NDMA/SDMA prepare, not just approve",
+   "$1 mitigation saves $4-7 (Lifelines 2019)",
+   "heat still not a notified disaster"
+  ]
  },
  "gs3-59": {
-  "src": "docx",
+  "directive": "examine",
   "intro": [
    {
     "t": "concept",
-    "x": "India's disaster-risk financing is evolving from a reactive, relief-centric model (**NDRF**/**SDRF**) toward proactive risk-reduction, mitigation and risk-transfer — aligning with the Sendai Framework's prevention focus."
+    "x": "India's disaster financing is shifting from a relief-centric model — the **4Rs** of rescue, relief, rehabilitation and restoration — toward the **3Ps** of prevention, preparedness and proofing that **Sendai** demands."
    }
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "The architecture today",
     "p": [
      {
-      "k": "16th FC push",
-      "x": "**~₹1.55 lakh** cr in **DM** grants, with differentiated 90:10 sharing for Himalayan/**NE** states and dedicated mitigation funds (**NDMF**/SDMF), institutionalising ex-ante financing."
+      "k": "Fund structure",
+      "x": "**NDRF** and **SDRF** for response, with **NDMF** and **SDMF** created to finance mitigation — the split that makes prevention fundable."
      },
      {
-      "k": "Risk transfer",
-      "x": "Parametric insurance (pay-outs triggered by objective thresholds — rainfall, wind speed) enables rapid, dispute-free disbursal, unlike slow indemnity models."
+      "k": "16th Finance Commission push",
+      "x": "Around **₹1.55 lakh crore** in disaster-management grants with differentiated Centre-state sharing, weighted toward risk rather than past expenditure."
+     },
+     {
+      "k": "Why it matters",
+      "x": "Global disaster spending remains skewed to post-event response; the **Sendai Midterm Review (2023)** named this funding imbalance a core failure."
+     }
+    ]
+   },
+   {
+    "h": "New instruments",
+    "p": [
+     {
+      "k": "Parametric insurance",
+      "x": "Pay-outs triggered automatically by objective thresholds — rainfall, wind speed, seismic intensity — removing loss-assessment delay."
      },
      {
       "k": "Anticipatory action",
-      "x": "Forecast-based financing releases funds before a predicted disaster strikes — cheaper and life-saving."
+      "x": "Forecast-based financing releases money *before* a predicted event, converting warning into protective action."
+     },
+     {
+      "k": "Catastrophe bonds and pooling",
+      "x": "Risk transfer to capital markets and a national risk pool spread correlated losses beyond the state budget."
+     },
+     {
+      "k": "Debt-for-resilience swaps",
+      "x": "Restructuring debt against verified resilience investment — an emerging route for climate-exposed economies."
+     }
+    ]
+   },
+   {
+    "h": "Gaps to close",
+    "p": [
+     {
+      "k": "Internalising risk creation",
+      "x": "Building on floodplains carries no price signal; risk-reflective premiums and taxes would make risk creation costly."
+     },
+     {
+      "k": "Data and basis risk",
+      "x": "Parametric products need dense, trusted hazard data or pay-outs diverge from actual loss."
+     },
+     {
+      "k": "Uninsured informal economy",
+      "x": "Losses in informal housing and livelihoods are invisible to both statistics and insurance markets."
      }
     ]
    }
   ],
   "wf": [
-   "Deepen instruments: Catastrophe bonds, a national disaster-risk pool, insuring public assets, and linking finance to risk-informed development."
+   "Scale parametric and anticipatory instruments on a national hazard-data backbone, and make risk-informed appraisal mandatory for public investment"
   ],
-  "conc": "Financing resilience before disaster is far cheaper than financing recovery after it — the fiscally and humanly wiser path."
+  "conc": "Financing resilience before a disaster is far cheaper than financing recovery after it — the triple dividend is avoided loss, unlocked investment and ecological co-benefit.",
+  "flash": [
+   "4Rs → 3Ps; NDRF/SDRF + NDMF/SDMF",
+   "16th FC ~₹1.55 lakh cr DM grants",
+   "parametric = threshold-triggered payout",
+   "anticipatory/forecast-based financing",
+   "triple dividend; internalise risk creation"
+  ]
  },
  "gs3-57": {
-  "src": "docx",
+  "directive": "examine",
   "intro": [
    {
     "t": "concept",
-    "x": "The 2025 floods — from Punjab's basin-wide inundation to recurring metropolitan deluges (Bengaluru, Chennai, Delhi) — exposed how unplanned urbanisation converts ordinary rain into disaster."
+    "x": "The 2025 floods — Punjab's basin-wide inundation alongside recurring metropolitan deluges — showed two distinct failures: river-basin mismanagement and urban drainage collapse."
    }
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Why floods are worsening",
     "p": [
      {
-      "k": "Root causes",
-      "x": "Encroached wetlands/floodplains, concretisation reducing infiltration, choked and under-capacity stormwater drains, and climate-intensified cloudbursts."
+      "k": "Rainfall intensification",
+      "x": "A warmer atmosphere delivers the season's rain in fewer, heavier bursts that exceed drainage designed for older return periods."
      },
      {
-      "k": "Structural measures",
-      "x": "Restored natural drainage, 'sponge-city' permeable surfaces, rainwater harvesting, retention ponds, and de-silted, mapped drains."
+      "k": "Floodplain encroachment",
+      "x": "Construction on floodplains and buried paleo-channels converts a mapped flood path into settlement.",
+      "ex": "Chennai 2015; Punjab's river-belt occupation"
      },
      {
-      "k": "Non-structural",
-      "x": "Flood-risk zonation, early-warning (urban flood forecasting), building-bylaw enforcement, and insurance."
+      "k": "Loss of natural storage",
+      "x": "Wetlands, tanks and lakes that once absorbed peak flow have been built over, removing free detention capacity.",
+      "ex": "Bengaluru's tank cascade"
+     },
+     {
+      "k": "Concretisation",
+      "x": "Impervious surfaces cut infiltration and shorten time-to-peak, so the flood wave arrives faster and higher."
+     },
+     {
+      "k": "Reservoir operation",
+      "x": "Rule curves based on historical hydrology force late, large releases that compound downstream peaks."
+     }
+    ]
+   },
+   {
+    "h": "Structural and ecological measures",
+    "p": [
+     {
+      "k": "Blue-green infrastructure",
+      "x": "Restoring lakes, wetlands and stream corridors treats drainage as an ecological asset, not a concrete one."
+     },
+     {
+      "k": "Sponge-city design",
+      "x": "Permeable surfaces, rain gardens, detention basins and rooftop harvesting hold water where it falls."
+     },
+     {
+      "k": "Basin-scale works",
+      "x": "Embankment review, desilting, and catchment treatment address the river rather than the city boundary."
+     }
+    ]
+   },
+   {
+    "h": "Non-structural measures",
+    "p": [
+     {
+      "k": "Risk zonation that binds",
+      "x": "Flood-hazard microzonation must govern building approvals — mapping without regulatory force changes nothing."
+     },
+     {
+      "k": "Forecast and early warning",
+      "x": "Urban flood forecasting with real-time rain gauges and dynamic reservoir operation extends actionable lead time."
+     },
+     {
+      "k": "Institutional accountability",
+      "x": "Roads, drains, lakes and solid waste sit with different agencies; one body must own the drainage outcome."
+     },
+     {
+      "k": "Risk transfer",
+      "x": "Parametric flood insurance for households and municipal assets converts an uncertain fiscal shock into a budgeted premium."
      }
     ]
    }
   ],
   "wf": [
-   "Integrate planning: Embed flood-risk in master plans, protect blue-green infrastructure, empower ULBs with the **NDMA** Urban Flooding guidelines, and adopt nature-based drainage."
+   "Embed flood risk in master plans, assign single-agency accountability for stormwater, and revise drainage design to current rainfall intensities"
   ],
-  "conc": "Flood-resilient cities require planning with water, not against it — mainstreaming risk into every development decision."
+  "conc": "Flood-resilient cities are planned with water rather than against it — mainstreaming risk into land-use decisions is cheaper than any drain that can be built afterwards.",
+  "flash": [
+   "fewer, heavier rainfall bursts",
+   "paleo-channel + floodplain building",
+   "wetland loss = lost free detention",
+   "zonation must bind approvals",
+   "parametric flood insurance"
+  ]
  },
  "gs3-58": {
-  "src": "docx",
+  "directive": "examine",
   "intro": [
    {
     "t": "concept",
-    "x": "As heatwaves emerge as a 'silent disaster' claiming lives across India, **Heat Act**ion Plans (HAPs) — pioneered by Ahmedabad (2013) — are the frontline response, but their adequacy and legal status are contested."
+    "x": "Heatwaves have become a **silent disaster** — India's most frequent weather killer — yet they sit outside the notified-disaster list that unlocks statutory relief."
    }
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "How far Heat Action Plans work",
     "p": [
      {
-      "k": "HAP strengths",
-      "x": "Early-warning colour codes, inter-agency coordination, cooling shelters, work-hour shifts and public advisories have cut heat mortality where implemented well."
+      "k": "Proven model",
+      "x": "The pioneering **Ahmedabad HAP (2013)** cut heat mortality through colour-coded warning, inter-agency coordination and hospital readiness."
      },
      {
-      "k": "Weaknesses",
-      "x": "Many HAPs are generic, lack local vulnerability mapping, long-term measures (cool roofs, urban greening) and funding."
+      "k": "Core components",
+      "x": "Early warning, cooling shelters, water points, revised outdoor work hours and public awareness campaigns."
+     },
+     {
+      "k": "Generic design",
+      "x": "Many HAPs are copied templates lacking local vulnerability mapping, so resources are not directed at the most exposed wards."
+     }
+    ]
+   },
+   {
+    "h": "The case for notification",
+    "p": [
+     {
+      "k": "Unlocks statutory finance",
+      "x": "Notification would allow **SDRF/NDRF** funds for relief, compensation and mitigation rather than ad hoc state orders."
+     },
+     {
+      "k": "Compels planning",
+      "x": "Statutory status obliges preparation, reporting and accountability under the disaster-management framework."
+     },
+     {
+      "k": "Occupational protection",
+      "x": "Outdoor and informal workers bear the burden; recognition supports wage compensation for lost work hours."
      }
     ]
    }
   ],
   "wf": [
-   "Notify as disaster: Heatwaves are not a 'notified disaster' under the **DM Act**, so **SDRF**/NDRF relief and compensation don't automatically apply — notification (or state-level inclusion) would unlock funds and accountability.",
-   "Long-term: Passive cooling, heat-resilient housing, occupational safety, and parametric heat insurance for outdoor workers."
+   "Notify heatwave as a disaster, trigger HAPs on wet-bulb thresholds, and fund long-term cooling — shade, water, cool roofs and urban greening"
   ],
-  "conc": "Recognising heat as a disaster — legally and financially — is essential to protect the most exposed outdoor and informal workers."
+  "conc": "Recognising heat as a disaster in law and finance is the precondition for protecting those who cannot stop working when the temperature rises.",
+  "flash": [
+   "Ahmedabad HAP 2013 cut mortality",
+   "generic HAPs lack vulnerability mapping",
+   "wet-bulb, not dry-bulb, trigger",
+   "not notified → no SDRF/NDRF",
+   "outdoor workers bear the burden"
+  ]
  },
  "gs3-60": {
-  "src": "docx",
+  "directive": "examine",
   "intro": [
    {
-    "t": "concept",
-    "x": "Nearly 59% of India's landmass is earthquake-prone; the **NCR** sits in Seismic Zone **IV**, yet dense, non-engineered construction makes Indian cities acutely vulnerable — as Bhuj (2001) warned."
+    "t": "data",
+    "x": "About **59%** of India's landmass lies in moderate-to-severe seismic zones under **BIS IS:1893**, and the **NCR** sits in **Zone IV** — a hazard of exposure and construction quality, not of prediction failure."
    }
   ],
   "body": [
    {
-    "h": "Core dimensions",
+    "h": "Why the risk is rising",
     "p": [
      {
-      "k": "Vulnerability",
-      "x": "Rapid, unregulated high-rise growth, weak enforcement of seismic building codes (**BIS**/**NBC**), and vast legacy non-compliant stock."
+      "k": "Non-engineered construction",
+      "x": "Most Indian building stock is built without engineering supervision, and retrofitting the existing stock is slower than new risk is created."
      },
      {
-      "k": "Preparedness measures",
-      "x": "Strict enforcement of earthquake-resistant codes, mandatory structural audits and retrofitting of critical buildings (schools, hospitals), and microzonation-based land use."
+      "k": "Alluvial amplification",
+      "x": "The thick Indo-Gangetic sediment beneath Delhi amplifies ground motion and can liquefy — geology multiplies the shock."
+     }
+    ]
+   },
+   {
+    "h": "What preparedness requires",
+    "p": [
+     {
+      "k": "Code compliance and audit",
+      "x": "Mandatory structural safety audit and certification for public buildings, schools and hospitals as lifeline infrastructure."
+     },
+     {
+      "k": "Retrofitting programme",
+      "x": "Prioritised retrofitting of lifeline buildings, funded through the mitigation fund rather than post-event relief."
+     },
+     {
+      "k": "Skilled construction workforce",
+      "x": "Trained masons and supervisors matter more than codes for the informal housing that houses most people."
      }
     ]
    }
   ],
   "wf": [
-   "Readiness: Trained masons, public awareness/mock drills, urban search-and-rescue (**NDRF**), and integrating seismic safety into town planning and Smart Cities."
+   "Make structural safety certification a condition of occupancy, and fund lifeline-building retrofits from the mitigation fund"
   ],
-  "conc": "Earthquakes don't kill — unsafe buildings do; code compliance and retrofitting are the surest life-savers."
+  "conc": "Earthquakes do not kill people — unsafe buildings do; compliance and retrofitting are the only preparedness that changes the outcome.",
+  "flash": [
+   "~59% landmass Zone III-V; NCR Zone IV",
+   "alluvial amplification + liquefaction",
+   "non-engineered building stock",
+   "NBC exists, enforcement does not",
+   "microzonation must govern land use"
+  ]
  },
  "gs3-60-b0": {
   "src": "docx",

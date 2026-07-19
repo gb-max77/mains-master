@@ -108,7 +108,7 @@
   ],
   "body": [
    {
-    "h": "Key dimensions",
+    "h": "Core argument",
     "p": [
      {
       "k": "Citizenship",
@@ -125,7 +125,12 @@
      {
       "k": "Accountability",
       "x": "Multiple constitutional, legal, professional, community and political obligations outrank a single performance bottom line."
-     },
+     }
+    ]
+   },
+   {
+    "h": "Assessment",
+    "p": [
      {
       "k": "Human dignity",
       "x": "People are co-authors and rights-bearers; inconvenient users cannot be discarded as unprofitable customers."

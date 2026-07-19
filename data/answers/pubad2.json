@@ -1,191 +1,219 @@
 {
  "pubad2-4": {
   "directive": "examine",
-  "lens": "✓ Imported from your verified answer bank (pa2-01, match 79%).",
-  "conc": "Indianisation was initially managed as political accommodation; its enduring administrative contribution emerged only when equal citizenship replaced imperial trust as the basis of service legitimacy.",
-  "flash": [
-   "Indianisation",
-   "Islington Commission",
-   "Lee Commission",
-   "simultaneous examination",
-   "superior services",
-   "political concession"
-  ],
+  "lens": "The claim is 'political necessity, not administrative conviction'. Prove it with the sequence of concessions each following a political crisis, and interlink Weber.",
   "intro": [
    {
     "t": "concept",
-    "x": "Indianisation exposed the contradiction of colonial administration: the Raj invoked merit and political neutrality while reserving superior authority to sustain imperial control."
+    "x": "Indianisation advanced not as a merit reform but as a series of concessions extracted at moments of political pressure — each commission conceding the minimum required to preserve the legitimacy of the **steel frame**."
    }
   ],
   "body": [
    {
-    "h": "Key dimensions",
+    "h": "The architecture of exclusion",
     "p": [
      {
-      "k": "Early exclusion",
-      "x": "London-based examination, age limits, education and racial practice restricted Indian entry despite formal competition."
+      "k": "Formal equality, practical bar",
+      "x": "The **Charter Act, 1833** and the **Queen's Proclamation, 1858** promised no disqualification by race — a promise the recruitment design defeated."
      },
      {
-      "k": "Political pressure",
-      "x": "Nationalist criticism linked exclusion to unrepresentative policy and demanded simultaneous examination and equality of opportunity."
+      "k": "Examination as barrier",
+      "x": "Holding the **ICS** examination only in **London**, in a European curriculum, made access a function of wealth and travel.",
+      "ex": "Satyendranath Tagore, first Indian ICS, 1864"
      },
      {
-      "k": "Islington Commission",
-      "x": "It accepted increased Indian recruitment but favoured gradual change and multiple entry channels that preserved European predominance."
+      "k": "Lowering the age",
+      "x": "Reducing the maximum age to **19** under **Lytton (1876)** deliberately foreclosed Indian candidates who studied in India first."
+     }
+    ]
+   },
+   {
+    "h": "Concession under political pressure",
+    "p": [
+     {
+      "k": "Nationalist framing",
+      "x": "The Congress made simultaneous examinations a founding demand, linking exclusion to the **drain** and to unrepresentative government.",
+      "ex": "Surendranath Banerjee's dismissal as a cause célèbre"
      },
      {
-      "k": "Underlying logic",
-      "x": "Concession sought administrative legitimacy and collaboration without surrendering the commanding positions of the colonial State."
+      "k": "Islington Commission (1912-15)",
+      "x": "Accepted a fixed share of Indian recruitment but preferred nomination over competition — reform conceded in principle, withheld in method."
      },
      {
-      "k": "Post-war pressure",
-      "x": "Constitutional reform and educated Indian opinion made a visibly foreign superior service politically untenable."
+      "k": "Post-war compulsion",
+      "x": "**Montagu-Chelmsford** and the demands of dyarchy made an overwhelmingly European service politically untenable."
+     }
+    ]
+   },
+   {
+    "h": "Assessment and theoretical reading",
+    "p": [
+     {
+      "k": "Weberian form without Weberian purpose",
+      "x": "The colonial service had **rational-legal** structure — merit entry, hierarchy, tenure — but served extraction, not public purpose; form and function were decoupled."
      },
      {
-      "k": "Lee Commission",
-      "x": "It accelerated Indianisation, supported direct recruitment in India and helped frame institutional protection for public services."
-     },
-     {
-      "k": "Administrative principle",
-      "x": "The debate gradually moved toward merit, service security and a commission-based personnel system."
-     },
-     {
-      "k": "Limit",
-      "x": "Numerical entry did not automatically transform imperial purpose, hierarchy or social composition."
-     },
-     {
-      "k": "Legacy",
-      "x": "Competitive recruitment and a professional higher service survived, while representativeness and accountability remained unfinished tasks."
+      "k": "Riggs's formalism",
+      "x": "Declared racial equality against practised exclusion is the classic gap between prescription and behaviour in a **prismatic** administration."
      }
     ]
    }
   ],
-  "src": "ported"
+  "wf": [
+   "The enduring bequest is institutional — competitive recruitment, a constitutionally insulated Commission and a permanent professional service"
+  ],
+  "conc": "Indianisation was conceded to preserve legitimacy rather than to share power — yet the institutions built to contain nationalism became the instruments through which independent India staffed its own state.",
+  "flash": [
+   "Charter 1833; Proclamation 1858 promises",
+   "London exam; age cut to 19 (Lytton 1876)",
+   "Statutory CS 1879; Aitchison 1886",
+   "Islington 1912-15; Lee 1924 → PSC 1926",
+   "GoI Act 1935 → Arts 315-323"
+  ]
  },
  "pubad2-50": {
   "directive": "critically examine",
-  "lens": "✓ Imported from your verified answer bank (pa2-25, match 71%).",
-  "conc": "AIS legitimacy rests on dual fidelity: national constitutional perspective and accountable service to the State cadre, managed through rules and consultation rather than leverage.",
-  "flash": [
-   "All India Services",
-   "federal glue",
-   "cadre management",
-   "deputation",
-   "State autonomy",
-   "dual control"
-  ],
+  "lens": "20-marker: three sections. Constitutional design → federal tension → reform principle. Interlink Weber and the principal-agent problem explicitly.",
   "intro": [
    {
     "t": "concept",
-    "x": "The All India Services create a common administrative cadre across two constitutional levels, supporting national standards while making cadre control a recurring federal negotiation."
+    "x": "**Article 312** lets Parliament create All India Services on a **Rajya Sabha** resolution supported by two-thirds of members present — a design in which the Council of States itself authorises a service that binds the States."
    }
   ],
   "body": [
    {
-    "h": "Key dimensions",
+    "h": "Why they are the federal glue",
     "p": [
      {
-      "k": "Federal glue",
-      "x": "Common recruitment, training and mobility provide a pan-Indian outlook and personnel for Union-State coordination."
+      "k": "Common standard",
+      "x": "Unified recruitment through the **UPSC**, common training at the national academies and shared service rules create administrative uniformity across a highly diverse union.",
+      "ex": "**AIS Act, 1951**; Cadre Rules, 1954"
+     },
+     {
+      "k": "National integration",
+      "x": "The insider-outsider cadre allocation places officers outside their home state, building a genuinely pan-Indian administrative outlook."
      },
      {
       "k": "State capacity",
-      "x": "Cadre officers supply district and secretariat leadership, especially where specialist and local services remain uneven."
+      "x": "Cadre officers supply district and secretariat leadership that many States could not otherwise recruit or retain."
+     }
+    ]
+   },
+   {
+    "h": "The federal friction",
+    "p": [
+     {
+      "k": "Dual accountability",
+      "x": "An officer serves the State but owes career prospects to the Union — a textbook **principal-agent** problem with two principals and divergent incentives."
      },
      {
-      "k": "Neutrality",
-      "x": "Shared service protection can buffer local partisan pressure, though Union influence may create another dependency."
+      "k": "Deputation contest",
+      "x": "Central deputation reserve, empanelment and proposed changes to the Cadre Rules allowing the Union greater call on officers have been resisted by States as an encroachment on Article 312's balance."
      },
      {
-      "k": "Cadre grievance",
-      "x": "Deputation, empanelment, shortages and rule changes may be perceived by States as erosion of control over serving officers."
+      "k": "Cadre shortage",
+      "x": "Persistent vacancies against sanctioned strength force States to depend on state-service promotees, weakening the very uniformity the AIS exists to supply."
+     }
+    ]
+   },
+   {
+    "h": "The reform principle",
+    "p": [
+     {
+      "k": "Consultation, not unilateralism",
+      "x": "**Sarkaria** and **Punchhi** both held that cadre and deputation questions must be settled by consultation — Article 312's genius is joint ownership."
      },
      {
-      "k": "Union need",
-      "x": "Central administration requires experienced field officers and a national talent pool for cross-jurisdictional tasks."
+      "k": "Fix the shortage first",
+      "x": "Regular cadre review, expanded intake and rational promotion quotas address the structural cause of most deputation disputes."
      },
      {
-      "k": "Incentive distortion",
-      "x": "Career aspirations toward the Union can reduce accountability to State priorities and long-term local expertise."
+      "k": "Insulate the career",
+      "x": "Fixed minimum tenure, a **Civil Services Board** for postings and recorded written instructions, as the **2nd ARC** urged, protect the officer from both principals."
      },
      {
-      "k": "Cooperative management",
-      "x": "Cadre review, deputation and disciplinary questions need transparent criteria and genuine consultation."
-     },
-     {
-      "k": "Balanced careers",
-      "x": "Value State and field service in advancement, ensure minimum tenures and expand domain pathways at both levels."
-     },
-     {
-      "k": "Reform principle",
-      "x": "Neither unilateral recall nor complete State control fits a jointly constituted service."
+      "k": "Value field service",
+      "x": "Empanelment weighted toward State and district performance would end the incentive to orient careers away from the State that employs them."
      }
     ]
    }
   ],
-  "src": "ported"
+  "wf": [
+   "Institutionalise a standing Centre-State forum on cadre management under the **Inter-State Council**, so AIS questions are negotiated rather than notified"
+  ],
+  "conc": "The All India Services embody cooperative federalism in personnel form — neither unilateral central recall nor complete State control fits their constitutional logic; only joint stewardship does.",
+  "flash": [
+   "Art 312; Rajya Sabha 2/3 resolution",
+   "AIS Act 1951; Cadre Rules 1954",
+   "insider-outsider allocation",
+   "dual principal-agent accountability",
+   "Sarkaria/Punchhi consultation; 2nd ARC CSB"
+  ]
  },
  "pubad2-81": {
   "directive": "examine",
-  "lens": "✓ Imported from your verified answer bank (pa2-45, match 72%).",
-  "conc": "Procedural modernisation without structural independence digitises old pathologies; structural reform without capacity leaves professional ideals unimplemented.",
-  "flash": [
-   "Prakash Singh",
-   "police reform",
-   "new criminal laws",
-   "separation of investigation",
-   "forensics",
-   "complaints authority"
-  ],
+  "lens": "The 'two tracks' framing is the structure: judicial structural reform vs legislative procedural reform, then why they must converge. Bridge to Riggs's formalism.",
   "intro": [
    {
     "t": "concept",
-    "x": "Police reform now combines the structural agenda of insulating and professionalising the police with procedural change in investigation and evidence under the new criminal laws."
+    "x": "Indian police reform now runs on two unconnected tracks — the **structural** reform mandated in **Prakash Singh (2006)** and the **procedural** overhaul of the new criminal laws — with the second advancing faster than the first."
    }
   ],
   "body": [
    {
-    "h": "Key dimensions",
+    "h": "Track one: structural reform",
     "p": [
      {
-      "k": "Prakash Singh core",
-      "x": "State Security Commissions, merit-based leadership tenure, separation of investigation, Police Establishment Boards and complaints authorities target political misuse and weak accountability."
+      "k": "The seven directives",
+      "x": "**Prakash Singh v Union of India (2006)** required a **State Security Commission**, merit-based DGP selection with a **two-year tenure**, fixed tenure for operational officers, a **Police Establishment Board**, a **Police Complaints Authority** and a National Security Commission."
      },
      {
-      "k": "Implementation gap",
-      "x": "States have adopted uneven laws and arrangements, often diluting independence, tenure and external complaints."
+      "k": "The core purpose",
+      "x": "Its object was insulation — separating operational command from political direction, the unfinished business of replacing the **Police Act, 1861**."
      },
      {
-      "k": "New-law shift",
-      "x": "Electronic processes, timelines, forensic emphasis and victim-related procedures seek faster, more evidence-based criminal justice."
+      "k": "Separation of functions",
+      "x": "Dividing investigation from law and order allows specialisation and reduces the diversion of investigators to VIP and crowd duty."
+     }
+    ]
+   },
+   {
+    "h": "Track two: procedural reform",
+    "p": [
+     {
+      "k": "The new codes",
+      "x": "**BNS**, **BNSS** and **BSA (2023)** introduce electronic FIR and zero FIR, statutory timelines for investigation and trial, videography of search and seizure, and mandatory forensic examination for grave offences."
      },
      {
-      "k": "Capacity gap",
-      "x": "Forensic laboratories, investigators, prosecutors, devices and training remain uneven; mandates can create backlogs without resources."
+      "k": "Capacity precondition",
+      "x": "Forensic laboratory capacity, trained investigators, prosecutors and devices are the binding constraint — a statutory timeline without capacity produces default non-compliance."
+     }
+    ]
+   },
+   {
+    "h": "Why the tracks must converge",
+    "p": [
+     {
+      "k": "Technology cannot cure structure",
+      "x": "E-processes do not touch arbitrary transfer, political interference or weak supervision — the causes of poor investigation quality."
      },
      {
-      "k": "Structural-procedural link",
-      "x": "Technology cannot correct arbitrary transfers, poor supervision or conflation of law-and-order pressure with investigation."
-     },
-     {
-      "k": "Due process",
-      "x": "Digital evidence, searches and custody require chain, disclosure, privacy and defence-access safeguards."
-     },
-     {
-      "k": "Separation",
-      "x": "Dedicated investigation personnel can develop skills and protect case quality from daily order duties."
-     },
-     {
-      "k": "Accountability",
-      "x": "Independent complaints, custody oversight and public performance data should accompany stronger investigative tools."
-     },
-     {
-      "k": "Federal implementation",
-      "x": "Union standards, State ownership and funded transition plans must align police, forensics, prosecution and courts."
+      "k": "Riggs's formalism",
+      "x": "India has an advanced legal prescription against a lagging administrative reality; without structural reform the new codes will be one more measured gap between rule and practice."
      }
     ]
    }
   ],
-  "src": "ported"
+  "wf": [
+   "Fund forensic and investigator capacity as a condition of the new codes, and pair it with genuine implementation of the *Prakash Singh* directives"
+  ],
+  "conc": "Procedure has been modernised; power has not been insulated — police reform will succeed only when the structural track catches up with the procedural one.",
+  "flash": [
+   "Prakash Singh 2006: seven directives",
+   "SSC, PEB, PCA; 2-year DGP tenure",
+   "Police Act 1861 still the base law",
+   "BNS-BNSS-BSA 2023: forensics, timelines",
+   "Riggs formalism: rule vs practice gap"
+  ]
  }
 }

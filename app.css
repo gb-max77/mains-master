@@ -44,9 +44,12 @@ button{background:none;border:0;cursor:pointer}
 .paper .nm{flex:1;min-width:0}
 .paper .nm b{display:block;font-size:15px}
 .paper .nm small{color:var(--faint);font-size:12px}
-.ring{--p:0;width:40px;height:40px;flex:none;border-radius:50%;display:grid;place-items:center;
-  background:conic-gradient(var(--green) calc(var(--p)*1%),#232838 0)}
-.ring i{width:31px;height:31px;border-radius:50%;background:var(--card);display:grid;place-items:center;
+.rings{display:flex;gap:7px;flex:none}
+.ring{--p:0;--c:var(--green);width:38px;height:38px;flex:none;border-radius:50%;display:grid;place-items:center;
+  background:conic-gradient(var(--c) calc(var(--p)*1%),#232838 0)}
+.ring.ans{--c:var(--green)}
+.ring.rev{--c:var(--blue)}
+.ring i{width:30px;height:30px;border-radius:50%;background:var(--card);display:grid;place-items:center;
   font-size:10px;font-style:normal;color:var(--dim);font-variant-numeric:tabular-nums}
 .due{margin-top:26px}
 .due h2{font-size:13px;text-transform:uppercase;letter-spacing:.1em;color:var(--faint);margin:0 0 10px}
@@ -116,14 +119,14 @@ button{background:none;border:0;cursor:pointer}
 #btn-step{font-size:12.5px;padding:6px 10px;border:1px solid var(--line);border-radius:8px}
 #btn-step.on{background:var(--gold);color:#241a05;border-color:var(--gold);font-weight:600}
 
-.qtitle{font-size:19px;font-weight:700;color:var(--gold);letter-spacing:-.01em;margin:0 0 4px;line-height:1.38}
+.qtitle{font-size:18px;font-weight:600;color:var(--dim);letter-spacing:-.005em;margin:0 0 4px;line-height:1.45}
 .qmeta{font-size:12.5px;color:var(--faint);font-weight:600;margin-bottom:18px}
 .qmeta .warn{color:var(--t1)}
 .wc{padding:1px 6px;border-radius:4px;background:var(--bg2)}
 .wc.ok{color:var(--green)} .wc.thin{color:var(--gold)} .wc.over{color:var(--t1)}
 
-.intro{font-style:italic;color:var(--lav);margin:0 0 12px;line-height:1.6}
-.intro b{font-style:normal;color:var(--lav);opacity:.75;font-weight:600}
+.intro{font-style:italic;color:var(--gold);margin:0 0 12px;line-height:1.6}
+.intro b{font-style:normal;color:var(--gold);opacity:.7;font-weight:600}
 
 .bh{font-size:15.5px;font-weight:700;color:var(--blue);margin:22px 0 10px;letter-spacing:-.005em}
 
@@ -155,9 +158,9 @@ button{background:none;border:0;cursor:pointer}
 b.cz{background:#2a3145;color:transparent!important;border-radius:4px;cursor:pointer;
   box-shadow:inset 0 -1px 0 var(--blue);user-select:none}
 b.cz.show{background:transparent;color:inherit!important;box-shadow:none}
-body.m-skeleton .pt .x,body.m-skeleton .pt .ex,body.m-skeleton .intro,body.m-skeleton .wf{display:none}
-body.m-scan .pt .x{display:none}
-body.m-scan .intro:nth-of-type(2){display:none}
+body[data-mode=skeleton] .pt .x,body[data-mode=skeleton] .pt .ex,body[data-mode=skeleton] .intro,body[data-mode=skeleton] .wf{display:none}
+body[data-mode=scan] .pt .x{display:none}
+body[data-mode=scan] .intro:nth-of-type(2){display:none}
 
 .recall{position:fixed;left:0;right:0;bottom:0;z-index:25;display:flex;align-items:center;
   justify-content:space-between;gap:10px;padding:10px 16px;padding-bottom:calc(10px + env(safe-area-inset-bottom));
@@ -190,3 +193,61 @@ body.m-scan .intro:nth-of-type(2){display:none}
   article{page-break-after:always}
 }
 @media (max-width:560px){ .view{padding:14px 13px 90px} .mode{font-size:11.5px} }
+
+
+/* ── question numbering ── */
+.qn{color:var(--faint);font-variant-numeric:tabular-nums;font-weight:700;margin-right:2px}
+.chip.todo[aria-pressed=true]{background:var(--dim);border-color:var(--dim);color:var(--bg)}
+.chip.thin[aria-pressed=true]{background:var(--gold);border-color:var(--gold);color:#241a05}
+.chip.shaky[aria-pressed=true]{background:var(--t1);border-color:var(--t1);color:#fff}
+.btopic{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+
+/* ── recall state (7) ── */
+.rc.on{border-width:2px}
+.rc.r3.on{background:rgba(126,226,168,.14);border-color:var(--green)}
+.rc.r2.on{background:rgba(240,183,78,.14);border-color:var(--gold)}
+.rc.r1.on{background:rgba(255,107,107,.14);border-color:var(--t1)}
+
+/* ── pager (2) ── */
+.pager{display:flex;align-items:center;gap:12px;margin:26px 0 0;padding-top:16px;border-top:1px solid var(--line)}
+.pg{flex:1;font-size:13px;padding:10px 14px;border:1px solid var(--line);border-radius:9px;color:var(--dim);
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.pg:hover:not(:disabled){border-color:var(--blue);color:var(--ink)}
+.pg:disabled{opacity:.3;cursor:default}
+#pg-prev{text-align:left} #pg-next{text-align:right}
+.pg-pos{flex:none;font-size:11.5px;color:var(--faint);font-variant-numeric:tabular-nums}
+
+/* ── sidebar (6): a hover-out rail on desktop, an overlay on touch ── */
+#sidebar{position:fixed;top:56px;bottom:0;left:0;z-index:28;width:330px;max-width:86vw;
+  display:flex;flex-direction:column;background:var(--bg2);border-right:1px solid var(--line);
+  transform:translateX(calc(-100% + 14px));transition:transform .18s ease}
+#sidebar:hover,body.sb-open #sidebar{transform:translateX(0);box-shadow:12px 0 40px #0009}
+#sidebar::after{content:"";position:absolute;right:3px;top:50%;width:4px;height:52px;margin-top:-26px;
+  border-radius:3px;background:var(--line)}
+#sidebar:hover::after,body.sb-open #sidebar::after{opacity:0}
+#sb-pin{flex:none;text-align:left;padding:10px 14px;font-size:13px;color:var(--faint);
+  border-bottom:1px solid var(--line)}
+#sb-pin:hover{color:var(--ink)}
+#sb-list{flex:1;overflow-y:auto;overscroll-behavior:contain;padding:6px 10px 20px}
+.sb-sec{font-size:10px;text-transform:uppercase;letter-spacing:.1em;color:var(--faint);
+  margin:14px 0 5px;padding:0 4px}
+.sb-q{display:flex;gap:8px;width:100%;text-align:left;padding:7px 8px;border-radius:7px;
+  font-size:12.5px;line-height:1.4;color:var(--dim)}
+.sb-q:hover{background:var(--card);color:var(--ink)}
+.sb-q.on{background:var(--card);color:var(--ink);box-shadow:inset 2px 0 0 var(--gold)}
+.sb-q.todo .sb-t{opacity:.55}
+.sb-n{flex:none;font-variant-numeric:tabular-nums;color:var(--faint);font-weight:700;min-width:26px}
+.sb-t{flex:1;min-width:0;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+@media (hover:none){
+  #sidebar{transform:translateX(-100%)}
+  #sidebar:hover{transform:translateX(-100%)}
+  body.sb-open #sidebar{transform:translateX(0)}
+}
+@media print{ #sidebar,.pager{display:none!important} }
+
+/* Pinned on a wide screen, the sidebar shifts the answer instead of covering it.
+   Hover-peek stays an overlay — it's transient and shouldn't reflow the page. */
+@media (min-width:1180px){
+  body.sb-open #view-answer{padding-left:346px;max-width:none}
+  body.sb-open #view-answer > *{max-width:860px}
+}

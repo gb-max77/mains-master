@@ -18,9 +18,12 @@ const store = {
   rec(qid) { return this.data[qid] || null; },
   // SRS: Blank→1d, Shaky→3d, Confident→10d. Deliberately coarse — this is a 5-week run-in, not Anki.
   mark(qid, r) {
+    // clicking the already-selected rating clears it — a question can go back to unmarked
+    if (this.data[qid]?.r === r) { delete this.data[qid]; this.save(); return null; }
     const days = { 1: 1, 2: 3, 3: 10 }[r];
     this.data[qid] = { r, seen: Date.now(), due: Date.now() + days * 864e5 };
     this.save();
+    return r;
   }
 };
 
@@ -59,13 +62,19 @@ function renderHome() {
   const wrap = $('#papers'); wrap.innerHTML = '';
   for (const pid of ORDER) {
     const p = paperOf(pid); if (!p) continue;
-    const all = rows(p), done = all.filter(r => ANSWERS[pid]?.[r.qid]).length;
-    const pct = all.length ? Math.round(done / all.length * 100) : 0;
+    const all = rows(p);
+    const done = all.filter(r => ANSWERS[pid]?.[r.qid]).length;          // answer available
+    const rev = all.filter(r => store.rec(r.qid)).length;                // covered in revision
+    const pctD = all.length ? Math.round(done / all.length * 100) : 0;
+    const pctR = all.length ? Math.round(rev / all.length * 100) : 0;
     const b = el('button', 'paper');
     b.innerHTML = `<span class="ic">${p.icon}</span>
       <span class="nm"><b>${esc(p.short)} — ${esc(p.title.replace(/^.*?—\s*/, ''))}</b>
-      <small>${all.length} questions · ${done} written · ${new Date(EXAM[pid]).toLocaleDateString('en-IN', { day: 'numeric', month: 'short' })}</small></span>
-      <span class="ring" style="--p:${pct}"><i>${pct}%</i></span>`;
+      <small>${all.length} questions · ${new Date(EXAM[pid]).toLocaleDateString('en-IN', { day: 'numeric', month: 'short' })}</small></span>
+      <span class="rings">
+        <span class="ring ans" style="--p:${pctD}" title="${done} of ${all.length} have a model answer"><i>${done}</i></span>
+        <span class="ring rev" style="--p:${pctR}" title="${rev} of ${all.length} marked in revision"><i>${rev}</i></span>
+      </span>`;
     b.onclick = () => go(`#/p/${pid}`);
     wrap.append(b);
   }
@@ -83,6 +92,8 @@ function renderHome() {
 }
 
 /* ══════════════════ LIST ══════════════════ */
+const isThin = (a, r) => writtenWords(a) < (r.wmin || 0) || (a.body || []).length < 2;
+
 let filt = { tier: 'all', q: '', theme: 'all', pid: null };
 
 function qRow(r) {
@@ -94,7 +105,7 @@ function qRow(r) {
       <span>${r.m}M · ${r.w}w</span>
       ${r.isBranch ? '<span>↳ branch</span>' : ''}
       ${a ? '<span class="ok">✓ written</span>' : ''}
-      ${rcTxt}</span><p>${esc(r.q)}</p>`;
+      ${rcTxt}</span><p><span class="qn">Q${r.n}.</span> ${esc(r.q)}</p>`;
   b.onclick = () => go(`#/a/${r.qid}`);
   if (r.isBranch || !r.branches?.length) return b;
 
@@ -102,7 +113,9 @@ function qRow(r) {
   const wrap = el('div', 'qgroup');
   const bar = el('button', 'btoggle');
   const done = r.branches.filter((_, i) => ANSWERS[r.pid]?.[qidOf(r.pid, r.n, i)]).length;
-  bar.innerHTML = `<span class="caret">▸</span> ${r.branches.length} branch${r.branches.length > 1 ? 'es' : ''}
+  const more = r.branches.length - 1;
+  bar.innerHTML = `<span class="caret">▸</span>
+    <span class="btopic">↳ ${esc(topicOf(r.branches[0].q))}${more ? ` &nbsp;+${more} more` : ''}</span>
     <span class="bmeta">${done}/${r.branches.length} written</span>`;
   const box = el('div', 'bbox'); box.hidden = true;
   bar.onclick = () => {
@@ -136,7 +149,9 @@ function renderList() {
   const needle = filt.q.toLowerCase();
   const list = rows(p, true).filter(r => {
     if (filt.theme !== 'all' && r.sec !== filt.theme) return false;
-    if (filt.tier === 'answered' && !ANSWERS[p.id]?.[r.qid]) return false;
+    const ans = ANSWERS[p.id]?.[r.qid];
+    if (filt.tier === 'todo') { if (ans) return false; }
+    else if (filt.tier === 'thin') { if (!ans || !isThin(ans, r)) return false; }
     else if (filt.tier === 'weak') { const rc = store.rec(r.qid); if (!rc || rc.r > 2) return false; }
     else if (filt.tier !== 'all' && String(r.tier) !== filt.tier) return false;
     if (needle) {
@@ -153,6 +168,12 @@ function renderList() {
     if (r.sec !== sec) { sec = r.sec; L.append(el('div', 'sec-h', esc(sec))); }
     L.append(qRow(r));
   }
+}
+
+// A branch's gist: first clause, trimmed — enough to recognise the angle at a glance.
+function topicOf(q) {
+  let t = String(q).replace(/\*/g, '').split(/[;—]|\s+with reference to\s+/i)[0].trim();
+  return t.length > 72 ? t.slice(0, 69).replace(/\s+\S*$/, '') + '…' : t;
 }
 
 /* ══════════════════ ANSWER ══════════════════ */
@@ -195,14 +216,25 @@ function diagHTML(d) {
   return `<div class="diag"><div class="lbl">Diagram · ${esc(d.k)} · drawable in 30s</div>${body}</div>`;
 }
 
+// Each paper is marked on different things, so the regeneration prompt differs.
+// Keep these short — an over-specified prompt produces a worse answer, not a better one.
+const PAPER_BRIEF = {
+  essay: r => `Write a UPSC CSE Mains 2026 essay (1000-1200 words) on: "${r.q}".
+Philosophical and multidimensional. Open with an anecdote, parable or paradox; build a clear thesis; develop 6-8 dimensions (historical, social, economic, political, ethical, technological, global); illustrate each with real examples and thinkers; give the counter-view its due; close by returning to the opening image with a forward-looking vision. Flowing prose, no bullet points or headings-as-lists. Reflective, balanced, never partisan.`,
+
+  pubad1: r => `Write a UPSC Public Administration Paper I (Administrative Theory) answer, ${r.m} marks, ${r.wmin}-${r.w} words, at top-100 optional standard: "${r.q}".
+Answer IN the discipline's vocabulary. Open with a thinker or paradigm, not a general definition. Name theorists and their works and dates. Organise under 2-3 bold sub-headings with bullet points. Bridge every theory to ONE concrete Indian administrative example. Scholarly critique is mandatory — who challenged this, in which work. Close with a one-line analytical verdict.`,
+
+  pubad2: r => `Write a UPSC Public Administration Paper II (Indian Administration) answer, ${r.m} marks, ${r.wmin}-${r.w} words, at top-100 optional standard: "${r.q}".
+Anchor in constitutional provisions, committee and commission reports (2nd ARC first), and current administrative developments. Interlink at least one Paper-I theory or thinker — that linkage is the scoring differentiator. Organise under 2-3 bold sub-headings with bullet points. Keep it in the administrative lane, not the political one. Close with a reform-oriented line.`,
+
+  gs: r => `Write a UPSC CSE Mains 2026 model answer, ${r.m} marks, ${r.wmin}-${r.w} words, as an AIR top-20 candidate would write it in the exam: "${r.q}".
+Format: 1-2 line intro (definition, data, judgment or report as the demand fits); then 2-3 headed body sections; under each, 3-4 points as "Bold point heading: one-line expansion. Ex: named example, data, committee, report, Article or judgment"; then a Way Forward line; then one forward-looking conclusion tied to a constitutional value or national goal. Maximise keywords. No repetition, no generic filler. Every named fact must be real and verifiable.`
+};
+
 function gaiURL(r) {
-  const prompt =
-`Write a UPSC CSE Mains 2026 model answer (${r.m} marks, ${r.w} words) to this question, as an AIR top-20 candidate would in the exam:
-
-"${r.q}"
-
-Format exactly: 1-2 line intro (definition/data/judgment/quote as fits the demand); then 2-3 headed body sections; under each, 3-4 points as "Bold point heading: one-line expansion. Ex: named example, data, committee, report, Article or judgment"; then a Way Forward line; then one forward-looking conclusion line tied to a constitutional value or national goal. Maximise keywords. No repetition, no generic filler. Every named fact must be real and verifiable.`;
-  return 'https://www.google.com/search?udm=50&q=' + encodeURIComponent(prompt);
+  const brief = (PAPER_BRIEF[r.pid] || PAPER_BRIEF.gs)(r);
+  return 'https://www.google.com/search?udm=50&q=' + encodeURIComponent(brief);
 }
 
 // The answer body as a string, so the same renderer serves the full page and the
@@ -222,7 +254,7 @@ function answerHTML(a) {
 }
 
 const noAnswerHTML = r => `<div class="nowrite"><p>No model answer written for this question yet.</p>
-  <small>Tier ${r.tier || '—'} · generate one in Google AI Mode below, pre-loaded with the full answer-architecture prompt.</small></div>`;
+  <small>Tier ${r.tier || '—'} · generate one in Google AI Mode below, pre-loaded with the paper's answer brief.</small></div>`;
 
 // A collapsed branch: question line + toggle. Expanding reveals the answer in place.
 function branchItem(id, b, ans) {
@@ -260,11 +292,11 @@ async function renderAnswer(qid) {
   const rc = store.rec(qid);
   let wc = '';
   if (a) {
-    const w = writtenWords(a);
-    // under 75% of budget = room left on the page = marks left on the table
-    const cls = w > r.w * 1.12 ? 'over' : (w < r.w * 0.75 ? 'thin' : 'ok');
-    const note = { over: ' — trim', thin: ' — room to enrich', ok: '' }[cls];
-    wc = ` · <span class="wc ${cls}">${w}/${r.w}w${note}</span>`;
+    const w = writtenWords(a), lo = r.wmin || 0;
+    // below the floor = marks left on the table; above the ceiling = can't be written in time
+    const cls = w > r.w * 1.05 ? 'over' : (w < lo ? 'thin' : 'ok');
+    const note = { over: ' — trim', thin: ' — under limit', ok: '' }[cls];
+    wc = ` · <span class="wc ${cls}">${w} / ${lo}-${r.w}w${note}</span>`;
   }
   A.append(el('div', 'qmeta',
     `${p.short} · ${r.sec} ${r.tier ? `· T${r.tier}` : ''} · ${r.m} marks · ${Math.round(r.m * 0.72)} min`
@@ -278,7 +310,8 @@ async function renderAnswer(qid) {
   // than as separate destinations — each expands inline instead of navigating away.
   const parent = r.isBranch ? findRow(r.parent) : r;
   if (parent?.branches?.length) {
-    const bx = el('div', 'branches', '<h3>Same content, other angles</h3>');
+    const bx = el('div', 'branches',
+      `<h3>Branch angles — ${esc(topicOf(parent.q))}</h3>`);
     if (r.isBranch) {
       const l = el('a', 'bmain', `🌳 Main question: ${esc(r.parentQ)}`);
       l.href = `#/a/${r.parent}`; bx.append(l);
@@ -303,6 +336,9 @@ async function renderAnswer(qid) {
   acts.append(gai, rev, cp, pr);
   A.append(acts);
 
+  paintRecall(qid);
+  renderPager(r);
+  renderSidebar(r);
   applyMode();
   window.scrollTo(0, 0);
 }
@@ -313,7 +349,7 @@ function applyCloze(root) {
 }
 
 function applyMode() {
-  document.body.className = 'm-' + mode;
+  document.body.dataset.mode = mode;
   const A = $('#answer');
   // removeAttribute, not className='' — a leftover class="" stops clozed()'s <b> regex matching on re-entry
   A.querySelectorAll('b.cz').forEach(c => c.removeAttribute('class'));
@@ -330,6 +366,40 @@ function step(dir) {
   n.scrollIntoView({ block: 'center' }); // instant — smooth scrolling breaks the in-app browser
 }
 
+/* ══════════════════ PAGER + SIDEBAR ══════════════════ */
+// Both walk the same ordered list of main questions, so "next" in the pager and
+// the sidebar's order can never disagree.
+const mainRows = pid => { const p = paperOf(pid); return p ? rows(p, true) : []; };
+
+function renderPager(r) {
+  const list = mainRows(r.pid);
+  const base = r.isBranch ? r.parent : r.qid;
+  const i = list.findIndex(x => x.qid === base);
+  const prev = i > 0 ? list[i - 1] : null, next = i >= 0 && i < list.length - 1 ? list[i + 1] : null;
+  $('#pg-pos').textContent = i >= 0 ? `Q${list[i].n} of ${list.length}` : '';
+  for (const [btn, tgt] of [[$('#pg-prev'), prev], [$('#pg-next'), next]]) {
+    btn.disabled = !tgt;
+    btn.title = tgt ? tgt.q.slice(0, 90) : '';
+    btn.onclick = tgt ? () => go(`#/a/${tgt.qid}`) : null;
+  }
+}
+
+function renderSidebar(r) {
+  const L = $('#sb-list'); L.innerHTML = '';
+  const base = r.isBranch ? r.parent : r.qid;
+  let sec = null;
+  for (const q of mainRows(r.pid)) {
+    if (q.sec !== sec) { sec = q.sec; L.append(el('div', 'sb-sec', esc(sec))); }
+    const a = ANSWERS[r.pid]?.[q.qid];
+    const b = el('button', 'sb-q' + (q.qid === base ? ' on' : '') + (a ? '' : ' todo'));
+    b.innerHTML = `<span class="sb-n">Q${q.n}</span><span class="sb-t">${esc(q.q)}</span>`;
+    b.onclick = () => { go(`#/a/${q.qid}`); document.body.classList.remove('sb-open'); };
+    L.append(b);
+  }
+  const on = L.querySelector('.sb-q.on');
+  if (on) on.scrollIntoView({ block: 'center' });   // instant — smooth breaks the in-app browser
+}
+
 /* ══════════════════ ROUTER ══════════════════ */
 function go(hash) { location.hash = hash; }
 
@@ -337,8 +407,10 @@ async function route() {
   const h = location.hash || '#/';
   const [, kind, arg] = h.split('/');
   document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
-  document.body.className = '';
+  document.body.dataset.mode = 'full';
+  document.body.classList.remove('sb-open');
   $('#back').hidden = h === '#/';
+  $('#btn-sb').hidden = kind !== 'a';
 
   if (kind === 'p' && arg) {
     filt.pid = arg; filt.q = ''; $('#q-search').value = '';
@@ -377,14 +449,30 @@ $('#btn-step').onclick = () => {
 };
 $('#recall').onclick = e => {
   const b = e.target.closest('.rc'); if (!b || !cur) return;
-  store.mark(cur.qid, +b.dataset.r);
+  const set = store.mark(cur.qid, +b.dataset.r);
+  paintRecall(cur.qid);
+  if (set === null) return;                    // just cleared — stay put
   b.textContent = '✓';
   setTimeout(() => { b.textContent = { 1: 'Blank', 2: 'Shaky', 3: 'Confident' }[b.dataset.r]; history.back(); }, 450);
 };
+
+function paintRecall(qid) {
+  const rc = store.rec(qid);
+  $('#recall').querySelectorAll('.rc').forEach(x => x.classList.toggle('on', rc && +x.dataset.r === rc.r));
+  $('#recall').querySelector('span').textContent =
+    rc ? `Marked ${{ 1: 'Blank', 2: 'Shaky', 3: 'Confident' }[rc.r]} — tap again to clear` : 'How well did you recall it?';
+}
 addEventListener('keydown', e => {
   if (!$('#view-answer').classList.contains('active')) return;
   if (e.key === 'ArrowRight') { stepOn = true; $('#btn-step').classList.add('on'); step(1); }
   if (e.key === 'ArrowLeft') step(-1);
+});
+const toggleSb = () => document.body.classList.toggle('sb-open');
+$('#sb-pin').onclick = toggleSb;
+$('#btn-sb').onclick = toggleSb;
+addEventListener('keydown', e => {
+  if (!$('#view-answer').classList.contains('active')) return;
+  if (e.key === 'Escape') document.body.classList.remove('sb-open');
 });
 addEventListener('hashchange', route);
 

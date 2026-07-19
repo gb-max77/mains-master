@@ -6,8 +6,10 @@ import json, re, sys
 SRC = "/Users/gbs/Desktop/Vader/deepvader - UPSC_CSE_Mains_2026_Final_Predicted_Questions.md"
 DEST = "/Users/gbs/Documents/mains-master/data/questions.json"
 
-GS_WORDS = {10: 150, 15: 250, 20: 300}
-PUBAD_WORDS = {10: 150, 15: 225, 20: 300}
+# (min, max) word bands the answer must land inside. add.py allows +5% on max as
+# wrap-up buffer. Optional papers run longer than GS at every mark value.
+GS_WORDS = {10: (150, 180), 15: (250, 300), 20: (300, 360)}
+PUBAD_WORDS = {10: (180, 200), 15: (250, 280), 20: (330, 360)}
 
 PAPER_HEADS = [
     (re.compile(r'^#\s+PAPER 0\s*—\s*ESSAY'), dict(id='essay', short='Essay', icon='✍️', title='Essay')),
@@ -26,7 +28,7 @@ BRANCH_RE = re.compile(r'^-\s*↳\s*\*Branch(?:\s*\(([^)]*)\))?:\*\s*(.+)$')
 
 def words_for(marks, is_pubad):
     table = PUBAD_WORDS if is_pubad else GS_WORDS
-    return table.get(marks, marks * 15)
+    return table.get(marks, (marks * 15, marks * 18))
 
 def parse_bracket(bracket):
     tier = None
@@ -93,15 +95,15 @@ def build():
             is_case_study = cur_paper['id'] == 'gs4' and 'Case Stud' in cur_section['t']
             title, qtext = extract_title(rest)
             if is_essay:
-                marks, words = 125, 1100
+                marks, words = 125, (1000, 1200)
             elif marks is None and is_case_study:
-                marks, words = 20, 250
+                marks, words = 20, (300, 360)
             else:
                 marks = marks or 15
                 words = words_for(marks, is_pubad)
             cur_q = {
                 'n': 0, 'srcNo': n, 'q': qtext,  # n is reassigned paper-wide below (must be unique per paper, not per section)
-                'm': marks, 'w': words,
+                'm': marks, 'w': words[1], 'wmin': words[0],
             }
             if tier: cur_q['tier'] = tier
             if title: cur_q['title'] = title
@@ -120,8 +122,8 @@ def build():
             tm = re.match(r't([123])$', blabel)
             if tm:
                 btier = int(tm.group(1))
-            bwords = 1100 if is_essay else words_for(bmarks, is_pubad)
-            branch = {'q': btext.strip(), 'm': bmarks, 'w': bwords}
+            bwords = (1000, 1200) if is_essay else words_for(bmarks, is_pubad)
+            branch = {'q': btext.strip(), 'm': bmarks, 'w': bwords[1], 'wmin': bwords[0]}
             if btier: branch['tier'] = btier
             if label and not blabel == str(btier): branch['label'] = label.strip()
             cur_q.setdefault('branches', []).append(branch)

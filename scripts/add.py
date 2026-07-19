@@ -42,15 +42,23 @@ def main():
             continue
         for s in p['sections']:
             for q in s['qs']:
-                budget[f"{paper}-{q['n']}"] = q['w']
+                budget[f"{paper}-{q['n']}"] = (q.get('wmin', 0), q['w'])
                 for i, b in enumerate(q.get('branches', [])):
-                    budget[f"{paper}-{q['n']}-b{i}"] = b['w']
+                    budget[f"{paper}-{q['n']}-b{i}"] = (b.get('wmin', 0), b['w'])
 
     for qid, a in batch.items():
         bank[qid] = a
-        w, lim = written_words(a), budget.get(qid, 0)
-        flag = '  ⚠ OVER' if lim and w > lim * 1.12 else ('  ⚠ thin' if lim and w < lim * 0.75 else '')
-        print(f"  {qid:14s} {w:4d}w / {lim}w{flag}", file=sys.stderr)
+        w = written_words(a)
+        lo, hi = budget.get(qid, (0, 0))
+        hs = len(a.get('body', []))
+        flag = ''
+        if hi and w > hi * 1.05:
+            flag = '  ⚠ OVER'
+        elif lo and w < lo:
+            flag = f'  ⚠ SHORT by {lo - w}'
+        if hs < 2:
+            flag += f'  ⚠ only {hs} H-section'
+        print(f"  {qid:14s} {w:4d}w / {lo}-{hi}w · H{hs}{flag}", file=sys.stderr)
 
     json.dump(bank, open(path, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     print(f"{len(batch)} merged → {paper}.json now holds {len(bank)}", file=sys.stderr)

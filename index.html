@@ -12,6 +12,7 @@
 
 <header class="topbar">
   <button class="back" id="back" hidden aria-label="Back">‹</button>
+  <button class="icon" id="btn-sb" hidden aria-label="Question list" title="Questions in this paper">☰</button>
   <div class="brand"><b>Mains&nbsp;Master</b><span>CSE 2026 · model answers</span></div>
   <div class="spacer"></div>
   <button class="icon" id="btn-search" aria-label="Search">⌕</button>
@@ -37,8 +38,9 @@
       <button class="chip t1" data-tier="1">T1</button>
       <button class="chip t2" data-tier="2">T2</button>
       <button class="chip t3" data-tier="3">T3</button>
-      <button class="chip ans" data-tier="answered">✓ Written</button>
-      <button class="chip shaky" data-tier="weak">Shaky/Blank</button>
+      <button class="chip todo" data-tier="todo">○ Not written</button>
+      <button class="chip thin" data-tier="thin">◑ Under limit</button>
+      <button class="chip shaky" data-tier="weak">Shaky / Blank</button>
     </div>
     <select id="theme-sel"></select>
   </div>
@@ -51,12 +53,21 @@
     <div class="modes" id="modes">
       <button class="mode active" data-mode="full">Full</button>
       <button class="mode" data-mode="skeleton">Skeleton</button>
-      <button class="mode" data-mode="cloze">Cloze</button>
       <button class="mode" data-mode="scan">60s scan</button>
+      <button class="mode" data-mode="cloze">Cloze</button>
     </div>
     <button class="icon" id="btn-step" title="Step through points (→)">▸ Step</button>
   </div>
+  <aside id="sidebar" aria-label="Questions in this paper">
+    <button id="sb-pin" title="Pin sidebar">☰</button>
+    <div id="sb-list"></div>
+  </aside>
   <article id="answer"></article>
+  <nav class="pager" id="pager">
+    <button class="pg" id="pg-prev">‹ Previous</button>
+    <span class="pg-pos" id="pg-pos"></span>
+    <button class="pg" id="pg-next">Next ›</button>
+  </nav>
   <div class="recall" id="recall">
     <span>How well did you recall it?</span>
     <div>

@@ -89,9 +89,59 @@
   ]
  },
  "pubad1-7": {
-  "directive": "comment",
-  "lens": "✓ Imported from your verified answer bank (pa1-04, match 87%).",
-  "conc": "The New Public Service restores democratic legitimacy to administration, but works best as a constitutional correction to—rather than wholesale rejection of—managerial competence.",
+  "src": "cheatsheet",
+  "intro": [
+   {
+    "t": "definition",
+    "x": "Good governance (World Bank, 1992) fuses legitimacy of process with efficiency of outcome — captured in India as SMART (Simple, Moral, Accountable, Responsive, Transparent)."
+   },
+   {
+    "t": "thinker",
+    "x": "Denhardt & Denhardt's New Public Service (2000) restores the citizen, not the customer, to the centre — administrators 'serve rather than steer' a democratic community."
+   }
+  ],
+  "body": [
+   {
+    "h": "Good governance & public-value process",
+    "p": [
+     {
+      "k": "Process legitimacy",
+      "x": "participation, rule of law, consensus",
+      "ex": "UNDP 8 attributes"
+     },
+     {
+      "k": "Accountability + transparency",
+      "x": "RTI 2005, social audit, CPGRAMS"
+     },
+     {
+      "k": "Equity & inclusiveness",
+      "x": "leave no one behind",
+      "ex": "Antyodaya, Aspirational Districts"
+     }
+    ]
+   },
+   {
+    "h": "NPS & governance as networks",
+    "p": [
+     {
+      "k": "Citizen not customer",
+      "x": "democratic citizenship over market exchange",
+      "ex": "Denhardt"
+     },
+     {
+      "k": "Enabling not rowing state",
+      "x": "capacity to convene and regulate plural actors",
+      "ex": "ONDC, India Stack"
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "build state convening capacity for networks",
+   "keep citizens as owners not consumers",
+   "anchor efficiency in democratic legitimacy."
+  ],
+  "conc": "Whether framed as good governance, New Public Service or networked governance, the lodestar is the empowered citizen — the state serving a democratic community, not merely a market.",
   "flash": [
    "New Public Service",
    "Denhardt",
@@ -100,61 +150,7 @@
    "serve rather than steer",
    "co-production"
   ],
-  "intro": [
-   {
-    "t": "concept",
-    "x": "The New Public Service rejects the market analogy as the master model of government: administrators serve citizens who possess rights and collectively define the public interest."
-   }
-  ],
-  "body": [
-   {
-    "h": "Core argument",
-    "p": [
-     {
-      "k": "Citizenship",
-      "x": "Denhardt and Denhardt replace steering and customer satisfaction with democratic citizenship and shared responsibility."
-     },
-     {
-      "k": "Public interest",
-      "x": "It is created through dialogue and contestation, not assumed to equal aggregated individual preferences."
-     },
-     {
-      "k": "Role of administrator",
-      "x": "Officials facilitate, negotiate and build capacity rather than merely command or contract out."
-     },
-     {
-      "k": "Accountability",
-      "x": "Multiple constitutional, legal, professional, community and political obligations outrank a single performance bottom line."
-     }
-    ]
-   },
-   {
-    "h": "Assessment",
-    "p": [
-     {
-      "k": "Human dignity",
-      "x": "People are co-authors and rights-bearers; inconvenient users cannot be discarded as unprofitable customers."
-     },
-     {
-      "k": "Administrative relevance",
-      "x": "Participatory planning, social audit, co-production and deliberative digital platforms express its logic."
-     },
-     {
-      "k": "Limits",
-      "x": "Dialogue can be slow, unequal voices can dominate and emergencies still require authoritative coordination."
-     },
-     {
-      "k": "NPM synthesis",
-      "x": "Service quality and measurement remain useful when subordinated to equity, due process and public purpose."
-     },
-     {
-      "k": "Capacity condition",
-      "x": "Participation without information, facilitation and responsive institutions becomes symbolic consultation."
-     }
-    ]
-   }
-  ],
-  "src": "ported"
+  "directive": "comment"
  },
  "pubad1-13": {
   "directive": "examine",
@@ -1204,38 +1200,51 @@
   ]
  },
  "pubad1-1": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "Public Administration's 'identity crisis' arose because its locus (where administration occurs) and focus (what knowledge explains it) repeatedly shifted. Today, identity rests less on one paradigm than on a plural, problem-oriented publicness."
+    "x": "Public Administration has oscillated between a managerial view (POSDCORB, generic management) and an integral/political view (Waldo) — never settling whether its focus (principles of management) or its locus (the state) defines it."
+   },
+   {
+    "t": "thinker",
+    "x": "Nicholas Henry's five paradigms (dichotomy → principles → political science → management science → PA as PA) show the discipline redrawing its focus-locus boundary at each crisis, each time enriched not enfeebled."
    }
   ],
   "body": [
    {
-    "h": "From orthodoxy to plurality",
+    "h": "The focus–locus oscillation",
     "p": [
      {
-      "k": "Politics-administration phase",
-      "x": "Wilson and Goodnow located the field in government and sought a professional science of execution; the classical school supplied efficiency, hierarchy and principles."
+      "k": "Focus (what)",
+      "x": "administrative techniques, POSDCORB principles",
+      "ex": "Gulick's science-of-administration claim"
      },
      {
-      "k": "Behavioural rupture",
-      "x": "Simon attacked administrative 'proverbs' and replaced universal principles with decision-making, bounded rationality and empirical verification, but narrowed the discipline's normative identity."
+      "k": "Locus (where)",
+      "x": "the governmental setting, public interest",
+      "ex": "Waldo's 'Administrative State' (1948)"
      },
      {
-      "k": "Publicness restored",
-      "x": "Waldo showed that efficiency is value-laden; Minnowbrook added relevance, change and social equity, making distributive consequences an administrative concern."
-     },
-     {
-      "k": "Post-bureaucratic turns",
-      "x": "NPM introduced markets and performance; governance, New Public Service and public-value approaches added networks, co-production, citizenship and democratic legitimacy."
+      "k": "Paradigm 1–2",
+      "x": "Wilson–Goodnow dichotomy, then Willoughby's principles era",
+      "ex": "'Papers on the Science of Administration', 1937"
      }
     ]
    },
    {
-    "h": "Assessment",
+    "h": "Why the 'identity crisis' enriches",
     "p": [
+     {
+      "k": "Public-interest anchor",
+      "x": "the constant that distinguishes it from business",
+      "ex": "Appleby — 'government is different'"
+     },
+     {
+      "k": "Indian relevance",
+      "x": "discipline widened from regulation to development and now digital governance",
+      "ex": "NITI Aayog, DPI"
+     },
      {
       "k": "Plural paradigms",
       "x": "Contemporary problems require behavioural, institutional, economic, legal, critical and digital lenses. No single theory explains a platform State, collaborative climate action and street-level discretion together."
@@ -1247,8 +1256,12 @@
     ]
    }
   ],
-  "conc": "Therefore, the crisis has not disappeared; it has matured into disciplined pluralism whose unity lies in reconciling State capacity with democratic publicness.",
-  "directive": "comment",
+  "wf": [
+   "anchor identity in public value not technique",
+   "treat crises as course-corrections",
+   "retain a normative core amid method-borrowing."
+  ],
+  "conc": "PA's want of a fixed identity is not weakness but plasticity — every crisis has left it a larger, more relevant discipline of the democratic state.",
   "flash": [
    "locus-focus",
    "identity crisis",
@@ -1257,7 +1270,7 @@
    "Minnowbrook",
    "public value"
   ],
-  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+  "directive": "comment"
  },
  "pubad1-6": {
   "src": "mainslab",
@@ -1591,17 +1604,40 @@
   ]
  },
  "pubad1-14": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
+    "t": "event",
+    "x": "The Hawthorne experiments ( Elton Mayo, 1924–32) discovered the 'social man' — output rose with attention and group norms, not lighting — founding the Human Relations movement."
+   },
+   {
     "t": "concept",
-    "x": "The Hawthorne studies challenged the isolated economic-man model by revealing that attention, group relations and informal norms shape output, but the resulting Human Relations approach often underplayed power and conflict."
+    "x": "Classical and human-relations schools are not rivals but two halves of one theory: structure (Taylor–Fayol) and sentiment (Mayo–Follett) describe the same organisation from opposite ends."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "The Human Relations contribution",
     "p": [
+     {
+      "k": "Social man & informal group",
+      "x": "norms govern output",
+      "ex": "Bank Wiring Room"
+     },
+     {
+      "k": "Hawthorne effect",
+      "x": "being observed alters behaviour."
+     },
+     {
+      "x": "Morale, belonging, supervision as productivity levers."
+     },
+     {
+      "k": "Non-economic motivation",
+      "x": "recognition over pay alone."
+     },
+     {
+      "x": "Humanised the workplace the classical school had mechanised."
+     },
      {
       "k": "Empirical shift",
       "x": "Work behaviour appeared responsive to social context and observation, not merely physical conditions or individual pay."
@@ -1613,12 +1649,7 @@
      {
       "k": "Communication",
       "x": "Listening and supervisory attention were presented as sources of morale, cooperation and productivity."
-     }
-    ]
-   },
-   {
-    "h": "Significance and consequences",
-    "p": [
+     },
      {
       "k": "Organisational contribution",
       "x": "The approach opened administration to motivation, leadership, participation and informal organisation."
@@ -1626,17 +1657,32 @@
     ]
    },
    {
-    "h": "Limits and critical assessment",
+    "h": "Critique & synthesis",
     "p": [
+     {
+      "k": "Romanticised the worker",
+      "x": "'cow sociology' — happy workers assumed productive."
+     },
+     {
+      "k": "Ignored power & conflict",
+      "x": "structure of authority left unexamined."
+     },
+     {
+      "k": "Managerial bias",
+      "x": "manipulation for management ends."
+     },
+     {
+      "k": "Synthesis needed",
+      "x": "structure + sentiment; Barnard, Simon bridge them."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "employee morale in Mission Karmayogi; grievance & motivation reforms"
+     },
      {
       "k": "Method critique",
       "x": "Experimental controls, sample interpretation and the mythology built around the studies limit simple causal claims."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
+     },
      {
       "k": "Harmony bias",
       "x": "Conflict over authority, wages and work design may be structural rather than a misunderstanding cured by better relations."
@@ -1648,8 +1694,12 @@
     ]
    }
   ],
-  "conc": "Human Relations corrected mechanical administration but did not replace political economy; humane organisations require both social understanding and structural justice.",
-  "directive": "critically examine",
+  "wf": [
+   "combine structural clarity with genuine participation",
+   "address power, not just sentiment",
+   "treat morale as necessary but not sufficient for productivity."
+  ],
+  "conc": "The Human Relations School gave the organisation a heart to match the classical skeleton — but a full theory needs both bone and blood, structure and sentiment.",
   "flash": [
    "Hawthorne",
    "informal group",
@@ -1658,7 +1708,7 @@
    "harmony bias",
    "managerial manipulation"
   ],
-  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+  "directive": "critically examine"
  },
  "pubad1-19": {
   "src": "mainslab",
@@ -1789,17 +1839,29 @@
   "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
  },
  "pubad1-22": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
+    "t": "thinker",
+    "x": "Maslow's need-hierarchy, Herzberg's two factors and McClelland's need-for-achievement are content theories (what motivates); Vroom's expectancy is a process theory (how motivation works)."
+   },
+   {
     "t": "concept",
-    "x": "Maslow, Herzberg and McClelland illuminate different motivational mechanisms; none is a universal hierarchy or formula for public servants."
+    "x": "Morale (group climate) and motivation (individual drive) are related but distinct — high morale does not guarantee high productivity, as the Hawthorne studies already hinted."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Content theories (what drives)",
     "p": [
+     {
+      "k": "Maslow (1943)",
+      "x": "five-tier hierarchy — physiological to self-actualisation; more a philosophy of human nature than a verifiable theory."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "recognition awards, Karmayogi competency growth over pay alone"
+     },
      {
       "k": "Maslow",
       "x": "Needs progress from physiological and safety through belonging and esteem to self-actualisation, highlighting multiple non-monetary motives."
@@ -1811,32 +1873,19 @@
     ]
    },
    {
-    "h": "Limits and critical assessment",
+    "h": "Process theories & morale",
     "p": [
      {
-      "k": "Maslow limit",
-      "x": "Order and satisfaction vary across culture, career and circumstance; needs may operate simultaneously."
+      "k": "Vroom expectancy",
+      "x": "motivation = Expectancy × Instrumentality × Valence — explains why identical incentives motivate differently."
      },
      {
-      "k": "Herzberg limit",
-      "x": "Methodology and occupational bias weaken a strict two-factor separation; pay can carry symbolic meaning."
+      "k": "Indian bridge",
+      "x": "pay-commission satisfaction vs actual output; APAR reform"
      },
-     {
-      "k": "McClelland limit",
-      "x": "High achievement may not suit interdependent public tasks; power requires institutional and ethical control."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
      {
       "k": "McClelland",
       "x": "Learned needs for achievement, affiliation and power vary among individuals and can guide role and leadership design."
-     },
-     {
-      "k": "Public context",
-      "x": "Service motive, mission valence, fairness and citizen impact supplement the three theories."
      },
      {
       "k": "Integrated use",
@@ -1845,8 +1894,12 @@
     ]
    }
   ],
-  "conc": "Motivation is person-task-organisation fit: the theories are diagnostic lenses whose value lies in designing fair conditions, meaningful work and credible public purpose together.",
-  "directive": "examine",
+  "wf": [
+   "combine hygiene (pay, service conditions) with motivators (autonomy, recognition)",
+   "individualise incentives per expectancy",
+   "build morale but tie it to outcomes."
+  ],
+  "conc": "Money buys presence, not performance — sustained motivation needs achievement, equity and expectancy, and morale that is harnessed to results.",
   "flash": [
    "Maslow",
    "Herzberg",
@@ -1855,7 +1908,7 @@
    "job enrichment",
    "public service motivation"
   ],
-  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+  "directive": "examine"
  },
  "pubad1-23": {
   "src": "mainslab",
@@ -2041,17 +2094,40 @@
   "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
  },
  "pubad1-25": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "Digital organisations often possess abundant signals but lack shared attention and meaning; communication failure therefore shifts from absence to cognitive and architectural overload."
+    "x": "Communication is the 'nervous system' of the organisation, and the grapevine its informal pulse — carrying meaning where formal channels fall silent."
+   },
+   {
+    "t": "data",
+    "x": "The digital workplace has inverted the classic problem — from a scarcity of information to its overload, where attention, not data, is the scarce resource."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Fundamentals & the informal channel",
     "p": [
+     {
+      "k": "Formal flows",
+      "x": "downward (orders), upward (feedback), horizontal (coordination)."
+     },
+     {
+      "k": "Grapevine",
+      "x": "fast, informal, morale-sensitive — manage, don't suppress."
+     },
+     {
+      "k": "Barnard",
+      "x": "communication is the first executive function."
+     },
+     {
+      "k": "Barriers",
+      "x": "semantic, hierarchical, perceptual filtering."
+     },
+     {
+      "x": "Feedback loop closes the communication circuit."
+     },
      {
       "k": "Overload",
       "x": "Continuous dashboards, messages and alerts exceed attention, obscuring what requires decision and what is merely visible."
@@ -2071,8 +2147,28 @@
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "The digital overload & remedies",
     "p": [
+     {
+      "k": "Information overload",
+      "x": "email/data glut fragments attention."
+     },
+     {
+      "k": "Filter failure ( Clay Shirky )",
+      "x": "the problem is curation, not volume."
+     },
+     {
+      "x": "Cyber-security & mis-communication risks rise."
+     },
+     {
+      "k": "Remedies",
+      "x": "MIS dashboards, structured protocols, e-office",
+      "ex": "e-Office DMS in Central Secretariat"
+     },
+     {
+      "k": "Indian bridge",
+      "x": "DARPG e-Office, CPGRAMS as feedback channel"
+     },
      {
       "k": "Media leanness",
       "x": "Text-rich digital interaction may lose tacit cues, ambiguity resolution and trust needed for complex coordination."
@@ -2092,8 +2188,12 @@
     ]
    }
   ],
-  "conc": "The remedy is not more data but communicative governance: curated signals, common meanings, reciprocal feedback and explicit responsibility for action.",
-  "directive": "discuss",
+  "wf": [
+   "design lean channels and dashboards to curate, not multiply, information",
+   "legitimise the grapevine as feedback",
+   "protect attention as a scarce resource."
+  ],
+  "conc": "An organisation is only as coherent as its communication — the task has shifted from transmitting more to filtering wisely in an age of overload.",
   "flash": [
    "information overload",
    "fragmentation",
@@ -2102,7 +2202,7 @@
    "algorithmic filtering",
    "feedback"
   ],
-  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+  "directive": "discuss"
  },
  "pubad1-28": {
   "src": "mainslab",
@@ -2317,17 +2417,44 @@
   "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
  },
  "pubad1-33": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
+    "t": "comparative",
+    "x": "The public corporation was devised to combine the autonomy of business with the accountability of government; the government company, critics quip, was devised to escape both."
+   },
+   {
     "t": "concept",
-    "x": "Public corporations and government companies are alternative efforts to combine public purpose with managerial flexibility; their legal forms create different channels of control but do not guarantee performance."
+    "x": "Ad hoc and advisory bodies extend the expertise of government but diffuse its responsibility — flexibility bought at the price of clear accountability."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Forms of public enterprise",
     "p": [
+     {
+      "k": "Departmental undertaking",
+      "x": "full control, least autonomy",
+      "ex": "Railways, Posts"
+     },
+     {
+      "k": "Public/statutory corporation",
+      "x": "created by statute; autonomy + accountability",
+      "ex": "LIC, FCI"
+     },
+     {
+      "k": "Government company (Companies Act)",
+      "x": "flexible, but escapes both full audit and full autonomy",
+      "ex": "PSUs, Navratnas"
+     },
+     {
+      "k": "Autonomy–accountability dilemma",
+      "x": "the core governance tension."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "MoU system, Navratna/Maharatna delegation"
+     },
      {
       "k": "Corporation form",
       "x": "A special statute defines mandate, powers and accountability, giving public-law identity and relative operational autonomy."
@@ -2347,17 +2474,33 @@
     ]
    },
    {
-    "h": "Limits and critical assessment",
+    "h": "Ad hoc & advisory bodies",
     "p": [
+     {
+      "k": "Expertise infusion",
+      "x": "expert committees, commissions",
+      "ex": "Finance Commission, Law Commission"
+     },
+     {
+      "k": "Advisory councils",
+      "x": "consultation without command",
+      "ex": "erstwhile Planning Commission's councils"
+     },
+     {
+      "x": "Flexibility & de-politicisation of technical issues."
+     },
+     {
+      "k": "Cost — diffused responsibility",
+      "x": "who owns the decision?"
+     },
+     {
+      "k": "Proliferation risk",
+      "x": "'committee raj', delayed accountability."
+     },
      {
       "k": "Accountability risk",
       "x": "Multiple principals—ministry, legislature, board, market and audit—can create either scrutiny or evasive blame."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
+     },
      {
       "k": "Contemporary relevance",
       "x": "Strategic and network sectors may justify public enterprise where externalities, security or natural monopoly are substantial."
@@ -2369,8 +2512,12 @@
     ]
    }
   ],
-  "conc": "Legal form is an enabling shell; autonomy with accountable boards and an explicit rationale for public ownership determines contemporary value.",
-  "directive": "critically examine",
+  "wf": [
+   "match enterprise form to function and autonomy needs",
+   "sunset-clause ad hoc bodies",
+   "pair delegated autonomy with performance MoUs."
+  ],
+  "conc": "Public enterprise and advisory bodies both chase the autonomy–accountability balance — the design must grant freedom to act without dissolving responsibility to answer.",
   "flash": [
    "public corporation",
    "government company",
@@ -2378,20 +2525,43 @@
    "public ownership",
    "performance compact",
    "board"
-  ]
+  ],
+  "directive": "critically examine"
  },
  "pubad1-34": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "Headquarters and field units face a permanent tension: the centre protects legality and common standards, while the field possesses contextual knowledge and must act under variable conditions."
+    "x": "The relationship between headquarters and the field is one of perpetual tension — HQ prizes uniformity and control; the field prizes discretion and local fit."
+   },
+   {
+    "t": "thinker",
+    "x": "James Fesler's classic tension of area vs function frames it — centralisation for consistency against decentralisation for responsiveness."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Sources of tension",
     "p": [
+     {
+      "k": "Control vs autonomy",
+      "x": "HQ standardises; field improvises."
+     },
+     {
+      "k": "Information asymmetry",
+      "x": "field knows the ground, HQ knows the whole."
+     },
+     {
+      "k": "Area vs function ( Fesler )",
+      "x": "geography vs specialisation."
+     },
+     {
+      "x": "Delay & red tape from over-referral upward."
+     },
+     {
+      "x": "Uniformity vs local variation in a diverse polity."
+     },
      {
       "k": "Sources of conflict",
       "x": "Uniform instructions, delayed approvals, target pressure, resource mismatch and poor feedback produce mutual distrust."
@@ -2411,8 +2581,26 @@
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "Balancing devices & Indian practice",
     "p": [
+     {
+      "k": "Delegation & subsidiarity",
+      "x": "decide at the lowest competent level."
+     },
+     {
+      "x": "Clear demarcation of HQ policy vs field execution."
+     },
+     {
+      "x": "MIS & dashboards for real-time coordination",
+      "ex": "PRAGATI, dashboards"
+     },
+     {
+      "k": "Field-adaptive schemes",
+      "x": "Aspirational Districts give Collectors flexibility"
+     },
+     {
+      "x": "Zonal/regional offices as intermediary tiers."
+     },
      {
       "k": "Exception management",
       "x": "Clear thresholds for escalation and documented deviation prevent both paralysis and arbitrary localism."
@@ -2428,8 +2616,12 @@
     ]
    }
   ],
-  "conc": "Effective allocation combines central coherence with bounded field discretion, supported by capacity, feedback and transparent exception rules.",
-  "directive": "examine",
+  "wf": [
+   "delegate operational discretion to the field",
+   "retain policy and audit at HQ",
+   "bridge with real-time MIS and clear role-demarcation."
+  ],
+  "conc": "HQ–field tension is structural, not pathological — the art is to centralise policy while decentralising the discretion that local reality demands.",
   "flash": [
    "headquarters-field",
    "subsidiarity",
@@ -2438,7 +2630,7 @@
    "feedback",
    "outcome control"
   ],
-  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+  "directive": "examine"
  },
  "pubad1-34-b0": {
   "src": "mainslab",
@@ -2500,17 +2692,41 @@
   ]
  },
  "pubad1-35": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "Results-based accountability corrects fixation on rule compliance, but public authority remains legitimate only when both the means used and outcomes produced are answerable."
+    "x": "Administrative discretion is a necessary evil — indispensable to a complex welfare state, dangerous only in its abuse; the task is to structure and check it, not abolish it."
+   },
+   {
+    "t": "concept",
+    "x": "Accountability has travelled from answerability for the use of authority to responsibility for the achievement of results — from process- compliance to outcome-performance."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Discretion: necessary yet checked",
     "p": [
+     {
+      "k": "Why inevitable",
+      "x": "welfare state, technical complexity, unforeseen cases."
+     },
+     {
+      "k": "Structuring discretion ( K.C. Davis )",
+      "x": "confine, structure, check."
+     },
+     {
+      "k": "Checks",
+      "x": "rules, reasoned orders, natural justice, review."
+     },
+     {
+      "k": "Abuse forms",
+      "x": "arbitrariness, mala fides, irrelevant considerations."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "Art 14 non-arbitrariness; Wednesbury /proportionality review"
+     },
      {
       "k": "Traditional model",
       "x": "Hierarchy, law, audit and procedure require officials to explain exercise of delegated authority."
@@ -2518,21 +2734,11 @@
      {
       "k": "Results turn",
       "x": "NPM and performance management emphasise outputs, outcomes, managerial discretion and user experience."
-     }
-    ]
-   },
-   {
-    "h": "Significance and consequences",
-    "p": [
+     },
      {
       "k": "Gain",
       "x": "Outcome information exposes formally correct programmes that fail to solve the public problem."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
+     },
      {
       "k": "Substitution risk",
       "x": "Targets can legitimise unlawful shortcuts, inequity or manipulation when process is treated as an obstacle."
@@ -2540,8 +2746,28 @@
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "The widening idea of accountability",
     "p": [
+     {
+      "k": "Answerability → responsibility",
+      "x": "from 'did you follow rules' to 'did you deliver'."
+     },
+     {
+      "k": "Types",
+      "x": "political, legal, administrative, professional, social."
+     },
+     {
+      "k": "360-degree accountability",
+      "x": "upward, downward, horizontal."
+     },
+     {
+      "k": "Performance accountability",
+      "x": "RFD, Outcome Budget, CPGRAMS metrics"
+     },
+     {
+      "k": "Answerability tools",
+      "x": "RTI, social audit, Citizen's Charters"
+     },
      {
       "k": "Attribution",
       "x": "Outcomes arise from multiple actors and environments, making simple individual blame or reward unreliable."
@@ -2561,8 +2787,12 @@
     ]
    }
   ],
-  "conc": "Authority answers 'by what right and process?'; results answer 'to what effect and for whom?'. Democratic administration requires both questions simultaneously.",
-  "directive": "critically examine",
+  "wf": [
+   "structure discretion with reasoned, reviewable rules",
+   "complement process accountability with outcome metrics",
+   "make accountability multi- directional."
+  ],
+  "conc": "Discretion and accountability are the twin nerves of governance — a mature state neither fears discretion nor forgets that it must always answer for its results.",
   "flash": [
    "answerability",
    "results",
@@ -2571,7 +2801,7 @@
    "gaming",
    "multiple accountabilities"
   ],
-  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+  "directive": "critically examine"
  },
  "pubad1-36": {
   "src": "mainslab",
@@ -2770,17 +3000,38 @@
   ]
  },
  "pubad1-44": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "Tribunals seek specialised, less formal and quicker adjudication, but weak independence and automatic appellate layers can make them a detour rather than an alternative."
+    "x": "Administrative tribunals were designed to relieve the ordinary courts and offer speedy, expert, cheap justice — but have often added one more layer of litigation rather than closing one."
+   },
+   {
+    "t": "event",
+    "x": "Judicial pronouncements on tribunal autonomy ( L. Chandra Kumar, Madras Bar Association ) have wrestled with independence, appointments and the High Courts' review power."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Rationale & design",
     "p": [
+     {
+      "x": "Speed, expertise, low cost, informality over regular courts."
+     },
+     {
+      "k": "Constitutional basis",
+      "x": "Arts 323A–323B (42nd Amendment)",
+      "ex": "CAT (1985), NGT, ITAT"
+     },
+     {
+      "x": "Reduce court arrears by specialised fora."
+     },
+     {
+      "x": "Flexible procedure unbound by strict evidence rules."
+     },
+     {
+      "x": "Expert members alongside judicial members."
+     },
      {
       "k": "Rationale",
       "x": "Expert members and tailored procedure can improve decisions in technical, high-volume administrative disputes."
@@ -2800,8 +3051,28 @@
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "Problems & reform",
     "p": [
+     {
+      "k": "Added layer",
+      "x": "appeals to High Court/Supreme Court persist",
+      "ex": "L. Chandra Kumar (1997) — HC review under Art 226 survives"
+     },
+     {
+      "k": "Independence deficit",
+      "x": "parent-ministry control of appointments, tenure, funding."
+     },
+     {
+      "x": "Vacancies & infrastructure cripple speed."
+     },
+     {
+      "k": "Tribunalisation critique",
+      "x": "Madras Bar Association line of cases."
+     },
+     {
+      "k": "Reform",
+      "x": "National Tribunals Commission proposal; Tribunal Reforms Act 2021"
+     },
      {
       "k": "Accessibility",
       "x": "Benches, affordable procedure, legal aid and digital options must prevent centralised expert justice from becoming distant."
@@ -2817,8 +3088,12 @@
     ]
    }
   ],
-  "conc": "Tribunalisation succeeds when specialised first-instance justice is genuinely independent and accessible, with focused—not duplicative—judicial review.",
-  "directive": "discuss",
+  "wf": [
+   "create an independent National Tribunals Commission for appointments and oversight",
+   "fill vacancies",
+   "insulate tribunals from parent- ministry control."
+  ],
+  "conc": "Tribunals promised justice that was swift, cheap and expert — realising it requires the independence that alone separates a tribunal from an extra tier of delay.",
   "flash": [
    "tribunal",
    "expertise",
@@ -2827,20 +3102,43 @@
    "judicial review",
    "vacancy"
   ],
-  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+  "directive": "discuss"
  },
  "pubad1-46": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "Delegated legislation is indispensable because legislatures cannot specify every technical detail or update rule, yet delegation must remain subordinate to the policy and limits of the parent statute."
+    "x": "Judicial control has travelled from testing the legality of administrative action to prescribing its very content — from Wednesbury deference to the intrusive standards of proportionality and legitimate expectation."
+   },
+   {
+    "t": "historical",
+    "x": "From rule of law to activism, the court has become a co-administrator — expanding review through PIL, natural justice and doctrines of substantive fairness."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Grounds & doctrines of review",
     "p": [
+     {
+      "x": "Illegality, irrationality, procedural impropriety ( CCSU / GCHQ case)."
+     },
+     {
+      "k": "Natural justice",
+      "x": "audi alteram partem, nemo judex in causa sua."
+     },
+     {
+      "k": "Proportionality",
+      "x": "means must be proportionate to ends — from Wednesbury to strict scrutiny."
+     },
+     {
+      "k": "Legitimate expectation",
+      "x": "protecting settled reliance on administrative conduct."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "Maneka Gandhi (due process); PIL expansion"
+     },
      {
       "k": "Necessity",
       "x": "Expertise, speed, local variation and changing technology justify executive rule-making within a legislative framework."
@@ -2860,8 +3158,27 @@
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "Merits & the overreach debate",
     "p": [
+     {
+      "k": "Rights-protective",
+      "x": "shields citizen against arbitrary state."
+     },
+     {
+      "x": "Rule-of-law guardian of the administrative state."
+     },
+     {
+      "k": "Overreach risk",
+      "x": "judiciary prescribing policy content",
+      "ex": "judicial 'governance'"
+     },
+     {
+      "x": "Separation-of-powers strain & capacity limits."
+     },
+     {
+      "k": "Self-restraint doctrines",
+      "x": "justiciability, deference on polycentric issues."
+     },
      {
       "k": "Judicial control",
       "x": "Courts may invalidate rules that exceed the Act, violate rights, use irrelevant considerations or breach required procedure."
@@ -2877,8 +3194,12 @@
     ]
    }
   ],
-  "conc": "Delegation is legitimate as bounded, reviewable implementation; efficiency cannot convert the executive into an unconstrained substitute legislature.",
-  "directive": "critically examine",
+  "wf": [
+   "confine review to legality and fairness, not policy wisdom",
+   "codify proportionality standards",
+   "balance activism with self-restraint."
+  ],
+  "conc": "Judicial review is the indispensable guardian of the administrative state — but a guardian that governs risks becoming the very unchecked power it was meant to check.",
   "flash": [
    "delegated legislation",
    "parent Act",
@@ -2886,7 +3207,8 @@
    "laying",
    "ultra vires",
    "sunset clause"
-  ]
+  ],
+  "directive": "critically examine"
  },
  "pubad1-48": {
   "src": "mainslab",
@@ -2958,17 +3280,37 @@
   "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
  },
  "pubad1-53": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
-    "t": "concept",
-    "x": "France, Britain and the United States represent distinct bargains among career service, political control, expertise and openness; none can be transplanted without constitutional context."
+    "t": "thinker",
+    "x": "Ferrel Heady made CPA in practice the comparative study of bureaucracies — classifying regimes by the role and character of their public bureaucracy, a manageable but arguably narrow lens."
+   },
+   {
+    "t": "comparative",
+    "x": "The higher civil service is a career aristocracy in France, a generalist meritocracy in Britain, and a politically permeated service in the United States — each offering distinct lessons to developing states."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Heady's bureaucracy-centred CPA",
     "p": [
+     {
+      "x": "Bureaucracy as the comparative unit across political systems."
+     },
+     {
+      "x": "Classified polities by bureaucratic role (e.g. ruler-dominated, party- controlled)."
+     },
+     {
+      "x": "Middle-range concepts over grand theory."
+     },
+     {
+      "k": "Adequacy debate",
+      "x": "bureaucracy-centrism omits civil society, markets, networks."
+     },
+     {
+      "x": "Still useful for structured cross-national comparison."
+     },
      {
       "k": "France",
       "x": "A prestigious, centralised administrative elite and corps tradition historically linked specialised formation, mobility and strong State capacity."
@@ -2988,8 +3330,31 @@
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "Three civil-service models",
     "p": [
+     {
+      "k": "France",
+      "x": "grands corps, ENA-trained career aristocracy, technocratic",
+      "ex": "cabinet system"
+     },
+     {
+      "k": "Britain",
+      "x": "generalist, merit, neutral, anonymous",
+      "ex": "Northcote–Trevelyan (1854); Fulton (1968)"
+     },
+     {
+      "k": "USA",
+      "x": "spoils + politically appointed layer, permeable",
+      "ex": "Senior Executive Service"
+     },
+     {
+      "k": "Lessons for developing states",
+      "x": "blend merit-neutrality with domain expertise."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "generalist ICS legacy vs lateral-entry/domain-expertise debate"
+     },
      {
       "k": "Minister-official relation",
       "x": "British anonymity contrasts with more visible US appointees and France's stronger administrative elite in policymaking."
@@ -3009,8 +3374,12 @@
     ]
    }
   ],
-  "conc": "Developing democracies should combine merit, professional depth and lawful political direction while avoiding both self-governing bureaucratic elites and patronage administrations.",
-  "directive": "compare and contrast",
+  "wf": [
+   "widen CPA beyond bureaucracy to networks and markets",
+   "borrow the best of each civil-service model contextually",
+   "balance generalist merit with specialist depth."
+  ],
+  "conc": "Heady made bureaucracy the comparative anchor, but the modern lesson from France, Britain and the US is that no single civil-service model is optimal — each fits its own political soil.",
   "flash": [
    "French corps",
    "British generalist",
@@ -3018,7 +3387,8 @@
    "neutrality",
    "specialisation",
    "comparative caution"
-  ]
+  ],
+  "directive": "compare and contrast"
  },
  "pubad1-54": {
   "src": "mainslab",
@@ -3144,17 +3514,36 @@
   "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
  },
  "pubad1-59": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "Women's collectives, digital public infrastructure and social capital can multiply development capability, but they also reflect the inequalities of the society and State in which they operate."
+    "x": "Women's empowerment is at once a means and an end of development — an intrinsic goal of justice and an instrument of growth, health and better governance."
+   },
+   {
+    "t": "data",
+    "x": "Digital Public Infrastructure has opened a new frontier for women's economic empowerment, but the gender digital divide threatens to close it — access shapes who the DPI dividend reaches."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Women as agents & ends of development",
     "p": [
+     {
+      "k": "Means & end",
+      "x": "empowerment is both intrinsic justice and instrumental multiplier."
+     },
+     {
+      "x": "SHG movement feminised the grassroots economy",
+      "ex": "NRLM, Lakhpati Didi"
+     },
+     {
+      "k": "Political empowerment",
+      "x": "73rd/74th reservation; Nari Shakti Vandan (106th CAA, 2023)"
+     },
+     {
+      "x": "Care economy & unpaid labour recognition (gender budgeting)."
+     },
      {
       "k": "Collective agency",
       "x": "SHGs pool voice, savings and information, enabling women to negotiate services, markets and household decisions."
@@ -3174,8 +3563,19 @@
     ]
    },
    {
-    "h": "Limits and critical assessment",
+    "h": "DPI, the digital divide & SHGs",
     "p": [
+     {
+      "k": "DPI dividend",
+      "x": "Jan Dhan accounts, DBT, PMMY loans to women"
+     },
+     {
+      "x": "SHG–bank linkage as livelihood engine; risk of over-indebtedness."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "Deendayal Antyodaya-NRLM; 10 crore women in SHGs"
+     },
      {
       "k": "Power limits",
       "x": "Caste, class, gender violence, device ownership and unpaid work constrain equal participation."
@@ -3183,12 +3583,7 @@
      {
       "k": "Platform risks",
       "x": "Authentication failure, surveillance and data asymmetry may shift burdens from administration to citizens."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
+     },
      {
       "k": "State dependence",
       "x": "Credit, rights, markets and public services require responsive institutions; self-help cannot substitute for public obligation."
@@ -3200,8 +3595,12 @@
     ]
    }
   ],
-  "conc": "Collective and digital capabilities deepen development when they redistribute voice and make the State more reachable; otherwise they can digitise or collectivise existing exclusion.",
-  "directive": "discuss",
+  "wf": [
+   "close the gender digital divide via literacy and devices",
+   "scale SHG-DPI linkage responsibly",
+   "gender-budget and count the care economy."
+  ],
+  "conc": "Empowering women is both the compass and the destination of development — but the digital age will deliver its dividend only if the gender divide is deliberately bridged.",
   "flash": [
    "women's collectives",
    "social capital",
@@ -3210,7 +3609,7 @@
    "digital",
    "public"
   ],
-  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+  "directive": "discuss"
  },
  "pubad1-59-b1": {
   "src": "mainslab",
@@ -3281,17 +3680,28 @@
   ]
  },
  "pubad1-60": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
+    "t": "thinker",
+    "x": "Edward Weidner defined development administration by its goal-orientation and change-orientation — administration harnessed to nation-building and socio-economic transformation."
+   },
+   {
     "t": "concept",
-    "x": "Sustainable development challenges routine administration to value future generations, ecological thresholds and cross-sector effects that annual budgets and departmental mandates usually discount."
+    "x": "The field has journeyed from nation-building to the localisation of the SDGs, and the very term has inverted from 'development administration' to the 'administration of development' — from a transformative to a managerial idiom."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "The concept & its features",
     "p": [
+     {
+      "x": "Development administration vs administration of development ( Fainsod ): the polity's admin for change vs managing dev programmes."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "Community Development Programme (1952); Five-Year Plans"
+     },
      {
       "k": "Long horizon",
       "x": "Appraisal should include life-cycle costs, resilience and irreversible environmental loss rather than immediate outputs alone."
@@ -3311,15 +3721,15 @@
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "Evolution to SDG localisation",
     "p": [
      {
-      "k": "Budget alignment",
-      "x": "Plans, procurement and capital budgets should map resources to outcomes and identify harmful incentives."
+      "k": "SDG localisation",
+      "x": "NITI Aayog SDG India Index; LSDG at panchayat level"
      },
      {
-      "k": "Participation",
-      "x": "Communities and vulnerable groups hold contextual knowledge and bear distributional costs of transition."
+      "k": "Digital delivery frontier",
+      "x": "DBT, JAM, Aspirational Districts"
      },
      {
       "k": "Administrative architecture",
@@ -3328,8 +3738,12 @@
     ]
    }
   ],
-  "conc": "Localising the SDGs is administrative integration: future-sensitive appraisal, coherent budgets, place-based participation and accountability for trade-offs.",
-  "directive": "comment",
+  "wf": [
+   "recover the transformative, not merely managerial, purpose",
+   "localise SDGs through empowered local bodies",
+   "pair delivery efficiency with equity."
+  ],
+  "conc": "Development administration began as the state's engine of transformation; its future lies in localising global goals without shrinking into mere scheme-management.",
   "flash": [
    "sustainable development",
    "intergenerational equity",
@@ -3338,7 +3752,7 @@
    "life-cycle appraisal",
    "place-based governance"
   ],
-  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+  "directive": "comment"
  },
  "pubad1-60-b0": {
   "src": "mainslab",
@@ -3528,17 +3942,39 @@
   "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
  },
  "pubad1-66": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "Government appraisal fails when a confidential annual rating is detached from job purpose, evidence, learning and consequential career decisions."
+    "x": "Public pay must reconcile the principle of comparability with the capacity of the exchequer — fair enough to attract talent, affordable enough to sustain the fisc."
+   },
+   {
+    "t": "concept",
+    "x": "Performance appraisal in government is more about compliance than employee development — a ritual of confidential reporting rather than a tool of growth and accountability."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Pay policy & comparability",
     "p": [
+     {
+      "k": "Comparability vs affordability",
+      "x": "market parity against fiscal limits."
+     },
+     {
+      "x": "Fair Comparison / Living Wage principles."
+     },
+     {
+      "k": "Periodic revision",
+      "x": "Pay Commissions; 7th CPC (2015, Mathur)"
+     },
+     {
+      "x": "Pay–productivity link weakly institutionalised."
+     },
+     {
+      "k": "Pension reform",
+      "x": "NPS → Unified Pension Scheme (2024)"
+     },
      {
       "k": "Dual purpose",
       "x": "Appraisal should support capability development while supplying fair evidence for deployment, progression and accountability."
@@ -3558,8 +3994,28 @@
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "Appraisal: compliance vs development",
     "p": [
+     {
+      "k": "APAR ritualism",
+      "x": "inflation, secrecy, poor differentiation."
+     },
+     {
+      "k": "Reforms",
+      "x": "disclosure of APAR to officer; numerical grading",
+      "ex": "Surinder Nath (2003) competency framework"
+     },
+     {
+      "x": "360-degree & multi-source feedback piloted for empanelment."
+     },
+     {
+      "k": "Developmental appraisal",
+      "x": "competencies, potential, feedback."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "Karmayogi competency mapping; performance-based empanelment"
+     },
      {
       "k": "Continuous dialogue",
       "x": "Mid-cycle feedback and coaching allow correction before an annual score becomes a surprise."
@@ -3579,8 +4035,12 @@
     ]
    }
   ],
-  "conc": "Appraisal becomes developmental when it is a recurring evidence-and-coaching process; career consequences should follow demonstrated capability, not ritual scores.",
-  "directive": "critically examine",
+  "wf": [
+   "link pay to comparability and productivity within fiscal prudence",
+   "make appraisal developmental, disclosed and competency-based",
+   "add multi-source feedback."
+  ],
+  "conc": "Pay must be fair yet affordable and appraisal must develop, not merely certify — a modern personnel system rewards performance and grows potential.",
   "flash": [
    "performance appraisal",
    "competency",
@@ -3588,20 +4048,42 @@
    "development plan",
    "multi-source",
    "career progression"
-  ]
+  ],
+  "directive": "critically examine"
  },
  "pubad1-67": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "Public employees possess legitimate associational and workplace interests, but bargaining occurs within democratic sovereignty, legislated budgets and the obligation to maintain essential services."
+    "x": "Sound employer–employee relations require institutionalised consultation, not benevolent paternalism — a structured voice for staff, not a superior's grace."
+   },
+   {
+    "t": "concept",
+    "x": "The right of civil servants to form associations sits uneasily with the discipline demanded of a public service — the balance struck by machinery for joint consultation."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Machinery of joint consultation",
     "p": [
+     {
+      "k": "JCM (Joint Consultative Machinery, 1966)",
+      "x": "national, departmental, office councils."
+     },
+     {
+      "x": "Whitley Council model (UK) adapted to India."
+     },
+     {
+      "x": "Compulsory arbitration for pay, allowances, service conditions."
+     },
+     {
+      "k": "Negotiation over imposition",
+      "x": "participative service relations."
+     },
+     {
+      "x": "Grievance channels integrated with consultation."
+     },
      {
       "k": "Distinct context",
       "x": "The employer is accountable to citizens and legislatures; agreements cannot privately dispose of statutory powers or public funds."
@@ -3621,8 +4103,27 @@
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "Associations, discipline & their tension",
     "p": [
+     {
+      "x": "Right to associate vs restrictions on strikes/politics",
+      "ex": "CCS (Conduct) Rules"
+     },
+     {
+      "x": "No fundamental right to strike ( T.K. Rangarajan, 2003)."
+     },
+     {
+      "k": "Discipline",
+      "x": "conduct rules, Art 311 procedure."
+     },
+     {
+      "k": "Balance",
+      "x": "voice without indiscipline; consultation as safety valve."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "service associations, UPS/NPS pension negotiations"
+     },
      {
       "k": "Scope",
       "x": "Pay, safety and procedures are more bargainable than core policy, statutory duties or appointments reserved by law."
@@ -3638,8 +4139,12 @@
     ]
    }
   ],
-  "conc": "A balanced system protects organised employee voice within transparent fiscal, legal and service-continuity rules, making participation compatible with public accountability.",
-  "directive": "critically examine",
+  "wf": [
+   "revitalise JCM and arbitration",
+   "give staff genuine voice while barring disruptive action",
+   "integrate consultation with grievance redress."
+  ],
+  "conc": "Public-service harmony rests on structured consultation, not paternal favour — associations channel voice, and discipline channels duty, each needing the other.",
   "flash": [
    "collective bargaining",
    "sovereignty",
@@ -3648,7 +4153,7 @@
    "joint consultation",
    "arbitration"
   ],
-  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+  "directive": "critically examine"
  },
  "pubad1-70-b2": {
   "src": "mainslab",
@@ -3775,29 +4280,32 @@
   ]
  },
  "pubad1-76": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "Evidence informs policy within a political and institutional process; it cannot determine values, distribute losses or automatically overcome incentives to ignore inconvenient findings."
+    "x": "Policy evaluation is the weakest link in the policy cycle — celebrated in theory, neglected in practice, its findings rarely closing the loop back into design."
+   },
+   {
+    "t": "data",
+    "x": "Evidence-based policy-making is constrained more by politics than by the availability of data — evidence competes with ideology, interest and electoral calculus."
    }
   ],
   "body": [
    {
-    "h": "Significance and consequences",
+    "h": "Evaluation as the weak link",
     "p": [
+     {
+      "k": "Institutions",
+      "x": "DMEO (NITI Aayog); erstwhile PEO"
+     },
+     {
+      "x": "RCTs & impact evaluation raise rigour",
+      "ex": "J-PAL collaborations"
+     },
      {
       "k": "Evidence contribution",
       "x": "Administrative data, trials, qualitative research and comparative experience clarify diagnosis, mechanisms and effects."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
-     {
-      "k": "Value boundary",
-      "x": "Evidence cannot decide the moral weight of equity, liberty, risk or intergenerational trade-offs."
      },
      {
       "k": "Political use",
@@ -3810,11 +4318,15 @@
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "Evidence vs politics",
     "p": [
      {
-      "k": "Monitoring",
-      "x": "Continuous indicators show implementation state but may invite gaming and rarely establish attribution."
+      "k": "Data availability improving",
+      "x": "DBT dashboards, NDAP, PRAGATI"
+     },
+     {
+      "k": "Indian bridge",
+      "x": "outcome budgeting; third-party concurrent evaluation"
      },
      {
       "k": "Evaluation",
@@ -3823,16 +4335,16 @@
      {
       "k": "Evidence system",
       "x": "Pre-register questions, preserve evaluator independence, link datasets and publish null or adverse findings."
-     },
-     {
-      "k": "Deliberation",
-      "x": "Combine technical evidence with stakeholder knowledge and transparent explanation of value choices."
      }
     ]
    }
   ],
-  "conc": "The realistic ideal is evidence-informed policy: rigorous knowledge enters an explicit process of values, politics and institutional learning instead of masquerading as automatic choice.",
-  "directive": "examine",
+  "wf": [
+   "institutionalise independent, well-funded evaluation",
+   "close the feedback loop into design",
+   "build analytic capacity and insulate evidence from spin."
+  ],
+  "conc": "Evaluation is the conscience of the policy cycle — until findings feed back into design, evidence-based governance will keep losing to politics- based improvisation.",
   "flash": [
    "evidence-informed policy",
    "monitoring",
@@ -3841,20 +4353,44 @@
    "gaming",
    "policy learning"
   ],
-  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+  "directive": "examine"
  },
  "pubad1-78": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "Digital Public Infrastructure changes administrative improvement from putting existing departments online to providing interoperable rails on which many public and private services can be assembled."
+    "x": "E-governance matures through the stages of presence, interaction, transaction and transformation — from static websites to a re- imagined state–citizen interface."
+   },
+   {
+    "t": "event",
+    "x": "Digital Public Infrastructure (DPI) has transformed e-governance from the computerisation of procedures to the re-imagination of the state–citizen interface — India Stack as the exemplar."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Models & maturity stages",
     "p": [
+     {
+      "k": "Stages",
+      "x": "presence → interaction → transaction → transformation (UN/Gartner)."
+     },
+     {
+      "k": "Types",
+      "x": "G2C, G2B, G2G, G2E."
+     },
+     {
+      "k": "Interaction models",
+      "x": "MMPs under NeGP (2006); Digital India (2015)"
+     },
+     {
+      "k": "Service delivery",
+      "x": "UMANG, e-District, DigiLocker"
+     },
+     {
+      "k": "Transformation",
+      "x": "whole-of-government, proactive, personalised service."
+     },
      {
       "k": "Architectural shift",
       "x": "Identity, payments and data exchange become reusable components rather than duplicated departmental systems."
@@ -3866,12 +4402,7 @@
      {
       "k": "State-citizen relation",
       "x": "Portability and direct delivery can reduce gatekeepers, but may relocate administrative burden onto the individual."
-     }
-    ]
-   },
-   {
-    "h": "Significance and consequences",
-    "p": [
+     },
      {
       "k": "Transaction gain",
       "x": "Shared rails reduce verification, transfer and onboarding costs and permit services at population scale."
@@ -3879,8 +4410,28 @@
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "DPI / India Stack re-imagination",
     "p": [
+     {
+      "k": "DPI layers",
+      "x": "identity (Aadhaar), payments (UPI), data (DEPA/Account Aggregator)."
+     },
+     {
+      "x": "Population-scale, inclusive, interoperable",
+      "ex": "CoWIN, ONDC"
+     },
+     {
+      "k": "JAM + DBT",
+      "x": "leakage cut, direct transfers to 100+ crore"
+     },
+     {
+      "k": "Risks",
+      "x": "exclusion errors, privacy, digital divide, cyber-security."
+     },
+     {
+      "k": "Global model",
+      "x": "India's G20 DPI framework exported"
+     },
      {
       "k": "Exclusion",
       "x": "Authentication failure, weak connectivity, literacy and inaccurate records can turn efficient systems into rights barriers."
@@ -3900,8 +4451,12 @@
     ]
    }
   ],
-  "conc": "DPI is transformative when it remains a rights-respecting public foundation; interoperability must expand agency rather than make citizens legible but helpless.",
-  "directive": "critically examine",
+  "wf": [
+   "climb from transaction to transformation",
+   "build inclusive DPI with privacy safeguards",
+   "bridge the digital divide and secure data."
+  ],
+  "conc": "E-governance has evolved from putting forms online to re-imagining the state itself — DPI makes governance a public platform, if inclusion and privacy keep pace.",
   "flash": [
    "interoperability",
    "public rails",
@@ -3910,7 +4465,7 @@
    "assisted access",
    "digital"
   ],
-  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+  "directive": "critically examine"
  },
  "pubad1-80": {
   "src": "mainslab",
@@ -4051,17 +4606,29 @@
   "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
  },
  "pubad1-85": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "Public debt transfers resources across time: it can finance assets and shock absorption for future beneficiaries, or transfer taxes and constrained choices when borrowing funds current consumption or hidden risk."
+    "x": "Fiscal policy in developing countries perpetually oscillates between the imperative of growth and the discipline of debt — the spend-to- grow instinct against the sustainability constraint."
+   },
+   {
+    "t": "concept",
+    "x": "Public debt is a bridge between generations as much as a burden upon them — financing today's assets from tomorrow's taxes, sound if it builds capacity, ruinous if it funds consumption."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Fiscal policy: growth vs discipline",
     "p": [
+     {
+      "k": "Fiscal responsibility frameworks",
+      "x": "FRBM Act 2003; deficit/debt targets"
+     },
+     {
+      "k": "Fiscal federalism",
+      "x": "Finance Commission transfers; GST compensation"
+     },
      {
       "k": "Intergenerational bridge",
       "x": "Long-lived infrastructure justifies spreading cost across cohorts that use it."
@@ -4081,8 +4648,15 @@
     ]
    },
    {
-    "h": "Limits and critical assessment",
+    "h": "Public debt: bridge or burden",
     "p": [
+     {
+      "x": "Crowding-out vs crowding-in of private investment."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "FRBM debt path; N.K. Singh FRBM Review (2017); market borrowing. RESOLVED — 16th FC RESOLVED — UPS Unified Pension Scheme operational 1 Apr 2025 (assured 50%); States’ OPS-reversion politics continues. RESOLVED — labour codes All four codes in force 21 Nov 2025 — use in state-capacity/regulation answers. STILL OPEN"
+     },
      {
       "k": "Developing-country constraint",
       "x": "Shallow markets, volatile capital and development needs make rigid imported thresholds inappropriate."
@@ -4090,12 +4664,7 @@
      {
       "k": "Risk disclosure",
       "x": "Guarantees, public enterprises, pensions and off-budget borrowing belong in a comprehensive balance-sheet view."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
+     },
      {
       "k": "Fiscal frameworks",
       "x": "Medium-term debt anchors, transparent deficits and escape clauses can combine credibility with counter-cyclical flexibility."
@@ -4107,8 +4676,12 @@
     ]
    }
   ],
-  "conc": "Responsible debt policy is intergenerational stewardship: borrow transparently for resilience and productive capacity, then maintain a credible path that protects future fiscal choice.",
-  "directive": "comment",
+  "wf": [
+   "borrow for productive capital within FRBM discipline",
+   "anchor debt to sustainability ratios",
+   "balance developmental spend with inter- generational equity."
+  ],
+  "conc": "Fiscal policy walks a tightrope between growth and prudence, and public debt is justified only when it bridges generations with assets, not burdens them with consumption.",
   "flash": [
    "public debt",
    "intergenerational equity",
@@ -4117,6 +4690,497 @@
    "fiscal risk",
    "productive borrowing"
   ],
-  "lens": "⚠ This prepared answer shares its body with other questions in the source corpus — verify it answers this stem before relying on it."
+  "directive": "comment"
+ },
+ "pubad1-32": {
+  "src": "cheatsheet",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The distance between regulation and over-regulation is thin — independent regulators are meant to be expert and insulated, yet risk capture, overreach and a democratic deficit."
+   },
+   {
+    "t": "concept",
+    "x": "Public–Private Partnerships blur the boundary between public and private accountability — sharing risk and reward, but muddying who answers to the citizen."
+   }
+  ],
+  "body": [
+   {
+    "h": "Independent regulatory authorities",
+    "p": [
+     {
+      "k": "Rationale",
+      "x": "expertise, insulation from politics, investor certainty",
+      "ex": "SEBI, TRAI, CCI, RERA, CERC"
+     },
+     {
+      "k": "Functions fused",
+      "x": "rule-making + adjudication + enforcement — a 'fourth branch'."
+     },
+     {
+      "k": "Risks",
+      "x": "regulatory capture, overreach, inconsistency."
+     },
+     {
+      "k": "Accountability gap",
+      "x": "to whom is the unelected regulator answerable?"
+     },
+     {
+      "k": "Over-regulation",
+      "x": "compliance burden throttles enterprise",
+      "ex": "ease-of- doing-business reforms"
+     }
+    ]
+   },
+   {
+    "h": "PPP & shared accountability",
+    "p": [
+     {
+      "k": "Models",
+      "x": "BOT, BOOT, HAM, DBFOT — risk-sharing spectrum."
+     },
+     {
+      "k": "Benefits",
+      "x": "private capital, efficiency, innovation",
+      "ex": "highways, airports, metros"
+     },
+     {
+      "k": "Accountability blur",
+      "x": "public service delivered by private hands."
+     },
+     {
+      "k": "Contract & renegotiation risks",
+      "x": "Kelkar Committee on PPP (2015)"
+     },
+     {
+      "x": "Viability-gap funding where social returns exceed private."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "insulate regulators but subject them to parliamentary and judicial review",
+   "standardise PPP contracts and dispute resolution",
+   "make private delivery publicly accountable."
+  ],
+  "conc": "Regulators and PPPs both privatise function while socialising responsibility — good design keeps the state answerable even where the private sector acts."
+ },
+ "pubad1-47": {
+  "src": "cheatsheet",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "A.V. Dicey's hostility to administrative law rested on a misreading of the French droit administratif, which he wrongly thought shielded officials from law — his own later writings softened."
+   },
+   {
+    "t": "concept",
+    "x": "The administrative state is constitutional precisely to the extent that it is accountable — power delegated to the executive is legitimate only when checked by law and review."
+   }
+  ],
+  "body": [
+   {
+    "h": "Dicey vs droit administratif",
+    "p": [
+     {
+      "k": "Dicey's rule of law",
+      "x": "supremacy of ordinary law, equality before it, no separate official law."
+     },
+     {
+      "k": "Misreading",
+      "x": "thought droit administratif privileged officials."
+     },
+     {
+      "k": "Reality",
+      "x": "the Conseil d'État subjects officials to rigorous public-law standards."
+     },
+     {
+      "k": "Convergence",
+      "x": "English law developed its own administrative law by the 20th century."
+     },
+     {
+      "k": "Legacy",
+      "x": "rule-of-law ideal still anchors judicial review."
+     }
+    ]
+   },
+   {
+    "h": "The accountable administrative state",
+    "p": [
+     {
+      "k": "Rise of the administrative state ( Waldo )",
+      "x": "delegation, discretion, expertise."
+     },
+     {
+      "k": "Legitimacy = accountability",
+      "x": "review, reasons, natural justice."
+     },
+     {
+      "k": "Instruments",
+      "x": "tribunals, ombudsman, judicial review."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "Art 32/226 writs; CAT; Lokpal"
+     },
+     {
+      "k": "Constitutional tether",
+      "x": "discretion within a framework of legality."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "codify fair-procedure norms for administrative action",
+   "strengthen tribunals and review",
+   "keep delegated power tethered to legal accountability."
+  ],
+  "conc": "Dicey feared administrative law would shield the state; the modern lesson is the reverse — administrative law is what makes the administrative state constitutional."
+ },
+ "pubad1-57": {
+  "src": "cheatsheet",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "The East Asian developmental state succeeded, Peter Evans argued, because its bureaucracy enjoyed 'embedded autonomy' — insulated enough to resist capture, connected enough to guide business."
+   },
+   {
+    "t": "concept",
+    "x": "The old 'strong state versus free market' binary has been overtaken by the developmental state — a synthesis where the state steers the market rather than replacing or surrendering to it."
+   }
+  ],
+  "body": [
+   {
+    "h": "The developmental state model",
+    "p": [
+     {
+      "k": "Embedded autonomy ( Evans )",
+      "x": "insulated + networked bureaucracy."
+     },
+     {
+      "k": "Pilot agency",
+      "x": "Japan's MITI ( Chalmers Johnson ), Korea's EPB"
+     },
+     {
+      "k": "Strategic industrial policy",
+      "x": "picking and disciplining winners."
+     },
+     {
+      "x": "Meritocratic Weberian core guiding markets."
+     },
+     {
+      "k": "Beyond the binary",
+      "x": "state and market as complements."
+     }
+    ]
+   },
+   {
+    "h": "Relevance & limits for developing states",
+    "p": [
+     {
+      "k": "Governed market thesis ( Wade )",
+      "x": "state shapes prices strategically."
+     },
+     {
+      "x": "Risk of capture / crony capitalism without autonomy."
+     },
+     {
+      "x": "Democratic-federal context differs from East Asian authoritarian setting."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "PLI schemes, Make-in-India, Gati Shakti as industrial policy"
+     },
+     {
+      "k": "Capacity precondition",
+      "x": "embedded autonomy demands a capable bureaucracy."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "cultivate embedded-yet-autonomous economic bureaucracy",
+   "use strategic, time-bound industrial policy",
+   "guard against capture through transparency."
+  ],
+  "conc": "The debate has moved beyond strong-state versus market to the developmental state that steers both — its secret is a bureaucracy embedded in society yet autonomous from capture."
+ },
+ "pubad1-64": {
+  "src": "cheatsheet",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The doctrine of neutrality demands anonymity from the civil servant, while the digital age demands visibility from everyone — the classic value under strain from social media and personalised governance."
+   },
+   {
+    "t": "thinker",
+    "x": "Administrative ethics cannot be legislated; it must be cultivated — codes of conduct set floors, but integrity is grown through values, culture and Nolan's seven principles of public life."
+   }
+  ],
+  "body": [
+   {
+    "h": "Neutrality & anonymity under strain",
+    "p": [
+     {
+      "k": "Weberian neutrality",
+      "x": "impartial across governments; permanence, anonymity."
+     },
+     {
+      "x": "Political neutrality a constitutional value under strain from politicisation."
+     },
+     {
+      "k": "Digital visibility",
+      "x": "officers on social media erode anonymity."
+     },
+     {
+      "x": "Committed-vs-neutral debate (Indira era)."
+     },
+     {
+      "k": "Instrumental neutrality",
+      "x": "loyal to the Constitution, not a party",
+      "ex": "Nolan objectivity"
+     }
+    ]
+   },
+   {
+    "h": "Ethics: cultivated, not merely coded",
+    "p": [
+     {
+      "k": "Codes as floors",
+      "x": "CCS (Conduct) Rules; AIS Conduct Rules"
+     },
+     {
+      "k": "Values-based ethics",
+      "x": "Nolan's 7 principles; 2nd ARC 'Ethics in Governance'"
+     },
+     {
+      "k": "Integrity institutions",
+      "x": "CVC, Lokpal, Lokayuktas"
+     },
+     {
+      "k": "Ethical competence & training",
+      "x": "Mission Karmayogi values module"
+     },
+     {
+      "x": "Conflict-of-interest, post-retirement, cooling-off norms."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "insulate transfers/postings via Civil Services Boards",
+   "pair codes with a cultivated ethics of integrity",
+   "update conduct rules for the social- media age."
+  ],
+  "conc": "Neutrality and anonymity are constitutional values reforged for a digital, politicised age — and ethics, unlegislatable, must be grown in the conscience it cannot command."
+ },
+ "pubad1-77": {
+  "src": "cheatsheet",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "In a democracy, public policy tends to reflect the preferences of the powerful few more faithfully than the wishes of the many — the elite theory ( Mills, Mosca, Pareto ) against the pluralist ( Dahl, Truman )."
+   },
+   {
+    "t": "thinker",
+    "x": "Easton's definition of policy as the 'authoritative allocation of values' invites the real question — whose values get authoritatively allocated?"
+   }
+  ],
+  "body": [
+   {
+    "h": "Elite vs pluralist state theories",
+    "p": [
+     {
+      "k": "Elite theory",
+      "x": "a cohesive minority rules",
+      "ex": "C.W. Mills 'Power Elite'; Mosca, Pareto"
+     },
+     {
+      "k": "Pluralism",
+      "x": "dispersed, competing groups bargain",
+      "ex": "Dahl 'Who Governs?'"
+     },
+     {
+      "k": "Neo-pluralism & corporatism",
+      "x": "privileged business voice."
+     },
+     {
+      "k": "Marxist/instrumentalist",
+      "x": "state serves dominant class."
+     },
+     {
+      "k": "Whose values",
+      "x": "allocation reflects power distribution ( Easton )."
+     }
+    ]
+   },
+   {
+    "h": "Interest groups & developing democracies",
+    "p": [
+     {
+      "x": "Interest groups distort the agenda where institutions are weak."
+     },
+     {
+      "x": "Capture & rent-seeking in policy formulation."
+     },
+     {
+      "k": "Asymmetric mobilisation",
+      "x": "organised producers over diffuse consumers ( Olson )."
+     },
+     {
+      "k": "Countervailing",
+      "x": "civil society, media, RTI, PIL."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "farm-law repeal; lobbying vs public consultation (pre- legislative policy)"
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "widen participation via pre-legislative consultation",
+   "strengthen countervailing civil society and transparency",
+   "insulate agenda-setting from narrow capture."
+  ],
+  "conc": "Policy is the authoritative allocation of values, and the perennial democratic question is whose — the antidote to elite capture is an empowered, plural, transparent public sphere."
+ },
+ "pubad1-81": {
+  "src": "cheatsheet",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Organisation and Methods (O&M) was conceived as the built-in, self-correcting device of administration — continuous internal scrutiny of structures and procedures for efficiency."
+   },
+   {
+    "t": "concept",
+    "x": "Its decline invites a reincarnation as digital process re-engineering — from clerical work-study to end-to-end digitisation of the citizen interface."
+   }
+  ],
+  "body": [
+   {
+    "h": "Rise & rationale of O&M",
+    "p": [
+     {
+      "k": "Self-correcting mechanism",
+      "x": "built-in review of methods and structures."
+     },
+     {
+      "k": "Work study & work measurement",
+      "x": "simplify, standardise, speed procedures."
+     },
+     {
+      "x": "O&M units in ministries",
+      "ex": "DARPG lineage; O&M Division"
+     },
+     {
+      "x": "Forms simplification & records management."
+     },
+     {
+      "k": "Decline causes",
+      "x": "ritualism, low priority, no teeth."
+     }
+    ]
+   },
+   {
+    "h": "Reincarnation as digital re-engineering",
+    "p": [
+     {
+      "k": "BPR before automation",
+      "x": "re-design, don't merely computerise."
+     },
+     {
+      "k": "GPR (Government Process Re-engineering)",
+      "x": "e-Office, faceless assessment"
+     },
+     {
+      "x": "Ease-of-living/doing-business process pruning."
+     },
+     {
+      "k": "Decriminalisation & deregulation",
+      "x": "Jan Vishwas Act 2023"
+     },
+     {
+      "k": "Indian bridge",
+      "x": "single-window portals; DPI-led service redesign"
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "revive O&M as GPR units",
+   "re-engineer before digitising",
+   "embed continuous process-audit in every department."
+  ],
+  "conc": "O&M was administration's conscience of method; digital process re-engineering is its rebirth — the self-correcting instinct now runs on data, not clerical files."
+ },
+ "pubad1-79": {
+  "src": "cheatsheet",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Network techniques such as PERT and CPM bring rigour to project administration — scheduling, sequencing and critical-path control of complex projects."
+   },
+   {
+    "t": "event",
+    "x": "AI is transforming the techniques of improvement from descriptive analysis to predictive governance, while MIS has evolved from data processing to decision support."
+   }
+  ],
+  "body": [
+   {
+    "h": "Network & information aids",
+    "p": [
+     {
+      "k": "PERT (probabilistic) & CPM (deterministic)",
+      "x": "critical path, slack, scheduling",
+      "ex": "infrastructure, launch projects"
+     },
+     {
+      "x": "Network analysis for time–cost optimisation."
+     },
+     {
+      "k": "MIS",
+      "x": "structured reporting for control",
+      "ex": "PFMS, PRAGATI dashboards"
+     },
+     {
+      "k": "DSS/decision support",
+      "x": "models and analytics for choice."
+     },
+     {
+      "x": "From data processing → decision support → business intelligence."
+     }
+    ]
+   },
+   {
+    "h": "AI & predictive governance",
+    "p": [
+     {
+      "x": "Descriptive → predictive → prescriptive analytics."
+     },
+     {
+      "k": "Applications",
+      "x": "tax-fraud detection, predictive maintenance, crop/flood forecasting"
+     },
+     {
+      "k": "GIS & big data",
+      "x": "PM Gati Shakti spatial planning"
+     },
+     {
+      "k": "Risks",
+      "x": "bias, opacity, surveillance, automation error."
+     },
+     {
+      "k": "Guardrails",
+      "x": "NITI Aayog Responsible-AI; human-in-the-loop"
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "adopt network tools for project discipline",
+   "scale MIS into real-time decision support",
+   "deploy AI with bias-audits and human oversight."
+  ],
+  "conc": "From PERT's critical path to AI's predictive edge, management aids move administration from reacting to anticipating — rigour and foresight, tethered to accountability."
  }
 }

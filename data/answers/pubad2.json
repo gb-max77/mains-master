@@ -170,10 +170,6 @@
      {
       "k": "The core purpose",
       "x": "Its object was insulation — separating operational command from political direction, the unfinished business of replacing the **Police Act, 1861**."
-     },
-     {
-      "k": "Separation of functions",
-      "x": "Dividing investigation from law and order allows specialisation and reduces the diversion of investigators to VIP and crowd duty."
      }
     ]
    },
@@ -217,42 +213,47 @@
   ]
  },
  "pubad2-1": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
-    "t": "concept",
-    "x": "Kautilya viewed the State as an interdependent organism of seven prakritis - Swamin, Amatya, Janapada, Durga, Kosha, Danda and Mitra. This functional architecture anticipates administrative capacity, though not the constitutional foundations of the modern State."
+    "t": "thinker",
+    "x": "Kautilya's Arthashastra is a manual of statecraft and administrative ethics — its Saptanga (seven-limbed state) anticipates the modern idea of an interdependent administrative state."
+   },
+   {
+    "t": "quote",
+    "x": "Kautilya: 'In the happiness of his subjects lies the king's happiness' — an early doctrine of Yogakshema (welfare) and raja-dharma that prefigures the welfare state."
    }
   ],
   "body": [
    {
-    "h": "Administrative-state anticipations",
+    "h": "Saptanga & administrative ideas",
     "p": [
      {
       "k": "Systems conception",
       "x": "Ruler, officials, territory-population, infrastructure, treasury, coercive authority and allies operate as mutually reinforcing capacities; weakness in one limb impairs the whole State."
      },
      {
-      "k": "Professional machinery",
-      "x": "Amatya selection stressed competence, testing, specialisation, salaries, supervision and rotation - early recognition that rule requires a trained permanent executive."
-     },
-     {
       "k": "Fiscal-administrative nexus",
       "x": "Kosha financed defence, works and relief; detailed revenue, audit and anti-embezzlement devices anticipated the modern link between taxation, control and implementation capacity."
+     }
+    ]
+   },
+   {
+    "h": "Ethics, relevance & theory-bridge",
+    "p": [
+     {
+      "k": "Yogakshema",
+      "x": "welfare and security of subjects as the king's duty",
+      "ex": "proto-welfare-state"
+     },
+     {
+      "k": "Contemporary echo",
+      "x": "probity codes, vigilance (CVC), citizen-welfare governance"
      },
      {
       "k": "Welfare and security",
       "x": "Yogakshema joined protection with material well-being; irrigation, famine relief, market regulation, intelligence and law enforcement reveal a developmental-regulatory State beyond a night-watchman role."
      },
-     {
-      "k": "External administration",
-      "x": "Mitra made diplomacy part of State capacity, resembling today's interdependence between domestic administration, security and international strategy."
-     }
-    ]
-   },
-   {
-    "h": "Limits of the analogy",
-    "p": [
      {
       "k": "Pre-constitutional framework",
       "x": "Saptanga served monarchical raison d'etat, relied heavily on surveillance and danda, and lacked popular sovereignty, fundamental rights, separation of powers and democratic accountability."
@@ -260,8 +261,12 @@
     ]
    }
   ],
-  "conc": "Thus, Saptanga anticipated the anatomy and capacity logic of the administrative State, but constitutional democracy supplies its modern legitimacy and limits.",
-  "directive": "comment",
+  "wf": [
+   "revive Kautilyan probity and welfare-first ethic",
+   "anchor modern anti-corruption in raja-dharma",
+   "read the state as an interdependent organism."
+  ],
+  "conc": "The Arthashastra shows Indian administrative thought is millennia old — its Saptanga state and Yogakshema ethic still speak to a welfare democracy's quest for probity and public good.",
   "flash": [
    "Saptanga",
    "prakritis",
@@ -269,7 +274,8 @@
    "Kosha",
    "Danda",
    "Yogakshema"
-  ]
+  ],
+  "directive": "comment"
  },
  "pubad2-1-b0": {
   "src": "mainslab",
@@ -340,16 +346,20 @@
   ]
  },
  "pubad2-2": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
-    "t": "concept",
-    "x": "Indian administration evolved through layered institutional inheritances; its present form must be read through both continuity and democratic transformation."
+    "t": "institution",
+    "x": "The Mansabdari system ( Akbar ) organised the nobility into a graded zat–sawar hierarchy, fusing civil rank and military obligation under a centralised, paper-based bureaucracy."
+   },
+   {
+    "t": "comparative",
+    "x": "Todar Mal's zabti/dahsala land-revenue settlement systematised assessment — a continuity the British would inherit and formalise into their own revenue administration."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Structure of Mughal administration",
     "p": [
      {
       "k": "Jagir finance",
@@ -370,8 +380,12 @@
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "Continuities & departures",
     "p": [
+     {
+      "k": "Weakness",
+      "x": "personalised loyalty, no permanent civil service. (→ contrast Weber's legal-rational)."
+     },
      {
       "k": "Central control",
       "x": "Transfer, inspection and record systems aimed to prevent local entrenchment and fictitious military claims."
@@ -387,8 +401,12 @@
     ]
    }
   ],
-  "conc": "The durable reform is one that strengthens capacity while keeping power constitutionally bounded, publicly answerable and responsive at the point of delivery.",
-  "directive": "examine",
+  "wf": [
+   "read continuity in revenue-and-district administration",
+   "note the shift from patrimonial to legal-rational service",
+   "value systematised assessment over personalised tenure."
+  ],
+  "conc": "Mughal administration bequeathed India a centralised revenue-and-district template, but its patrimonial, personalised core is precisely what the modern merit bureaucracy replaced.",
   "flash": [
    "Jagir finance",
    "Jagirdari pressure",
@@ -396,7 +414,8 @@
    "Dual ranking",
    "Central control",
    "Integration"
-  ]
+  ],
+  "directive": "examine"
  },
  "pubad2-2-b0": {
   "src": "mainslab",
@@ -521,17 +540,26 @@
   ]
  },
  "pubad2-3": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
+    "t": "historical",
+    "x": "Cornwallis founded a civil service that was honest but alien — the covenanted service, purged of private trade and Indianisation alike, laid the base of the 'steel frame' designed for control rather than development."
+   },
+   {
     "t": "concept",
-    "x": "Indian administration evolved through layered institutional inheritances; its present form must be read through both continuity and democratic transformation."
+    "x": "Indian administration carries the layered imprint of its Mughal-Persian and British inheritances — a district-revenue continuity overlaid with an impersonal, law-and-order colonial superstructure."
    }
   ],
   "body": [
    {
-    "h": "A frame built for control",
+    "h": "Building the colonial service",
     "p": [
+     {
+      "k": "ICS 'steel frame'",
+      "x": "elite, generalist, district-centred",
+      "ex": "Lloyd George; Patel later reclaimed it"
+     },
      {
       "k": "Revenue-and-order core",
       "x": "The **Collector** combined revenue collection, magistracy and law and order — a design optimised for extraction and quiescence, not service delivery."
@@ -547,27 +575,19 @@
      {
       "k": "Legal instruments of control",
       "x": "The **Police Act, 1861**, Indian Penal Code and preventive-detention provisions were framed after 1857 to secure the ruler."
+     },
+     {
+      "k": "Inherited strengths",
+      "x": "Territorial reach, hierarchy, records, district coordination and an all-India service supplied continuity during Partition and integration."
      }
     ]
    },
    {
-    "h": "Where control served development",
+    "h": "Control-bias & its legacy",
     "p": [
      {
-      "k": "Inherited strengths",
-      "x": "Territorial reach, hierarchy, records, district coordination and an all-India service supplied continuity during Partition and integration."
-     },
-     {
-      "k": "Constitutional correction",
-      "x": "Rights, judicial review and reservation progressively subjected inherited administration to equality and accountability."
-     },
-     {
-      "k": "Developmental expansion",
-      "x": "Planning, public enterprises and community programmes enlarged State functions faster than personnel culture changed."
-     },
-     {
-      "k": "New mandate",
-      "x": "Directive Principles and universal franchise required welfare, redistribution, participation and equal access."
+      "k": "Continuity into free India",
+      "x": "AIS, district administration, secretariat"
      },
      {
       "k": "Capacity actually created",
@@ -580,12 +600,7 @@
      {
       "k": "Weberian reading",
       "x": "It was a **rational-legal** bureaucracy in form — but Weber's ideal type is silent on the purpose authority serves, which is exactly the colonial question."
-     }
-    ]
-   },
-   {
-    "h": "Assessment",
-    "p": [
+     },
      {
       "k": "Patel's defence",
       "x": "In the Constituent Assembly the services were defended as the frame without which the union would not hold — continuity chosen deliberately, not by default."
@@ -605,8 +620,12 @@
     ]
    }
   ],
-  "conc": "India inherited an instrument built to hold a country and asked it to develop one — the steel frame's strength was continuity, its cost was a purpose it was never designed to serve.",
-  "directive": "critically examine",
+  "wf": [
+   "repurpose the steel frame from control to development",
+   "democratise and specialise the generalist legacy",
+   "retain merit and integrity, shed colonial distance."
+  ],
+  "conc": "The British left a service honest, impersonal and control-oriented — independent India's project has been to keep its steel while reforging it for development and democracy.",
   "flash": [
    "Police and district rule",
    "Collector paradox",
@@ -614,7 +633,8 @@
    "Administrative legacy",
    "Constitutional correction",
    "Inherited strengths"
-  ]
+  ],
+  "directive": "critically examine"
  },
  "pubad2-3-b0": {
   "src": "mainslab",
@@ -975,17 +995,36 @@
   ]
  },
  "pubad2-7": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "Indian administration evolved through layered institutional inheritances; its present form must be read through both continuity and democratic transformation."
+    "x": "The colonial land-revenue settlements left a lasting imprint on Indian field administration — the Permanent, Ryotwari and Mahalwari systems shaped landholding, revenue and rural power for a century."
+   },
+   {
+    "t": "comparative",
+    "x": "Each settlement located revenue liability differently — with the zamindar, the ryot, or the village community — embedding distinct patterns of agrarian administration."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "The three settlements",
     "p": [
+     {
+      "k": "Ryotwari ( Munro/Read )",
+      "x": "Madras & Bombay; direct state–cultivator settlement."
+     },
+     {
+      "k": "Mahalwari ( Holt Mackenzie, 1822)",
+      "x": "NW Provinces/Punjab; village/mahal as revenue unit."
+     },
+     {
+      "x": "Revenue liability located with zamindar / ryot / community respectively."
+     },
+     {
+      "k": "Field machinery",
+      "x": "Collector–revenue hierarchy institutionalised."
+     },
      {
       "k": "Police and district rule",
       "x": "Reorganisation strengthened territorial administration and coercive order under colonial priorities."
@@ -997,12 +1036,7 @@
      {
       "k": "Separation",
       "x": "Efforts to separate revenue collection from adjudication expressed rule-of-law logic but created coordination and access problems."
-     }
-    ]
-   },
-   {
-    "h": "Significance and consequences",
-    "p": [
+     },
      {
       "k": "Administrative legacy",
       "x": "Salaried service, hierarchy and codified procedure influenced later bureaucratic institutions."
@@ -1010,8 +1044,26 @@
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "Lasting administrative imprint",
     "p": [
+     {
+      "k": "Agrarian structure",
+      "x": "absentee landlordism (Bengal) vs peasant proprietorship (Ryotwari)."
+     },
+     {
+      "x": "Revenue-centric district administration persists."
+     },
+     {
+      "x": "Land records & tenure disputes legacy",
+      "ex": "DILRMP/SVAMITVA digitisation today"
+     },
+     {
+      "x": "Post-independence land reforms responded to these patterns."
+     },
+     {
+      "k": "Theory-bridge",
+      "x": "Riggs' ecology — administration shaped by agrarian society."
+     },
      {
       "k": "Field administration",
       "x": "Collector, survey, record-of-rights and revenue courts became the durable district apparatus."
@@ -1031,8 +1083,12 @@
     ]
    }
   ],
-  "conc": "The durable reform is one that strengthens capacity while keeping power constitutionally bounded, publicly answerable and responsive at the point of delivery.",
-  "directive": "examine",
+  "wf": [
+   "digitise and update the colonial revenue record base",
+   "complete land reforms unfinished since these settlements",
+   "reorient revenue field-staff toward service."
+  ],
+  "conc": "The Permanent, Ryotwari and Mahalwari settlements wrote the grammar of Indian field administration — its revenue spine and land-record burdens are colonial inheritances still being reformed.",
   "flash": [
    "Police and district rule",
    "Contemporary imprint",
@@ -1040,19 +1096,24 @@
    "Administrative legacy",
    "Field administration",
    "Critical balance"
-  ]
+  ],
+  "directive": "examine"
  },
  "pubad2-8": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "Indian administration operates within a constitutional order that makes authority legitimate only when legality, social justice and democratic accountability reinforce one another."
+    "x": "Independent India placed the goals of a welfare state upon the shoulders of a colonial steel frame — a value-transformation from control to service that the inherited machinery was never designed for."
+   },
+   {
+    "t": "quote",
+    "x": "The Preamble is the 'identity card' of the Constitution and the moral compass of administration; the Directive Principles are its conscience- keeper, and constitutionalism its promise of limited government."
    }
   ],
   "body": [
    {
-    "h": "The mismatch",
+    "h": "The value premises",
     "p": [
      {
       "k": "New mandate",
@@ -1089,8 +1150,12 @@
     ]
    },
    {
-    "h": "How the frame was reoriented",
+    "h": "From colonial frame to democratic ethos",
     "p": [
+     {
+      "k": "Contemporary test",
+      "x": "rights-based laws — RTI, RTE, MGNREGA, NFSA"
+     },
      {
       "k": "Political interface",
       "x": "Democratic responsiveness increased, but patronage and politicisation could bend neutral structures toward particular interests."
@@ -1106,19 +1171,6 @@
      {
       "k": "Specialist entry",
       "x": "Technical services, public enterprises and later lateral entry brought domain expertise the generalist frame lacked."
-     }
-    ]
-   },
-   {
-    "h": "Where it fell short",
-    "p": [
-     {
-      "k": "Coordination failure",
-      "x": "Parallel developmental agencies fragmented the district, leaving the Collector responsible without command."
-     },
-     {
-      "k": "Formalism persists",
-      "x": "Riggs's gap between prescription and practice describes welfare law robustly written and unevenly realised."
      },
      {
       "k": "Accountability mismatch",
@@ -1131,8 +1183,12 @@
     ]
    }
   ],
-  "conc": "India asked a colonial instrument to perform a constitutional purpose — the developmental deficit was structural, and every reform since has been an attempt to close it.",
-  "directive": "critically examine",
+  "wf": [
+   "align administrative culture with constitutional values",
+   "treat DPSP as a delivery mandate",
+   "keep power limited and accountable."
+  ],
+  "conc": "The Indian administrative story is the effort to infuse a colonial steel frame with a democratic, welfare soul — constitutionalism is the tether that keeps power the servant of the Constitution.",
   "flash": [
    "New mandate",
    "Constitutional correction",
@@ -1140,7 +1196,8 @@
    "Inherited strengths",
    "Inherited purpose",
    "Collector paradox"
-  ]
+  ],
+  "directive": "critically examine"
  },
  "pubad2-8-b0": {
   "src": "mainslab",
@@ -1337,26 +1394,42 @@
   ]
  },
  "pubad2-10": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
+    "t": "thinker",
+    "x": "India is, in K.C. Wheare's phrase, 'quasi-federal' — a federation designed with a strong unitary bias, a single Constitution, integrated services and Union primacy in crisis."
+   },
+   {
     "t": "concept",
-    "x": "Indian administration operates within a constitutional order that makes authority legitimate only when legality, social justice and democratic accountability reinforce one another."
+    "x": "The quasi-federal design shapes administration: a common civil service, a single judiciary and Union override, balanced against States' operational autonomy."
    }
   ],
   "body": [
    {
-    "h": "Limits and critical assessment",
+    "h": "Features of the unitary bias",
     "p": [
+     {
+      "x": "Single Constitution & citizenship; integrated judiciary."
+     },
+     {
+      "k": "All-India Services (Art 312)",
+      "x": "shared cadres bind Centre and States."
+     },
+     {
+      "k": "Union override",
+      "x": "Arts 200/201, 256/257, 356"
+     },
+     {
+      "x": "Emergency provisions convert federal to unitary."
+     },
+     {
+      "x": "Divisible-pool & FC transfers structure fiscal dependence."
+     },
      {
       "k": "Design problem",
       "x": "Uniform guidelines may ignore geography, administrative capability and local service models."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
+     },
      {
       "k": "Federal compact",
       "x": "Scheme design, cost sharing and revision should involve institutionalised consultation with States."
@@ -1372,8 +1445,27 @@
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "Administrative implications",
     "p": [
+     {
+      "x": "Cooperative federalism in normal times",
+      "ex": "GST Council, ISC, NITI Aayog"
+     },
+     {
+      "x": "Coordination machinery for a large diverse polity."
+     },
+     {
+      "k": "Tensions",
+      "x": "cadre-deputation, Governor's role, central schemes' rigidity."
+     },
+     {
+      "k": "Competitive federalism",
+      "x": "SDG/DoingBusiness rankings"
+     },
+     {
+      "k": "Theory-bridge",
+      "x": "Riggs' ecology — federal form fitted to a plural society."
+     },
      {
       "k": "Federal culture",
       "x": "Councils work when dissent is recorded and compromise is valued, not when unanimity becomes ceremonial endorsement."
@@ -1393,8 +1485,12 @@
     ]
    }
   ],
-  "conc": "The durable reform is one that strengthens capacity while keeping power constitutionally bounded, publicly answerable and responsive at the point of delivery.",
-  "directive": "examine",
+  "wf": [
+   "deepen cooperative and competitive federalism",
+   "use coordination fora over unilateralism",
+   "reserve unitary levers for genuine crises."
+  ],
+  "conc": "India's quasi-federalism is unitary in bias but federal in spirit — good administration works its cooperative institutions rather than leaning on its centralising levers.",
   "flash": [
    "Design problem",
    "Federal compact",
@@ -1402,7 +1498,8 @@
    "Administrative value",
    "Federal culture",
    "Inter-State Council"
-  ]
+  ],
+  "directive": "examine"
  },
  "pubad2-11": {
   "src": "mainslab",
@@ -1531,17 +1628,40 @@
   ]
  },
  "pubad2-12": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
+    "t": "thinker",
+    "x": "The Indian bureaucracy functions within a political culture that prizes hierarchy, patronage and personalised authority ( Almond & Verba's culture framework), shaping administrative behaviour and performance."
+   },
+   {
     "t": "concept",
-    "x": "Indian bureaucracy operates through formal constitutional hierarchy and informal social-political authority; hierarchy, patronage and personalisation therefore shape both routine and reform."
+    "x": "Bureaucracy and democracy are uneasy but indispensable partners — the permanent expert executive and the transient popular will held in productive tension."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Political culture & administrative behaviour",
     "p": [
+     {
+      "k": "Hierarchy & deference",
+      "x": "upward-looking, risk-averse decision-making."
+     },
+     {
+      "x": "Patron–client networks and personalised authority."
+     },
+     {
+      "k": "Formalism",
+      "x": "gap between rule and practice. (→ Riggs' prismatic society)."
+     },
+     {
+      "k": "Mixed civic culture ( Almond & Verba )",
+      "x": "participant + subject + parochial."
+     },
+     {
+      "k": "Impact",
+      "x": "delay, deference, but also stability and continuity."
+     },
      {
       "k": "Personalised authority",
       "x": "Decisions may depend on access to a powerful office-holder rather than stable institutional procedure."
@@ -1561,8 +1681,26 @@
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "Bureaucracy–democracy tension",
     "p": [
+     {
+      "k": "Permanence vs accountability",
+      "x": "expert continuity vs popular control."
+     },
+     {
+      "x": "Political neutrality vs responsiveness balance."
+     },
+     {
+      "x": "Committed-vs-neutral debate (Indira era)."
+     },
+     {
+      "k": "Democratic control instruments",
+      "x": "RTI, PIL, legislative committees"
+     },
+     {
+      "k": "Theory-bridge",
+      "x": "Weber (rational bureaucracy) meets democratic accountability."
+     },
      {
       "k": "Social embeddedness",
       "x": "Caste, kinship, region and class can influence trust and networks, though constitutional recruitment broadens representation."
@@ -1570,12 +1708,7 @@
      {
       "k": "Countervailing values",
       "x": "Competitive recruitment, judicial review, audit and professional norms preserve important islands of impersonality."
-     }
-    ]
-   },
-   {
-    "h": "Significance and consequences",
-    "p": [
+     },
      {
       "k": "Citizen impact",
       "x": "Intermediation and discretion privilege connected users and turn formal entitlements into negotiated access."
@@ -1583,8 +1716,12 @@
     ]
    }
   ],
-  "conc": "Formal reform succeeds when it alters the informal incentives around authority; impersonal rules, merit and public reason must become organisationally safer than patronage.",
-  "directive": "examine",
+  "wf": [
+   "cultivate a participative, outcome-oriented administrative culture",
+   "balance neutrality with democratic responsiveness",
+   "reduce formalism and deference."
+  ],
+  "conc": "Bureaucracy and democracy are partners under strain — India's task is to keep the expert steel responsive to the democratic will without dissolving either into the other.",
   "flash": [
    "Personalised authority",
    "Patronage",
@@ -1592,7 +1729,8 @@
    "Political-bureaucratic nexus",
    "Social embeddedness",
    "Citizen impact"
-  ]
+  ],
+  "directive": "examine"
  },
  "pubad2-13": {
   "src": "mainslab",
@@ -1717,17 +1855,25 @@
   ]
  },
  "pubad2-14": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "The public sector's rationale has shifted from filling capital and infrastructure gaps across the commanding heights to selective ownership for security, network systems and public capability."
+    "x": "From the commanding heights of the economy to a strategic minimum, the very rationale of the public sector has been reversed — LPG recast the PSU from nation-builder to portfolio asset."
+   },
+   {
+    "t": "event",
+    "x": "Strategic disinvestment and a 'bare minimum' presence in strategic sectors (2021 PSE Policy) redefine the public sector; asset monetisation is disinvestment by another name."
    }
   ],
   "body": [
    {
-    "h": "The policy logic",
+    "h": "The reversal of rationale",
     "p": [
+     {
+      "k": "Strategic disinvestment",
+      "x": "Air India (2021); LIC IPO (2022)"
+     },
      {
       "k": "Rationale",
       "x": "Recycling mature assets can fund new infrastructure, while disinvestment may release capital from non-strategic production."
@@ -1759,15 +1905,11 @@
     ]
    },
    {
-    "h": "The case against",
+    "h": "Monetisation, privatisation & impact",
     "p": [
      {
-      "k": "Dynamic review",
-      "x": "The strategic label requires periodic evidence and cannot become permanent immunity from competition or exit."
-     },
-     {
-      "k": "Administrative consequence",
-      "x": "Government must separate owner, policymaker and regulator and manage a portfolio rather than daily operations."
+      "k": "Indian bridge",
+      "x": "minimum-government-maximum-governance philosophy"
      },
      {
       "k": "Commanding-heights legacy",
@@ -1780,12 +1922,7 @@
      {
       "k": "Monopoly and market risk",
       "x": "Selling into a concentrated market can convert a public monopoly into a private one without any efficiency gain."
-     }
-    ]
-   },
-   {
-    "h": "Assessment",
-    "p": [
+     },
      {
       "k": "Regulation must precede sale",
       "x": "Where a monopoly is being transferred, an effective sector regulator is the precondition, not a subsequent fix."
@@ -1801,8 +1938,12 @@
     ]
    }
   ],
-  "conc": "Disinvestment is defensible where the State's presence adds no public value — the test is not ideological but whether the market that replaces it can be regulated.",
-  "directive": "critically examine",
+  "wf": [
+   "privatise transparently with competition and worker safeguards",
+   "retain genuine strategic and public-good sectors",
+   "use monetisation for capital formation, not deficit-financing."
+  ],
+  "conc": "The public sector has travelled from commanding heights to strategic minimum — the reform test is to unlock efficiency and capital without surrendering equity and strategic autonomy.",
   "flash": [
    "Rationale",
    "Portfolio logic",
@@ -1810,7 +1951,8 @@
    "Strategic presence",
    "Development role",
    "Liberalisation shift"
-  ]
+  ],
+  "directive": "critically examine"
  },
  "pubad2-14-b0": {
   "src": "mainslab",
@@ -1945,30 +2087,25 @@
   ]
  },
  "pubad2-16": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "Public enterprise governance must reconcile commercial autonomy with stewardship of public assets and answerability for public purpose."
+    "x": "The Memorandum of Understanding promised autonomy without surrendering accountability — the Navratna framework delegated commercial freedom while retaining public answerability."
+   },
+   {
+    "t": "concept",
+    "x": "The autonomy–accountability–control trilemma is the perennial governance problem of the PSU — freedom to compete against answerability for public funds."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Forms & the autonomy framework",
     "p": [
      {
       "k": "Public accountability",
       "x": "Audit, legislative review and disclosure should examine public obligations without micro-managing commercial choices."
      },
-     {
-      "k": "Performance agreements",
-      "x": "A limited set of financial, service and strategic outcomes can separate oversight from daily control."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
      {
       "k": "Control limit",
       "x": "Frequent approvals and informal instructions diffuse responsibility and recreate departmental management without departmental transparency."
@@ -1976,16 +2113,20 @@
      {
       "k": "Control problem",
       "x": "Ex ante approvals diffuse responsibility; managers blame government while ministries continue informal intervention."
-     },
-     {
-      "k": "MoU limits",
-      "x": "Indicators can be gamed, external conditions ignored and annual scoring detached from strategic or social purpose."
      }
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "Accountability & control problems",
     "p": [
+     {
+      "k": "Indian bridge",
+      "x": "COPU reports; disinvestment/DIPAM oversight"
+     },
+     {
+      "k": "MoU limits",
+      "x": "Indicators can be gamed, external conditions ignored and annual scoring detached from strategic or social purpose."
+     },
      {
       "k": "Autonomy need",
       "x": "Pricing, procurement, hiring and investment require speed and domain judgement that routine departmental approval can destroy."
@@ -2001,8 +2142,12 @@
     ]
    }
   ],
-  "conc": "The durable reform is one that strengthens capacity while keeping power constitutionally bounded, publicly answerable and responsive at the point of delivery.",
-  "directive": "examine",
+  "wf": [
+   "insulate boards from micromanagement",
+   "deepen MoU-based performance accountability",
+   "professionalise boards and appointments."
+  ],
+  "conc": "The PSU forever chases the balance of freedom to compete and duty to answer — the MoU-Navratna design remains the best template for autonomy that stays publicly accountable.",
   "flash": [
    "Public accountability",
    "Performance agreements",
@@ -2010,7 +2155,8 @@
    "Control problem",
    "Autonomy need",
    "MoU framework"
-  ]
+  ],
+  "directive": "examine"
  },
  "pubad2-17": {
   "src": "mainslab",
@@ -2462,17 +2608,26 @@
   ]
  },
  "pubad2-20": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
+    "t": "institution",
+    "x": "The Prime Minister's Office has emerged as the nerve-centre of Union administration — an extra-constitutional but pivotal instrument of prime-ministerial coordination and monitoring."
+   },
+   {
     "t": "concept",
-    "x": "Union administration converts collective political responsibility into coordinated departmental action; concentration and coordination must therefore be kept in balance."
+    "x": "The Central Secretariat, conceived as the 'brain of the Union Government', is faulted for a generalist–specialist imbalance — the case for domain expertise against the generalist tradition."
    }
   ],
   "body": [
    {
-    "h": "The generalist rationale",
+    "h": "The rise of the PMO",
     "p": [
+     {
+      "k": "Nerve-centre",
+      "x": "policy coordination, monitoring, crisis-management",
+      "ex": "PRAGATI platform"
+     },
      {
       "k": "Domain deficit",
       "x": "Short tenures can make ministries dependent on consultants, regulators or industry for technical knowledge."
@@ -2480,10 +2635,6 @@
      {
       "k": "Generalist value",
       "x": "Broad experience helps officials integrate legal, financial, federal and political dimensions across sectors."
-     },
-     {
-      "k": "Specialist risk",
-      "x": "Narrow cadres may optimise sectors, resist mobility and fragment policy across professional silos."
      },
      {
       "k": "Neutral coordination",
@@ -2500,12 +2651,7 @@
      {
       "k": "Constitutional accountability",
       "x": "The Secretary is answerable to the Minister and through him to Parliament — a role defined by responsibility, not expertise."
-     }
-    ]
-   },
-   {
-    "h": "The specialist critique",
-    "p": [
+     },
      {
       "k": "Accountability risk",
       "x": "Advice without mastery weakens challenge to organised interests and obscures who owns analytical assumptions."
@@ -2513,6 +2659,19 @@
      {
       "k": "Career streams",
       "x": "Create domain tracks with repeated postings, accredited learning and return pathways rather than permanent isolation."
+     }
+    ]
+   },
+   {
+    "h": "Central Secretariat & the expertise debate",
+    "p": [
+     {
+      "k": "Reforms",
+      "x": "lateral entry, Mission Karmayogi competencies, specialist wings"
+     },
+     {
+      "k": "Indian bridge",
+      "x": "2nd ARC & Surinder Nath on domain competence"
      },
      {
       "k": "Lateral entry",
@@ -2527,29 +2686,12 @@
       "x": "Short tenures across unrelated sectors leave the Secretariat structurally shallow in finance, technology, health and climate."
      },
      {
-      "k": "Tenure churn",
-      "x": "Frequent transfers prevent the accumulation of sectoral memory precisely where continuity matters most."
-     },
-     {
       "k": "Advisory dependence",
       "x": "Weak in-house expertise increases reliance on consultants, shifting analytical capacity outside the State."
      },
      {
-      "k": "Comparative practice",
-      "x": "Most mature administrations combine a generalist policy cadre with strong specialist career streams."
-     }
-    ]
-   },
-   {
-    "h": "Reconciling the two",
-    "p": [
-     {
       "k": "Domain streams",
       "x": "The **2nd ARC** and Surinder Nath committee recommended mid-career domain assignment so officers deepen within a sector."
-     },
-     {
-      "k": "Fixed tenure",
-      "x": "Minimum assured tenure is the single reform that would most improve secretariat capability."
      },
      {
       "k": "Karmayogi framework",
@@ -2558,8 +2700,12 @@
     ]
    }
   ],
-  "conc": "The choice is not generalist versus specialist but whether the system rewards depth — India needs generalist judgement built on specialist foundations, and tenure long enough to acquire both.",
-  "directive": "critically examine",
+  "wf": [
+   "institutionalise domain expertise via lateral entry and specialisation",
+   "keep the PMO a coordinator, not a parallel government",
+   "blend generalist breadth with specialist depth."
+  ],
+  "conc": "The PMO has become the command node and the Central Secretariat the brain — both need reform: one toward restraint, the other toward the domain expertise a modern state demands.",
   "flash": [
    "Neutral coordination",
    "Domain deficit",
@@ -2567,19 +2713,24 @@
    "Specialist risk",
    "Career streams",
    "Accountability risk"
-  ]
+  ],
+  "directive": "critically examine"
  },
  "pubad2-21": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "Union administration converts collective political responsibility into coordinated departmental action; concentration and coordination must therefore be kept in balance."
+    "x": "The Ministry is a political creation; the Department is its administrative reality — the Allocation of Business and Transaction of Business Rules (Art 77) map who does what and how business is disposed."
+   },
+   {
+    "t": "concept",
+    "x": "Below them, attached, subordinate and field organisations translate policy into execution — the line of implementation that turns secretariat decisions into services."
    }
   ],
   "body": [
    {
-    "h": "Ministry and Department distinguished",
+    "h": "Ministries & departments",
     "p": [
      {
       "k": "Ministry",
@@ -2588,10 +2739,6 @@
      {
       "k": "Department",
       "x": "A major policy and administrative division under a secretary handles an allocated subject within a ministry."
-     },
-     {
-      "k": "Attached office",
-      "x": "It provides detailed executive direction, technical advice and linkage between policy and field agencies."
      },
      {
       "k": "Ambiguity cost",
@@ -2616,19 +2763,20 @@
     ]
    },
    {
-    "h": "The wider field structure",
+    "h": "Attached, subordinate & field offices",
     "p": [
      {
-      "k": "Feedback failure",
-      "x": "Field knowledge may be filtered through layers while policy is issued without testing implementability."
+      "k": "Attached offices",
+      "x": "technical advice + execution",
+      "ex": "DGHS, DGFT"
+     },
+     {
+      "k": "Indian bridge",
+      "x": "policy-implementation gap; last-mile delivery reform"
      },
      {
       "k": "Subordinate office",
       "x": "It normally executes policy in the field or performs specialised operational tasks under departmental control."
-     },
-     {
-      "k": "Staff-line distinction",
-      "x": "Staff advises and plans; line commands and executes, though modern technical bodies often combine both."
      },
      {
       "k": "Attached offices",
@@ -2637,12 +2785,7 @@
      {
       "k": "Autonomous bodies and PSEs",
       "x": "Societies, statutory boards and enterprises operate at arm's length, with autonomy traded against direct control."
-     }
-    ]
-   },
-   {
-    "h": "Frictions in practice",
-    "p": [
+     },
      {
       "k": "Ambiguity cost",
       "x": "Overlapping charges between Departments in one Ministry blur responsibility and slow inter-departmental decisions."
@@ -2662,8 +2805,12 @@
     ]
    }
   ],
-  "conc": "The Ministry carries political responsibility and the Department carries administrative capacity — clarity between them is the precondition of accountable government.",
-  "directive": "examine",
+  "wf": [
+   "clarify secretariat–executive demarcation",
+   "delegate operational authority to field offices",
+   "align attached/subordinate structures with delivery outcomes."
+  ],
+  "conc": "The Union executive runs on a ladder from political ministry to field office — coherent administration depends on clear business rules at the top and empowered execution at the bottom.",
   "flash": [
    "Ministry",
    "Department",
@@ -2671,7 +2818,8 @@
    "Attached office",
    "Subordinate office",
    "Field organisation"
-  ]
+  ],
+  "directive": "examine"
  },
  "pubad2-21-b0": {
   "src": "mainslab",
@@ -2869,17 +3017,38 @@
   ]
  },
  "pubad2-24": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
+    "t": "institution",
+    "x": "The Cabinet Secretariat is the apex instrument of administrative coordination — servicing the Cabinet, its committees and inter- ministerial consensus under the Cabinet Secretary, the seniormost civil servant."
+   },
+   {
     "t": "concept",
-    "x": "Union administration converts collective political responsibility into coordinated departmental action; concentration and coordination must therefore be kept in balance."
+    "x": "Cabinet Committees quietly redistribute the collective authority of the Cabinet, even as the character of cabinet government and collective responsibility shifts toward prime-ministerial dominance."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Cabinet Secretariat & committees",
     "p": [
+     {
+      "k": "Cabinet Secretariat",
+      "x": "coordination, agenda, minutes, follow-up",
+      "ex": "crisis- management, monitoring"
+     },
+     {
+      "k": "Cabinet Secretary",
+      "x": "head of civil services, chief coordinator, ex-officio to many bodies."
+     },
+     {
+      "k": "Cabinet Committees",
+      "x": "CCS, CCEA, CCPA — decentralise decision",
+      "ex": "Rules of Business under Art 77"
+     },
+     {
+      "x": "Inter-ministerial coordination and dispute resolution."
+     },
      {
       "k": "Collective responsibility",
       "x": "Decisions remain part of Cabinet government when mandates, records and reporting are clear."
@@ -2891,25 +3060,34 @@
      {
       "k": "Cabinet Secretariat",
       "x": "It manages Cabinet business, rules of transaction, committee coordination and follow-up across ministries."
+     },
+     {
+      "k": "Risks",
+      "x": "Proliferation, overlapping membership and opaque decisions can shift responsibility away from line ministries."
      }
     ]
    },
    {
-    "h": "Limits and critical assessment",
+    "h": "Collective responsibility & its drift",
     "p": [
      {
-      "k": "Risks",
-      "x": "Proliferation, overlapping membership and opaque decisions can shift responsibility away from line ministries."
+      "k": "Collective responsibility (Art 75(3))",
+      "x": "Council answerable as a body to Lok Sabha."
+     },
+     {
+      "x": "Coalition vs single-party dynamics reshape collegiality."
+     },
+     {
+      "x": "PMO ascendancy concentrates coordination (→ next card)."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "shift from cabinet to core-group/committee decision- making"
      },
      {
       "k": "Concentration risk",
       "x": "Parallel channels may weaken ministers, secretaries, Cabinet deliberation and departmental ownership."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
+     },
      {
       "k": "Specialisation",
       "x": "Standing committees concentrate attention on security, economic or appointment matters while retaining collective authority."
@@ -2917,12 +3095,7 @@
      {
       "k": "Political arbitration",
       "x": "Cabinet-level forums can resolve conflicts of priority, jurisdiction and resource that officials cannot settle."
-     }
-    ]
-   },
-   {
-    "h": "Significance and consequences",
-    "p": [
+     },
      {
       "k": "Concentration gain",
       "x": "A strong PMO can resolve deadlock, integrate missions and signal priority across a fragmented executive."
@@ -2930,8 +3103,12 @@
     ]
    }
   ],
-  "conc": "These mechanisms are effective when they resolve genuine interdependence while returning clear implementation responsibility to departments, not when they become a parallel executive maze.",
-  "directive": "discuss",
+  "wf": [
+   "strengthen the Cabinet Secretariat's coordinating neutrality",
+   "use committees for collegial decision, not bypass",
+   "preserve genuine collective responsibility."
+  ],
+  "conc": "The Cabinet Secretariat remains the keystone of Union coordination, but as authority migrates to the PMO and committees, the collegiality of cabinet government needs conscious protection.",
   "flash": [
    "Collective responsibility",
    "Coordination value",
@@ -2939,20 +3116,45 @@
    "Risks",
    "Concentration risk",
    "Specialisation"
-  ]
+  ],
+  "directive": "discuss"
  },
  "pubad2-25": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "Union administration converts collective political responsibility into coordinated departmental action; concentration and coordination must therefore be kept in balance."
+    "x": "The real work of parliamentary scrutiny has migrated from the floor of the House to the committee room — even as parliamentary oversight of the executive has steadily weakened."
+   },
+   {
+    "t": "concept",
+    "x": "Meanwhile judicial review has expanded into the judicial governance of administration — the court supervising administrative action ever more intrusively."
    }
   ],
   "body": [
    {
-    "h": "Limits and critical assessment",
+    "h": "Administrative design",
     "p": [
+     {
+      "k": "DRSCs (1993)",
+      "x": "24 departmentally-related standing committees; detailed, non-partisan scrutiny."
+     },
+     {
+      "k": "Erosion",
+      "x": "declining sittings, guillotine, fewer bills referred."
+     },
+     {
+      "k": "Machinery",
+      "x": "RGI & Census Commissioner (MHA) → State/District Census Officers → charge officers → enumerators (teachers as ex-officio) — classic HQ-field cascade (Fesler, T-cards)."
+     },
+     {
+      "k": "Digital stack",
+      "x": "app-based capture, geo-tagged houselisting, management portal — from paper schedules to real-time MIS."
+     },
+     {
+      "k": "Two phases",
+      "x": "houselisting (2026) → population enumeration (Feb–Mar 2027)."
+     },
      {
       "k": "Limit—follow-up",
       "x": "Recommendations are advisory and executive responses may be delayed, formal or weakly debated."
@@ -2964,15 +3166,37 @@
      {
       "k": "Limit—time and staff",
       "x": "Short schedules and uneven research capacity restrict independent analysis."
+     },
+     {
+      "k": "Policy oversight",
+      "x": "Annual reports and selected subjects support continuity beyond one budget or scandal."
      }
     ]
    },
    {
-    "h": "Core argument",
+    "h": "Challenges & stakes",
     "p": [
      {
-      "k": "Policy oversight",
-      "x": "Annual reports and selected subjects support continuity beyond one budget or scandal."
+      "x": "Executive dominance via majority and anti-defection."
+     },
+     {
+      "x": "Separation of powers & checks-and-balances under strain."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "bills passed without committee reference; judicial monitoring of agencies. T14A · Census 2027 — Administrative Machinery of the Count — NEW mini-card (live 2026 topic) [10m]"
+     },
+     {
+      "k": "Caste-column design",
+      "x": "\"open-column\" method field-tested; classification chaos risk (SECC-2011 lesson: 46 lakh caste names); privacy under Census Act 1948 (confidential, non-justiciable data)."
+     },
+     {
+      "k": "Sequencing stakes",
+      "x": "census → delimitation → women’s reservation (106th CAA) — the most consequential administrative timetable of the decade; North-South federal anxiety rides on it."
+     },
+     {
+      "k": "Capacity & trust",
+      "x": "enumerator training at scale, digital-divide fallback, misinformation management; delayed-census cost — 2011-base welfare exclusions (NFSA)."
      },
      {
       "k": "Fiscal analysis",
@@ -2981,12 +3205,7 @@
      {
       "k": "Bill scrutiny",
       "x": "Committees can examine clauses, hear evidence and compare alternatives before the House makes the final law."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
+     },
      {
       "k": "Financial control",
       "x": "Review of Demands for Grants permits detailed questioning of programmes, outputs and administrative assumptions."
@@ -2998,8 +3217,13 @@
     ]
    }
   ],
-  "conc": "The durable reform is one that strengthens capacity while keeping power constitutionally bounded, publicly answerable and responsive at the point of delivery.",
-  "directive": "critically examine",
+  "wf": [
+   "transparent caste-classification protocol",
+   "statutory data-protection assurance",
+   "publish quickly (avoid SECC limbo)",
+   "update welfare bases (NFSA, delimitation inputs) on release."
+  ],
+  "conc": "The census is administration counting itself into legitimacy — done digitally and honestly, 2027 will re-base representation, welfare and social justice for a generation.",
   "flash": [
    "Limit—follow-up",
    "Policy oversight",
@@ -3007,7 +3231,8 @@
    "Bill scrutiny",
    "Financial control",
    "Cross-party setting"
-  ]
+  ],
+  "directive": "critically examine"
  },
  "pubad2-26": {
   "src": "mainslab",
@@ -3215,24 +3440,24 @@
   ]
  },
  "pubad2-28": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
+    "t": "event",
+    "x": "The shift from the Planning Commission to NITI Aayog (2015) replaced directive planning with cooperative and competitive federalism — a think-tank and convener in place of a fund-allocating commission."
+   },
+   {
     "t": "concept",
-    "x": "Planning now works less through command than through finance, information, coordination and inter-governmental incentives, making institutional capacity decisive."
+    "x": "NITI Aayog governs the States by ranking them rather than by directing them — competitive federalism through indices in place of Plan transfers."
    }
   ],
   "body": [
    {
-    "h": "What changed",
+    "h": "From directive planning to convening",
     "p": [
      {
       "k": "Flexibility gain",
       "x": "NITI Aayog can convene States, develop strategy, support data-driven missions and adapt without allocating plan grants."
-     },
-     {
-      "k": "Constitutional finance",
-      "x": "The Finance Commission addresses tax devolution and grants, while ministries and budgets determine sector spending."
      },
      {
       "k": "Needed integration",
@@ -3253,15 +3478,23 @@
      {
       "k": "Constitutional propriety",
       "x": "Removing plan transfers restored the **Finance Commission** to its constitutional role as the primary channel of devolution."
+     },
+     {
+      "k": "Mission mode",
+      "x": "Sectoral programmes can set focused outcomes and use real-time monitoring rather than comprehensive plan documents."
      }
     ]
    },
    {
-    "h": "What the change cost",
+    "h": "Competitive federalism & its limits",
     "p": [
      {
-      "k": "Mission mode",
-      "x": "Sectoral programmes can set focused outcomes and use real-time monitoring rather than comprehensive plan documents."
+      "k": "Ranking as governance",
+      "x": "SDG India Index, Aspirational Districts, Health/Education indices"
+     },
+     {
+      "k": "Indian bridge",
+      "x": "transfer of resource role to Finance Ministry/FC"
      },
      {
       "k": "Fragmentation",
@@ -3274,19 +3507,6 @@
      {
       "k": "State planning vacuum",
       "x": "State Planning Boards lost their central interlocutor without acquiring a substitute, weakening subnational planning capacity."
-     },
-     {
-      "k": "Ranking as governance",
-      "x": "Indices can distort behaviour toward measured indicators and disadvantage States with weaker statistical systems."
-     }
-    ]
-   },
-   {
-    "h": "Assessment",
-    "p": [
-     {
-      "k": "Institutional principle",
-      "x": "Directive planning was ill-suited to a liberalised, federal economy — the shift itself was correct in direction."
      },
      {
       "k": "Needed integration",
@@ -3303,8 +3523,12 @@
     ]
    }
   ],
-  "conc": "India replaced a planner with a convenor — the gain was federal legitimacy, the cost was strategic direction, and the unfinished task is to supply the second without surrendering the first.",
-  "directive": "critically examine",
+  "wf": [
+   "give NITI convening-plus-monitoring strength without reviving command planning",
+   "improve index data quality",
+   "pair competition with capacity-support for laggards."
+  ],
+  "conc": "NITI Aayog replaced the commanding planner with a cooperative convener — governing by ranking and persuasion, its influence rests on ideas and indices rather than the purse.",
   "flash": [
    "Flexibility gain",
    "Institutional principle",
@@ -3312,7 +3536,8 @@
    "Needed integration",
    "Mission mode",
    "Fragmentation"
-  ]
+  ],
+  "directive": "critically examine"
  },
  "pubad2-28-b0": {
   "src": "mainslab",
@@ -3388,17 +3613,38 @@
   ]
  },
  "pubad2-29": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "Planning now works less through command than through finance, information, coordination and inter-governmental incentives, making institutional capacity decisive."
+    "x": "With the Planning Commission gone, State Planning Boards have lost their interlocutor without finding a new role — the machinery of planning at the State level adrift after 2015."
+   },
+   {
+    "t": "concept",
+    "x": "Decentralised planning was to be the cornerstone of participatory development, yet District Planning Committees remain moribund — the constitutional vision unfulfilled."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "State-level planning machinery",
     "p": [
+     {
+      "x": "State Planning Boards weakened post-Planning-Commission."
+     },
+     {
+      "k": "Loss of interlocutor",
+      "x": "no central counterpart for plan dialogue."
+     },
+     {
+      "x": "State Finance Commissions for local-body devolution (Art 243-I/Y)."
+     },
+     {
+      "x": "Scheme-driven state planning displaces comprehensive plans."
+     },
+     {
+      "k": "Theory-bridge",
+      "x": "bottom-up planning ( subsidiarity )."
+     },
      {
       "k": "State gap",
       "x": "Declining planning boards weaken medium-term strategy, appraisal and coordination between State departments and local institutions."
@@ -3418,8 +3664,26 @@
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "Decentralised & participatory planning",
     "p": [
+     {
+      "x": "DPCs (Art 243ZD) to consolidate panchayat + municipal plans — largely moribund."
+     },
+     {
+      "x": "MPCs (Art 243ZE) for metropolitan planning."
+     },
+     {
+      "k": "People's-plan campaigns",
+      "x": "Kerala's Kudumbashree/People's Plan model"
+     },
+     {
+      "k": "Constraints",
+      "x": "capacity, funds, functionary devolution gaps."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "Gram Panchayat Development Plans (GPDP)"
+     },
      {
       "k": "Constitutional role",
       "x": "District Planning Committees consolidate panchayat and municipal plans while considering spatial, environmental and shared-resource issues."
@@ -3431,12 +3695,7 @@
      {
       "k": "Empower DPC",
       "x": "Give the committee technical secretariat, project-appraisal role and formal government response to its integrated plan."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
+     },
      {
       "k": "Current weakness",
       "x": "Many DPCs lack staff, data, regular meetings, sector authority and influence over scheme-linked budgets."
@@ -3444,8 +3703,12 @@
     ]
    }
   ],
-  "conc": "The durable reform is one that strengthens capacity while keeping power constitutionally bounded, publicly answerable and responsive at the point of delivery.",
-  "directive": "examine",
+  "wf": [
+   "reinvent State Planning Boards as outcome-and-convergence bodies",
+   "operationalise DPCs and MPCs",
+   "empower participatory GPDP planning with funds and staff."
+  ],
+  "conc": "Planning has decentralised in design but not in practice — reviving State Boards and the dormant DPCs is essential to make participatory, bottom-up planning real.",
   "flash": [
    "State gap",
    "Rebuild chain",
@@ -3453,7 +3716,8 @@
    "Rural-urban divide",
    "Constitutional role",
    "Current weakness"
-  ]
+  ],
+  "directive": "examine"
  },
  "pubad2-30": {
   "src": "mainslab",
@@ -3902,17 +4166,41 @@
   ]
  },
  "pubad2-34": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "State administration is the principal arena where federal rules, political leadership and field implementation meet."
+    "x": "Fiscal transfers have received far more attention than the institutional machinery of Centre–State coordination — the Inter-State Council and Zonal Councils under-used in Indian cooperative federalism."
+   },
+   {
+    "t": "event",
+    "x": "Simultaneous elections ('One Nation, One Election') promise administrative efficiency but test the federal architecture — a coordination question with deep federal implications."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Coordination machinery",
     "p": [
+     {
+      "k": "Inter-State Council (Art 263, 1990)",
+      "x": "recommended by Sarkaria; under- convened."
+     },
+     {
+      "k": "Zonal Councils (SRA, 1956)",
+      "x": "advisory regional coordination."
+     },
+     {
+      "k": "GST Council (Art 279A)",
+      "x": "the most effective cooperative body",
+      "ex": "consensus voting"
+     },
+     {
+      "x": "NITI Aayog Governing Council as a coordination forum."
+     },
+     {
+      "k": "Theory-bridge",
+      "x": "Follett's integration; cooperative federalism."
+     },
      {
       "k": "Inter-State Council",
       "x": "Its constitutional basis supports broad discussion, coordination and advice on common-interest and Centre-State questions."
@@ -3932,8 +4220,27 @@
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "ONOE & federal implications",
     "p": [
+     {
+      "k": "Efficiency claim",
+      "x": "reduced cost, model-code disruption, governance continuity."
+     },
+     {
+      "k": "Federal concerns",
+      "x": "synchronisation, premature dissolution, Art 356 misuse risk."
+     },
+     {
+      "k": "Administrative demands",
+      "x": "EC capacity, EVMs, security."
+     },
+     {
+      "x": "Constitutional amendments and ratification needed."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "Ram Nath Kovind Committee (2024) recommendations"
+     },
      {
       "k": "Administrative value",
       "x": "Councils exchange information, pre-empt disputes and allow officials to prepare negotiated political settlements."
@@ -3953,8 +4260,12 @@
     ]
    }
   ],
-  "conc": "The durable reform is one that strengthens capacity while keeping power constitutionally bounded, publicly answerable and responsive at the point of delivery.",
-  "directive": "critically examine",
+  "wf": [
+   "convene the ISC regularly as the apex coordination forum",
+   "strengthen Zonal Councils",
+   "weigh ONOE's efficiency against federal and administrative costs."
+  ],
+  "conc": "Indian federalism has invested in fiscal transfers over coordination institutions — reviving the Inter-State Council matters more than any single reform like simultaneous elections.",
   "flash": [
    "Inter-State Council",
    "Zonal Councils",
@@ -3962,7 +4273,8 @@
    "Underuse",
    "Administrative value",
    "Federal culture"
-  ]
+  ],
+  "directive": "critically examine"
  },
  "pubad2-35": {
   "src": "mainslab",
@@ -4184,17 +4496,40 @@
   ]
  },
  "pubad2-37": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "State administration is the principal arena where federal rules, political leadership and field implementation meet."
+    "x": "Through dashboards, delivery units and a strengthened CMO, State governments are replicating the PMO model of concentrated coordination — reshaping the State Secretariat system."
+   },
+   {
+    "t": "concept",
+    "x": "The Chief Secretary is the linchpin of State administration, and the Secretariat–Directorate relationship reflects the classic staff–line tension of state government."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "CMO ascendancy & the Chief Secretary",
     "p": [
+     {
+      "k": "Strengthened CMO",
+      "x": "delivery units, dashboards, war-rooms mirror the PMO."
+     },
+     {
+      "k": "Chief Secretary",
+      "x": "administrative head, chief coordinator, cabinet- secretariat to CM."
+     },
+     {
+      "x": "Concentration of coordination at the apex."
+     },
+     {
+      "k": "Concerns",
+      "x": "bypassing of secretaries, over-centralisation."
+     },
+     {
+      "k": "Theory-bridge",
+      "x": "chief executive as keystone ( Pfiffner )."
+     },
      {
       "k": "Staff-line distinction",
       "x": "Staff advises and plans; line commands and executes, though modern technical bodies often combine both."
@@ -4214,8 +4549,27 @@
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "Secretariat–Directorate staff–line tension",
     "p": [
+     {
+      "k": "Secretariat (staff)",
+      "x": "policy, coordination, control."
+     },
+     {
+      "k": "Directorates (line)",
+      "x": "technical expertise, execution."
+     },
+     {
+      "k": "Tension",
+      "x": "generalist secretariat vs specialist directorate. (→ Fulton, generalist-specialist)."
+     },
+     {
+      "x": "Duplication & friction in decision-making."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "proposals to integrate/merge secretariat-directorate; empower field"
+     },
      {
       "k": "Coordinator",
       "x": "Cross-cutting crises and missions require authority to resolve departmental conflict and align field administration."
@@ -4235,8 +4589,12 @@
     ]
    }
   ],
-  "conc": "The durable reform is one that strengthens capacity while keeping power constitutionally bounded, publicly answerable and responsive at the point of delivery.",
-  "directive": "examine",
+  "wf": [
+   "keep the CMO a coordinator, not a parallel executive",
+   "clarify secretariat-directorate roles and reduce duplication",
+   "give directorates delegated authority."
+  ],
+  "conc": "State administration turns on the Chief Secretary's coordinating linchpin and a workable staff–line balance — concentration at the CMO must not hollow out the specialist directorates below.",
   "flash": [
    "Staff-line distinction",
    "Cabinet role",
@@ -4244,7 +4602,8 @@
    "Attached office",
    "Coordinator",
    "Tension—neutrality"
-  ]
+  ],
+  "directive": "examine"
  },
  "pubad2-38": {
   "src": "mainslab",
@@ -4635,17 +4994,41 @@
   ]
  },
  "pubad2-43": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
+    "t": "event",
+    "x": "Digitisation of land records and drone-based property validation are transforming the oldest function of district administration — turning colonial revenue registers into a modern, conclusive-title system."
+   },
+   {
     "t": "concept",
-    "x": "District administration remains the field-level junction of regulation, development, coordination and democratic decentralisation."
+    "x": "Land administration — the district's founding revenue function — is being re-engineered from presumptive to conclusive title through technology."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Modernising land records",
     "p": [
+     {
+      "k": "DILRMP",
+      "x": "Digital India Land Records Modernisation Programme — computerise records."
+     },
+     {
+      "k": "SVAMITVA (2020)",
+      "x": "drone-survey of inhabited (abadi) village land; property cards."
+     },
+     {
+      "k": "Conclusive vs presumptive title",
+      "x": "move toward guaranteed title."
+     },
+     {
+      "k": "Integration",
+      "x": "records + registration + cadastral maps + Aadhaar."
+     },
+     {
+      "k": "Theory-bridge",
+      "x": "e-governance transaction→transformation stage; process re-engineering."
+     },
      {
       "k": "SVAMITVA",
       "x": "Drone-based inhabited-area surveys support village property documentation, planning and service delivery."
@@ -4653,34 +5036,45 @@
      {
       "k": "Continuous maintenance",
       "x": "Time-bound mutation and correction matter more than one-time digitisation drives."
-     }
-    ]
-   },
-   {
-    "h": "Significance and consequences",
-    "p": [
+     },
      {
       "k": "Record gain",
       "x": "Integrated maps, textual records, mutation and registration can reduce mismatch and transaction delay."
+     },
+     {
+      "k": "Garbage-in risk",
+      "x": "Digitising outdated or elite-influenced records can give exclusion greater speed and apparent objectivity."
      }
     ]
    },
    {
-    "h": "Limits and critical assessment",
+    "h": "Impact & challenges",
     "p": [
      {
-      "k": "Garbage-in risk",
-      "x": "Digitising outdated or elite-influenced records can give exclusion greater speed and apparent objectivity."
+      "k": "Reduced litigation & fraud",
+      "x": "clear ownership, fewer disputes."
+     },
+     {
+      "k": "Credit access",
+      "x": "property cards enable loans (",
+      "ex": "rural credit )"
+     },
+     {
+      "k": "Challenges",
+      "x": "legacy errors, updation, digital divide, privacy."
+     },
+     {
+      "k": "Federal subject",
+      "x": "land is a State subject — uneven adoption."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "ULPIN 'Bhu-Aadhaar'; Bhoomi (Karnataka) pioneer"
      },
      {
       "k": "Legal limit",
       "x": "Survey records are evidence within a rights system; they do not automatically confer conclusive title where claims are contested."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
+     },
      {
       "k": "Invisible interests",
       "x": "Women, tenants, customary users and commons may be missing from owner-centred databases."
@@ -4696,8 +5090,12 @@
     ]
    }
   ],
-  "conc": "The durable reform is one that strengthens capacity while keeping power constitutionally bounded, publicly answerable and responsive at the point of delivery.",
-  "directive": "examine",
+  "wf": [
+   "move to conclusive titling with guarantee",
+   "integrate records, maps and registration digitally",
+   "clean legacy errors and protect data."
+  ],
+  "conc": "Land administration, the district's oldest and most litigated function, is being reborn through drones and digitisation — the prize is a conclusive-title system that empowers the landholder.",
   "flash": [
    "SVAMITVA",
    "Continuous maintenance",
@@ -4705,7 +5103,8 @@
    "Garbage-in risk",
    "Legal limit",
    "Invisible interests"
-  ]
+  ],
+  "directive": "examine"
  },
  "pubad2-44": {
   "src": "mainslab",
@@ -6196,17 +6595,41 @@
   ]
  },
  "pubad2-60": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "Public financial management is democratic administration in fiscal form: resources must be authorised, traceable, efficient and answerable for results."
+    "x": "Parliamentary control over public expenditure has become more ritual than real — the instruments of financial control weakened by time, haste and technicality."
+   },
+   {
+    "t": "concept",
+    "x": "The financial committees are the 'twin sisters' of the CAG, yet the audit-to-accountability chain is broken at several links — mapping the constitutional geography of public money across the three Funds."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "The three Funds & control instruments",
     "p": [
+     {
+      "k": "Consolidated Fund (Art 266(1))",
+      "x": "all revenues; nothing spent without appropriation."
+     },
+     {
+      "k": "Contingency Fund (Art 267)",
+      "x": "unforeseen expenditure, at President's disposal."
+     },
+     {
+      "k": "Public Account (Art 266(2))",
+      "x": "deposits/PF where govt is banker."
+     },
+     {
+      "k": "Control tools",
+      "x": "budget, appropriation, cut motions, supplementary grants."
+     },
+     {
+      "k": "Erosion",
+      "x": "guillotine, weak demand-for-grants debate."
+     },
      {
       "k": "Committee chain",
       "x": "PAC, COPU and Estimates Committee interrogate findings and recommend corrective and financial responsibility."
@@ -6218,12 +6641,7 @@
      {
       "k": "Transparency",
       "x": "Public dashboards of accepted recommendations, deadlines and unresolved systemic findings can create consequence."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
+     },
      {
       "k": "Floor limitation",
       "x": "Political debate concentrates on a few ministries, leaving most expenditure without detailed discussion."
@@ -6231,8 +6649,28 @@
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "Financial committees & the broken chain",
     "p": [
+     {
+      "k": "PAC",
+      "x": "examines CAG audit reports; ex-post accountability."
+     },
+     {
+      "k": "Estimates Committee",
+      "x": "efficiency and economy of estimates."
+     },
+     {
+      "k": "COPU",
+      "x": "scrutinises public undertakings."
+     },
+     {
+      "k": "'Twin sisters' of CAG",
+      "x": "committees act on CAG findings."
+     },
+     {
+      "k": "Broken chain",
+      "x": "delayed reports, weak follow-up, low action-taken compliance."
+     },
      {
       "k": "Public linkage",
       "x": "Committee evidence and open data can connect legislative scrutiny with audit and citizen expertise."
@@ -6252,8 +6690,12 @@
     ]
    }
   ],
-  "conc": "The durable reform is one that strengthens capacity while keeping power constitutionally bounded, publicly answerable and responsive at the point of delivery.",
-  "directive": "critically examine",
+  "wf": [
+   "strengthen demand-for-grants scrutiny and curb the guillotine",
+   "ensure timely action-taken reports on PAC/CAG findings",
+   "resource the committees adequately."
+  ],
+  "conc": "Parliament's power of the purse has decayed into ritual — reviving the committee system and closing the audit-to-action chain is the route back to real financial control.",
   "flash": [
    "Committee chain",
    "Selection",
@@ -6261,7 +6703,8 @@
    "Floor limitation",
    "Public linkage",
    "CAG function"
-  ]
+  ],
+  "directive": "critically examine"
  },
  "pubad2-61": {
   "src": "mainslab",
@@ -6324,17 +6767,37 @@
   ]
  },
  "pubad2-62": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "Public financial management is democratic administration in fiscal form: resources must be authorised, traceable, efficient and answerable for results."
+    "x": "In India the budget is prepared in secrecy, presented with ceremony and passed in haste — yet it is an instrument of political accountability before it is a tool of financial management."
+   },
+   {
+    "t": "institution",
+    "x": "The Ministry of Finance steers the budget and the wider fiscal and monetary management of the economy — the guardian of the purse and the base of the budgetary process."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Stages of the budgetary process",
     "p": [
+     {
+      "k": "Preparation",
+      "x": "estimates by ministries, scrutinised by Finance Ministry (secrecy)."
+     },
+     {
+      "k": "Enactment (Arts 112–117)",
+      "x": "general discussion, demands for grants, cut motions, Appropriation & Finance Acts."
+     },
+     {
+      "k": "Execution",
+      "x": "by ministries under Finance Ministry control."
+     },
+     {
+      "k": "Reform gaps",
+      "x": "guillotine, haste, limited scrutiny. (→ Wildavsky's political budget)."
+     },
      {
       "k": "Local governments",
       "x": "Predictable transfers should accompany regular State Finance Commissions, timely release and auditable local accounts."
@@ -6342,12 +6805,7 @@
      {
       "k": "Horizontal formula",
       "x": "Equalisation criteria address different fiscal capacities and needs, but complex indicators affect transparency and incentives."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
+     },
      {
       "k": "Central-control concern",
       "x": "Detailed release conditions and platform dependence may shift implementation finance from federal negotiation to real-time Union permission."
@@ -6359,8 +6817,19 @@
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "Ministry of Finance as fiscal guardian",
     "p": [
+     {
+      "k": "Departments",
+      "x": "Economic Affairs, Expenditure, Revenue, DIPAM, Financial Services."
+     },
+     {
+      "x": "Guardian vs spender tension with line ministries."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "merged railway budget; advanced Feb-1 budget date; outcome budgeting"
+     },
      {
       "k": "Devolution",
       "x": "Untied tax shares permit States to match spending with their constitutional responsibilities and political preferences."
@@ -6368,12 +6837,7 @@
      {
       "k": "Performance grants",
       "x": "Conditions can strengthen accounts, revenue effort or service systems, yet may penalise weak jurisdictions least able to comply."
-     }
-    ]
-   },
-   {
-    "h": "Significance and consequences",
-    "p": [
+     },
      {
       "k": "Accountability gain",
       "x": "Measurable prerequisites may convert funds into institutional reform when support and realistic transition are available."
@@ -6381,8 +6845,12 @@
     ]
    }
   ],
-  "conc": "The durable reform is one that strengthens capacity while keeping power constitutionally bounded, publicly answerable and responsive at the point of delivery.",
-  "directive": "discuss",
+  "wf": [
+   "reduce budget secrecy and expand pre-budget scrutiny",
+   "curb the guillotine",
+   "balance fiscal-guardian discipline with developmental spending."
+  ],
+  "conc": "The budget is politics and accountability in figures, and the Finance Ministry its guardian — reforming secrecy and haste would make it a genuine instrument of both control and management.",
   "flash": [
    "Local governments",
    "Horizontal formula",
@@ -6390,7 +6858,8 @@
    "Central-control concern",
    "Devolution",
    "Performance grants"
-  ]
+  ],
+  "directive": "discuss"
  },
  "pubad2-63": {
   "src": "mainslab",
@@ -6466,17 +6935,41 @@
   ]
  },
  "pubad2-64": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "Administrative reform succeeds only when formal redesign changes incentives, routines, capabilities and citizen-facing outcomes."
+    "x": "From Gorwala and Appleby to the two Administrative Reforms Commissions, India has never lacked reform reports — only their implementation — the recurring gap between recommendation and reality."
+   },
+   {
+    "t": "concept",
+    "x": "The Administrative Reforms Commissions failed less in design than in implementation — sound blueprints stalled by inertia, turf and political will."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "The trajectory of reform",
     "p": [
+     {
+      "k": "Gorwala (1951)",
+      "x": "honest, efficient administration; public-enterprise governance."
+     },
+     {
+      "k": "Appleby (1953, 1956)",
+      "x": "'government is different'; O&M, IIPA."
+     },
+     {
+      "k": "First ARC (1966–70)",
+      "x": "Morarji/Hanumanthaiah — machinery of government, personnel, finance."
+     },
+     {
+      "k": "Second ARC (2005–09)",
+      "x": "Veerappa Moily — 15 reports (RTI, Ethics, Personnel, Local Governance, e-Governance)."
+     },
+     {
+      "k": "Theory-bridge",
+      "x": "reform as continuous O&M/self-correction."
+     },
      {
       "k": "Implementation design",
       "x": "Prioritise a small sequenced agenda with named owners, milestones, resources and public status reports."
@@ -6496,8 +6989,25 @@
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "Why implementation fails",
     "p": [
+     {
+      "x": "Bureaucratic inertia & turf resistance."
+     },
+     {
+      "x": "Political will deficit and short horizons."
+     },
+     {
+      "x": "No implementation architecture or accountability for reports."
+     },
+     {
+      "k": "Partial adoption",
+      "x": "RTI adopted; many 2nd ARC reforms pending"
+     },
+     {
+      "k": "Indian bridge",
+      "x": "GoM/implementation-monitoring for ARC reports"
+     },
      {
       "k": "First ARC context",
       "x": "It examined post-independence machinery, Centre-State administration, personnel, planning and district institutions in a developmental State."
@@ -6517,8 +7027,12 @@
     ]
    }
   ],
-  "conc": "The durable reform is one that strengthens capacity while keeping power constitutionally bounded, publicly answerable and responsive at the point of delivery.",
-  "directive": "critically examine",
+  "wf": [
+   "create a standing reform-implementation and monitoring body",
+   "sequence and cost reforms realistically",
+   "build political ownership and accountability for adoption."
+  ],
+  "conc": "India's reform problem is not diagnosis but delivery — from Gorwala to the 2nd ARC the blueprints exist; what is missing is the will and machinery to implement them.",
   "flash": [
    "Implementation design",
    "Fragmented ownership",
@@ -6526,7 +7040,8 @@
    "Organisational fragmentation",
    "First ARC context",
    "Political cause"
-  ]
+  ],
+  "directive": "critically examine"
  },
  "pubad2-64-b0": {
   "src": "mainslab",
@@ -6597,17 +7112,41 @@
   ]
  },
  "pubad2-65": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "Administrative reform succeeds only when formal redesign changes incentives, routines, capabilities and citizen-facing outcomes."
+    "x": "'Minimum Government, Maximum Governance' is a philosophy of administrative reform rather than a programme of retrenchment — deregulation, decriminalisation and process re-engineering, not mere downsizing."
+   },
+   {
+    "t": "concept",
+    "x": "Administrative reform in India has moved from structural change to technology-driven process re-engineering — the reform idiom shifting from committees to code."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "The MGMG philosophy",
     "p": [
+     {
+      "k": "Not retrenchment",
+      "x": "better, not smaller, government."
+     },
+     {
+      "k": "Deregulation & ease-of-doing/living",
+      "x": "prune rules and compliances."
+     },
+     {
+      "k": "Decriminalisation",
+      "x": "Jan Vishwas Act (2023) decriminalises minor offences"
+     },
+     {
+      "k": "Process re-engineering",
+      "x": "faceless assessment, e-Office, single-window"
+     },
+     {
+      "k": "Theory-bridge",
+      "x": "NPM efficiency + DPI enablement."
+     },
      {
       "k": "Decriminalisation",
       "x": "Replace imprisonment for technical or minor economic defaults with proportionate civil penalties where public harm is limited."
@@ -6627,8 +7166,28 @@
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "Technology-driven reform",
     "p": [
+     {
+      "k": "Structural → process reform",
+      "x": "GPR before automation."
+     },
+     {
+      "k": "Digital Public Infrastructure",
+      "x": "India Stack, DBT, UMANG"
+     },
+     {
+      "k": "Data-driven governance",
+      "x": "PRAGATI, dashboards, PM Gati Shakti"
+     },
+     {
+      "k": "Risks",
+      "x": "digital divide, exclusion, privacy, cyber-security."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "Digital India; National e-Governance Plan lineage"
+     },
      {
       "k": "Citizen burden",
       "x": "Measure time, documents, visits, uncertainty and appeal cost—not only the number of laws removed."
@@ -6648,8 +7207,12 @@
     ]
    }
   ],
-  "conc": "The maxim should reduce arbitrary friction while increasing State capability where collective risk is real; less procedure and better government are compatible only through regulatory design.",
-  "directive": "examine",
+  "wf": [
+   "re-engineer processes before digitising",
+   "pair deregulation with capacity and safeguards",
+   "make 'minimum government' mean smarter, not weaker, governance."
+  ],
+  "conc": "'Minimum Government, Maximum Governance' reframes reform as smarter governance through deregulation and technology — its success depends on re-engineering process and bridging the digital divide.",
   "flash": [
    "Decriminalisation",
    "Deregulation",
@@ -6657,7 +7220,8 @@
    "Quality test",
    "Citizen burden",
    "Market caution"
-  ]
+  ],
+  "directive": "examine"
  },
  "pubad2-65-b0": {
   "src": "mainslab",
@@ -7630,17 +8194,41 @@
   ]
  },
  "pubad2-76": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "Urban governance requires empowered local institutions capable of coordinating land, finance, infrastructure, participation and resilience at city scale."
+    "x": "The metropolis is planned by everyone and governed by no one — institutional fragmentation leaves the Metropolitan Planning Committee a paper body in most cities."
+   },
+   {
+    "t": "concept",
+    "x": "Globalisation has made cities the new theatres of governance, straining the 'local' against the 'global' — even as recurrent urban flooding exposes governance failure more than nature's fury."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Metropolitan governance & fragmentation",
     "p": [
+     {
+      "k": "MPCs (Art 243ZE)",
+      "x": "to integrate metropolitan planning — largely non- functional."
+     },
+     {
+      "k": "Multiplicity of agencies",
+      "x": "development authorities, parastatals, utilities — no single governor."
+     },
+     {
+      "k": "Governed by no one",
+      "x": "overlapping jurisdictions, no metropolitan authority."
+     },
+     {
+      "k": "Global-local strain",
+      "x": "world-class-city aspirations vs local accountability."
+     },
+     {
+      "k": "New localism",
+      "x": "empowered, networked local governance. (→ networked governance)."
+     },
      {
       "k": "MPC mandate",
       "x": "Metropolitan Planning Committees should consolidate local plans and prepare integrated development priorities for the region."
@@ -7648,12 +8236,7 @@
      {
       "k": "Urban disaster authorities",
       "x": "Dedicated arrangements can coordinate dense, cascading risks across infrastructure and municipal jurisdictions."
-     }
-    ]
-   },
-   {
-    "h": "Limits and critical assessment",
-    "p": [
+     },
      {
       "k": "Risk integration",
       "x": "Disaster planning should shape metropolitan land use, transport, utilities and building approvals—not remain a response annex."
@@ -7661,16 +8244,36 @@
      {
       "k": "Fragmentation cost",
       "x": "Separate land, transit, housing, drainage and disaster decisions produce spatial mismatch and unowned externalities."
-     },
-     {
-      "k": "Weak reality",
-      "x": "MPCs often lack dedicated staff, data, finance links and authority over powerful parastatals."
      }
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "Urban resilience & climate",
     "p": [
+     {
+      "k": "Urban flooding",
+      "x": "encroached drains, unplanned growth, weak SWM",
+      "ex": "Bengaluru, Chennai, Mumbai"
+     },
+     {
+      "k": "Governance failure > natural fury",
+      "x": "fragmented planning, poor enforcement."
+     },
+     {
+      "k": "Climate-resilient cities",
+      "x": "heat action plans, sponge-city concepts"
+     },
+     {
+      "x": "Disaster-resilient infrastructure and land-use control."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "CDRI; NDMA urban-flood guidelines"
+     },
+     {
+      "k": "Weak reality",
+      "x": "MPCs often lack dedicated staff, data, finance links and authority over powerful parastatals."
+     },
      {
       "k": "Command clarity",
       "x": "Pre-agreed incident roles should join metropolitan scale with empowered local and ward response."
@@ -7682,8 +8285,12 @@
     ]
    }
   ],
-  "conc": "The durable reform is one that strengthens capacity while keeping power constitutionally bounded, publicly answerable and responsive at the point of delivery.",
-  "directive": "examine",
+  "wf": [
+   "operationalise MPCs as real metropolitan authorities",
+   "integrate fragmented agencies",
+   "mainstream climate-resilience and drainage in city planning."
+  ],
+  "conc": "The metropolis is everyone's plan and no one's government — new localism and functioning MPCs are needed to govern, and to make Indian cities resilient to a changing climate.",
   "flash": [
    "MPC mandate",
    "Risk integration",
@@ -7691,20 +8298,45 @@
    "Urban disaster authorities",
    "Command clarity",
    "Planning reform"
-  ]
+  ],
+  "directive": "examine"
  },
  "pubad2-77": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "Urban administration often separates political representation in the council from personnel, finance and technical control in a State-appointed Commissioner, producing divided authority without clear responsibility."
+    "x": "In Indian city government, the executive belongs to the State and the deliberative to the city — the Municipal Commissioner–elected council relationship the crux of accountable urban management."
+   },
+   {
+    "t": "concept",
+    "x": "Municipal finance is the Achilles' heel of urban governance — the 74th Amendment's promise unfulfilled without fiscal empowerment."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "74th Amendment & the Commissioner–council divide",
     "p": [
+     {
+      "k": "74th Amendment (1992)",
+      "x": "constitutional status; 12th Schedule (18 functions); Wards Committees."
+     },
+     {
+      "k": "Municipal Commissioner (executive)",
+      "x": "State-appointed, real administrative power."
+     },
+     {
+      "k": "Elected council & Mayor (deliberative)",
+      "x": "weak, often ceremonial Mayor."
+     },
+     {
+      "k": "Accountability gap",
+      "x": "executive answers to State, not city."
+     },
+     {
+      "k": "Theory-bridge",
+      "x": "staff–line/political–permanent executive tension."
+     },
      {
       "k": "Commissioner role",
       "x": "A professional executive implements decisions, manages staff and exercises statutory powers, often under State cadre control."
@@ -7716,15 +8348,33 @@
      {
       "k": "State dominance",
       "x": "Transfers, parastatals and approval powers further fragment the city's chain of command."
+     },
+     {
+      "k": "Democratic deficit",
+      "x": "If the Commissioner answers mainly upward, citizens cannot effectively reward or sanction the executive that delivers services."
      }
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "Missions & municipal capacity",
     "p": [
      {
-      "k": "Democratic deficit",
-      "x": "If the Commissioner answers mainly upward, citizens cannot effectively reward or sanction the executive that delivers services."
+      "k": "AMRUT & Smart Cities Mission (2015)",
+      "x": "infrastructure and area-based development."
+     },
+     {
+      "x": "Special Purpose Vehicles in Smart Cities bypass elected bodies — accountability concern."
+     },
+     {
+      "k": "Capacity deficit",
+      "x": "staff, planning, technical skills."
+     },
+     {
+      "x": "Parastatals fragment urban governance."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "directly-elected empowered Mayor debate"
      },
      {
       "k": "Administrative rationale",
@@ -7741,8 +8391,12 @@
     ]
    }
   ],
-  "conc": "A city needs one visible accountability chain: elected policy direction and professional execution should be distinct but institutionally joined, not owned by different governments.",
-  "directive": "examine",
+  "wf": [
+   "empower the elected council and Mayor with executive accountability",
+   "integrate parastatals under municipal government",
+   "build municipal technical capacity."
+  ],
+  "conc": "Indian cities are run by State-appointed executives and represented by weak councils — accountable city management needs an empowered elected leadership over the municipal executive.",
   "flash": [
    "Commissioner role",
    "Council role",
@@ -7750,7 +8404,8 @@
    "Reform",
    "Democratic deficit",
    "Administrative rationale"
-  ]
+  ],
+  "directive": "examine"
  },
  "pubad2-77-b0": {
   "src": "mainslab",
@@ -8275,26 +8930,37 @@
   ]
  },
  "pubad2-83": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "Democratic law-and-order administration must combine operational capacity with legality, federal balance, independent oversight and citizen trust."
+    "x": "Central investigative and para-military agencies are indispensable to countering insurgency and terrorism, yet raise federal concerns over autonomy and encroachment on the State's police domain."
+   },
+   {
+    "t": "concept",
+    "x": "Criminalisation of politics corrodes administration — the nexus of crime, politics and bureaucracy that the Vohra Committee first mapped."
    }
   ],
   "body": [
    {
-    "h": "Limits and critical assessment",
+    "h": "Central agencies & federal concerns",
     "p": [
+     {
+      "k": "CBI (DSPE Act 1946)",
+      "x": "needs State consent; 'caged parrot' autonomy critique."
+     },
+     {
+      "k": "Federal friction",
+      "x": "general-consent withdrawal; law-and-order is a State subject."
+     },
+     {
+      "k": "Theory-bridge",
+      "x": "unitary-bias federalism; accountability of agencies."
+     },
      {
       "k": "Federal concern",
       "x": "Investigation or deployment without consent and consultation can be perceived as partisan intrusion into State administration."
-     }
-    ]
-   },
-   {
-    "h": "Core argument",
-    "p": [
+     },
      {
       "k": "Investigative neutrality",
       "x": "Case selection, timing and public communication require rule-bound processes to avoid political instrumentalisation."
@@ -8310,8 +8976,26 @@
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "Criminalisation of politics & administration",
     "p": [
+     {
+      "k": "Crime–politics–bureaucracy nexus",
+      "x": "Vohra Committee (1993)"
+     },
+     {
+      "x": "Muscle & money power distort administration."
+     },
+     {
+      "k": "Judicial response",
+      "x": "disclosure of criminal antecedents; SC directions on speedy trials of MPs/MLAs"
+     },
+     {
+      "x": "Electoral & administrative capture by tainted actors."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "ADR data; decriminalisation and fast-track courts"
+     },
      {
       "k": "CAPF role",
       "x": "Central forces reinforce border and internal-security tasks and support States during exceptional law-and-order demands."
@@ -8331,8 +9015,12 @@
     ]
    }
   ],
-  "conc": "The durable reform is one that strengthens capacity while keeping power constitutionally bounded, publicly answerable and responsive at the point of delivery.",
-  "directive": "examine",
+  "wf": [
+   "guarantee agency autonomy with accountability",
+   "resolve CBI-consent friction via statute",
+   "decriminalise politics through speedy trials and disclosure."
+  ],
+  "conc": "Central agencies secure the nation but strain federalism, and criminalisation corrodes administration from within — both demand autonomy paired with accountability and the rule of law.",
   "flash": [
    "Federal concern",
    "Investigative neutrality",
@@ -8340,7 +9028,8 @@
    "Operational need",
    "CAPF role",
    "Principle—necessity"
-  ]
+  ],
+  "directive": "examine"
  },
  "pubad2-84": {
   "src": "mainslab",
@@ -8474,17 +9163,41 @@
   ]
  },
  "pubad2-85": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "Democratic law-and-order administration must combine operational capacity with legality, federal balance, independent oversight and citizen trust."
+    "x": "Regulatory commissions are the new frontier of the administrative state — expert, insulated bodies whose autonomy is perennially threatened by government and captured interests."
+   },
+   {
+    "t": "concept",
+    "x": "The largest arrear in Indian governance is the arrear of justice — the crisis of judicial administration a governance failure as much as a legal one."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Regulatory commissions & autonomy",
     "p": [
+     {
+      "k": "Rise of the regulatory state",
+      "x": "SEBI, TRAI, CCI, CERC, RERA"
+     },
+     {
+      "k": "Fused functions",
+      "x": "rule-making + adjudication + enforcement ('fourth branch')."
+     },
+     {
+      "k": "Threats to autonomy",
+      "x": "government direction, appointments, funding, capture."
+     },
+     {
+      "k": "Accountability gap",
+      "x": "unelected power needs parliamentary/judicial check."
+     },
+     {
+      "k": "Theory-bridge",
+      "x": "independent regulatory authorities ( organisations )."
+     },
      {
       "k": "Prosecution-court link",
       "x": "Early consultation, expert testimony and judicial training turn technical reports into legally tested evidence."
@@ -8504,8 +9217,23 @@
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "Judicial administration & arrears",
     "p": [
+     {
+      "k": "Causes",
+      "x": "vacancies, low judge-population ratio, procedural delay."
+     },
+     {
+      "k": "Reforms",
+      "x": "e-Courts, NJDG, fast-track & commercial courts, ADR/Lok Adalats"
+     },
+     {
+      "x": "Judicial infrastructure & case-management deficits."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "NALSA, mediation (2023 Act), All-India Judicial Service debate"
+     },
      {
       "k": "Electronic evidence",
       "x": "Forensic acquisition, hashing, metadata and secure storage support authenticity and reproducibility."
@@ -8525,8 +9253,12 @@
     ]
    }
   ],
-  "conc": "The durable reform is one that strengthens capacity while keeping power constitutionally bounded, publicly answerable and responsive at the point of delivery.",
-  "directive": "examine",
+  "wf": [
+   "insulate regulators while subjecting them to review",
+   "fill judicial vacancies and expand ADR",
+   "digitise and reform case-management to cut arrears."
+  ],
+  "conc": "Regulatory commissions and courts are both frontiers of the administrative state — one needs autonomy with accountability, the other capacity to end the arrear of justice.",
   "flash": [
    "Prosecution-court link",
    "Scene capacity",
@@ -8534,7 +9266,8 @@
    "Chain of custody",
    "Electronic evidence",
    "Police competence"
-  ]
+  ],
+  "directive": "examine"
  },
  "pubad2-86": {
   "src": "mainslab",
@@ -9062,17 +9795,40 @@
   ]
  },
  "pubad2-91": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
     "t": "concept",
-    "x": "Contemporary Indian administration is tested by problems that cross departmental boundaries and demand both institutional coordination and rights-based accountability."
+    "x": "The proliferation of national commissions for the disadvantaged has multiplied advocacy without guaranteeing accountability — voice without enforceable teeth."
+   },
+   {
+    "t": "concept",
+    "x": "The NHRC is a recommendatory body without teeth — its role in administrative accountability constrained by advisory powers and structural limits."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Commissions for vulnerable sections",
     "p": [
+     {
+      "k": "Constitutional bodies",
+      "x": "NCSC (338), NCST (338A), NCBC (338B, 102nd CAA)."
+     },
+     {
+      "k": "Statutory",
+      "x": "NCW (1990), NCPCR — advocacy and inquiry."
+     },
+     {
+      "k": "Advocacy without accountability",
+      "x": "recommendatory, under-resourced."
+     },
+     {
+      "x": "Overlap & vacancies blunt effectiveness."
+     },
+     {
+      "k": "Theory-bridge",
+      "x": "representative bureaucracy; social equity ( NPA )."
+     },
      {
       "k": "Representation",
       "x": "Dedicated commissions gather evidence, investigate complaints and advise government from the perspective of protected groups."
@@ -9092,8 +9848,27 @@
     ]
    },
    {
-    "h": "Analysis and application",
+    "h": "NHRC & the teeth deficit",
     "p": [
+     {
+      "k": "NHRC (PHRA 1993)",
+      "x": "inquiry, recommendation, not enforcement."
+     },
+     {
+      "k": "Recommendatory limits",
+      "x": "cannot compel; armed-forces jurisdiction curtailed."
+     },
+     {
+      "k": "GANHRI 'A' status",
+      "x": "recent deferment over autonomy/pluralism concerns"
+     },
+     {
+      "x": "Appointment & independence questions."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "enforce recommendations, diversify membership"
+     },
      {
       "k": "Capacity",
       "x": "Vacancies, small investigation staffs, delayed reports and limited regional access reduce effectiveness."
@@ -9109,8 +9884,12 @@
     ]
    }
   ],
-  "conc": "The durable reform is one that strengthens capacity while keeping power constitutionally bounded, publicly answerable and responsive at the point of delivery.",
-  "directive": "critically examine",
+  "wf": [
+   "give commissions defined powers and resources, not just advocacy",
+   "strengthen NHRC autonomy and follow-up",
+   "rationalise overlaps and fill vacancies."
+  ],
+  "conc": "National commissions and the NHRC give the vulnerable a voice but not yet enforceable protection — accountability requires teeth, autonomy and resources, not merely another institution.",
   "flash": [
    "Representation",
    "NHRC",
@@ -9118,7 +9897,8 @@
    "Powers",
    "Capacity",
    "Follow-up"
-  ]
+  ],
+  "directive": "critically examine"
  },
  "pubad2-91-b0": {
   "src": "mainslab",
@@ -9189,17 +9969,25 @@
   ]
  },
  "pubad2-92": {
-  "src": "mainslab",
+  "src": "cheatsheet",
   "intro": [
    {
+    "t": "event",
+    "x": "The regulatory tightening of foreign contributions (FCRA) has redrawn the boundary between the state and civil society — with real implications for voluntary organisations in development administration."
+   },
+   {
     "t": "concept",
-    "x": "Contemporary Indian administration is tested by problems that cross departmental boundaries and demand both institutional coordination and rights-based accountability."
+    "x": "NGOs and civil society are partners in development and watchdogs of the state — a relationship of collaboration and contestation the FCRA regime has recalibrated."
    }
   ],
   "body": [
    {
-    "h": "Core argument",
+    "h": "Civil society in development administration",
     "p": [
+     {
+      "k": "Social capital & participation",
+      "x": "SHGs, MKSS/RTI origins, social audit"
+     },
      {
       "k": "Development role",
       "x": "CSOs reach excluded groups, experiment with delivery and supply contextual knowledge unavailable to hierarchical agencies."
@@ -9211,25 +9999,20 @@
      {
       "k": "State partnership",
       "x": "Contracts and grants should protect advocacy independence and avoid converting CSOs into unaccountable substitute governments."
-     },
-     {
-      "k": "Accountability role",
-      "x": "Research, social mobilisation and monitoring make public institutions answerable beyond elections."
      }
     ]
    },
    {
-    "h": "Limits and critical assessment",
+    "h": "FCRA & the redrawn boundary",
     "p": [
+     {
+      "k": "Indian bridge",
+      "x": "NITI Aayog NGO-Darpan; self-regulation debate. RESOLVED — 16th FC Tabled Feb 2026 (see T19 ammo) — 41%; GDP-contribution 10%; ₹9.47 L cr local grants with conditions. RESOLVED — MGNREGA successor VB-G RAM G Act 2025, in force 1 Jul 2026 (see T37 update). RESOLVED — UPS & labour codes UPS from 1 Apr 2025; all four labour codes in force 21 Nov 2025. RESOLVED — Census 2027 Digital + caste enumeration; ref. 1 Mar 2027 (see new card T14A). STILL OPEN"
+     },
      {
       "k": "Control risk",
       "x": "Vague standards, selective enforcement, delayed approvals and blanket financial restrictions can chill criticism and organisational survival."
-     }
-    ]
-   },
-   {
-    "h": "Analysis and application",
-    "p": [
+     },
      {
       "k": "Proportionality",
       "x": "Compliance should vary by size, funding and risk; technical error should not attract the same response as fraud or unlawful activity."
@@ -9237,16 +10020,16 @@
      {
       "k": "Due process",
       "x": "Notice, reasons, reasonable cure, hearing and independent review are essential before suspension or cancellation."
-     },
-     {
-      "k": "Data and simplicity",
-      "x": "A unified filing interface and standard public disclosures can reduce burden while improving accountability."
      }
     ]
    }
   ],
-  "conc": "The durable reform is one that strengthens capacity while keeping power constitutionally bounded, publicly answerable and responsive at the point of delivery.",
-  "directive": "examine",
+  "wf": [
+   "balance national-security scrutiny with civic space",
+   "ease compliance for genuine voluntary bodies",
+   "strengthen domestic funding and self- regulation."
+  ],
+  "conc": "Civil society is both partner and watchdog of development administration — FCRA's tightening must guard sovereignty without shrinking the civic space that democratic governance needs.",
   "flash": [
    "Development role",
    "Regulatory interest",
@@ -9254,7 +10037,8 @@
    "Accountability role",
    "Control risk",
    "Proportionality"
-  ]
+  ],
+  "directive": "examine"
  },
  "pubad2-92-b0": {
   "src": "mainslab",
@@ -9318,5 +10102,75 @@
    "Early exclusion",
    "Political pressure"
   ]
+ },
+ "pubad2-73": {
+  "src": "cheatsheet",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The block, and not the district, is the true fulcrum of rural development administration — the Community Development Block as the cutting-edge unit of delivery."
+   },
+   {
+    "t": "concept",
+    "x": "The Community Development Programme failed as a programme but succeeded as a lesson — it gave India Panchayati Raj, via the Balwant Rai Mehta Committee."
+   }
+  ],
+  "body": [
+   {
+    "h": "CDP, NES & the birth of PRI",
+    "p": [
+     {
+      "k": "CDP (1952) & NES (1953)",
+      "x": "multi-purpose village development; bureaucratic, top-down."
+     },
+     {
+      "k": "Failure cause",
+      "x": "lack of people's participation, over-officialisation."
+     },
+     {
+      "k": "Balwant Rai Mehta (1957)",
+      "x": "'democratic decentralisation'; 3-tier PRIs."
+     },
+     {
+      "k": "Lesson",
+      "x": "development needs participation, not just administration."
+     },
+     {
+      "k": "Theory-bridge",
+      "x": "development administration; participation ( Follett/Sen )."
+     }
+    ]
+   },
+   {
+    "h": "Block/DRDA machinery & the order–development tension",
+    "p": [
+     {
+      "k": "Block Development Officer (BDO)",
+      "x": "cutting-edge coordinator."
+     },
+     {
+      "k": "DRDA",
+      "x": "district rural-development coordination (now merged in many States)."
+     },
+     {
+      "x": "Line departments + PRIs convergence challenge."
+     },
+     {
+      "k": "Regulation vs development tension",
+      "x": "'structured for regulation but conscripted for development'."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "convergence via GPDP, single-nodal delivery"
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "empower the block as the delivery fulcrum",
+   "resolve DRDA–PRI overlap through devolution",
+   "reorient regulatory machinery toward developmental service."
+  ],
+  "conc": "The block remains the fulcrum of rural delivery, and the CDP's lesson endures — development administered without participation fails, which is precisely why it gave India Panchayati Raj."
  }
 }

@@ -152,193 +152,230 @@
   "src": "ported"
  },
  "pubad1-13": {
-  "directive": "discuss",
-  "lens": "✓ Imported from your verified answer bank (pa1-08, match 80%).",
-  "conc": "Follett offers not soft consensus but a disciplined method of creating coordinated power; her relevance grows as government depends on actors it cannot simply command.",
-  "flash": [
-   "Follett",
-   "law of situation",
-   "integration",
-   "power-with",
-   "circular response",
-   "coordination"
-  ],
+  "directive": "examine",
+  "lens": "Follett's vocabulary is the answer — law of the situation, integration, power-with, circular response. Then show NPG/collaborative governance is her logic rediscovered.",
   "intro": [
    {
-    "t": "concept",
-    "x": "Follett anticipated collaborative governance by treating conflict, authority and coordination as relational processes rather than fixed properties of hierarchy."
+    "t": "thinker",
+    "x": "**Mary Parker Follett**'s **law of the situation** — that orders should issue from the objective requirements of a situation jointly discovered, not from a person's will — anticipated by half a century the logic of collaborative governance."
    }
   ],
   "body": [
    {
-    "h": "Key dimensions",
+    "h": "The conceptual core",
     "p": [
      {
-      "k": "Law of situation",
-      "x": "Orders should arise from objective requirements jointly discovered, depersonalising command without denying expertise."
+      "k": "Depersonalising the order",
+      "x": "Both parties study the situation together and obey what it demands, converting command into shared diagnosis and removing the sting of subordination."
      },
      {
-      "k": "Integration",
-      "x": "Conflict should seek a new solution satisfying underlying interests rather than domination or splitting the difference."
+      "k": "Integration over domination",
+      "x": "Of the three ways to settle conflict — domination, compromise, **integration** — only integration invents a solution meeting both parties' underlying desires."
      },
      {
-      "k": "Power-with",
-      "x": "Joint capacity is superior to power-over because participation enlarges rather than merely redistributes control."
+      "k": "Power-with, not power-over",
+      "x": "Joint capacity built with others exceeds coercive power held over them, because it enlists commitment rather than compliance."
+     }
+    ]
+   },
+   {
+    "h": "Why it prefigures collaborative governance",
+    "p": [
+     {
+      "k": "Networks need integration",
+      "x": "Multi-agency delivery cannot be commanded; **New Public Governance** coordinates plural actors through trust and negotiated purpose — Follett's method."
      },
      {
-      "k": "Circular response",
-      "x": "Actors continuously shape one another; administration is interactive rather than a one-way chain of causation."
+      "k": "Co-production",
+      "x": "Treating citizens as co-producers rather than customers restates her insight that those affected must participate in defining the situation."
      },
      {
-      "k": "Coordination",
-      "x": "Direct contact, early coordination, reciprocal relations and continuity connect specialised units."
+      "k": "Indian bridge",
+      "x": "Convergence-based administration works this way in practice — line departments coordinating around a shared district outcome rather than a hierarchical instruction.",
+      "ex": "**Aspirational Districts**; **Gram Sabha** planning; unified command in disaster response"
+     }
+    ]
+   },
+   {
+    "h": "Limits",
+    "p": [
+     {
+      "k": "Power asymmetry",
+      "x": "Integration presumes roughly comparable bargaining capacity; under deep hierarchy or caste and class asymmetry, 'joint discovery' can mask domination."
      },
      {
-      "k": "Group process",
-      "x": "Diversity becomes a creative resource when institutions enable genuine encounter and collective purpose."
-     },
-     {
-      "k": "Modern application",
-      "x": "Networks, co-production, interdepartmental teams and negotiated regulation operationalise her ideas."
-     },
-     {
-      "k": "Limits",
-      "x": "Integration may be impossible under deep power asymmetry, incompatible values or urgent coercive responsibility."
-     },
-     {
-      "k": "Safeguard",
-      "x": "Collaboration needs clear public authority, inclusive representation and transparent accountability to avoid insider capture."
+      "k": "Statutory mandate",
+      "x": "Public administrators act under law and cannot always negotiate the situation's meaning — legality constrains integration."
      }
     ]
    }
   ],
-  "src": "ported"
+  "wf": [
+   "Collaboration must be paired with a named accountable authority and inclusive representation, or 'power-with' becomes accountability-with-no-one"
+  ],
+  "conc": "Follett's achievement was to relocate authority from the person to the situation — the intellectual foundation on which contemporary networked governance still rests.",
+  "flash": [
+   "law of the situation",
+   "domination-compromise-integration",
+   "power-with vs power-over",
+   "circular response",
+   "4 coordination principles; NPG/co-production"
+  ]
  },
  "pubad1-38": {
   "directive": "critically examine",
-  "lens": "✓ Imported from your verified answer bank (pa1-23, match 73%).",
-  "conc": "Plural control strengthens accountability only when it is additive: legality and participation must reinforce the legislature's power of authorisation, finance and political responsibility.",
-  "flash": [
-   "legislative control",
-   "judicial review",
-   "citizen accountability",
-   "DRSC",
-   "power of purse",
-   "plural control"
-  ],
+  "lens": "20-marker, three sections. Name the specific legislative instruments and why each has weakened; then judicial and citizen expansion; then the Friedrich-Finer frame for the verdict.",
   "intro": [
    {
     "t": "concept",
-    "x": "The expansion of judicial and citizen oversight corrects executive dominance, but cannot replace the legislature as the continuous democratic principal of administration."
+    "x": "Legislative control was designed as the primary check on administration, but its instruments have atrophied even as judicial review and citizen scrutiny have expanded — a rebalancing of the accountability architecture rather than its collapse."
    }
   ],
   "body": [
    {
-    "h": "Key dimensions",
+    "h": "The weakening of legislative control",
     "p": [
      {
-      "k": "Legislative decline",
-      "x": "Fewer sittings, weak committee referral, guillotined grants and party discipline compress detailed scrutiny."
+      "k": "Instruments in principle",
+      "x": "Question Hour, Zero Hour, calling attention, no-confidence, the budget process and the financial committees give Parliament a full accountability toolkit.",
+      "ex": "**PAC**, Estimates and Public Undertakings Committees; 24 **DRSCs** since 1993"
      },
      {
-      "k": "Executive asymmetry",
-      "x": "Government controls information, agenda and expertise, while individual legislators often lack research support."
+      "k": "Declining deliberation",
+      "x": "Fewer sitting days, frequent disruption and the **guillotine** mean most demands for grants pass without discussion."
      },
      {
-      "k": "Judicial expansion",
-      "x": "Courts enforce legality and rights and can remedy administrative inaction, but intervene episodically through cases."
+      "k": "Bypassing scrutiny",
+      "x": "Falling referral of bills to committees, the ordinance route and contested use of the money-bill classification reduce pre-legislative examination."
      },
      {
-      "k": "Citizen control",
-      "x": "RTI, social audit, media and civil society supply dispersed information and continuous pressure."
+      "k": "Information and expertise asymmetry",
+      "x": "The executive controls information, agenda and technical capacity; members lack dedicated research support to interrogate it."
      },
      {
-      "k": "Strength",
-      "x": "Multiple forums reduce monopoly, protect minorities and expose failures hidden from partisan legislatures."
+      "k": "Delegated legislation",
+      "x": "The volume of subordinate rule-making far exceeds what the **Committee on Subordinate Legislation** can meaningfully scrutinise."
+     }
+    ]
+   },
+   {
+    "h": "The expansion of judicial and citizen control",
+    "p": [
+     {
+      "k": "Judicial review",
+      "x": "Courts enforce legality, reasonableness and rights under **Articles 32 and 226**, and have used continuing mandamus to supervise administration.",
+      "ex": "**Vineet Narain (1997)**"
      },
      {
-      "k": "Distortion risk",
-      "x": "Judicial management may lack operational competence; organised voices may not represent the least powerful."
+      "k": "Public interest litigation",
+      "x": "Relaxed *locus standi* let unorganised interests obtain remedies the legislature had not delivered."
+     },
+     {
+      "k": "Citizen instruments",
+      "x": "**RTI, 2005**, social audit, citizen charters and the **Sevottam** framework created continuous, dispersed scrutiny.",
+      "ex": "**MGNREGA** social audits"
+     }
+    ]
+   },
+   {
+    "h": "Assessment",
+    "p": [
+     {
+      "k": "The Friedrich-Finer frame",
+      "x": "**Finer** insisted on external, institutional control; **Friedrich** on the professional's inner check — the shift toward courts and citizens tilts practice toward Finer while professional ethics remain underdeveloped."
+     },
+     {
+      "k": "Many hands",
+      "x": "**Bovens**'s problem of many hands worsens as delivery is contracted and networked, making any single forum insufficient."
      },
      {
       "k": "Democratic deficit",
-      "x": "Neither judges nor NGOs authorise taxation, budgets or government tenure through electoral responsibility."
-     },
-     {
-      "k": "Reform",
-      "x": "Mandatory committee scrutiny, research staff, action-taken reporting and protected opposition time can revive legislative capacity."
-     },
-     {
-      "k": "Networked accountability",
-      "x": "Courts and citizens should feed evidence into, not displace, a strengthened representative chain."
+      "x": "Neither judges nor civil society authorise taxation or budgets; only the legislature carries representative mandate, so its decline is not fully substitutable."
      }
     ]
    }
   ],
-  "src": "ported"
+  "wf": [
+   "Mandatory committee referral of bills, dedicated research support and a Parliamentary Budget Office, with binding action-taken accountability, as the **2nd ARC** urged"
+  ],
+  "conc": "Accountability has become plural rather than weaker — but a democracy cannot outsource control of administration to courts and citizens without restoring the legislature that alone represents the governed.",
+  "flash": [
+   "PAC/Estimates/POU; 24 DRSCs 1993",
+   "guillotine, ordinance, money-bill route",
+   "Committee on Subordinate Legislation",
+   "Vineet Narain continuing mandamus",
+   "Friedrich (inner check) vs Finer (external)"
+  ]
  },
  "pubad1-45": {
   "directive": "examine",
-  "lens": "✓ Imported from your verified answer bank (pa1-24, match 80%).",
-  "conc": "Natural justice is unwritten not optional: its adaptable core ensures that administrative necessity remains bounded by participation, impartiality and reasons.",
-  "flash": [
-   "natural justice",
-   "audi alteram partem",
-   "nemo judex",
-   "speaking order",
-   "post-decisional hearing",
-   "fairness"
-  ],
+  "lens": "Three pillars — hearing, bias, reasoned order — then the case-law evolution, then flexibility and exceptions. Close on digital administration.",
   "intro": [
    {
     "t": "concept",
-    "x": "Natural justice supplies the minimum procedural morality of administrative power, preventing convenience or delegated authority from becoming arbitrary condemnation."
+    "x": "Natural justice is judge-made, unwritten and yet binding — a set of procedural minima that courts read into every statute conferring power capable of affecting rights."
    }
   ],
   "body": [
    {
-    "h": "Key dimensions",
+    "h": "The three pillars",
     "p": [
      {
-      "k": "Hearing rule",
-      "x": "Audi alteram partem requires notice, disclosure of material and a meaningful opportunity to answer."
+      "k": "Audi alteram partem",
+      "x": "Notice of the case, disclosure of adverse material and a genuine opportunity to respond before the decision, not after it."
      },
      {
-      "k": "Bias rule",
-      "x": "Nemo judex bars decision-makers with pecuniary, personal, departmental or reasonable apprehension of bias."
+      "k": "Nemo judex in causa sua",
+      "x": "Disqualification for pecuniary, personal, subject-matter or institutional bias; the test is the **real likelihood** of bias, since justice must appear to be done."
+     }
+    ]
+   },
+   {
+    "h": "Evolution through case law",
+    "p": [
+     {
+      "k": "Beyond judicial functions",
+      "x": "**Ridge v Baldwin (1964)** and **A.K. Kraipak (1969)** dissolved the quasi-judicial-versus-administrative distinction, extending natural justice to administrative action."
      },
      {
-      "k": "Reasoned decision",
-      "x": "Speaking orders demonstrate application of mind, enable appeal and discipline discretionary power."
-     },
-     {
-      "k": "Evolution",
-      "x": "The principles moved beyond courts to administrative decisions affecting rights, interests and legitimate expectations."
-     },
-     {
-      "k": "Flexibility",
-      "x": "Content varies with statute, urgency, subject matter, stakes and feasible safeguards; fairness is contextual."
-     },
-     {
-      "k": "Exceptions",
-      "x": "Emergency, confidentiality, impracticability or legislative action may modify prior hearing, but not create a blanket licence."
+      "k": "Constitutional anchoring",
+      "x": "**Maneka Gandhi (1978)** held that procedure under **Article 21** must be fair, just and reasonable — importing natural justice into due process itself."
      },
      {
       "k": "Post-decisional hearing",
-      "x": "It may cure urgent temporary action only when prompt, genuine review remains capable of correction."
+      "x": "**Swadeshi Cotton Mills** allowed a hearing after urgent action, but only where it is prompt and genuinely capable of altering the outcome."
+     }
+    ]
+   },
+   {
+    "h": "Flexibility and its limits",
+    "p": [
+     {
+      "k": "Variable content",
+      "x": "What fairness requires varies with statute, urgency, subject matter and the severity of consequence — natural justice is a standard, not a fixed procedure."
+     },
+     {
+      "k": "Recognised exceptions",
+      "x": "Emergency, confidentiality and national security, impracticability of mass hearings, and purely legislative action."
      },
      {
       "k": "No empty ritual",
-      "x": "Prejudice and useless-formality doctrines prevent automatic invalidation, yet authorities cannot presume hearing would never matter."
-     },
-     {
-      "k": "Digital administration",
-      "x": "Automated decisions require notice, intelligible reasons, data correction and human review."
+      "x": "The **useless formality** and prejudice doctrines prevent hearings from becoming a formal step with a predetermined outcome — the Riggsian risk of prescription without practice."
      }
     ]
    }
   ],
-  "src": "ported"
+  "wf": [
+   "Codify minimum procedural standards for administrative and automated decision-making so fairness does not depend solely on litigation"
+  ],
+  "conc": "Natural justice is the unwritten constitution of administrative adjudication — it converts discretion into reasoned power, which is the difference between administration and arbitrariness.",
+  "flash": [
+   "audi alteram partem; nemo judex; speaking order",
+   "Ridge v Baldwin 1964; Kraipak 1969",
+   "Maneka Gandhi 1978 — fair, just, reasonable",
+   "Swadeshi Cotton Mills post-decisional",
+   "Art 311(2) proviso; Tulsiram Patel"
+  ]
  },
  "pubad1-2": {
   "directive": "examine",
@@ -391,6 +428,10 @@
       "k": "Indian bridge",
       "x": "The Indian scheme institutionalises it: the **Minister decides policy, the Secretary executes**, with **Article 311** protecting the servant who advises without fear.",
       "ex": "Committed-bureaucracy debate; **Article 310-311**"
+     },
+     {
+      "k": "NPM's revival",
+      "x": "The purchaser-provider split revived the separation in a managerial idiom, with the same slippage."
      }
     ]
    }
@@ -479,6 +520,10 @@
      {
       "k": "Still unfinished",
       "x": "Algorithmic exclusion, digital divides and elite capture show equity remains an outcome to be engineered, not a value to be declared."
+     },
+     {
+      "k": "Representative bureaucracy",
+      "x": "Equity in composition — who staffs the service — became the structural counterpart to equity in output."
      }
     ]
    }
@@ -519,6 +564,10 @@
      {
       "k": "Gains delivered",
       "x": "Cost consciousness, customer orientation, contestability and explicit measurement of what departments actually produce."
+     },
+     {
+      "k": "Agencification",
+      "x": "Splitting policy from delivery into arm's-length agencies was NPM's signature structural move."
      }
     ]
    },
@@ -568,6 +617,14 @@
       "k": "Indian bridge",
       "x": "India's arc mirrors this: disinvestment, agencification and **PPP** in the NPM phase; then **DPI**, **Aspirational Districts** and mission-mode convergence as the integrative turn.",
       "ex": "**PRAGATI**; **Mission Karmayogi**"
+     },
+     {
+      "k": "Digital era governance",
+      "x": "**Dunleavy** argues digitisation reintegrates the fragments NPM created through needs-based holism and shared platforms."
+     },
+     {
+      "k": "Persisting NPM residue",
+      "x": "Performance measurement and contracting survive inside NPG — the paradigms layer rather than replace."
      }
     ]
    }
@@ -604,6 +661,18 @@
       "k": "Structural principles",
       "x": "With the **4 P's** — purpose, process, persons, place — and span of control, it guided real reorganisation.",
       "ex": "**Brownlow Committee**, 1937"
+     },
+     {
+      "k": "Enduring utility",
+      "x": "It remains the working vocabulary of executive job description and organisational review."
+     },
+     {
+      "k": "Span of control",
+      "x": "Gulick tied span to the executive's attention span, making structure a function of human limits."
+     },
+     {
+      "k": "Staff-line distinction",
+      "x": "He separated advisory staff from line command, clarifying who may direct and who may only counsel."
      }
     ]
    },
@@ -663,6 +732,10 @@
      {
       "k": "Zone of indifference",
       "x": "A range of orders accepted unquestioningly; the executive's task is to widen it."
+     },
+     {
+      "k": "Informal organisation",
+      "x": "Barnard located the executive's real work in sustaining cooperation and communication, not in issuing commands."
      }
     ]
    },
@@ -735,6 +808,14 @@
      {
       "k": "Indian bridge",
       "x": "Rigid hierarchy, narrow role definition and file-bound routine produce exactly the withdrawal Argyris predicted; **Mission Karmayogi**'s competency framework and **2nd ARC**'s call for role-based deployment are institutional answers."
+     },
+     {
+      "k": "Critique",
+      "x": "Not everyone seeks self-actualisation at work, and the thesis universalises a particular conception of maturity."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "Rigid hierarchy and file-bound routine produce exactly the withdrawal Argyris predicted; **Mission Karmayogi**'s competency framework is the institutional answer."
      }
     ]
    }
@@ -792,6 +873,10 @@
      {
       "k": "Proxy risk",
       "x": "Algorithms optimise a specified proxy; misstate the purpose and efficiency accelerates error."
+     },
+     {
+      "k": "Accountability",
+      "x": "Simon required decisions traceable to reasons; opaque models break that chain."
      }
     ]
    }
@@ -836,6 +921,14 @@
      {
       "k": "Transformational turn",
       "x": "**Burns** distinguished transactional exchange from **transformational** leadership that elevates followers' purposes; **Bass** operationalised it in the four I's — idealised influence, inspirational motivation, intellectual stimulation, individualised consideration."
+     },
+     {
+      "k": "Contingency detail",
+      "x": "**Fiedler**'s **LPC** model matches leader style to situational favourableness rather than prescribing one best style."
+     },
+     {
+      "k": "Path-goal",
+      "x": "**House** cast the leader's role as clearing the path to goals and supplying what the environment lacks."
      }
     ]
    },
@@ -859,6 +952,14 @@
       "k": "Indian bridge",
       "x": "District administration demands situational leadership — directive in disaster, participative in development — and **Mission Karmayogi** treats leadership as a trainable competency rather than an innate trait.",
       "ex": "Collector in crisis vs in convergence"
+     },
+     {
+      "k": "Crisis leadership",
+      "x": "Public leadership is tested where authority is ambiguous and stakes are high — disaster and epidemic response."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "**Mission Karmayogi** treats leadership as a trainable competency rather than an innate trait — the behavioural school institutionalised."
      }
     ]
    }
@@ -916,6 +1017,14 @@
      {
       "k": "Criticisms",
       "x": "Ethnocentric, static, pessimistic and jargon-heavy; offers no theory of transition."
+     },
+     {
+      "k": "Contemporary relevance",
+      "x": "Digitising a process leaves formalism intact if the underlying incentive structure is untouched."
+     },
+     {
+      "k": "Sala model",
+      "x": "The prismatic office blends office and household norms — appointment by merit coexisting with kinship obligation."
      }
     ]
    }
@@ -1003,6 +1112,14 @@
      {
       "k": "Where increments fail",
       "x": "Structural deprivation and climate adaptation need anticipatory rather than remedial policy."
+     },
+     {
+      "k": "Budgeting evidence",
+      "x": "**Wildavsky** showed budgets are made by base-plus-increment, confirming incrementalism as description."
+     },
+     {
+      "k": "Indian punctuations",
+      "x": "**1991** liberalisation, **GST** and the **IBC** show non-incremental change is possible under crisis or strong mandate."
      }
     ]
    }
@@ -1061,6 +1178,10 @@
      {
       "k": "Critique",
       "x": "Explains agenda-setting better than implementation; understates structural power in defining problems."
+     },
+     {
+      "k": "Administrative lesson",
+      "x": "Timing is a resource — the entrepreneur's readiness matters as much as the proposal's quality."
      }
     ]
    }

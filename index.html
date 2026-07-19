@@ -22,6 +22,11 @@
 <main id="view-home" class="view active">
   <div class="countdown" id="countdown"></div>
   <div class="papers" id="papers"></div>
+  <button class="notes-cta" id="go-notes">
+    <span class="ic">📚</span>
+    <span class="nm"><b>Notes library</b><small id="notes-sub">Mains Smasher notes, by paper</small></span>
+    <span class="arw">›</span>
+  </button>
   <section class="due" id="due-wrap" hidden>
     <h2>Due for revision</h2>
     <div id="due-list"></div>
@@ -45,6 +50,29 @@
     <select id="theme-sel"></select>
   </div>
   <div id="q-list"></div>
+</main>
+
+<!-- ══ NOTES ══ -->
+<main id="view-notes" class="view">
+  <h1>📚 Notes library</h1>
+  <input id="n-search" type="search" placeholder="Search all notes…" autocomplete="off">
+  <div id="n-results" hidden></div>
+  <div id="n-books"></div>
+</main>
+
+<main id="view-book" class="view">
+  <h1 id="book-title"></h1>
+  <div id="book-chapters"></div>
+</main>
+
+<main id="view-chapter" class="view">
+  <div class="ch-head">
+    <h1 id="ch-title"></h1>
+    <div id="ch-meta"></div>
+  </div>
+  <div id="ch-pyq"></div>
+  <div id="ch-outline"></div>
+  <pre id="ch-text"></pre>
 </main>
 
 <!-- ══ ANSWER ══ -->

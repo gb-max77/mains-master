@@ -251,3 +251,33 @@ body[data-mode=scan] .intro:nth-of-type(2){display:none}
   body.sb-open #view-answer{padding-left:346px;max-width:none}
   body.sb-open #view-answer > *{max-width:860px}
 }
+
+/* ── notes library ── */
+.notes-cta{display:flex;align-items:center;gap:14px;width:100%;text-align:left;margin-top:14px;
+  padding:15px;background:var(--bg2);border:1px dashed var(--line);border-radius:var(--r)}
+.notes-cta:hover{border-color:var(--blue);border-style:solid}
+.notes-cta .ic{font-size:24px;width:32px;text-align:center}
+.notes-cta .nm{flex:1;min-width:0}
+.notes-cta .nm b{display:block;font-size:15px}
+.notes-cta .nm small{color:var(--faint);font-size:12px}
+.arw{color:var(--faint);font-size:20px;flex:none}
+#n-search{background:var(--bg2);border:1px solid var(--line);border-radius:9px;padding:10px 13px;
+  width:100%;margin-bottom:16px}
+#n-search:focus{outline:none;border-color:var(--blue)}
+.snip{display:block;margin-top:6px;color:var(--faint);font-size:12px;line-height:1.5}
+.snip mark{background:rgba(240,183,78,.22);color:var(--gold);border-radius:2px}
+
+.ch-head{margin-bottom:16px;padding-bottom:12px;border-bottom:1px solid var(--line)}
+#ch-title{font-size:20px;margin:0 0 4px;color:var(--ink)}
+#ch-meta{font-size:12px;color:var(--faint)}
+#ch-pyq h3,#ch-outline h3{font-size:11px;text-transform:uppercase;letter-spacing:.1em;
+  color:var(--faint);margin:18px 0 8px}
+.pyq{margin:0 0 7px;padding:9px 12px;background:var(--bg2);border-left:2px solid var(--gold);
+  border-radius:0 7px 7px 0;font-size:13px;line-height:1.5;color:var(--dim)}
+.subs{display:flex;flex-wrap:wrap;gap:6px}
+.subs span{font-size:11.5px;padding:4px 9px;background:var(--bg2);border:1px solid var(--line);
+  border-radius:6px;color:var(--dim)}
+#ch-text{margin:22px 0 0;padding:16px;background:var(--bg2);border:1px solid var(--line);
+  border-radius:10px;white-space:pre-wrap;overflow-x:auto;
+  font:13px/1.62 ui-monospace,SFMono-Regular,Menlo,monospace;color:var(--dim);tab-size:2}
+@media (max-width:560px){ #ch-text{font-size:12px;padding:12px} }

@@ -79,6 +79,12 @@ function renderHome() {
     wrap.append(b);
   }
 
+  notesIndex().then(bs => {
+    const ch = bs.reduce((s, b) => s + b.chapters.length, 0);
+    const w = bs.reduce((s, b) => s + b.chapters.reduce((t, c) => t + c.w, 0), 0);
+    $('#notes-sub').textContent = `${bs.length} books · ${ch} chapters · ${(w / 1000).toFixed(0)}k words`;
+  });
+
   const due = [];
   for (const p of PAPERS) for (const r of rows(p)) {
     const rc = store.rec(r.qid);
@@ -366,6 +372,108 @@ function step(dir) {
   n.scrollIntoView({ block: 'center' }); // instant — smooth scrolling breaks the in-app browser
 }
 
+/* ══════════════════ NOTES ══════════════════ */
+let NOTES = null, BOOK = {};
+
+async function notesIndex() {
+  if (!NOTES) {
+    try { NOTES = await (await fetch('data/notes/index.json', { cache: 'no-cache' })).json(); }
+    catch { NOTES = []; }
+  }
+  return NOTES;
+}
+async function loadBook(id) {
+  if (!BOOK[id]) BOOK[id] = await (await fetch(`data/notes/${id}.json`, { cache: 'no-cache' })).json();
+  return BOOK[id];
+}
+
+const PAPER_NAME = { gs1: 'GS-1', gs2: 'GS-2', gs3: 'GS-3', gs4: 'GS-4' };
+
+async function renderNotes() {
+  const books = await notesIndex();
+  const L = $('#n-books'); L.innerHTML = '';
+  let paper = null;
+  for (const b of books) {
+    if (b.paper !== paper) {
+      paper = b.paper;
+      L.append(el('div', 'sec-h', `${PAPER_NAME[paper] || paper} — source notes`));
+    }
+    const words = b.chapters.reduce((s, c) => s + c.w, 0);
+    const btn = el('button', 'paper');
+    btn.innerHTML = `<span class="ic">${b.icon}</span>
+      <span class="nm"><b>${esc(b.title)}</b>
+      <small>${b.chapters.length} chapters · ${(words / 1000).toFixed(0)}k words</small></span>
+      <span class="arw">›</span>`;
+    btn.onclick = () => go(`#/n/${b.id}`);
+    L.append(btn);
+  }
+}
+
+async function renderBook(id) {
+  const b = await loadBook(id);
+  $('#book-title').textContent = `${b.icon} ${b.title}`;
+  const L = $('#book-chapters'); L.innerHTML = '';
+  let part = undefined;
+  b.chapters.forEach((c, i) => {
+    if (c.part !== part) { part = c.part; if (part) L.append(el('div', 'sec-h', esc(part))); }
+    const btn = el('button', 'qrow tier3');
+    btn.innerHTML = `<span class="meta"><span>${len2k(c.text)} words</span>
+        ${c.pyq?.length ? `<span class="ok">${c.pyq.length} PYQ</span>` : ''}</span>
+      <p><span class="qn">${c.n}.</span> ${esc(c.t)}</p>`;
+    btn.onclick = () => go(`#/n/${id}/${i}`);
+    L.append(btn);
+  });
+}
+
+const len2k = t => t.split(/\s+/).length;
+
+async function renderChapter(id, i) {
+  const b = await loadBook(id);
+  const c = b.chapters[+i]; if (!c) return go(`#/n/${id}`);
+  $('#ch-title').textContent = `${c.n}. ${c.t}`;
+  $('#ch-meta').textContent = `${b.title}${c.part ? ' · ' + c.part : ''} · ${len2k(c.text)} words · p.${c.p}`;
+  const P = $('#ch-pyq'); P.innerHTML = '';
+  if (c.pyq?.length) {
+    P.innerHTML = `<h3>Asked before</h3>` +
+      c.pyq.map(q => `<p class="pyq">${esc(q)}</p>`).join('');
+  }
+  const O = $('#ch-outline'); O.innerHTML = '';
+  if (c.subs?.length) O.innerHTML = `<h3>In this chapter</h3><div class="subs">` +
+    c.subs.map(x => `<span>${esc(x)}</span>`).join('') + `</div>`;
+  $('#ch-text').textContent = c.text;
+  window.scrollTo(0, 0);
+}
+
+// Search runs across every book; we load them lazily and cache.
+async function searchNotes(q) {
+  const R = $('#n-results');
+  if (q.length < 3) { R.hidden = true; $('#n-books').hidden = false; return; }
+  R.hidden = false; $('#n-books').hidden = true;
+  R.innerHTML = '<div class="empty">Searching…</div>';
+  const books = await notesIndex();
+  const needle = q.toLowerCase(), hits = [];
+  for (const b of books) {
+    const full = await loadBook(b.id);
+    full.chapters.forEach((c, i) => {
+      const at = c.text.toLowerCase().indexOf(needle);
+      if (at < 0) return;
+      const from = Math.max(0, at - 90);
+      hits.push({ b, c, i, snip: c.text.slice(from, at + 190).replace(/\s+/g, ' ') });
+    });
+  }
+  R.innerHTML = '';
+  if (!hits.length) { R.append(el('div', 'empty', 'No matches.')); return; }
+  R.append(el('div', 'sec-h', `${hits.length} chapter${hits.length > 1 ? 's' : ''} mention "${esc(q)}"`));
+  for (const h of hits.slice(0, 40)) {
+    const btn = el('button', 'qrow tier3');
+    const snip = esc(h.snip).replace(new RegExp(`(${q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'ig'), '<mark>$1</mark>');
+    btn.innerHTML = `<span class="meta"><span>${h.b.icon} ${esc(h.b.title)}</span></span>
+      <p><span class="qn">${h.c.n}.</span> ${esc(h.c.t)}</p><small class="snip">…${snip}…</small>`;
+    btn.onclick = () => go(`#/n/${h.b.id}/${h.i}`);
+    R.append(btn);
+  }
+}
+
 /* ══════════════════ PAGER + SIDEBAR ══════════════════ */
 // Both walk the same ordered list of main questions, so "next" in the pager and
 // the sidebar's order can never disagree.
@@ -412,7 +520,12 @@ async function route() {
   $('#back').hidden = h === '#/';
   $('#btn-sb').hidden = kind !== 'a';
 
-  if (kind === 'p' && arg) {
+  if (kind === 'n') {
+    const [, , bookId, chIdx] = h.split('/');
+    if (bookId && chIdx !== undefined) { $('#view-chapter').classList.add('active'); await renderChapter(bookId, chIdx); }
+    else if (bookId) { $('#view-book').classList.add('active'); await renderBook(bookId); }
+    else { $('#view-notes').classList.add('active'); await renderNotes(); }
+  } else if (kind === 'p' && arg) {
     filt.pid = arg; filt.q = ''; $('#q-search').value = '';
     await loadAnswers(arg);
     $('#view-list').classList.add('active'); renderList();
@@ -427,6 +540,8 @@ async function route() {
 
 /* ══════════════════ WIRING ══════════════════ */
 $('#back').onclick = () => history.back();
+$('#go-notes').onclick = () => go('#/n');
+$('#n-search').oninput = e => searchNotes(e.target.value.trim());
 $('#btn-search').onclick = () => { if (filt.pid) { go(`#/p/${filt.pid}`); setTimeout(() => $('#q-search').focus(), 60); } };
 $('#q-search').oninput = e => { filt.q = e.target.value; renderList(); };
 $('#theme-sel').onchange = e => { filt.theme = e.target.value; renderList(); };

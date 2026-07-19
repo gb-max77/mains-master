@@ -1222,6 +1222,10 @@
      {
       "k": "Own-source revenue",
       "x": "Property-tax floors push ULBs toward self-reliance instead of permanent grant dependence."
+     },
+     {
+      "k": "Third-tier fiscal reality",
+      "x": "Local bodies raise a very small share of their own revenue, so grants are not a supplement but the substance of municipal finance."
      }
     ]
    },
@@ -1243,6 +1247,11 @@
      {
       "k": "Unfunded functions persist",
       "x": "**Eleventh and Twelfth Schedule** subjects remain devolved on paper without matching funds or functionaries — the deeper problem conditionality does not touch."
+     },
+     {
+      "k": "Parallel bodies bypass the tier",
+      "x": "Missions and **SPVs** route funds around elected councils, so conditionality disciplines the body with least control over delivery.",
+      "ex": "Smart Cities SPVs"
      }
     ]
    }
@@ -1497,6 +1506,10 @@
      {
       "k": "Employment and education",
       "x": "The **4%** public-employment and **5%** higher-education reservations are under-filled, with backlog vacancies persisting."
+     },
+     {
+      "k": "Attitudinal barrier",
+      "x": "Accessibility is still budgeted as welfare rather than designed in, so retrofits are treated as optional add-ons."
      }
     ]
    },
@@ -1547,6 +1560,10 @@
      {
       "k": "Access expansion",
       "x": "Rising **GER**, **PM-VIDYALAXMI** financing and open/digital universities widen participation."
+     },
+     {
+      "k": "Higher-education reform",
+      "x": "**HEFA** financing, multidisciplinary universities and the graded-autonomy framework begin to dissolve rigid disciplinary silos."
      }
     ]
    },
@@ -1572,6 +1589,10 @@
      {
       "k": "Federal friction",
       "x": "Education is **Concurrent**, and disputes over language policy and entrance testing have slowed uniform adoption."
+     },
+     {
+      "k": "Digital divide",
+      "x": "Online delivery through **DIKSHA** and **SWAYAM** presumes devices and bandwidth that first-generation learners often lack."
      }
     ]
    }
@@ -1625,6 +1646,10 @@
      {
       "k": "Inequality persists",
       "x": "Reduced deprivation coexists with rising wealth concentration — the **IHDI** loss shows growth's distribution remains uneven."
+     },
+     {
+      "k": "Data comparability",
+      "x": "Changed survey design limits strict comparison with earlier rounds, so the headline decline should be read as direction, not precision."
      }
     ]
    },
@@ -1931,6 +1956,11 @@
      {
       "k": "Shrinking economic base",
       "x": "Beyond hydrocarbons and defence, trade is thin and unbalanced, with limited investment ties."
+     },
+     {
+      "k": "Technology-transfer limits",
+      "x": "Co-production has delivered platforms but rarely source-code and design authority, capping genuine indigenisation.",
+      "ex": "BrahMos as the exception"
      }
     ]
    }

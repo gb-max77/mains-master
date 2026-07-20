@@ -7771,5 +7771,913 @@
    "HDI/capability redefine progress",
    "plural paths, local ends"
   ]
+ },
+ "pubad1-82": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "**Allen Schick** identified three budget functions — **control, management and planning** — to which democratic theory adds a fourth: the budget as the instrument through which the legislature authorises and holds the executive to account."
+   }
+  ],
+  "body": [
+   {
+    "h": "The four roles",
+    "p": [
+     {
+      "k": "Allocation",
+      "x": "The budget is the state's principal instrument for distributing scarce resources between competing public purposes — the annual restatement of priorities."
+     },
+     {
+      "k": "Control",
+      "x": "Line-item appropriation, sanctioned establishment and rules of financial propriety confine spending to authorised heads."
+     },
+     {
+      "k": "Management",
+      "x": "Performance and outcome budgeting relate money to output, making the budget a tool of programme direction rather than only of restraint."
+     },
+     {
+      "k": "Democratic accountability",
+      "x": "No expenditure without appropriation — **Articles 112-114** and **266** make legislative authorisation the constitutional foundation of spending."
+     },
+     {
+      "k": "Economic stabilisation",
+      "x": "Fiscal policy uses aggregate spending and taxation to manage demand, employment and the debt path."
+     }
+    ]
+   },
+   {
+    "h": "Why the roles conflict",
+    "p": [
+     {
+      "k": "Control versus management",
+      "x": "Tight line-item control gives certainty but denies the manager the flexibility performance requires."
+     },
+     {
+      "k": "Planning versus annuality",
+      "x": "Multi-year programmes sit awkwardly inside a one-year appropriation, producing March-rush spending."
+     },
+     {
+      "k": "Schick's sequence",
+      "x": "He argued systems emphasise the functions in historical order — control first, then management, then planning — and rarely master all three."
+     },
+     {
+      "k": "Incremental reality",
+      "x": "**Wildavsky** showed budgets are made base-plus-increment, so the allocation function is far less deliberate than theory assumes."
+     }
+    ]
+   },
+   {
+    "h": "The Indian position",
+    "p": [
+     {
+      "k": "Control-heavy inheritance",
+      "x": "Indian budgeting remains strongest on regularity and weakest on outcome, the classic colonial financial inheritance."
+     },
+     {
+      "k": "Reform attempts",
+      "x": "Outcome budgeting, the merger of plan and non-plan classification and results frameworks tried to strengthen management."
+     },
+     {
+      "k": "Accountability machinery",
+      "x": "**CAG** audit and the financial committees close the loop, but years after the expenditure occurred."
+     },
+     {
+      "k": "Guillotine problem",
+      "x": "Most demands for grants pass without discussion, weakening precisely the authorisation function the Constitution privileges."
+     },
+     {
+      "k": "Transparency dimension",
+      "x": "Budget documents are the citizen's principal window on state priorities — readability is itself an accountability question."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Strengthen the management function through outcome budgeting tied to reliable data, and restore the authorisation function through mandatory committee scrutiny"
+  ],
+  "conc": "The budget is where the state's priorities, its discipline and its accountability meet — no single function can be maximised without cost to the others.",
+  "flash": [
+   "Schick: control-management-planning",
+   "Arts 112-114, 266 authorisation",
+   "control vs flexibility tension",
+   "Wildavsky base-plus-increment",
+   "guillotine defeats authorisation"
+  ]
+ },
+ "pubad1-82-b0": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "**Wildavsky**'s *The Politics of the Budgetary Process* replaced the rational-comprehensive account of budgeting with an empirical one — budgets are made **incrementally** and **politically**, by base plus increment."
+   }
+  ],
+  "body": [
+   {
+    "h": "The incremental account",
+    "p": [
+     {
+      "k": "Base and fair share",
+      "x": "Last year's appropriation is taken as given; negotiation concerns the increment and each agency's fair share of it."
+     },
+     {
+      "k": "Why comprehensive review fails",
+      "x": "Reviewing every item annually exceeds cognitive and political capacity — Simon's bounded rationality applied to money."
+     },
+     {
+      "k": "Roles and strategies",
+      "x": "Agencies advocate, budget bureaux cut and legislatures arbitrate; each learns the other's expectations and plays to them."
+     },
+     {
+      "k": "Stability's value",
+      "x": "Incrementalism reduces conflict, makes bargaining possible and gives agencies planning certainty."
+     }
+    ]
+   },
+   {
+    "h": "The political dimension",
+    "p": [
+     {
+      "k": "Budgeting as politics",
+      "x": "Wildavsky's central claim — the budget is the outcome of a bargaining process, not the product of an analytical technique."
+     },
+     {
+      "k": "Why PPBS failed",
+      "x": "Programme budgeting demanded agreed objectives and measurable outcomes that political systems cannot supply.",
+      "ex": "**PPBS**'s abandonment; **ZBB**'s paperwork collapse"
+     },
+     {
+      "k": "Aaron Wildavsky's caution",
+      "x": "Techniques that ignore the political function of budgeting are abandoned however rational they appear."
+     }
+    ]
+   },
+   {
+    "h": "Critique and continuing relevance",
+    "p": [
+     {
+      "k": "Conservative bias",
+      "x": "The base is never re-examined, so historic allocations persist long after their justification has gone."
+     },
+     {
+      "k": "Punctuations occur",
+      "x": "**Baumgartner and Jones** show long incremental stability broken by rapid, large shifts when attention and venue change."
+     },
+     {
+      "k": "Crisis exceptions",
+      "x": "Fiscal crisis, war and pandemic produce non-incremental budgets — India's 1991 and pandemic budgets among them."
+     },
+     {
+      "k": "Indian evidence",
+      "x": "Annual budgeting, scheme continuation and marginal rate changes are classically incremental; **GST** and the **IBC** are the punctuations."
+     },
+     {
+      "k": "Agency strategies",
+      "x": "Wildavsky catalogued the tactics — clientele mobilisation, incremental padding, and defending the base as untouchable."
+     },
+     {
+      "k": "Reform implication",
+      "x": "Any budgetary reform must give the bargainers a role, or it will be complied with formally and ignored substantively."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Adopt periodic zero-base review of the base on a rolling cycle while budgeting incrementally in between — Etzioni's mixed scanning applied to finance"
+  ],
+  "conc": "Wildavsky's achievement was to describe budgeting as it is rather than as reformers wish — any reform that ignores its political function will be abandoned.",
+  "flash": [
+   "base plus increment; fair share",
+   "budgeting is bargaining, not technique",
+   "PPBS and ZBB failure explained",
+   "conservative bias of the base",
+   "punctuated equilibrium"
+  ]
+ },
+ "pubad1-84": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Audit has travelled from **regularity** — was the money spent lawfully — through **propriety** to **performance**, and now presses on the wisdom of the policy itself."
+   }
+  ],
+  "body": [
+   {
+    "h": "The evolution",
+    "p": [
+     {
+      "k": "Regularity audit",
+      "x": "Verifies that expenditure conformed to appropriation, sanction and rule — the original and narrowest function."
+     },
+     {
+      "k": "Propriety audit",
+      "x": "Asks whether spending was prudent and free of extravagance even where technically legal — canons of financial propriety."
+     },
+     {
+      "k": "Performance audit",
+      "x": "Examines **economy, efficiency and effectiveness** — whether the intended results were achieved at reasonable cost."
+     },
+     {
+      "k": "Constitutional basis",
+      "x": "**Articles 148-151** make the **CAG** independent, with reports laid before the legislature and examined by the **PAC**."
+     }
+    ]
+   },
+   {
+    "h": "Where it now touches policy",
+    "p": [
+     {
+      "k": "Effectiveness edges into policy",
+      "x": "Asking whether a programme achieved its objective comes close to asking whether the objective was well chosen."
+     },
+     {
+      "k": "Presumptive loss controversy",
+      "x": "Quantifying revenue foregone from policy choices drew the charge that audit had entered policy territory."
+     },
+     {
+      "k": "The defence",
+      "x": "Audit examines the process and evidence behind a decision, not the political merits of the choice — a distinction easier to state than to hold."
+     }
+    ]
+   },
+   {
+    "h": "Limits and reform",
+    "p": [
+     {
+      "k": "Post-mortem timing",
+      "x": "Reports reach the PAC years after the expenditure, so audit corrects the future rather than the transaction."
+     },
+     {
+      "k": "Follow-up gap",
+      "x": "Action-taken notes are delayed and recommendations lack binding force — the audit-to-accountability gap."
+     },
+     {
+      "k": "Capacity and access",
+      "x": "Auditing outcomes needs data the executive controls, and skills in evaluation rather than accounting alone."
+     },
+     {
+      "k": "Institutional balance",
+      "x": "Legitimacy depends on audit staying evidence-led and avoiding the appearance of contesting elected choices."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Shorten the audit cycle, make action-taken reporting time-bound and binding, and keep performance audit anchored in stated objectives rather than alternative policies"
+  ],
+  "conc": "Audit's authority rests on being the legislature's evidence rather than its rival — it should test whether policy was competently executed, and leave whether it was rightly chosen to those who answer to the electorate.",
+  "flash": [
+   "regularity → propriety → performance",
+   "Arts 148-151; CAG independence",
+   "economy, efficiency, effectiveness",
+   "presumptive loss controversy",
+   "audit-to-accountability gap"
+  ]
+ },
+ "pubad1-84-b0": {
+  "directive": "comment",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "An audit certifying **financial regularity** answers whether money was spent lawfully — not whether it purchased anything of value."
+   }
+  ],
+  "body": [
+   {
+    "h": "Why regularity is insufficient",
+    "p": [
+     {
+      "k": "Different questions",
+      "x": "Regularity asks whether rules were followed; **value for money** asks whether the outcome justified the cost."
+     },
+     {
+      "k": "Compliant failure",
+      "x": "A school built to specification, sanctioned properly and paid for correctly may still stand empty — perfectly regular, entirely wasteful."
+     },
+     {
+      "k": "Rule-following as defence",
+      "x": "Where only regularity is audited, officials optimise for procedural safety rather than for results."
+     }
+    ]
+   },
+   {
+    "h": "What value-for-money audit requires",
+    "p": [
+     {
+      "k": "The three Es",
+      "x": "**Economy** in acquiring inputs, **efficiency** in converting them to outputs, **effectiveness** in achieving the intended outcome."
+     },
+     {
+      "k": "Baseline and objectives",
+      "x": "It can only be conducted where objectives were stated and baseline data exist — often the binding constraint."
+     },
+     {
+      "k": "Evaluation skills",
+      "x": "It needs auditors trained in programme evaluation and statistics, not only in accounting."
+     },
+     {
+      "k": "Complementarity",
+      "x": "Regularity remains the floor; performance audit builds on it rather than replacing it."
+     },
+     {
+      "k": "Institutional need",
+      "x": "Performance audit requires a mandate and access to programme data that regularity audit never needed."
+     }
+    ]
+   }
+  ],
+  "conc": "Regularity keeps the state honest and performance audit keeps it useful — a system that audits only the first will be clean and ineffective.",
+  "flash": [
+   "regularity ≠ value for money",
+   "compliant failure",
+   "economy-efficiency-effectiveness",
+   "needs stated objectives + baseline",
+   "regularity is the floor"
+  ]
+ },
+ "pubad1-84-b1": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**Internal audit** is management's own control instrument — continuous, advisory and inside the organisation, where the **CAG**'s external audit is periodic, adjudicatory and outside it."
+   }
+  ],
+  "body": [
+   {
+    "h": "What internal audit does",
+    "p": [
+     {
+      "k": "Continuous assurance",
+      "x": "It tests controls as transactions occur, catching error and irregularity before external audit ever sees them."
+     },
+     {
+      "k": "Risk-based focus",
+      "x": "Modern internal audit targets the highest-risk processes rather than sampling uniformly."
+     },
+     {
+      "k": "Advisory role",
+      "x": "It reports to management to improve systems, rather than to the legislature to fix responsibility."
+     },
+     {
+      "k": "Indian machinery",
+      "x": "Financial advisers, chief controllers of accounts and departmental internal audit wings under the **CGA**."
+     }
+    ]
+   },
+   {
+    "h": "Why it underperforms in India",
+    "p": [
+     {
+      "k": "Independence deficit",
+      "x": "Reporting to the head of the very department it audits compromises candour."
+     },
+     {
+      "k": "Staffing and skill",
+      "x": "Internal audit is treated as a low-priority posting rather than a specialist function."
+     },
+     {
+      "k": "Duplication, not complementarity",
+      "x": "It often replicates regularity checks instead of adding risk and systems assurance."
+     },
+     {
+      "k": "Reform direction",
+      "x": "An internal audit charter, functional independence, audit committees and risk-based methodology — the **2nd ARC**'s direction."
+     },
+     {
+      "k": "Preventive value",
+      "x": "Detecting weakness before expenditure is committed is the one thing external audit structurally cannot do."
+     },
+     {
+      "k": "CGA's role",
+      "x": "The **Controller General of Accounts** sets internal-audit standards and the accounting framework departments work within."
+     },
+     {
+      "k": "Accrual question",
+      "x": "Moving toward accrual accounting would give internal audit a truer picture of liabilities and assets."
+     },
+     {
+      "k": "Audit committees",
+      "x": "Departmental audit committees give internal findings a forum with authority to act on them."
+     }
+    ]
+   }
+  ],
+  "conc": "Internal audit is the conscience-keeper only if it is heard before the money is spent — its value lies in prevention, which external audit by definition cannot supply.",
+  "flash": [
+   "internal = continuous, advisory, inside",
+   "external CAG = periodic, adjudicatory",
+   "risk-based methodology",
+   "independence deficit in reporting line",
+   "audit committees + charter"
+  ]
+ },
+ "pubad1-83-b1": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**PPBS** and **ZBB** were the two great attempts to make budgeting rational — PPBS by relating money to objectives, ZBB by refusing to take the base for granted."
+   }
+  ],
+  "body": [
+   {
+    "h": "PPBS as rational choice",
+    "p": [
+     {
+      "k": "The design",
+      "x": "Planning-Programming-Budgeting linked long-range objectives to programmes and programmes to appropriations, with cost-benefit analysis choosing between alternatives."
+     },
+     {
+      "k": "Its appeal",
+      "x": "It promised allocation by explicit purpose rather than by historical accident or bureaucratic bargaining."
+     },
+     {
+      "k": "Why it failed",
+      "x": "It required agreed, measurable objectives that plural political systems cannot supply, and generated analysis nobody had time to use."
+     },
+     {
+      "k": "Wildavsky's verdict",
+      "x": "It ignored budgeting's political function — techniques that deny bargaining are abandoned by the bargainers."
+     }
+    ]
+   },
+   {
+    "h": "ZBB — concept versus execution",
+    "p": [
+     {
+      "k": "The concept",
+      "x": "Every activity justifies itself from zero each cycle through decision packages, ranked by priority — the direct assault on the incremental base."
+     },
+     {
+      "k": "Why the concept is sound",
+      "x": "It attacks precisely the weakness of incrementalism: historic allocations that outlive their justification."
+     },
+     {
+      "k": "Why execution failed",
+      "x": "Annual zero-base review of every activity produced unmanageable paperwork and analytical overload for marginal gain."
+     },
+     {
+      "k": "The salvageable form",
+      "x": "Rolling zero-base review of a subset of programmes each year captures the benefit without the cost — mixed scanning applied to budgets."
+     },
+     {
+      "k": "Indian experience",
+      "x": "ZBB was adopted in the late 1980s and lapsed into a formality — Riggsian formalism in the budget process."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Retain outcome linkage from PPBS and periodic base review from ZBB, applied selectively rather than universally"
+  ],
+  "conc": "Both reforms failed as total systems and survived as techniques — the lesson is that budgeting can be made more rational only at the margin politics will tolerate.",
+  "flash": [
+   "PPBS: objectives → programmes → money",
+   "needs agreed measurable objectives",
+   "ZBB decision packages from zero",
+   "concept sound, execution unmanageable",
+   "rolling review is the salvage"
+  ]
+ },
+ "pubad1-68": {
+  "directive": "comment",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Treating **training** as expenditure invites it to be cut first; treating it as **investment** recognises that administrative capability is the state's principal asset."
+   }
+  ],
+  "body": [
+   {
+    "h": "Why training is investment",
+    "p": [
+     {
+      "k": "Capability is the output",
+      "x": "In a service organisation the workforce *is* the production capacity — spending on it raises output as surely as capital spending does."
+     },
+     {
+      "k": "Long payback",
+      "x": "A trained officer serves for decades; the return accrues over a career, which is precisely the investment profile."
+     },
+     {
+      "k": "Adaptation",
+      "x": "Statutes, technology and citizen expectation change continuously; without training, capability depreciates like any un-maintained asset."
+     }
+    ]
+   },
+   {
+    "h": "How Indian practice treats it",
+    "p": [
+     {
+      "k": "National Training Policy",
+      "x": "Commits to training throughout the career rather than only at induction, and to a training budget as a proportion of salary spend."
+     },
+     {
+      "k": "Mission Karmayogi",
+      "x": "Shifts from rule-based to **competency-based** training, continuous through **iGOT**, with a Capacity Building Commission to standardise and audit."
+     },
+     {
+      "k": "The persisting gap",
+      "x": "Training is still often a pre-promotion formality; unless learning enters appraisal and posting, attendance substitutes for capability."
+     },
+     {
+      "k": "Neglected majority",
+      "x": "Investment concentrates on the elite services while cutting-edge State staff, who meet the citizen, receive least."
+     }
+    ]
+   }
+  ],
+  "conc": "Training is the only expenditure that raises the productivity of every rupee spent thereafter — treating it as a cost is the most expensive economy an administration can make.",
+  "flash": [
+   "workforce is the production capacity",
+   "career-long payback",
+   "National Training Policy",
+   "Karmayogi: rules → competencies",
+   "cutting-edge staff neglected"
+  ]
+ },
+ "pubad1-72": {
+  "directive": "explain",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "**Pressman and Wildavsky**'s *Implementation* showed that a well-designed policy fails because execution is not a mechanical act — each step involves actors who reinterpret it."
+   }
+  ],
+  "body": [
+   {
+    "h": "How implementation alters meaning",
+    "p": [
+     {
+      "k": "Complexity of joint action",
+      "x": "Every clearance point carries a probability of delay or dilution; multiply enough of them and success becomes improbable."
+     },
+     {
+      "k": "Multiple actors, multiple objectives",
+      "x": "Each implementing agency has its own priorities, so the policy is reweighted at every level it passes through."
+     },
+     {
+      "k": "Street-level discretion",
+      "x": "Frontline officials effectively make policy through the cumulative pattern of their daily choices.",
+      "ex": "**Lipsky**"
+     },
+     {
+      "k": "Resource and capacity mismatch",
+      "x": "A design that assumes staff, skills or data the implementer lacks is redefined by what is actually possible."
+     }
+    ]
+   },
+   {
+    "h": "What follows for design",
+    "p": [
+     {
+      "k": "Design for implementation",
+      "x": "Minimise clearance points, align incentives and specify who does what before the policy is announced."
+     },
+     {
+      "k": "Backward mapping",
+      "x": "**Elmore**'s prescription — begin from the behaviour you want at the point of delivery and work upward to the instruments."
+     },
+     {
+      "k": "Feedback and adaptation",
+      "x": "Continuous monitoring and the authority to adjust convert deviation into learning rather than failure."
+     },
+     {
+      "k": "Indian instances",
+      "x": "Schemes with identical design perform very differently across states — the variance is implementation capacity, not policy content."
+     }
+    ]
+   }
+  ],
+  "conc": "Policy is not what is announced but what is delivered — implementation is a continuation of policy-making by other hands.",
+  "flash": [
+   "Pressman-Wildavsky complexity of joint action",
+   "clearance points multiply failure",
+   "Lipsky street-level discretion",
+   "Elmore backward mapping",
+   "same design, different state outcomes"
+  ]
+ },
+ "pubad1-74-b0": {
+  "directive": "comment",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "**Easton** defined public policy as the **authoritative allocation of values** for a society — a formulation that makes the real question not what is allocated but who is authorised to allocate."
+   }
+  ],
+  "body": [
+   {
+    "h": "Unpacking the definition",
+    "p": [
+     {
+      "k": "Authoritative",
+      "x": "Backed by the legitimate coercive power of the state — this is what separates policy from a preference or a recommendation."
+     },
+     {
+      "k": "Allocation",
+      "x": "Policy distributes benefits and burdens; every allocation implies a corresponding denial."
+     },
+     {
+      "k": "Of values",
+      "x": "What is allocated is not merely money but status, opportunity, protection and recognition."
+     },
+     {
+      "k": "Systems frame",
+      "x": "Easton's model — inputs of demand and support, converted by the political system, producing outputs and feedback."
+     }
+    ]
+   },
+   {
+    "h": "The real question of authorisation",
+    "p": [
+     {
+      "k": "Who decides",
+      "x": "**Elite theory** holds a small stratum decides; **pluralism** holds competing groups bargain; **Marxian** analysis locates it in class structure."
+     },
+     {
+      "k": "Non-decision-making",
+      "x": "**Bachrach and Baratz** — power is also the ability to keep issues off the agenda, so authorisation is exercised by exclusion."
+     },
+     {
+      "k": "Institutional route",
+      "x": "In a constitutional order, authorisation flows from electoral mandate, statute and delegated authority — and is contestable in court."
+     },
+     {
+      "k": "Administrative share",
+      "x": "Officials authoritatively allocate values daily through rules, discretion and rationing — policy-making by another name."
+     }
+    ]
+   }
+  ],
+  "conc": "Easton's definition endures because it locates policy in authority rather than intention — the study of policy is finally the study of who gets to decide.",
+  "flash": [
+   "Easton: authoritative allocation of values",
+   "authority = legitimate coercion",
+   "elite vs pluralist vs Marxian",
+   "non-decision-making (Bachrach-Baratz)",
+   "officials allocate through discretion"
+  ]
+ },
+ "pubad1-70-b1": {
+  "directive": "explain",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "**Etzioni**'s **mixed scanning** marries the rational and incremental models — broad scanning for fundamental decisions, detailed examination for the incremental ones that follow."
+   }
+  ],
+  "body": [
+   {
+    "h": "The model",
+    "p": [
+     {
+      "k": "Two lenses",
+      "x": "A wide-angle scan of the whole field at low detail, plus a close scan of the areas the first identifies as needing attention."
+     },
+     {
+      "k": "The weather analogy",
+      "x": "Etzioni's satellite image — broad coverage to spot the storm, high resolution only where the storm is."
+     },
+     {
+      "k": "Fundamental versus incremental",
+      "x": "Fundamental decisions set the context; incremental ones are made within it and are revisited more often."
+     },
+     {
+      "k": "Economising on analysis",
+      "x": "It concedes Simon's cognitive limits without accepting Lindblom's surrender of direction."
+     }
+    ]
+   },
+   {
+    "h": "Why it is the pragmatic answer",
+    "p": [
+     {
+      "k": "Corrects incrementalism's drift",
+      "x": "Periodic fundamental review prevents small steps from locking in an unexamined direction."
+     },
+     {
+      "k": "Corrects rationalism's cost",
+      "x": "It avoids the comprehensive analysis that PPBS proved unaffordable."
+     },
+     {
+      "k": "Adaptive to context",
+      "x": "Scanning depth can be varied with the stakes and the reversibility of the decision."
+     },
+     {
+      "k": "Administrative application",
+      "x": "Rolling zero-base review of a subset of schemes each year, with incremental budgeting in between, is mixed scanning in practice."
+     }
+    ]
+   }
+  ],
+  "conc": "Mixed scanning is less a third theory than a working rule — look widely enough to keep direction, and closely enough to act.",
+  "flash": [
+   "broad scan + detailed scan",
+   "satellite weather analogy",
+   "fundamental vs incremental decisions",
+   "corrects both Lindblom and PPBS",
+   "rolling review in practice"
+  ]
+ },
+ "pubad1-62": {
+  "directive": "explain",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "**Social capital** — the networks, norms and trust that enable collective action — is the invisible infrastructure on which visible development depends."
+   }
+  ],
+  "body": [
+   {
+    "h": "The concept",
+    "p": [
+     {
+      "k": "Putnam's formulation",
+      "x": "Networks of civic engagement generate reciprocity and trust, which lower the cost of cooperation.",
+      "ex": "*Making Democracy Work*, on Italian regional government"
+     },
+     {
+      "k": "Bonding and bridging",
+      "x": "Bonding ties within a group provide security; **bridging** ties across groups generate opportunity and information."
+     },
+     {
+      "k": "Why it is infrastructure",
+      "x": "Like roads, it is a shared asset that raises the productivity of every other input — and it decays without use."
+     }
+    ]
+   },
+   {
+    "h": "Administrative significance",
+    "p": [
+     {
+      "k": "Collective-action problems",
+      "x": "Irrigation, forests and sanitation require cooperation the state cannot police cheaply.",
+      "ex": "**Ostrom** on common-pool resources"
+     },
+     {
+      "k": "Delivery multiplier",
+      "x": "Where associational life is dense, the same scheme performs better — the SHG movement is the Indian demonstration."
+     },
+     {
+      "k": "Dark side",
+      "x": "Bonding capital without bridging can entrench caste, communal and elite networks and exclude outsiders."
+     },
+     {
+      "k": "Can the state build it",
+      "x": "It can create the arenas — **Gram Sabha**, SHG federations, user committees — but trust accrues from repeated fair dealing, not from notification."
+     }
+    ]
+   }
+  ],
+  "conc": "Social capital explains why identical schemes succeed in one village and fail in the next — development administration should be judged partly by whether it leaves more of it behind.",
+  "flash": [
+   "Putnam: networks, norms, trust",
+   "bonding vs bridging",
+   "Coleman and Bourdieu",
+   "Ostrom common-pool cooperation",
+   "dark side: exclusionary bonding"
+  ]
+ },
+ "pubad1-63-b0": {
+  "directive": "comment",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Civil-service **neutrality** is neutrality *between political parties*, not neutrality *towards constitutional values* — an officer who is indifferent to the Constitution is not neutral but derelict."
+   }
+  ],
+  "body": [
+   {
+    "h": "What neutrality requires",
+    "p": [
+     {
+      "k": "Party impartiality",
+      "x": "Serving whichever government the electorate returns, with equal professional loyalty and no partisan identification."
+     },
+     {
+      "k": "Anonymity and candour",
+      "x": "Advising fearlessly in private and defending decisions publicly as the minister's, not the officer's."
+     },
+     {
+      "k": "Institutional basis",
+      "x": "Conduct Rules, **Article 311** protection and permanent tenure exist to make impartial advice safe to give."
+     },
+     {
+      "k": "Why it matters",
+      "x": "It permits peaceful transfer of power — an incoming government inherits a service it can trust."
+     }
+    ]
+   },
+   {
+    "h": "Where neutrality ends",
+    "p": [
+     {
+      "k": "Constitutional commitment",
+      "x": "Officials swear to the Constitution, not to a government — legality, equality and due process are not optional."
+     },
+     {
+      "k": "Duty to record dissent",
+      "x": "Written advice and recorded objection are the mechanism by which neutrality and integrity coexist.",
+      "ex": "**2nd ARC** on recorded instructions"
+     },
+     {
+      "k": "The committed-bureaucracy fallacy",
+      "x": "Commitment to a party's programme was urged in the 1970s; the constitutional answer is commitment to the constitutional order that programmes must satisfy."
+     },
+     {
+      "k": "Limits of refusal",
+      "x": "An officer may decline an illegal instruction but may not substitute personal policy preference for lawful direction."
+     }
+    ]
+   }
+  ],
+  "conc": "Neutrality is a commitment, not an absence of one — it means having no party, and having a constitution.",
+  "flash": [
+   "neutral between parties, not values",
+   "anonymity + candour",
+   "Art 311 makes candour safe",
+   "record instructions and dissent",
+   "committed-bureaucracy debate"
+  ]
+ },
+ "pubad1-42": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Media, interest groups and civil society constitute **citizen control** — dispersed, continuous and informal accountability that operates between elections and outside the file."
+   }
+  ],
+  "body": [
+   {
+    "h": "How each operates",
+    "p": [
+     {
+      "k": "Media",
+      "x": "Sets the agenda, exposes maladministration and converts individual grievance into public issue — the **fourth estate** claim."
+     },
+     {
+      "k": "Interest groups",
+      "x": "Aggregate and articulate demand, supply technical information to administrators and monitor implementation in their sector."
+     },
+     {
+      "k": "Civil society",
+      "x": "Delivers services at the last mile, represents the unorganised, and litigates through **PIL** where other routes are closed."
+     },
+     {
+      "k": "The enabling instrument",
+      "x": "**RTI, 2005** gave all three an evidentiary base independent of official disclosure."
+     }
+    ]
+   },
+   {
+    "h": "Value and limits",
+    "p": [
+     {
+      "k": "Reaching where formal control cannot",
+      "x": "They act continuously and locally, where audit is periodic and legislative scrutiny is remote."
+     },
+     {
+      "k": "Representativeness question",
+      "x": "None is elected; well-resourced groups are heard more than diffuse ones — **Olson**'s logic of collective action."
+     },
+     {
+      "k": "Media distortions",
+      "x": "Commercial pressure, ownership concentration and the incentive for sensation can distort the agenda they set."
+     },
+     {
+      "k": "Regulatory tension",
+      "x": "**FCRA** regulation of foreign funding raises the accountability-versus-autonomy question for civil society."
+     },
+     {
+      "k": "Complement, not substitute",
+      "x": "Citizen control supplies evidence and pressure; only legislature and courts can supply consequence."
+     },
+     {
+      "k": "Digital amplification",
+      "x": "Social media widens participation in scrutiny while multiplying misinformation the administration must answer."
+     },
+     {
+      "k": "Whistle-blower link",
+      "x": "Citizen control depends on insiders able to speak safely — an unoperationalised protection law weakens all three actors."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Treat citizen control as feeding evidence into legislative and judicial accountability rather than replacing it, and regulate civil society's accounts rather than its opinions"
+  ],
+  "conc": "Media, groups and civil society keep administration under continuous observation — democracy needs that scrutiny, and needs it to end in an institution that can act.",
+  "flash": [
+   "fourth estate agenda-setting",
+   "interest groups supply information",
+   "PIL where other routes close",
+   "Olson: organised heard over diffuse",
+   "evidence in, consequence elsewhere"
+  ]
  }
 }

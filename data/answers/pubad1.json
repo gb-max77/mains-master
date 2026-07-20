@@ -9856,5 +9856,1281 @@
    "revenue-deficit borrowing = burden",
    "PSBR disclosure + Fiscal Council"
   ]
+ },
+ "pubad1-11-b1": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "The AI-enabled state needs a **Neo-Weberian** settlement rather than a post-bureaucratic one — because algorithmic decision intensifies exactly the problems legality, hierarchy and answerability were built to solve."
+   }
+  ],
+  "body": [
+   {
+    "h": "Why post-bureaucratic answers fail here",
+    "p": [
+     {
+      "k": "The digital cage",
+      "x": "Algorithmic systems enforce rules more rigidly than any clerk, and offer no official to whom an exception can be argued."
+     },
+     {
+      "k": "Diffused responsibility",
+      "x": "Vendor, model, procuring department and operator each hold part of the decision — Bovens's problem of many hands, automated."
+     },
+     {
+      "k": "Opacity defeats networks",
+      "x": "Network governance runs on negotiation, which presumes reasons; an unexplainable model supplies none."
+     },
+     {
+      "k": "Market logic misfits",
+      "x": "Contracting out model development transfers to a supplier the value judgements that only a public authority may make."
+     }
+    ]
+   },
+   {
+    "h": "What the Neo-Weberian answer supplies",
+    "p": [
+     {
+      "k": "Legality first",
+      "x": "Decisions affecting rights must rest on statutory authority, with notice, reasons and appeal — natural justice applied to code."
+     },
+     {
+      "k": "A named accountable office",
+      "x": "Hierarchy's virtue is that someone owns the decision; automation must not dissolve that ownership."
+     },
+     {
+      "k": "Premise control made visible",
+      "x": "Simon showed organisations decide by setting premises; training data and model design are now those premises and must be documented."
+     },
+     {
+      "k": "Career expertise",
+      "x": "A permanent service with domain and data competence can interrogate a model; a rotating generalist can only accept its output.",
+      "ex": "**Mission Karmayogi** competencies"
+     },
+     {
+      "k": "Citizen orientation added",
+      "x": "The Neo-Weberian state keeps Weberian guarantees while adding service quality and consultation — modernise, do not dismantle."
+     }
+    ]
+   },
+   {
+    "h": "The safeguards that follow",
+    "p": [
+     {
+      "k": "Human in the loop",
+      "x": "For rights-affecting decisions AI remains advisory, with a human decision-maker recording reasons."
+     },
+     {
+      "k": "Pre-deployment audit",
+      "x": "Bias testing and impact assessment before rollout, with published error rates disaggregated by group."
+     },
+     {
+      "k": "Public register",
+      "x": "A register of government AI systems, their purpose and their data — transparency as the precondition of contestability."
+     },
+     {
+      "k": "Proportionality",
+      "x": "Surveillance and profiling deployments must satisfy the **Puttaswamy** test, which no efficiency gain can waive."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Legislate a public-sector AI accountability framework — statutory basis, explainability, audit and a right to human review"
+  ],
+  "conc": "Automation multiplies administrative power, and power multiplied is exactly what Weberian legality exists to constrain — the answer to the algorithmic state is a better bureaucracy, not less of one.",
+  "flash": [
+   "digital cage: rules without an official",
+   "many hands, automated",
+   "premises = training data + design",
+   "Neo-Weberian: modernise, not dismantle",
+   "human in the loop; public AI register"
+  ]
+ },
+ "pubad1-35-b0": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "**Moore**'s public value is created across networks of state, market and civil society — but the accountability apparatus that judges it remains built for a single hierarchy answering to a legislature."
+   }
+  ],
+  "body": [
+   {
+    "h": "How value is now co-created",
+    "p": [
+     {
+      "k": "Plural delivery",
+      "x": "Contractors, non-profits, self-help groups and platforms produce outcomes the state finances but does not perform."
+     },
+     {
+      "k": "Co-production",
+      "x": "Citizens are inputs, not merely recipients — sanitation, policing and learning outcomes fail without their participation.",
+      "ex": "**Ostrom**"
+     },
+     {
+      "k": "The strategic triangle",
+      "x": "Moore's manager must simultaneously secure public value, legitimacy and support, and operational capacity."
+     },
+     {
+      "k": "Networked authority",
+      "x": "No participant commands the others, so outcomes emerge from negotiation rather than instruction."
+     }
+    ]
+   },
+   {
+    "h": "Why accountability lags",
+    "p": [
+     {
+      "k": "Designed for hierarchy",
+      "x": "Ministerial responsibility, audit and legislative committees all assume a single chain ending in one answerable office."
+     },
+     {
+      "k": "The many hands problem",
+      "x": "**Bovens** — where many contributed, no one can be held responsible for the whole."
+     },
+     {
+      "k": "Electoral remedy missing",
+      "x": "Citizens can vote out a government but cannot remove a consortium or a contractor."
+     },
+     {
+      "k": "Measurement gap",
+      "x": "Audit tests regularity and outputs; public value is a judgement about outcomes and legitimacy that audit is not equipped to make."
+     },
+     {
+      "k": "Democratic risk",
+      "x": "Public value defined by managers rather than by the political process substitutes managerial for democratic authorisation."
+     }
+    ]
+   },
+   {
+    "h": "Closing the gap",
+    "p": [
+     {
+      "k": "Accountability follows public money",
+      "x": "Transparency, audit and grievance obligations should attach to the function, not to the legal form of the body performing it."
+     },
+     {
+      "k": "Contract as an accountability instrument",
+      "x": "Outcome specification, audit rights and published performance data convert a commercial document into a public one."
+     },
+     {
+      "k": "Metagovernance",
+      "x": "The state remains answerable for the system it designs even where it does not deliver — steering carries responsibility."
+     },
+     {
+      "k": "Authorising environment",
+      "x": "Moore's own answer — public value must be validated through the political process, not asserted by the manager."
+     },
+     {
+      "k": "Publish the network",
+      "x": "Citizens cannot hold to account a delivery chain they cannot see — disclosure of who does what is the first requirement."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Extend statutory transparency and grievance duties to bodies performing substantially public functions, and make outcome data a contractual obligation"
+  ],
+  "conc": "Value has become plural while answerability has stayed singular — the reform is to make accountability travel with public purpose rather than with organisational form.",
+  "flash": [
+   "Moore's strategic triangle",
+   "co-production (Ostrom)",
+   "Bovens many hands",
+   "no electoral remedy against a consortium",
+   "metagovernance retains responsibility"
+  ]
+ },
+ "pubad1-35-b1": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**Informal accountability** — media scrutiny, social audit, civil society, public opinion — deepens democracy by making administration continuously answerable, while blurring who is finally responsible for what."
+   }
+  ],
+  "body": [
+   {
+    "h": "How it strengthens democracy",
+    "p": [
+     {
+      "k": "Continuous, not episodic",
+      "x": "Elections are periodic and audit is retrospective; informal scrutiny operates daily and locally."
+     },
+     {
+      "k": "Citizen-initiated",
+      "x": "**RTI** lets any citizen trigger accountability without showing standing, inverting the older supplicant relationship."
+     },
+     {
+      "k": "Reaches where formal control cannot",
+      "x": "Social audit examines the muster roll in the village square, where no inspector goes.",
+      "ex": "**MGNREGA** Gram Sabha audits"
+     },
+     {
+      "k": "Agenda-setting",
+      "x": "Media converts individual grievance into public issue, forcing response the hierarchy would otherwise absorb."
+     }
+    ]
+   },
+   {
+    "h": "How it obscures responsibility",
+    "p": [
+     {
+      "k": "No authorisation",
+      "x": "None of these actors is elected; they can compel attention but cannot confer or withdraw a mandate."
+     },
+     {
+      "k": "Selective and unequal",
+      "x": "Well-resourced interests are heard more than diffuse ones — **Olson**'s asymmetry reproduced in scrutiny itself."
+     },
+     {
+      "k": "Sanction without process",
+      "x": "Reputational punishment can precede any finding, penalising officials without the safeguards formal proceedings require."
+     },
+     {
+      "k": "Blame diffusion",
+      "x": "Where everyone scrutinises and none decides, officials may respond to noise rather than to responsibility."
+     },
+     {
+      "k": "Defensive administration",
+      "x": "Fear of exposure encourages risk-aversion and paper-safety rather than judgement."
+     }
+    ]
+   },
+   {
+    "h": "Reconciling the two",
+    "p": [
+     {
+      "k": "Evidence in, consequence elsewhere",
+      "x": "Informal mechanisms should feed formal ones — committees, audit and courts supply the consequence they cannot."
+     },
+     {
+      "k": "Protect the honest official",
+      "x": "Recorded instructions, fixed tenure and due process are what make openness compatible with decision-making."
+     },
+     {
+      "k": "Institutionalise the informal",
+      "x": "Statutory social audit and service guarantees convert pressure into enforceable entitlement."
+     },
+     {
+      "k": "Institutionalising the informal",
+      "x": "Statutory social audit and service guarantees convert reputational pressure into an enforceable claim."
+     },
+     {
+      "k": "Media regulation caution",
+      "x": "Correcting distortion must not become control — the remedy for bad scrutiny is more, not less."
+     },
+     {
+      "k": "Digital amplification",
+      "x": "Social media widens who can scrutinise while multiplying misinformation administration must answer."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Route informal scrutiny into formal accountability — statutory social audit, time-bound action-taken reporting, and protection for officials who record reasons"
+  ],
+  "conc": "Informal accountability keeps administration visible and formal accountability keeps it answerable — democracy needs the first to be continuous and the second to be conclusive.",
+  "flash": [
+   "continuous vs episodic scrutiny",
+   "RTI removes locus standi",
+   "Olson asymmetry in who is heard",
+   "sanction without due process",
+   "evidence in, consequence in formal fora"
+  ]
+ },
+ "pubad1-49": {
+  "directive": "critically examine",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "**Riggs**'s ecological approach made administrative systems **comparable** by supplying a common analytical vocabulary — and never **identical**, because each system's environment is its own."
+   }
+  ],
+  "body": [
+   {
+    "h": "What makes them comparable",
+    "p": [
+     {
+      "k": "Common functions",
+      "x": "Every system must recruit, finance, decide, deliver and account — universal functions permit systematic comparison."
+     },
+     {
+      "k": "An analytical language",
+      "x": "Fused-prismatic-diffracted, formalism, heterogeneity and overlapping supply categories applicable across societies."
+     },
+     {
+      "k": "Structural-functional method",
+      "x": "Comparing what functions are performed, and by which structures, rather than comparing organisation charts."
+     },
+     {
+      "k": "Bureaucracy as constant",
+      "x": "**Heady**'s bureaucracy-centred comparison used the administrative system as the stable unit across regime types."
+     }
+    ]
+   },
+   {
+    "h": "Why they can never be identical",
+    "p": [
+     {
+      "k": "Ecology differs",
+      "x": "**Gaus**'s factors — people, place, technology, ideas, catastrophe, personality — vary irreducibly between societies."
+     },
+     {
+      "k": "History is path-dependent",
+      "x": "A colonial revenue inheritance produces a different administration from an indigenous developmental one, whatever the formal design."
+     },
+     {
+      "k": "Formalism",
+      "x": "Identical statutes yield different behaviour because the environment, not the rule, governs conduct."
+     },
+     {
+      "k": "Culture and legitimacy",
+      "x": "What counts as fair procedure, acceptable authority and legitimate discretion is culturally constituted."
+     },
+     {
+      "k": "Transplant failure",
+      "x": "This is why imported reforms produce façades — form travels, function does not.",
+      "ex": "Ombudsman, ZBB and performance pay adopted and hollowed"
+     }
+    ]
+   },
+   {
+    "h": "Critical assessment",
+    "p": [
+     {
+      "k": "Ethnocentric endpoint",
+      "x": "Treating the 'diffracted' Western system as destination smuggles a normative hierarchy into a descriptive scheme."
+     },
+     {
+      "k": "Static and pessimistic",
+      "x": "The model names the gap without offering a theory of how a society moves across it."
+     },
+     {
+      "k": "Operational difficulty",
+      "x": "Its categories resist measurement, limiting empirical testing.",
+      "ex": "Criticism by Valsan and Arora"
+     },
+     {
+      "k": "Enduring value",
+      "x": "It ended context-free 'best practice' — the lasting methodological gain of comparative administration."
+     },
+     {
+      "k": "Practical use",
+      "x": "Comparison is most useful for identifying mechanisms and failure modes, least useful for ranking systems."
+     },
+     {
+      "k": "India's position",
+      "x": "India both borrows and exports administrative models, so it needs the diagnostic and the caution equally."
+     },
+     {
+      "k": "Method caution",
+      "x": "Comparison must control for context or it merely ranks unlike systems on a single scale."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Comparison should identify transferable principles and locally necessary adaptations separately — borrow the function, design the form"
+  ],
+  "conc": "Administrative systems are comparable because their tasks are shared and never identical because their societies are not — the discipline's contribution is to make that distinction analysable.",
+  "flash": [
+   "universal functions permit comparison",
+   "Gaus's ecology differs irreducibly",
+   "formalism explains transplant failure",
+   "Heady bureaucracy-centred method",
+   "ethnocentric, static critiques"
+  ]
+ },
+ "pubad1-51": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**Comparative Public Administration** was declared moribund in the 1970s when its funding and paradigm collapsed; globalisation, governance indices and policy transfer have given it a second life."
+   }
+  ],
+  "body": [
+   {
+    "h": "Why it declined",
+    "p": [
+     {
+      "k": "Funding withdrawal",
+      "x": "The **Comparative Administration Group** lost Ford Foundation support as development optimism faded."
+     },
+     {
+      "k": "Theoretical exhaustion",
+      "x": "Riggs's ideal types proved hard to operationalise and offered no theory of transition."
+     },
+     {
+      "k": "Development disillusion",
+      "x": "The failure of imported models discredited the technical-assistance enterprise CPA had served."
+     },
+     {
+      "k": "Method critique",
+      "x": "Charges of ethnocentrism, descriptive excess and weak empirical grounding accumulated."
+     }
+    ]
+   },
+   {
+    "h": "What revived it",
+    "p": [
+     {
+      "k": "Globalisation",
+      "x": "Trade, capital and migration made administrative systems interdependent — regulatory decisions in one state bind others."
+     },
+     {
+      "k": "Governance indices",
+      "x": "Worldwide Governance Indicators, **Ease of Doing Business** and corruption indices made cross-national comparison consequential for investment and aid."
+     },
+     {
+      "k": "Policy transfer",
+      "x": "NPM, then digital government, then **DPI** spread across countries, making the study of diffusion central."
+     },
+     {
+      "k": "Global public goods",
+      "x": "Pandemics, climate and cyber security require comparing and coordinating administrative capacity across borders."
+     },
+     {
+      "k": "New method",
+      "x": "Large-N quantitative comparison and institutional political economy replaced ideal-type description."
+     }
+    ]
+   },
+   {
+    "h": "Its contemporary character and cautions",
+    "p": [
+     {
+      "k": "From structures to institutions",
+      "x": "Comparison now targets institutional quality, state capacity andpolicy outcomes rather than organisation charts."
+     },
+     {
+      "k": "India's stake",
+      "x": "India both exports administrative innovation and is ranked by others — **DPI** and **Aadhaar** are studied as models."
+     },
+     {
+      "k": "The old warning holds",
+      "x": "Indices flatten context; a high rank on a composite index can conceal exactly the formalism Riggs identified."
+     },
+     {
+      "k": "Ranking as governance",
+      "x": "Comparison has become an instrument of influence — states change behaviour to move on indices, for better and worse."
+     },
+     {
+      "k": "Capacity comparison",
+      "x": "State capacity has become the central comparative variable, displacing structure as the object of study."
+     },
+     {
+      "k": "Diffusion mechanisms",
+      "x": "Policy travels through emulation, coercion by donors, and competition for investment — each producing different fidelity."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Use comparison to identify mechanisms rather than to rank — ask why an institution works where it does before recommending it elsewhere"
+  ],
+  "conc": "CPA revived because the world became comparable in practice before it did in theory — its task now is to keep context in view while the indices flatten it.",
+  "flash": [
+   "CAG lost Ford funding; ideal types unusable",
+   "globalisation + indices revive it",
+   "policy transfer: NPM → digital → DPI",
+   "large-N institutional method",
+   "indices flatten context"
+  ]
+ },
+ "pubad1-51-b0": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Comparative administration has moved from the **ecological** approach, which explained administration by its social environment, to the **political-economy** approach, which explains it by interests, institutions and power."
+   }
+  ],
+  "body": [
+   {
+    "h": "The two approaches",
+    "p": [
+     {
+      "k": "Ecological",
+      "x": "**Gaus** and **Riggs** — administration is shaped by its people, place, technology, ideas and social structure."
+     },
+     {
+      "k": "Its contribution",
+      "x": "It ended ethnocentric prescription and explained why identical reforms produce different results."
+     },
+     {
+      "k": "Political economy",
+      "x": "Explains administrative form through the distribution of power, property and interest — who gains from an institution persisting."
+     },
+     {
+      "k": "Its instruments",
+      "x": "Rational choice, principal-agent analysis, transaction costs, and new institutionalism."
+     }
+    ]
+   },
+   {
+    "h": "Implications for the discipline",
+    "p": [
+     {
+      "k": "From description to explanation",
+      "x": "Ecology described a gap; political economy asks whose interest the gap serves — a causal rather than a contextual account."
+     },
+     {
+      "k": "Reform becomes political",
+      "x": "If institutions persist because they benefit someone, reform is a question of coalitions rather than of design."
+     },
+     {
+      "k": "Corruption re-analysed",
+      "x": "Read as an equilibrium sustained by incentives rather than as a cultural residue or moral failing."
+     },
+     {
+      "k": "State capacity as variable",
+      "x": "Comparison now measures capacity — extractive, regulatory and delivery — and asks what builds it.",
+      "ex": "**Evans**'s embedded autonomy; developmental-state literature"
+     },
+     {
+      "k": "Method shift",
+      "x": "Testable propositions and cross-national data replace ideal-type taxonomy."
+     }
+    ]
+   },
+   {
+    "h": "What is lost and retained",
+    "p": [
+     {
+      "k": "Risk of thin context",
+      "x": "Political economy can reduce culture and history to preferences, losing the ecological insight it replaced."
+     },
+     {
+      "k": "Retained warning",
+      "x": "Formalism remains the standing caution — incentives, not statutes, determine behaviour."
+     },
+     {
+      "k": "Synthesis",
+      "x": "The strongest contemporary work uses both — institutions explained by interests, embedded in historically specific environments."
+     },
+     {
+      "k": "Historical institutionalism",
+      "x": "Path dependence and critical junctures explain why administrative forms persist beyond their usefulness."
+     },
+     {
+      "k": "Measurement gain",
+      "x": "Political economy produced testable propositions where the ecological approach offered typologies."
+     },
+     {
+      "k": "Administrative implication",
+      "x": "Reform design must map who loses from a change, not only what the change requires."
+     },
+     {
+      "k": "Corruption research",
+      "x": "Political-economy analysis reframed anti-corruption from moral exhortation to incentive design."
+     },
+     {
+      "k": "Retained ecology",
+      "x": "The best work embeds interest analysis in historically specific environments."
+     }
+    ]
+   }
+  ],
+  "conc": "The discipline moved from asking what shapes administration to asking whose interest it serves — a gain in explanatory power that must not cost it the ecological caution about context.",
+  "flash": [
+   "Gaus/Riggs ecology → political economy",
+   "principal-agent, transaction cost, new institutionalism",
+   "corruption as equilibrium, not culture",
+   "state capacity as the variable",
+   "synthesis: interests within context"
+  ]
+ },
+ "pubad1-52": {
+  "directive": "critically examine",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "**Ferrel Heady**'s bureaucracy-centred comparison made the administrative system the constant unit of analysis — with the result that CPA became, in practice, the comparative study of bureaucracies."
+   }
+  ],
+  "body": [
+   {
+    "h": "Why bureaucracy became the unit",
+    "p": [
+     {
+      "k": "A stable comparator",
+      "x": "Regimes and constitutions vary enormously; a permanent administrative apparatus exists in nearly every state."
+     },
+     {
+      "k": "Heady's typology",
+      "x": "Classical, bureaucratic-elite, polyarchal, dominant-party and military systems, each with a characteristic bureaucratic role."
+     },
+     {
+      "k": "Development link",
+      "x": "Bureaucracy was seen as the instrument of modernisation, so studying it was studying development capacity."
+     },
+     {
+      "k": "Weberian foundation",
+      "x": "Weber's ideal type supplied the yardstick against which any national bureaucracy could be measured."
+     }
+    ]
+   },
+   {
+    "h": "What that focus captured",
+    "p": [
+     {
+      "k": "Political role of bureaucracy",
+      "x": "It revealed how far administrative elites shape policy in states with weak political institutions."
+     },
+     {
+      "k": "Capacity comparison",
+      "x": "Recruitment, tenure, professionalism and corruption became comparable dimensions."
+     },
+     {
+      "k": "Regime interaction",
+      "x": "Heady's typology showed the same bureaucratic form behaving very differently under different regimes."
+     }
+    ]
+   },
+   {
+    "h": "What it missed",
+    "p": [
+     {
+      "k": "Non-bureaucratic delivery",
+      "x": "Markets, networks, cooperatives and civil society deliver public purposes the bureaucracy-centred lens does not see."
+     },
+     {
+      "k": "Sub-national and local",
+      "x": "Comparison at the national level obscures the local government where most citizens meet the state."
+     },
+     {
+      "k": "Citizens and outcomes",
+      "x": "A focus on the apparatus measures inputs and structure rather than what people actually receive."
+     },
+     {
+      "k": "Ethnocentric residue",
+      "x": "Weber's ideal type as yardstick reproduces the assumption that Western bureaucratisation is the standard."
+     },
+     {
+      "k": "Governance turn",
+      "x": "Contemporary comparison studies institutional quality and state capacity, of which bureaucracy is one component."
+     },
+     {
+      "k": "Regulatory bodies excluded",
+      "x": "Independent regulators exercising public authority sit outside a bureaucracy-centred frame."
+     },
+     {
+      "k": "Contemporary synthesis",
+      "x": "The strongest work now compares governance systems in which bureaucracy is one institution among several."
+     },
+     {
+      "k": "Citizen perspective",
+      "x": "Comparison increasingly measures what citizens receive rather than how the apparatus is arranged."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Widen the unit from the bureaucracy to the governance system — including local government, regulators and non-state delivery — while retaining bureaucratic capacity as a central variable"
+  ],
+  "conc": "Heady gave the field a workable common object at the cost of a partial one — bureaucracy remains the core of administrative comparison but can no longer be the whole of it.",
+  "flash": [
+   "Heady's five-fold regime typology",
+   "bureaucracy as the stable comparator",
+   "Weberian yardstick",
+   "misses networks, local, outcomes",
+   "governance turn widens the unit"
+  ]
+ },
+ "pubad1-57-b0": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "The **strong state versus free market** argument has been superseded by **state capacity** — the question is no longer how much state but how capable a state."
+   }
+  ],
+  "body": [
+   {
+    "h": "Why the old debate dissolved",
+    "p": [
+     {
+      "k": "Both need capacity",
+      "x": "A functioning market requires contract enforcement, regulation and property rights — all state capabilities."
+     },
+     {
+      "k": "Empirical refutation",
+      "x": "The developmental states grew fastest with both an active state and open markets, defeating the dichotomy.",
+      "ex": "Korea, Taiwan; **Wade**'s governed market"
+     },
+     {
+      "k": "Failure of both extremes",
+      "x": "Command economies failed on information and incentive; unregulated liberalisation produced crises and capture."
+     },
+     {
+      "k": "Size is the wrong metric",
+      "x": "Small effective states outperform large ineffective ones; expenditure share measures nothing about capability."
+     }
+    ]
+   },
+   {
+    "h": "What state capacity means",
+    "p": [
+     {
+      "k": "Its dimensions",
+      "x": "Extractive capacity to tax, regulatory capacity to enforce, delivery capacity to implement, and coordination capacity across agencies."
+     },
+     {
+      "k": "Embedded autonomy",
+      "x": "**Evans** — insulated enough to resist capture, connected enough to know what to do."
+     },
+     {
+      "k": "Institutional quality",
+      "x": "Rule of law, contract enforcement and bureaucratic professionalism explain growth differences better than policy choice alone.",
+      "ex": "**Fukuyama** on the state-capacity dimension"
+     },
+     {
+      "k": "Indian evidence",
+      "x": "Identical policies produce very different outcomes across states — the variance is capacity, not design."
+     }
+    ]
+   },
+   {
+    "h": "Implications for administration",
+    "p": [
+     {
+      "k": "Reform target shifts",
+      "x": "From arguing about the state's size to building its recruitment, training, data and enforcement capability."
+     },
+     {
+      "k": "Minimum government, maximum governance",
+      "x": "Read correctly as fewer functions performed better, not simply as a smaller state."
+     },
+     {
+      "k": "Regulatory capacity is the frontier",
+      "x": "Every privatisation and PPP transfers a delivery task and creates a regulatory one."
+     }
+    ]
+   }
+  ],
+  "conc": "The state's proper size is a consequence, not a premise — what a state should do depends on what it is capable of doing well.",
+  "flash": [
+   "markets need state capacity to exist",
+   "governed market (Wade); Korea/Taiwan",
+   "extractive-regulatory-delivery-coordination",
+   "Evans embedded autonomy; Fukuyama",
+   "privatisation creates regulatory tasks"
+  ]
+ },
+ "pubad1-59-b0": {
+  "directive": "comment",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "**Sen**'s framing makes women's empowerment both an **end** — an expansion of substantive freedom valuable in itself — and a **means**, because women's agency improves outcomes for everyone."
+   }
+  ],
+  "body": [
+   {
+    "h": "Empowerment as an end",
+    "p": [
+     {
+      "k": "Intrinsic value",
+      "x": "Freedom to decide about work, marriage, fertility and mobility is constitutive of development, not instrumental to it."
+     },
+     {
+      "k": "Constitutional mandate",
+      "x": "**Articles 14, 15(3) and 39** make substantive gender equality an obligation rather than a development strategy."
+     },
+     {
+      "k": "Measured as capability",
+      "x": "**GDI** and **GII** measure what women can actually do and be, not merely what is provided to them."
+     }
+    ]
+   },
+   {
+    "h": "Empowerment as a means",
+    "p": [
+     {
+      "k": "Child outcomes",
+      "x": "Income in women's hands raises child nutrition, health and schooling more than equivalent income to men."
+     },
+     {
+      "k": "Fertility transition",
+      "x": "Female education and autonomy drive fertility decline far more reliably than any coercive measure."
+     },
+     {
+      "k": "Governance quality",
+      "x": "Reservation in panchayats shifted public-goods provision toward drinking water and children's needs."
+     }
+    ]
+   },
+   {
+    "h": "The administrative caution",
+    "p": [
+     {
+      "k": "Instrumentalisation risk",
+      "x": "Valuing empowerment only for its returns makes it contingent — the intrinsic claim must lead."
+     },
+     {
+      "k": "Care burden",
+      "x": "Programmes that add paid work without reducing unpaid care add a second shift rather than agency.",
+      "ex": "**Palna**; care infrastructure"
+     }
+    ]
+   }
+  ],
+  "conc": "Women's empowerment justifies itself, and repays the investment besides — administration must pursue it as a right and not merely as a multiplier.",
+  "flash": [
+   "Sen: freedom as end and means",
+   "Arts 14, 15(3), 39",
+   "GDI/GII capability measures",
+   "panchayat reservation shifts public goods",
+   "instrumentalisation risk"
+  ]
+ },
+ "pubad1-60-b1": {
+  "directive": "comment",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**Development administration** — the state administering development — has given way to the **administration of development**, in which the state enables, regulates and coordinates development others largely deliver."
+   }
+  ],
+  "body": [
+   {
+    "h": "The shift",
+    "p": [
+     {
+      "k": "The older model",
+      "x": "A developmental bureaucracy planning, producing and delivering directly through public enterprise and programme machinery."
+     },
+     {
+      "k": "What changed",
+      "x": "Liberalisation, plural delivery and the rise of markets and civil society moved the state from producer to enabler."
+     },
+     {
+      "k": "New functions",
+      "x": "Regulation, contracting, standard-setting, financing and coordination replace direct production."
+     },
+     {
+      "k": "Participation added",
+      "x": "Development is now expected to be chosen locally rather than delivered nationally.",
+      "ex": "**73rd/74th Amendments**; **PESA**; **FRA**"
+     }
+    ]
+   },
+   {
+    "h": "What the shift demands",
+    "p": [
+     {
+      "k": "Regulatory capacity",
+      "x": "Every function transferred creates a supervisory one — the state needs different, not fewer, capabilities."
+     },
+     {
+      "k": "Contracting capability",
+      "x": "Writing, monitoring and enforcing outcome-based contracts is now a core administrative skill."
+     },
+     {
+      "k": "Coordination",
+      "x": "Convergence across departments and tiers replaces vertical programme delivery.",
+      "ex": "**Aspirational Districts**"
+     },
+     {
+      "k": "The risk",
+      "x": "Where regulatory capacity lags, enabling becomes abdication and development is administered by whoever has power locally."
+     }
+    ]
+   }
+  ],
+  "conc": "The state has moved from doing development to governing it — a shift that reduces its footprint while raising, not lowering, the capability it must possess.",
+  "flash": [
+   "producer → enabler",
+   "regulation, contracting, coordination",
+   "73rd/74th, PESA, FRA participation",
+   "every transfer creates a supervisory task",
+   "enabling without capacity = abdication"
+  ]
+ },
+ "pubad1-67-b0": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Employee associations give the civil servant **voice** and protect fairness in service matters — while raising real questions about neutrality, discipline and the continuity of essential services."
+   }
+  ],
+  "body": [
+   {
+    "h": "The case for association",
+    "p": [
+     {
+      "k": "Voice and fairness",
+      "x": "Collective representation corrects the asymmetry between an individual official and the state as employer."
+     },
+     {
+      "k": "Constitutional basis",
+      "x": "**Article 19(1)(c)** guarantees the right to form associations, subject to reasonable restrictions in the public interest."
+     },
+     {
+      "k": "Joint consultative machinery",
+      "x": "The **JCM** and compulsory arbitration scheme institutionalise negotiation on pay and service conditions."
+     },
+     {
+      "k": "Administrative value",
+      "x": "Structured negotiation surfaces grievances early and reduces the arbitrary exercise of personnel power."
+     },
+     {
+      "k": "Morale effect",
+      "x": "Perceived fairness in service matters is a principal determinant of morale, and therefore of retention."
+     }
+    ]
+   },
+   {
+    "h": "The complications",
+    "p": [
+     {
+      "k": "Neutrality",
+      "x": "Association with political parties or federations compromises the impartiality on which the service's legitimacy rests."
+     },
+     {
+      "k": "Discipline",
+      "x": "Collective pressure can obstruct disciplinary proceedings and shield poor performance behind service solidarity."
+     },
+     {
+      "k": "Essential services",
+      "x": "Withdrawal of labour by police, health or transport staff imposes costs on citizens who have no alternative supplier.",
+      "ex": "Restrictions under essential-services legislation"
+     },
+     {
+      "k": "No right to strike",
+      "x": "Courts have consistently held that government servants have no fundamental or legal right to strike.",
+      "ex": "**T.K. Rangarajan (2003)**"
+     },
+     {
+      "k": "Recognition control",
+      "x": "Recognition rules conditioning association on political non-affiliation are the state's principal regulatory lever."
+     }
+    ]
+   },
+   {
+    "h": "Reconciling them",
+    "p": [
+     {
+      "k": "Voice without strike",
+      "x": "Effective negotiation and arbitration machinery is the legitimate substitute for the withheld right to strike."
+     },
+     {
+      "k": "Grievance redress",
+      "x": "Prompt, credible individual redress reduces the pressure that turns grievance into collective action."
+     },
+     {
+      "k": "Transparent personnel decisions",
+      "x": "Rule-bound transfer and promotion remove the arbitrariness associations exist to resist."
+     },
+     {
+      "k": "Comparative practice",
+      "x": "Most democracies permit association while restricting or prohibiting strikes in essential public services."
+     },
+     {
+      "k": "Indian machinery",
+      "x": "Departmental councils and the National Council of the JCM provide the negotiating structure."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Strengthen the **JCM** and arbitration machinery and make personnel decisions rule-bound — voice is safest for neutrality when it has an institutional channel"
+  ],
+  "conc": "Associations are the price and the protection of a career service — the state's task is to give voice a forum, so that fairness does not have to be won by disruption.",
+  "flash": [
+   "Art 19(1)(c) with restrictions",
+   "JCM + compulsory arbitration",
+   "T.K. Rangarajan 2003: no right to strike",
+   "essential services constraint",
+   "recognition rules as the lever"
+  ]
+ },
+ "pubad1-70-b0": {
+  "directive": "critically examine",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "**Lindblom**'s **incrementalism** describes how policy is actually made and, precisely because it takes the base as given, defends the distribution the base encodes."
+   }
+  ],
+  "body": [
+   {
+    "h": "Why it is descriptively accurate",
+    "p": [
+     {
+      "k": "Cognitive limits",
+      "x": "Comprehensive rational analysis exceeds human and organisational capacity — Simon's bounded rationality applied to policy."
+     },
+     {
+      "k": "Partisan mutual adjustment",
+      "x": "Agreement on the next small step is achievable where agreement on ends is not — plural systems require it."
+     },
+     {
+      "k": "Error correction",
+      "x": "Small, reversible steps limit the damage of any single mistake; serial remedial adjustment is a rational method under uncertainty."
+     },
+     {
+      "k": "Empirical support",
+      "x": "**Wildavsky** showed budgets are made base-plus-increment, confirming the description in the most consequential policy arena."
+     }
+    ]
+   },
+   {
+    "h": "Why it is normatively conservative",
+    "p": [
+     {
+      "k": "The base is never examined",
+      "x": "Historic allocations persist long after their justification, so past power is carried into present policy unquestioned."
+     },
+     {
+      "k": "Advantage to the organised",
+      "x": "Bargaining rewards those already represented; the unorganised have no base to defend or increment to claim.",
+      "ex": "**Olson**; Schattschneider's upper-class accent"
+     },
+     {
+      "k": "Unsuited to structural injustice",
+      "x": "Deprivation rooted in structure cannot be remedied by marginal adjustment to the arrangements that produced it."
+     },
+     {
+      "k": "Crisis and novelty",
+      "x": "Climate adaptation, pandemics and technological disruption have no incremental base to build from — **Dror**'s central objection."
+     },
+     {
+      "k": "Path dependence",
+      "x": "Successive small steps lock in a direction nobody chose; drift substitutes for decision."
+     }
+    ]
+   },
+   {
+    "h": "The resolution",
+    "p": [
+     {
+      "k": "Mixed scanning",
+      "x": "**Etzioni** — broad periodic review of fundamentals with incremental adjustment in between."
+     },
+     {
+      "k": "Punctuated equilibrium",
+      "x": "**Baumgartner and Jones** show long incremental stability broken by rapid shifts when attention and venue change."
+     },
+     {
+      "k": "Indian evidence",
+      "x": "Annual budgeting and scheme continuation are incremental; **1991**, **GST** and the **IBC** are the punctuations."
+     },
+     {
+      "k": "Constitutional corrective",
+      "x": "Rights and Directive Principles place some claims outside incremental bargaining altogether.",
+      "ex": "**MGNREGA**; **NFSA**; **RTE**"
+     },
+     {
+      "k": "Evaluation capacity",
+      "x": "Periodic fundamental review is only possible where independent evaluation exists to inform it."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Adopt mixed scanning — periodic zero-base review of the base on a rolling cycle, incremental adjustment in between, supported by real evaluation capacity"
+  ],
+  "conc": "Incrementalism is a rational strategy under uncertainty and a poor guide where injustice is structural — good governance needs the increment and the occasional deliberate leap.",
+  "flash": [
+   "successive limited comparisons",
+   "partisan mutual adjustment",
+   "base encodes past power",
+   "Dror: unsuited to crisis and novelty",
+   "Etzioni mixed scanning; punctuations"
+  ]
+ },
+ "pubad1-78-b0": {
+  "directive": "explain",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "E-governance matures through four stages — **presence, interaction, transaction and transformation** — of which only the last changes how government actually works."
+   }
+  ],
+  "body": [
+   {
+    "h": "The four stages",
+    "p": [
+     {
+      "k": "Presence",
+      "x": "Information published online — departmental websites, forms, circulars. One-way and passive."
+     },
+     {
+      "k": "Interaction",
+      "x": "Two-way communication — downloadable forms, grievance lodging, queries answered.",
+      "ex": "**CPGRAMS**"
+     },
+     {
+      "k": "Transaction",
+      "x": "The service is completed end-to-end online, with payment and authenticated identity.",
+      "ex": "Passport Seva; income-tax e-filing; **DBT**"
+     },
+     {
+      "k": "Transformation",
+      "x": "Processes are re-engineered and departments integrated around the citizen rather than digitised as they stand.",
+      "ex": "**DigiLocker**; **UPI**; **AgriStack**"
+     }
+    ]
+   },
+   {
+    "h": "Why most systems stall before transformation",
+    "p": [
+     {
+      "k": "Digitising a bad process",
+      "x": "Automation of an unreformed procedure preserves its delays — **O&M** and process re-engineering must precede digitisation."
+     },
+     {
+      "k": "Departmental silos",
+      "x": "Transformation requires data sharing and joint workflow across departments that guard their systems."
+     },
+     {
+      "k": "Legal and standards gap",
+      "x": "Interoperability needs common data standards and statutory backing for digital records."
+     },
+     {
+      "k": "Capacity and change management",
+      "x": "Staff resistance and skill gaps stall adoption more often than technology fails."
+     },
+     {
+      "k": "The Indian leap",
+      "x": "**DPI** attempts transformation directly — shared identity, payment and data-exchange rails on which services are rebuilt."
+     }
+    ]
+   },
+   {
+    "h": "What transformation must not cost",
+    "p": [
+     {
+      "k": "Exclusion",
+      "x": "Authentication failure, connectivity and literacy gaps deny entitlements to those most dependent on them — assisted access is a design requirement."
+     },
+     {
+      "k": "Privacy and function creep",
+      "x": "Integrated data raises the stakes of misuse; **DPDP** consent architecture must actually bind the state."
+     },
+     {
+      "k": "Accountability",
+      "x": "Automated decisions still require reasons, appeal and a named responsible officer."
+     },
+     {
+      "k": "Federal dimension",
+      "x": "Most citizen-facing services are State-delivered, so maturity depends on State systems, not central portals."
+     },
+     {
+      "k": "Measuring maturity",
+      "x": "Maturity should be judged by services completed end-to-end, not by portals launched."
+     },
+     {
+      "k": "Sustaining it",
+      "x": "Continuous funding for maintenance and upgrade, absent from most project-mode digital initiatives."
+     },
+     {
+      "k": "Evaluation",
+      "x": "Maturity models describe stages but not value — outcome measurement must accompany them."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Re-engineer before digitising, mandate assisted access and grievance redress, and treat interoperability standards as public infrastructure"
+  ],
+  "conc": "Maturity is measured not by services put online but by processes redesigned around the citizen — digitisation without transformation delivers the old state at a faster speed.",
+  "flash": [
+   "presence-interaction-transaction-transformation",
+   "re-engineer before digitising",
+   "silos block integration",
+   "DPI attempts transformation directly",
+   "assisted access + DPDP consent"
+  ]
+ },
+ "pubad1-83-b0": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Successive budgetary reforms — performance budgeting, then zero-base, then outcome budgeting — improved **reporting** far more than they improved **allocation**."
+   }
+  ],
+  "body": [
+   {
+    "h": "The sequence of reform",
+    "p": [
+     {
+      "k": "Performance budgeting",
+      "x": "Introduced in India from the late 1960s, relating expenditure to physical targets and programme heads."
+     },
+     {
+      "k": "Zero-base budgeting",
+      "x": "Adopted in the late 1980s to force justification from zero; it lapsed into a documentation exercise."
+     },
+     {
+      "k": "Outcome budgeting",
+      "x": "From 2005-06, requiring departments to state intended outcomes and monitorable indicators."
+     },
+     {
+      "k": "Classification reform",
+      "x": "Merging the plan and non-plan distinction removed a long-standing distortion in how expenditure was judged."
+     }
+    ]
+   },
+   {
+    "h": "Why reporting improved but allocation did not",
+    "p": [
+     {
+      "k": "Documents, not decisions",
+      "x": "Outcome statements are produced alongside the budget rather than used to determine it — allocation remains incremental."
+     },
+     {
+      "k": "Indicator quality",
+      "x": "Outputs are reported as outcomes; attribution to the scheme is rarely established."
+     },
+     {
+      "k": "Data and evaluation capacity",
+      "x": "Reliable, timely, disaggregated data is missing precisely where allocation choices are hardest."
+     },
+     {
+      "k": "Wildavsky's explanation",
+      "x": "Budgeting is a political bargaining process; techniques that ignore that function are complied with formally and ignored substantively."
+     },
+     {
+      "k": "Riggsian formalism",
+      "x": "Robust prescription against weak realisation — the recurring Indian pattern in budget reform."
+     }
+    ]
+   },
+   {
+    "h": "What would make outcomes bind",
+    "p": [
+     {
+      "k": "Link evaluation to allocation",
+      "x": "Independent evaluation findings must have a defined consequence for the next cycle's allocation.",
+      "ex": "**DMEO**"
+     },
+     {
+      "k": "Rolling base review",
+      "x": "Zero-base review of a subset of schemes each year captures ZBB's benefit without its paperwork."
+     },
+     {
+      "k": "Legislative use",
+      "x": "Outcome statements are useful only if committees actually examine them — scrutiny creates the demand for quality."
+     }
+    ]
+   }
+  ],
+  "wf": [
+   "Tie a rolling programme review to the allocation decision, and give the financial committees the analytical support to use outcome data"
+  ],
+  "conc": "India has learnt to report on outcomes without learning to budget by them — the reform will be real when evidence changes an allocation.",
+  "flash": [
+   "performance → ZBB → outcome budgeting",
+   "plan/non-plan merger",
+   "outputs reported as outcomes",
+   "Wildavsky: technique vs bargaining",
+   "link evaluation to next allocation"
+  ]
  }
 }

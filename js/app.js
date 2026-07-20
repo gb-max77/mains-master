@@ -450,16 +450,39 @@ async function renderNotes() {
     const btn = el('button', 'paper');
     btn.innerHTML = `<span class="ic">${b.icon}</span>
       <span class="nm"><b>${esc(b.title)}</b>
-      <small>${b.chapters.length} chapters · ${(words / 1000).toFixed(0)}k words</small></span>
+      <small>📄 full PDF · ${b.chapters.length} chapters · ${(words / 1000).toFixed(0)}k words</small></span>
       <span class="arw">›</span>`;
     btn.onclick = () => go(`#/n/${b.id}`);
     L.append(btn);
   }
 }
 
+// The book opens on the original PDF — continuous scroll in the browser's own
+// viewer — with the text extraction as the alternative view.
+let bookSrc = 'pdf';
+
+function paintBookSrc(b) {
+  $('#book-pdf').hidden = bookSrc !== 'pdf';
+  $('#book-chapters').hidden = bookSrc !== 'text';
+  for (const t of document.querySelectorAll('.srcmode')) t.classList.toggle('active', t.dataset.src === bookSrc);
+  const P = $('#book-pdf');
+  if (bookSrc === 'pdf' && !P.dataset.for) {
+    P.dataset.for = b.id;
+    P.innerHTML = `<iframe src="${b.pdf}#view=FitH" title="${esc(b.title)}"></iframe>`;
+  }
+}
+
 async function renderBook(id) {
   const b = await loadBook(id);
   $('#book-title').textContent = `${b.icon} ${b.title}`;
+  const P = $('#book-pdf');
+  if (P.dataset.for !== b.id) { P.dataset.for = ''; P.innerHTML = ''; }
+  $('#book-dl').href = b.pdf;
+  $('#book-dl').setAttribute('download', b.title + '.pdf');
+  paintBookSrc(b);
+  document.querySelectorAll('.srcmode').forEach(t => t.onclick = () => {
+    bookSrc = t.dataset.src; paintBookSrc(b);
+  });
   const L = $('#book-chapters'); L.innerHTML = '';
   let part = undefined;
   b.chapters.forEach((c, i) => {
@@ -488,6 +511,9 @@ async function renderChapter(id, i) {
   const O = $('#ch-outline'); O.innerHTML = '';
   if (c.subs?.length) O.innerHTML = `<h3>In this chapter</h3><div class="subs">` +
     c.subs.map(x => `<span>${esc(x)}</span>`).join('') + `</div>`;
+  const J = $('#ch-pdf');
+  if (b.pdf && c.p) { J.hidden = false; J.href = `${b.pdf}#page=${c.p}`; J.target = '_blank'; }
+  else J.hidden = true;
   $('#ch-text').textContent = c.text;
   window.scrollTo(0, 0);
 }

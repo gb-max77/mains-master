@@ -62,7 +62,13 @@
 
 <main id="view-book" class="view">
   <h1 id="book-title"></h1>
-  <div id="book-chapters"></div>
+  <div class="srcbar">
+    <button class="srcmode active" data-src="pdf">📄 Original PDF</button>
+    <button class="srcmode" data-src="text">📝 Extracted chapters</button>
+    <a class="srcdl" id="book-dl" download>⤓ Download</a>
+  </div>
+  <div id="book-pdf"></div>
+  <div id="book-chapters" hidden></div>
 </main>
 
 <main id="view-chapter" class="view">
@@ -72,6 +78,7 @@
   </div>
   <div id="ch-pyq"></div>
   <div id="ch-outline"></div>
+  <a class="pdfjump" id="ch-pdf">📄 Open this chapter in the original PDF ↗</a>
   <pre id="ch-text"></pre>
 </main>
 

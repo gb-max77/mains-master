@@ -15,15 +15,22 @@ DEST_DIR = os.path.join(ROOT, 'data', 'notes')
 
 # which paper each book belongs to, and how it should be labelled in the UI
 BOOKS = [
-    ("VR_Mains_Smasher_Ancient_and_Medieval_History_Art_and_Culture_2026.pdf", "gs1", "Ancient & Medieval History, Art & Culture", "🏛"),
-    ("VR_Mains_Smasher_Modern_History_2026.pdf",        "gs1", "Modern History",      "📜"),
-    ("World_History_Mains_Smasher_2026.pdf",            "gs1", "World History",       "🌍"),
-    ("VR_Mains_Smasher_Geography_2026_updated.pdf",     "gs1", "Geography",           "🗺"),
-    ("VR_Mains_Smasher_Indian_Society_2026.pdf",        "gs1", "Indian Society",      "👥"),
-    ("VR_Mains_Smasher_Polity_2026.pdf",                "gs2", "Polity & Governance", "⚖️"),
-    ("International_Relations_Mains_Smasher_2026.pdf",  "gs2", "International Relations", "🤝"),
-    ("VR_Mains_Smasher_Agriculture_2026.pdf",           "gs3", "Agriculture",         "🌾"),
-    ("VR_Disaster_Management_2026_Merge_file.pdf",      "gs3", "Disaster Management", "🌪"),
+    ("1VR_Mains_Smasher_Ancient_and_Medieval_History_Art_and_Culture_2026.pdf", "gs1", "Ancient & Medieval History, Art & Culture", "🏛"),
+    ("1VR_Mains_Smasher_Modern_History_2026.pdf",       "gs1", "Modern History",          "📜"),
+    ("1VR_Mains_Smasher_Post_independence_2025.pdf",    "gs1", "Post-Independence India",  "🇮🇳"),
+    ("1World_History_Mains_Smasher_2026.pdf",           "gs1", "World History",           "🌍"),
+    ("1VR_Mains_Smasher_Geography_2026_updated.pdf",    "gs1", "Geography",               "🗺"),
+    ("1VR_Mains_Smasher_Indian_Society_2026.pdf",       "gs1", "Indian Society",          "👥"),
+    ("2VR_Mains_Smasher_Polity_2026.pdf",               "gs2", "Polity & Constitution",   "⚖️"),
+    ("2-25VR_Mains_Smasher_Governance_2025.pdf",        "gs2", "Governance",              "🏢"),
+    ("2-25VR_Mains_Smasher_Social_Justice_2025.pdf",    "gs2", "Social Justice",          "🤲"),
+    ("2International_Relations_Mains_Smasher_2026.pdf", "gs2", "International Relations",  "🤝"),
+    ("3-25VR_Mains_Smasher_Indian_Economy_2025.pdf",    "gs3", "Indian Economy",          "📈"),
+    ("3VR_Mains_Smasher_Agriculture_2026.pdf",          "gs3", "Agriculture",             "🌾"),
+    ("3-25VR_Mains_Smasher_Science__Technology_2025.pdf","gs3", "Science & Technology",   "🔬"),
+    ("3-25VR_Mains_Smasher_Environment__Ecology_2025.pdf","gs3","Environment & Ecology",  "🌱"),
+    ("3VR_Disaster_Management_2026_Merge_file.pdf",     "gs3", "Disaster Management",     "🌪"),
+    ("3-25VR_Mains_Smasher_Internal_Security_2025.pdf", "gs3", "Internal Security",       "🛡"),
 ]
 
 # "  3      Natural Hazards"  — fallback heading when a book has no usable TOC
@@ -170,9 +177,9 @@ def build_book(pdf, paper, title, icon):
         c['subs'] = subs[:28]
         c['pyq'] = pyqs_of(c['text'])
 
-    return {'id': re.sub(r'\W+', '-', title.lower()).strip('-'),
-            'paper': paper, 'title': title, 'icon': icon,
-            'src': pdf, 'chapters': out}
+    bid = re.sub(r'\W+', '-', title.lower()).strip('-')
+    return {'id': bid, 'paper': paper, 'title': title, 'icon': icon,
+            'src': pdf, 'pdf': f'data/pdf/{bid}.pdf', 'chapters': out}
 
 
 def main():
@@ -185,7 +192,7 @@ def main():
         print(f"  {paper}  {title:42s} {len(b['chapters']):3d} ch · {words:6d} w · {pyq:3d} PYQ", file=sys.stderr)
         json.dump(b, open(os.path.join(DEST_DIR, b['id'] + '.json'), 'w', encoding='utf-8'),
                   ensure_ascii=False, separators=(',', ':'))
-        books.append({k: b[k] for k in ('id', 'paper', 'title', 'icon', 'src')} |
+        books.append({k: b[k] for k in ('id', 'paper', 'title', 'icon', 'src', 'pdf')} |
                      {'chapters': [{'n': c['n'], 't': c['t'], 'subs': len(c['subs']),
                                     'w': len(c['text'].split())} for c in b['chapters']]})
     json.dump(books, open(os.path.join(DEST_DIR, 'index.json'), 'w', encoding='utf-8'),

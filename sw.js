@@ -1,5 +1,5 @@
 // Bump CACHE on every deploy or the SW serves stale assets.
-const CACHE = 'mains-master-v30';
+const CACHE = 'mains-master-v31';
 const ASSETS = ['./', './index.html', './app.css', './js/app.js', './manifest.webmanifest', './data/questions.json'];
 
 self.addEventListener('install', e => {
@@ -10,6 +10,9 @@ self.addEventListener('activate', e => {
 });
 self.addEventListener('fetch', e => {
   if (e.request.method !== 'GET') return;
+  // PDFs are tens of megabytes each — let the browser stream them from the
+  // network rather than filling the cache quota with binaries.
+  if (new URL(e.request.url).pathname.endsWith('.pdf')) return;
   e.respondWith(
     fetch(e.request).then(r => {
       const copy = r.clone();

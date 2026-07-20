@@ -117,6 +117,10 @@
       "k": "Equity & inclusiveness",
       "x": "leave no one behind",
       "ex": "Antyodaya, Aspirational Districts"
+     },
+     {
+      "k": "Citizen versus customer",
+      "x": "A customer expresses preference and exits; a citizen holds rights, participates and cannot exit."
      }
     ]
    },
@@ -132,6 +136,14 @@
       "k": "Enabling not rowing state",
       "x": "capacity to convene and regulate plural actors",
       "ex": "ONDC, India Stack"
+     },
+     {
+      "k": "Serve rather than steer",
+      "x": "**Denhardt**'s New Public Service casts the administrator as serving citizens, not steering customers."
+     },
+     {
+      "k": "Democratic anchor",
+      "x": "The public interest is a product of dialogue about shared values, not an aggregate of individual preferences."
      }
     ]
    }
@@ -1295,6 +1307,26 @@
      {
       "k": "Comparative learning",
       "x": "Administrative techniques could be studied across regimes without importing their constitutional principles."
+     },
+     {
+      "k": "Appleby's claim",
+      "x": "Government differs in **kind** — breadth of scope, public accountability and political character set it apart from any business."
+     },
+     {
+      "k": "Public accountability",
+      "x": "Answerable to legislature, courts, audit, media and citizens — Appleby's 'fishbowl' of scrutiny."
+     },
+     {
+      "k": "The counter-view",
+      "x": "**Simon** held the difference is one of degree, and **Gulick**'s POSDCORB treats administration as generic."
+     },
+     {
+      "k": "What does not converge",
+      "x": "Ends, accountability and the obligation of non-arbitrariness under **Article 14** remain distinctively public."
+     },
+     {
+      "k": "Uniformity and rule of law",
+      "x": "Consistency and non-arbitrariness bind the public official in a way no firm's manager is bound."
      }
     ]
    },
@@ -1312,6 +1344,22 @@
      {
       "k": "Normative critique",
       "x": "Waldo and New Public Administration rejected value-neutral efficiency where equity and democratic responsibility were at stake."
+     },
+     {
+      "k": "Breadth of scope",
+      "x": "Public action touches every citizen and every sector, with consequences no firm's decision carries."
+     },
+     {
+      "k": "Political character",
+      "x": "Administration operates within and serves a political process; it cannot be insulated from it."
+     },
+     {
+      "k": "Convergence pressures",
+      "x": "NPM imported market technique and PPP fused sectors, blurring operational boundaries."
+     },
+     {
+      "k": "Verdict",
+      "x": "Techniques converge and purposes do not — public administration may manage like business but must answer like government."
      }
     ]
    }
@@ -1364,6 +1412,15 @@
      {
       "k": "Accountability gain",
       "x": "Audit reveals systemic risk, produces comparable evidence and informs legislative financial committees."
+     },
+     {
+      "k": "What public choice explains",
+      "x": "Budget-maximising bureaux, rent-seeking, regulatory capture and the logic of collective action.",
+      "ex": "**Niskanen**; **Olson**; **Tullock**"
+     },
+     {
+      "k": "Why it cannot ground the discipline",
+      "x": "Reducing officials to self-interested maximisers cannot explain public-service motivation or constitutional obligation."
      }
     ]
    },
@@ -1373,6 +1430,14 @@
      {
       "k": "Overreach risk",
       "x": "Judging policy wisdom rather than implementation and evidence can substitute auditor preference for elected choice."
+     },
+     {
+      "k": "Its analytical gain",
+      "x": "It made government failure as analysable as market failure, ending the assumption of a benevolent state."
+     },
+     {
+      "k": "The normative gap",
+      "x": "It supplies no account of equity, legitimacy or the public interest — the questions administration exists to answer."
      }
     ]
    },
@@ -1451,6 +1516,10 @@
      {
       "k": "Hierarchy's limit",
       "x": "Excessive central clearance overloads the apex and weakens departmental responsibility."
+     },
+     {
+      "k": "Urwick's principles",
+      "x": "Objective, specialisation, coordination, authority, responsibility, definition, correspondence, span and balance."
      }
     ]
    }
@@ -1515,6 +1584,10 @@
      {
       "k": "Hierarchy's limit",
       "x": "Excessive central clearance overloads the apex and weakens departmental responsibility."
+     },
+     {
+      "k": "The complementarity",
+      "x": "Taylor worked upward from the shop floor, Fayol downward from the general manager — the same organisation from two ends."
      }
     ]
    }
@@ -1750,6 +1823,14 @@
      {
       "k": "Balanced leadership",
       "x": "Use minimum necessary control with capability, clear purpose, feedback and genuine opportunities for voice."
+     },
+     {
+      "k": "Assumptions, not descriptions",
+      "x": "McGregor's point is that managerial belief about human nature determines the structure adopted."
+     },
+     {
+      "k": "Administrative implication",
+      "x": "Rule-density and supervision intensity in an organisation reveal its implicit theory of its own staff."
      }
     ]
    },
@@ -1759,6 +1840,18 @@
      {
       "k": "Public-sector limit",
       "x": "Law, equality and audit constrain managerial flexibility even where professional autonomy is desirable."
+     },
+     {
+      "k": "The two sets",
+      "x": "**Theory X** assumes workers dislike work and need coercion; **Theory Y** assumes they seek responsibility under the right conditions."
+     },
+     {
+      "k": "Self-fulfilling effect",
+      "x": "X-based control produces the passivity it assumes; Y-based delegation produces the initiative it expects."
+     },
+     {
+      "k": "Beyond the dichotomy",
+      "x": "**Ouchi**'s Theory Z added long-term employment and collective decision as a third managerial assumption set."
      }
     ]
    }
@@ -1801,6 +1894,26 @@
      {
       "k": "Choice phase",
       "x": "Optimisation may improve consistency, but public choices contain values that cannot be inferred from accuracy alone."
+     },
+     {
+      "k": "The paradox stated",
+      "x": "Machines extend the computational limits Simon identified while leaving the value limits entirely untouched."
+     },
+     {
+      "k": "What it cannot supply",
+      "x": "The value premises by which alternatives are ranked; the fact-value distinction becomes operationally urgent."
+     },
+     {
+      "k": "Satisficing automated",
+      "x": "Algorithms optimise a specified proxy; misstate the public purpose and efficiency accelerates the error."
+     },
+     {
+      "k": "The administrative answer",
+      "x": "Explicit value premises, documented decision rules and human accountability for the value component of every choice."
+     },
+     {
+      "k": "Skill implication",
+      "x": "Officials must be able to interrogate a model, not merely operate it — a new administrative competency."
      }
     ]
    },
@@ -1822,6 +1935,22 @@
      {
       "k": "Procedural safeguards",
       "x": "Explainability, contestability, audit and fallback protect citizens affected by automated support."
+     },
+     {
+      "k": "What AI relieves",
+      "x": "Search across alternatives, pattern recognition and consequence estimation — the informational bound."
+     },
+     {
+      "k": "Premise control moves",
+      "x": "Simon showed organisations decide by setting premises; training data and model design now set them."
+     },
+     {
+      "k": "New bounded rationality",
+      "x": "Officials now face limits in interrogating models they did not build and cannot fully inspect."
+     },
+     {
+      "k": "Accountability requirement",
+      "x": "Simon insisted decisions be traceable to reasons; opaque models break that chain and must be made auditable."
      }
     ]
    }
@@ -1954,6 +2083,10 @@
      {
       "k": "Political direction",
       "x": "Clear, stable and inclusive priorities enable administration; predatory or fragmented politics can redirect capacity towards extraction."
+     },
+     {
+      "k": "The three components",
+      "x": "**Expectancy** that effort yields performance, **instrumentality** that performance yields reward, and **valence** that the reward is wanted."
      }
     ]
    }
@@ -2056,6 +2189,30 @@
      {
       "k": "Positive link",
       "x": "Fair treatment and meaningful work can raise motivation; repeated contribution and recognition strengthen morale."
+     },
+     {
+      "k": "What PSM is",
+      "x": "**Perry**'s public-service motivation — attraction to policy-making, commitment to public interest, compassion and self-sacrifice."
+     },
+     {
+      "k": "The substitution error",
+      "x": "Treating PSM as a substitute for fair pay exploits it — motivation erodes where conditions are visibly unjust."
+     },
+     {
+      "k": "Organisational support",
+      "x": "PSM is sustained by autonomy, recognition and visible impact, and destroyed by arbitrary transfer and rule-bound futility."
+     },
+     {
+      "k": "Administrative implication",
+      "x": "Recruit for PSM, then protect it with fair rewards, meaningful postings and supportive conditions."
+     },
+     {
+      "k": "Erosion risk",
+      "x": "PSM measured at entry declines over a career where rules frustrate and effort goes unrecognised."
+     },
+     {
+      "k": "Comparative note",
+      "x": "PSM is observed across public services internationally, not a culturally specific trait."
      }
     ]
    },
@@ -2077,6 +2234,26 @@
      {
       "k": "Diagnosis",
       "x": "Use climate surveys, absenteeism, turnover, service outcomes and qualitative feedback rather than one proxy."
+     },
+     {
+      "k": "Why it matters",
+      "x": "It explains why public employees accept lower pay for work they regard as meaningful."
+     },
+     {
+      "k": "Hygiene interaction",
+      "x": "**Herzberg** — poor pay and conditions produce dissatisfaction that meaning cannot offset."
+     },
+     {
+      "k": "Measurement caution",
+      "x": "Self-reported motivation scales are vulnerable to social-desirability bias."
+     },
+     {
+      "k": "Selection implication",
+      "x": "Recruitment should test for public-service orientation, not only for analytical ability."
+     },
+     {
+      "k": "Verdict",
+      "x": "Motivation is a resource to be protected, not a discount to be claimed against pay."
      }
     ]
    }
@@ -2236,6 +2413,15 @@
      {
       "k": "Systems contribution",
       "x": "The approach supplies holism, feedback, equifinality and attention to environment."
+     },
+     {
+      "k": "The contingency claim",
+      "x": "There is no one best structure; appropriate design depends on task, technology and environment.",
+      "ex": "**Burns and Stalker**; **Lawrence and Lorsch**; **Woodward**"
+     },
+     {
+      "k": "Mechanistic and organic",
+      "x": "Stable environments favour rule-bound mechanistic forms; turbulent ones favour flexible organic structures."
      }
     ]
    },
@@ -2249,6 +2435,10 @@
      {
       "k": "Contingency limit",
       "x": "Fit can be hard to measure, environments are partly constructed, and values constrain available designs."
+     },
+     {
+      "k": "Why public bodies cannot fully adapt",
+      "x": "Statute prescribes structure, hierarchy and process, so design is not a free managerial choice."
      }
     ]
    },
@@ -2262,6 +2452,10 @@
      {
       "k": "Evidence",
       "x": "Burns-Stalker and Lawrence-Lorsch linked organic design and differentiation-integration to environmental conditions."
+     },
+     {
+      "k": "Accountability constraint",
+      "x": "Ministerial responsibility requires a traceable chain that organic forms tend to dissolve."
      }
     ]
    }
@@ -2314,6 +2508,18 @@
      {
       "k": "Gain",
       "x": "Lateral forms improve innovation, learning and responsiveness to multi-dimensional problems."
+     },
+     {
+      "k": "The emerging forms",
+      "x": "Flatter hierarchies, matrix structures, project teams and inter-organisational networks."
+     },
+     {
+      "k": "Networked delivery",
+      "x": "Missions and convergence platforms coordinate across departments without a common superior."
+     },
+     {
+      "k": "Verdict",
+      "x": "Structure is diversifying while accountability remains hierarchical — the unresolved design tension."
      }
     ]
    },
@@ -2323,6 +2529,14 @@
      {
       "k": "Risk",
       "x": "Blurred authority creates forum shopping, duplicated work and accountability deficits after failure."
+     },
+     {
+      "k": "Matrix logic",
+      "x": "Dual reporting to function and project maximises expertise use but creates conflicting authority."
+     },
+     {
+      "k": "The persisting pyramid",
+      "x": "Legal authority, budget sanction and accountability still run vertically, so the pyramid survives beneath the network."
      }
     ]
    },
@@ -2336,6 +2550,10 @@
      {
       "k": "Design",
       "x": "Specify decision rights, convening authority, common outcomes, escalation paths and sunset or mainstreaming rules."
+     },
+     {
+      "k": "Digital effect",
+      "x": "Shared platforms and data flows enable coordination without formal restructuring."
      }
     ]
    }
@@ -2379,6 +2597,10 @@
      {
       "k": "Regulatory capacity",
       "x": "Expert, credible institutions can shape private behaviour and enforce standards against powerful interests."
+     },
+     {
+      "k": "Over-regulation symptoms",
+      "x": "Compliance cost exceeding the harm regulated, and rules multiplying faster than capacity to enforce them."
      }
     ]
    },
@@ -2470,6 +2692,14 @@
      {
       "k": "Flexibility",
       "x": "Government companies can adapt capital and subsidiaries faster, though dominant ownership may produce informal ministerial control."
+     },
+     {
+      "k": "Its features",
+      "x": "Statutory creation, corporate legal personality, financial autonomy and freedom from civil-service rules."
+     },
+     {
+      "k": "The MoU response",
+      "x": "Performance contracts attempted to define autonomy and accountability rather than assume their balance."
      }
     ]
    },
@@ -2508,6 +2738,14 @@
      {
       "k": "Competitive sectors",
       "x": "Clear public-service obligations and periodic ownership review are preferable to indefinite presence based on history."
+     },
+     {
+      "k": "The design intent",
+      "x": "The public corporation combined public ownership with the operational autonomy and commercial flexibility of a company."
+     },
+     {
+      "k": "Why it disappointed",
+      "x": "Ministerial direction, audit and parliamentary questions reasserted control the autonomy was meant to exclude."
      }
     ]
    }
@@ -2676,6 +2914,10 @@
      {
       "k": "Control design",
       "x": "Outcome review, audit trails and peer learning can replace excessive prior approval while retaining accountability."
+     },
+     {
+      "k": "Auxiliary agencies",
+      "x": "Provide common services — printing, procurement, personnel — to all departments rather than advising or executing policy."
      }
     ]
    }
@@ -2742,6 +2984,14 @@
      {
       "k": "Substitution risk",
       "x": "Targets can legitimise unlawful shortcuts, inequity or manipulation when process is treated as an obstacle."
+     },
+     {
+      "k": "The travel described",
+      "x": "From answerability for the use of authority, to responsibility for results, to responsiveness to citizens."
+     },
+     {
+      "k": "Performance accountability",
+      "x": "NPM added the question whether the intended outcome was achieved at reasonable cost."
      }
     ]
    },
@@ -2783,6 +3033,14 @@
      {
       "k": "Forums",
       "x": "Legislatures, courts, audit, citizens and professional bodies ask different but complementary accountability questions."
+     },
+     {
+      "k": "Answerability",
+      "x": "The classical form — did the official act within authority and follow procedure."
+     },
+     {
+      "k": "Democratic responsiveness",
+      "x": "NPG adds whether the citizen was heard, served and able to seek redress."
      }
     ]
    }
@@ -2830,6 +3088,18 @@
      {
       "k": "Public-interest test",
       "x": "Disclosure should weigh relevance to public duty, harm, consent, statutory exemptions and possible severability."
+     },
+     {
+      "k": "The distinction",
+      "x": "Disclosure supplies information; accountability requires that information be used to impose consequence."
+     },
+     {
+      "k": "What completes it",
+      "x": "An institution obliged to examine the information and a mechanism able to act on what it finds."
+     },
+     {
+      "k": "Performance dimension",
+      "x": "Outcome data is meaningful only where it influences budget, posting or programme design."
      }
     ]
    },
@@ -2851,6 +3121,14 @@
      {
       "k": "Independent oversight",
       "x": "Information and data-protection authorities require coherent jurisdiction, reasons and review."
+     },
+     {
+      "k": "Why disclosure alone fails",
+      "x": "Published data without a forum, a standard or a sanction produces transparency theatre."
+     },
+     {
+      "k": "Indian illustration",
+      "x": "**RTI** disclosure and social audit generate findings; recovery and prosecution rarely follow, and cynicism grows."
      }
     ]
    }
@@ -2894,6 +3172,14 @@
      {
       "k": "Legitimate expectation",
       "x": "Consistent practice or promise may require fair procedure and reasoned departure, without freezing lawful policy change."
+     },
+     {
+      "k": "The justification",
+      "x": "Courts filled a vacuum where executive and legislative accountability had visibly failed to protect rights."
+     },
+     {
+      "k": "Self-restraint",
+      "x": "Doctrines of justiciability and deference are the judiciary's own check on this expansion."
      }
     ]
    },
@@ -2911,6 +3197,19 @@
      {
       "k": "Procedural fairness",
       "x": "Notice, hearing and disclosure correct factual error before discretion hardens into a decision."
+     },
+     {
+      "k": "Expansion instruments",
+      "x": "**PIL**, relaxed standing, continuing mandamus and court-monitored implementation.",
+      "ex": "**Vineet Narain (1997)**"
+     },
+     {
+      "k": "The cost",
+      "x": "Judicial administration lacks operational competence and displaces the political process that should be reformed."
+     },
+     {
+      "k": "Comparative caution",
+      "x": "Few systems permit courts to supervise administration as extensively as Indian PIL allows."
      }
     ]
    },
@@ -2920,6 +3219,27 @@
      {
       "k": "Review limits",
       "x": "Courts should test legality and rationality without routinely substituting their policy preference or technical judgement."
+     },
+     {
+      "k": "The travel described",
+      "x": "From testing whether administrative action was legal to prescribing what administration must do and how."
+     },
+     {
+      "k": "Traditional grounds",
+      "x": "Illegality, irrationality and procedural impropriety — the classical review triad."
+     },
+     {
+      "k": "Constitutional anchor",
+      "x": "**Articles 32 and 226**, with judicial review held part of the **basic structure**.",
+      "ex": "**L. Chandra Kumar (1997)**"
+     },
+     {
+      "k": "The boundary",
+      "x": "Review should test legality, reasonableness and procedure — not substitute the court's policy for a lawful choice."
+     },
+     {
+      "k": "Verdict",
+      "x": "Expansion answered a real accountability vacuum; its discipline must now come from judicial self-restraint."
      }
     ]
    }
@@ -2963,6 +3283,18 @@
      {
       "k": "Complementarity",
       "x": "Community evidence reveals field divergence; insider evidence reveals concealed decisions and networks."
+     },
+     {
+      "k": "The conflict",
+      "x": "Loyalty to the organisation and its confidentiality norms against the duty to expose wrongdoing."
+     },
+     {
+      "k": "India's framework",
+      "x": "The **Whistle Blowers Protection Act, 2014** remains substantially unoperationalised, and the **CVC** handles complaints under a resolution."
+     },
+     {
+      "k": "Design of protection",
+      "x": "Confidential channels, protection against retaliation and independent inquiry are the minimum conditions."
      }
     ]
    },
@@ -2984,6 +3316,14 @@
      {
       "k": "Whistle safeguards",
       "x": "Confidential channels, interim relief, burden-sensitive inquiry and penalties for retaliation are essential."
+     },
+     {
+      "k": "Why disclosure matters",
+      "x": "Insiders detect wrongdoing that external audit and inspection structurally cannot reach."
+     },
+     {
+      "k": "The unresolved risk",
+      "x": "Without effective protection, disclosure ends careers and occasionally lives, so the conscience is not merely tested but punished."
      }
     ]
    }
@@ -3154,6 +3494,14 @@
      {
       "k": "Legislative control",
       "x": "Laying procedures, scrutiny committees, sunset clauses and mandatory consultation enable ex ante and ex post review."
+     },
+     {
+      "k": "The forms",
+      "x": "Rules, regulations, bye-laws and notifications made under an enabling statute."
+     },
+     {
+      "k": "Judicial control",
+      "x": "Review for ultra vires, unreasonableness and inconsistency with the parent Act — the indispensable check."
      }
     ]
    },
@@ -3190,6 +3538,18 @@
      {
       "k": "Emergency rules",
       "x": "Accelerated action may be justified, but should trigger prompt review and expiry unless affirmatively continued."
+     },
+     {
+      "k": "Why delegation is inevitable",
+      "x": "Legislatures lack the time, technical capacity and flexibility to prescribe operational detail."
+     },
+     {
+      "k": "The dangers",
+      "x": "Excessive delegation, sub-delegation and Henry VIII clauses permitting amendment of the parent statute itself."
+     },
+     {
+      "k": "Legislative control",
+      "x": "Laying procedures and the **Committee on Subordinate Legislation**, whose scrutiny capacity is far exceeded by volume."
      }
     ]
    }
@@ -3326,6 +3686,10 @@
      {
       "k": "Recruitment",
       "x": "France and Britain rely more on competitive career entry; the US combines merit systems with extensive political appointments."
+     },
+     {
+      "k": "Heady's comparison",
+      "x": "Career systems differ in openness, elite formation and the relation between administrative and political careers."
      }
     ]
    },
@@ -3370,6 +3734,10 @@
      {
       "k": "Caution—elite closure",
       "x": "Career cohesion can become social exclusivity, groupthink and distance from citizens."
+     },
+     {
+      "k": "Indian position",
+      "x": "A career service with open competitive entry and a strong generalist tradition sits between the French and British models."
      }
     ]
    }
@@ -3417,6 +3785,10 @@
      {
       "k": "Anti-universalism",
       "x": "It weakened direct institutional transplantation by emphasising fit between reform and environment."
+     },
+     {
+      "k": "Analytical use",
+      "x": "Together they let structure and society be compared as one system rather than separately."
      }
     ]
    },
@@ -3434,6 +3806,10 @@
      {
       "k": "Contemporary revision",
       "x": "Use multi-level, historical and postcolonial comparison that studies hybridity without treating it as deficiency."
+     },
+     {
+      "k": "The pairing",
+      "x": "Agraria-industria describes societies; fused-prismatic-diffracted describes their administrative structures."
      }
     ]
    }
@@ -3476,6 +3852,18 @@
      {
       "k": "Freedom duality",
       "x": "Process freedom and opportunity freedom require both fair participation and substantive options."
+     },
+     {
+      "k": "Sen's claim",
+      "x": "Development is the expansion of substantive freedoms — what people are actually able to do and to be."
+     },
+     {
+      "k": "Instrumental freedoms",
+      "x": "Political liberty, economic facilities, social opportunities, transparency guarantees and protective security."
+     },
+     {
+      "k": "Administrative implication",
+      "x": "Programmes should be judged by capability created, not by benefits distributed."
      }
     ]
    },
@@ -3497,6 +3885,18 @@
      {
       "k": "Convergence",
       "x": "Health, education, nutrition, transport and digital access must coordinate because capabilities are jointly produced."
+     },
+     {
+      "k": "Capability and functioning",
+      "x": "Capability is the real opportunity set; functioning is what a person achieves from it."
+     },
+     {
+      "k": "Measurement consequence",
+      "x": "**HDI** and multidimensional poverty measures follow from treating income as means rather than end."
+     },
+     {
+      "k": "Freedom as means",
+      "x": "Freedoms are constitutive of development and instrumental to it — Sen's two-sided claim."
      }
     ]
    }
@@ -3651,6 +4051,14 @@
      {
       "k": "Platform risks",
       "x": "Authentication failure, surveillance and data asymmetry may shift burdens from administration to citizens."
+     },
+     {
+      "k": "The feminisation claim",
+      "x": "SHG federations have made women the principal economic agents of the rural collective economy."
+     },
+     {
+      "k": "Beyond credit",
+      "x": "Sakhi cadres deliver banking, agriculture and veterinary services, converting members into service providers."
      }
     ]
    },
@@ -3664,6 +4072,14 @@
      {
       "k": "Design",
       "x": "Invest in federations, community resource persons, assisted access, grievance systems and enterprise capability."
+     },
+     {
+      "k": "Mechanism",
+      "x": "Group liability substituted for collateral, and peer monitoring produced repayment rates above commercial norms."
+     },
+     {
+      "k": "Political effect",
+      "x": "SHG membership has become a pathway into panchayat leadership, converting economic agency into representation."
      }
     ]
    }
@@ -3798,6 +4214,10 @@
      {
       "k": "Administrative architecture",
       "x": "Nodal coordination, district convergence and legislative review must connect vertical missions to place-based delivery."
+     },
+     {
+      "k": "Weidner's pairing",
+      "x": "Development administration is goal-oriented toward nation-building and change-oriented toward transforming the system itself."
      }
     ]
    }
@@ -3840,6 +4260,26 @@
      {
       "k": "Social media",
       "x": "Officials now communicate rapidly and visibly; personal advocacy can compromise perceived impartiality and confidentiality."
+     },
+     {
+      "k": "The classical doctrine",
+      "x": "Anonymity, permanence and neutrality — the official advises in private and the minister answers in public."
+     },
+     {
+      "k": "Digital-age pressure",
+      "x": "Officials front public communication, appear on social media and are named in transparency disclosures."
+     },
+     {
+      "k": "The genuine tension",
+      "x": "Visibility improves accountability and simultaneously chills the candour anonymity protected."
+     },
+     {
+      "k": "The reconciliation",
+      "x": "Visible in delivery and accountable for process, anonymous in advice — the distinction that must be preserved."
+     },
+     {
+      "k": "Named accountability",
+      "x": "Public-facing service delivery increasingly requires an identifiable officer the citizen can approach."
      }
     ]
    },
@@ -3861,6 +4301,26 @@
      {
       "k": "Accountability",
       "x": "Anonymity should not conceal misconduct; legislative and legal forums must identify responsible officials when needed."
+     },
+     {
+      "k": "Why anonymity mattered",
+      "x": "It made candid advice safe and located responsibility unambiguously with the elected minister."
+     },
+     {
+      "k": "Transparency's demand",
+      "x": "**RTI** and proactive disclosure make file notings and named advice accessible by design."
+     },
+     {
+      "k": "Where it goes wrong",
+      "x": "Officials publicly promoting political programmes cross from visibility into partisanship."
+     },
+     {
+      "k": "Ministerial responsibility",
+      "x": "Anonymity is the corollary of the minister answering to Parliament for the department's acts."
+     },
+     {
+      "k": "Recorded advice",
+      "x": "Written and recorded advice reconciles transparency with candour better than anonymity alone."
      }
     ]
    }
@@ -3990,6 +4450,18 @@
      {
       "k": "Multi-source evidence",
       "x": "Supervisor judgement, work products, stakeholder feedback and self-reflection reduce one-rater bias."
+     },
+     {
+      "k": "The compliance charge",
+      "x": "Annual appraisal has become a ritual form-filling exercise rather than a developmental conversation."
+     },
+     {
+      "k": "Development purpose",
+      "x": "Appraisal should identify capability gaps and direct training, not merely rank for promotion."
+     },
+     {
+      "k": "Confidentiality question",
+      "x": "Disclosure of the full appraisal to the officer improves fairness and reduces arbitrariness."
      }
     ]
    },
@@ -4031,6 +4503,14 @@
      {
       "k": "Fairness",
       "x": "Calibrated standards, reasoned ratings, employee response and appeal protect trust and candour."
+     },
+     {
+      "k": "Grade inflation",
+      "x": "Near-universal high ratings destroy the instrument's discriminating power."
+     },
+     {
+      "k": "Reform direction",
+      "x": "360-degree feedback, competency-based assessment and separation of developmental review from promotion decisions."
      }
     ]
    }
@@ -4099,6 +4579,19 @@
      {
       "k": "Essential services",
       "x": "Continuity obligations justify notice, minimum-service and emergency arrangements, not blanket suppression of voice."
+     },
+     {
+      "k": "Machinery",
+      "x": "The **JCM** and compulsory arbitration provide a negotiating forum on pay and service conditions."
+     },
+     {
+      "k": "No right to strike",
+      "x": "Courts have held government servants have no legal right to strike.",
+      "ex": "**T.K. Rangarajan (2003)**"
+     },
+     {
+      "k": "Essential services",
+      "x": "Withdrawal of labour by police, health or transport staff imposes costs on citizens with no alternative supplier."
      }
     ]
    },
@@ -4135,6 +4628,18 @@
      {
       "k": "Dispute resolution",
       "x": "Conciliation, mediation, fact-finding and impartial arbitration can reduce disruptive escalation."
+     },
+     {
+      "k": "The constitutional position",
+      "x": "**Article 19(1)(c)** guarantees association subject to reasonable restrictions in the public interest."
+     },
+     {
+      "k": "The neutrality tension",
+      "x": "Association with political parties compromises the impartiality the service's legitimacy rests on."
+     },
+     {
+      "k": "The resolution",
+      "x": "Effective negotiation and prompt grievance redress are the legitimate substitute for the withheld right."
      }
     ]
    }
@@ -4182,6 +4687,10 @@
      {
       "k": "Detailed scan",
       "x": "Within that frame, selected areas receive focused analysis and incremental adjustment."
+     },
+     {
+      "k": "Extra-rational elements",
+      "x": "Dror explicitly admitted intuition, creativity and value judgement as legitimate policy inputs."
      }
     ]
    },
@@ -4191,6 +4700,22 @@
      {
       "k": "Adaptive depth",
       "x": "The amount of scanning varies with stakes, uncertainty, capability and reversibility."
+     },
+     {
+      "k": "Dror's position",
+      "x": "He rejected both the rationalist's unattainable comprehensiveness and the incrementalist's conservative drift."
+     },
+     {
+      "k": "Meta-policymaking",
+      "x": "Dror's distinctive contribution — policy about how policy is made, including the design of the policymaking system itself."
+     },
+     {
+      "k": "Why pure rationality fails",
+      "x": "Information, time and agreement on values are never sufficient for comprehensive analysis."
+     },
+     {
+      "k": "Indian relevance",
+      "x": "Meta-policymaking argues for investing in NITI, evaluation offices and foresight capacity, not only in schemes."
      }
     ]
    },
@@ -4204,6 +4729,14 @@
      {
       "k": "Equity gain",
       "x": "Strategic review can question assumptions and excluded options that incremental bargaining leaves untouched."
+     },
+     {
+      "k": "Phases",
+      "x": "Meta-policymaking, policymaking and post-policymaking, with feedback connecting all three."
+     },
+     {
+      "k": "Capacity implication",
+      "x": "Improving policy requires investing in the policymaking system — analytical capacity, evaluation and foresight."
      }
     ]
    },
@@ -4213,6 +4746,18 @@
      {
       "k": "Limit",
       "x": "The theory offers no precise rule for scan breadth; power still determines which fundamentals become visible."
+     },
+     {
+      "k": "The normative optimum",
+      "x": "An optimal model combining rational analysis with extra-rational elements — judgement, intuition and creativity."
+     },
+     {
+      "k": "Why incrementalism fails him",
+      "x": "It cannot address novel problems or structural injustice, where no adequate base exists."
+     },
+     {
+      "k": "Assessment",
+      "x": "Prescriptively ambitious and operationally demanding; its lasting contribution is meta-policymaking as an object of design."
      }
     ]
    }
@@ -4264,6 +4809,10 @@
      {
       "k": "Contemporary application",
       "x": "Apply the insight to networks, digital systems, street-level discretion, performance management or collaborative governance. Apply this dimension directly to the terms and actors named in the question."
+     },
+     {
+      "k": "Why the cycle misleads",
+      "x": "Stages overlap, run backwards and repeat; the heuristic's value is analytical, not descriptive."
      }
     ]
    }
@@ -4406,6 +4955,18 @@
      {
       "k": "Transaction gain",
       "x": "Shared rails reduce verification, transfer and onboarding costs and permit services at population scale."
+     },
+     {
+      "k": "The transformation",
+      "x": "**DPI** shifted e-governance from computerising departmental procedures to building shared public rails."
+     },
+     {
+      "k": "Administrative consequence",
+      "x": "Service redesign becomes possible across departments rather than within them."
+     },
+     {
+      "k": "Federal reality",
+      "x": "Most citizen-facing services are State-delivered, so transformation depends on State adoption of the rails."
      }
     ]
    },
@@ -4447,6 +5008,14 @@
      {
       "k": "Administrative design",
       "x": "Provide assisted access, exception handling, correction, audit and non-digital continuity."
+     },
+     {
+      "k": "The stack",
+      "x": "Identity, payments and data exchange as interoperable layers on which state and market both build."
+     },
+     {
+      "k": "Governance requirement",
+      "x": "Consent architecture, grievance redress and assisted access must scale with the rails."
      }
     ]
    }
@@ -4494,6 +5063,18 @@
      {
       "k": "Rule simplification",
       "x": "Remove unnecessary approvals and documents before digitisation to avoid encoding obsolete control."
+     },
+     {
+      "k": "The continuing relevance",
+      "x": "O&M and work study ask whether a process is necessary before asking how to speed it — the question digitisation skips."
+     },
+     {
+      "k": "Why it matters now",
+      "x": "Digitising an unreformed procedure preserves its delays in electronic form."
+     },
+     {
+      "k": "Verdict",
+      "x": "The technique survives; only its unit of analysis has moved from the file to the data flow."
      }
     ]
    },
@@ -4515,6 +5096,14 @@
      {
       "k": "Inclusion",
       "x": "Assisted and offline channels, accessibility and grievance correction must be designed into the process."
+     },
+     {
+      "k": "Changed unit of analysis",
+      "x": "From the clerk's desk and the file's movement to the data flow and the citizen's end-to-end journey."
+     },
+     {
+      "k": "Contemporary form",
+      "x": "Business process re-engineering, service blueprinting and journey mapping are O&M under new names."
      }
     ]
    }
@@ -4563,6 +5152,14 @@
      {
       "k": "Contribution",
       "x": "Logical chains clarify programme assumptions, indicators and cross-department dependencies."
+     },
+     {
+      "k": "The three conditions",
+      "x": "Outputs must be attributable to the programme, data must be reliable, and the legislature must actually use the information."
+     },
+     {
+      "k": "Attribution problem",
+      "x": "Outcomes depend on many factors; crediting a scheme requires an evaluation design built in from the start."
      }
     ]
    },
@@ -4576,6 +5173,10 @@
      {
       "k": "Legislative weakness",
       "x": "Compressed debate and limited research mean richer documents may receive little effective scrutiny."
+     },
+     {
+      "k": "Data reliability",
+      "x": "Self-reported departmental data measuring departmental performance carries an obvious incentive problem."
      }
     ]
    },
@@ -4589,6 +5190,10 @@
      {
       "k": "Budget consequence",
       "x": "Results should inform review and redesign, not produce mechanical cuts that punish difficult populations."
+     },
+     {
+      "k": "Legislative use",
+      "x": "Outcome statements are produced alongside the budget but rarely examined — scrutiny creates the demand for quality."
      }
     ]
    }
@@ -4729,6 +5334,10 @@
       "k": "Over-regulation",
       "x": "compliance burden throttles enterprise",
       "ex": "ease-of- doing-business reforms"
+     },
+     {
+      "k": "Accountability question",
+      "x": "When a private partner fails, the public authority remains answerable for a service it no longer controls."
      }
     ]
    },
@@ -4754,6 +5363,10 @@
      },
      {
       "x": "Viability-gap funding where social returns exceed private."
+     },
+     {
+      "k": "Risk allocation",
+      "x": "Value depends on transferring risk to the party best able to manage it — misallocation is the usual failure."
      }
     ]
    }
@@ -4800,6 +5413,20 @@
      {
       "k": "Legacy",
       "x": "rule-of-law ideal still anchors judicial review."
+     },
+     {
+      "k": "The proposition",
+      "x": "The administrative state is legitimate exactly insofar as its power is subject to legal control."
+     },
+     {
+      "k": "The modern answer",
+      "x": "Administrative law does not abolish discretion but structures, confines and checks it.",
+      "ex": "**Davis**"
+     },
+     {
+      "k": "Indian anchoring",
+      "x": "**Article 14** non-arbitrariness and **Article 21** fair procedure constitutionalise administrative law itself.",
+      "ex": "**Maneka Gandhi (1978)**"
      }
     ]
    },
@@ -4825,6 +5452,18 @@
      {
       "k": "Constitutional tether",
       "x": "discretion within a framework of legality."
+     },
+     {
+      "k": "Dicey's concern",
+      "x": "He feared discretionary administrative power as inconsistent with the rule of law."
+     },
+     {
+      "k": "The instruments",
+      "x": "Ultra vires review, natural justice, reasoned orders, proportionality and legitimate expectation."
+     },
+     {
+      "k": "Institutional machinery",
+      "x": "Tribunals, ombudsmen and regulators extend legal control beyond the courts."
      }
     ]
    }
@@ -4870,6 +5509,18 @@
      {
       "k": "Beyond the binary",
       "x": "state and market as complements."
+     },
+     {
+      "k": "The reframing",
+      "x": "The question is no longer how much state but how capable — size is a consequence, not a premise."
+     },
+     {
+      "k": "Markets need capacity",
+      "x": "Contract enforcement, property rights and regulation are state capabilities without which markets cannot function."
+     },
+     {
+      "k": "Embedded autonomy",
+      "x": "**Evans** — insulated enough to resist capture, connected enough to know what to do."
      }
     ]
    },
@@ -4893,6 +5544,18 @@
      {
       "k": "Capacity precondition",
       "x": "embedded autonomy demands a capable bureaucracy."
+     },
+     {
+      "k": "Dimensions of capacity",
+      "x": "Extractive capacity to tax, regulatory capacity to enforce, delivery capacity to implement, coordination capacity across agencies."
+     },
+     {
+      "k": "Evidence",
+      "x": "Identical policies produce different outcomes across Indian States — the variance is capacity, not design."
+     },
+     {
+      "k": "Reform target",
+      "x": "The agenda shifts from arguing about size to building recruitment, data and enforcement capability."
      }
     ]
    }
@@ -4938,6 +5601,30 @@
       "k": "Instrumental neutrality",
       "x": "loyal to the Constitution, not a party",
       "ex": "Nolan objectivity"
+     },
+     {
+      "k": "The proposition",
+      "x": "Codes prescribe conduct; ethics requires internalised judgement that no rule can compel."
+     },
+     {
+      "k": "Their limit",
+      "x": "Rules address conduct that can be specified; most administrative ethics concerns discretion where rules run out."
+     },
+     {
+      "k": "Cultivation instruments",
+      "x": "Training, mentoring, leadership example, recorded reasoning and protected dissent."
+     },
+     {
+      "k": "Institutional design matters",
+      "x": "Ethics is sustained where honest conduct is not personally costly — tenure, transparency and merit-based postings."
+     },
+     {
+      "k": "Ethical dilemmas",
+      "x": "Most administrative ethics involves competing goods, not a choice between right and wrong."
+     },
+     {
+      "k": "Public trust",
+      "x": "Perceived integrity determines compliance with the state's demands as much as enforcement does."
      }
     ]
    },
@@ -4962,6 +5649,26 @@
      },
      {
       "x": "Conflict-of-interest, post-retirement, cooling-off norms."
+     },
+     {
+      "k": "What codes can do",
+      "x": "Set minimum standards, define conflict of interest and provide a basis for disciplinary action."
+     },
+     {
+      "k": "Friedrich and Finer",
+      "x": "**Finer** urged external institutional control; **Friedrich** the professional's inner check — cultivation is Friedrich's answer."
+     },
+     {
+      "k": "Indian machinery",
+      "x": "Conduct Rules, the **CVC**, **Lokpal** and the **2nd ARC**'s proposed code of ethics distinct from the code of conduct."
+     },
+     {
+      "k": "Verdict",
+      "x": "Legislate the floor and cultivate the standard — codes without culture produce compliance without integrity."
+     },
+     {
+      "k": "Whistle-blower link",
+      "x": "Cultivated ethics requires that disclosure of wrongdoing not end a career."
      }
     ]
    }
@@ -5010,6 +5717,18 @@
      {
       "k": "Whose values",
       "x": "allocation reflects power distribution ( Easton )."
+     },
+     {
+      "k": "The distortion claim",
+      "x": "Organised interests secure attention disproportionate to their numbers, at the expense of diffuse majorities."
+     },
+     {
+      "k": "Developing-democracy specifics",
+      "x": "Weak institutionalisation, informal access and clientelist networks amplify the asymmetry."
+     },
+     {
+      "k": "Countervailing forces",
+      "x": "Universal franchise, constitutional entitlements and judicial review give numbers weight organisation cannot buy."
      }
     ]
    },
@@ -5033,6 +5752,18 @@
      {
       "k": "Indian bridge",
       "x": "farm-law repeal; lobbying vs public consultation (pre- legislative policy)"
+     },
+     {
+      "k": "Olson's logic",
+      "x": "Small groups with concentrated stakes organise easily; large groups with diffuse stakes do not."
+     },
+     {
+      "k": "The counter-view",
+      "x": "Interest groups also supply information and expertise that under-resourced administrations lack."
+     },
+     {
+      "k": "Administrative role",
+      "x": "Disaggregated outcome data makes the unorganised visible where lobbying cannot reach."
      }
     ]
    }
@@ -5078,6 +5809,22 @@
      {
       "k": "Decline causes",
       "x": "ritualism, low priority, no teeth."
+     },
+     {
+      "k": "The original conception",
+      "x": "**O&M** was to be the administration's built-in self-correcting device — a permanent internal capacity for review."
+     },
+     {
+      "k": "Why it atrophied",
+      "x": "Units became low-priority postings without authority to compel change, producing reports nobody implemented."
+     },
+     {
+      "k": "What replaced it",
+      "x": "External consultants, mission-mode teams and digital projects — episodic rather than continuous."
+     },
+     {
+      "k": "Revival route",
+      "x": "Embed process-improvement competency through **Mission Karmayogi** and give units authority linked to the department head."
      }
     ]
    },
@@ -5102,6 +5849,22 @@
      {
       "k": "Indian bridge",
       "x": "single-window portals; DPI-led service redesign"
+     },
+     {
+      "k": "The design",
+      "x": "O&M units in departments with a central agency to set standards and disseminate technique."
+     },
+     {
+      "k": "Structural weakness",
+      "x": "Self-review by a unit inside the department it reviews lacks the independence to challenge established process."
+     },
+     {
+      "k": "The loss",
+      "x": "Continuous internal improvement capacity was traded for periodic external intervention."
+     },
+     {
+      "k": "Verdict",
+      "x": "O&M failed as a unit and survives as a discipline — its revival must be a competency, not a cell."
      }
     ]
    }
@@ -5148,6 +5911,30 @@
      },
      {
       "x": "From data processing → decision support → business intelligence."
+     },
+     {
+      "k": "The shift described",
+      "x": "Administrative techniques move from descriptive reporting to predictive and prescriptive analytics."
+     },
+     {
+      "k": "Prescriptive stage",
+      "x": "Systems recommend the action, not merely the analysis — decision support becomes decision-making."
+     },
+     {
+      "k": "The opacity problem",
+      "x": "Prescriptive systems must still supply reasons a citizen can contest under natural justice."
+     },
+     {
+      "k": "Capacity requirement",
+      "x": "Officials must be able to interrogate a model rather than merely accept its output."
+     },
+     {
+      "k": "Data foundation",
+      "x": "Analytics is only as good as the administrative data beneath it, which is often incomplete and inconsistent."
+     },
+     {
+      "k": "Skill shift",
+      "x": "The premium moves from procedural accuracy to interpretation and system oversight."
      }
     ]
    },
@@ -5172,6 +5959,30 @@
      {
       "k": "Guardrails",
       "x": "NITI Aayog Responsible-AI; human-in-the-loop"
+     },
+     {
+      "k": "Descriptive to predictive",
+      "x": "MIS reported what happened; analytics forecasts demand, risk and failure before it occurs."
+     },
+     {
+      "k": "Public-sector applications",
+      "x": "Revenue risk scoring, welfare targeting, predictive maintenance and disaster forecasting."
+     },
+     {
+      "k": "Bias amplification",
+      "x": "Models trained on historical administrative data reproduce and scale the exclusions in that record."
+     },
+     {
+      "k": "Governance answer",
+      "x": "Human in the loop for rights-affecting decisions, pre-deployment audit and a public register of government AI."
+     },
+     {
+      "k": "Procurement leverage",
+      "x": "Contractual auditability and liability clauses are the most practical regulatory lever the state already holds."
+     },
+     {
+      "k": "Verdict",
+      "x": "AI changes the technique of administration without changing the requirement that power be answerable."
      }
     ]
    }
@@ -10973,6 +11784,10 @@
       "k": "Transformation",
       "x": "Processes are re-engineered and departments integrated around the citizen rather than digitised as they stand.",
       "ex": "**DigiLocker**; **UPI**; **AgriStack**"
+     },
+     {
+      "k": "Assessment",
+      "x": "Maturity is measured by processes redesigned, not by services put online."
      }
     ]
    },

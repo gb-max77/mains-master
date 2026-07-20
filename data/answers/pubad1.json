@@ -6966,5 +6966,810 @@
    "retarded English administrative law",
    "L. Chandra Kumar 1997"
   ]
+ },
+ "pubad1-14-b0": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "The **Hawthorne** studies discovered the **social man** whom scientific management had ignored — but critics charge that the school romanticised harmony and left the structure of power untouched."
+   }
+  ],
+  "body": [
+   {
+    "h": "What it humanised",
+    "p": [
+     {
+      "k": "The social discovery",
+      "x": "Output responded to attention, group norms and belonging rather than to physical conditions alone.",
+      "ex": "**Mayo**; Roethlisberger and Dickson"
+     },
+     {
+      "k": "Informal organisation",
+      "x": "Work groups set their own production norms and enforce them — a structure the organisation chart cannot show."
+     },
+     {
+      "k": "Supervision reconceived",
+      "x": "The supervisor became a facilitator of group climate rather than an enforcer of method."
+     },
+     {
+      "k": "Method innovation",
+      "x": "Non-directive interviewing and observation brought social-science technique into administrative study."
+     }
+    ]
+   },
+   {
+    "h": "The romanticised harmony",
+    "p": [
+     {
+      "k": "Conflict assumed away",
+      "x": "Divergent interests between labour and management were treated as failures of communication rather than as real."
+     },
+     {
+      "k": "Managerial bias",
+      "x": "Critics saw it as 'cow sociology' — engineering contentment to raise output without conceding authority."
+     },
+     {
+      "k": "Power untouched",
+      "x": "Participation was consultative; the distribution of decision rights remained where it was."
+     },
+     {
+      "k": "Methodological doubts",
+      "x": "Re-analysis attributed much of the Hawthorne effect to supervision changes, incentive and selection of participants."
+     },
+     {
+      "k": "Structure ignored",
+      "x": "It offered no account of formal design, so it complements rather than replaces classical theory."
+     },
+     {
+      "k": "Enduring bequest",
+      "x": "It founded organisational behaviour as a field and made motivation a legitimate administrative concern."
+     },
+     {
+      "k": "Successor correction",
+      "x": "Argyris, Likert and McGregor supplied the structural remedies human relations lacked."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "Informal networks in district administration mobilise convergence that the hierarchy alone cannot."
+     }
+    ]
+   }
+  ],
+  "conc": "The school's achievement was to make the worker visible and its limitation was to make conflict invisible — later theory had to restore the power it left out.",
+  "flash": [
+   "Mayo; social man",
+   "informal norms set output",
+   "'cow sociology' critique",
+   "conflict as communication failure",
+   "Hawthorne effect re-analysed"
+  ]
+ },
+ "pubad1-13-b0": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "**Follett** treated conflict not as pathology but as difference — and **constructive conflict** as the process by which difference is converted into a solution neither party held at the start."
+   }
+  ],
+  "body": [
+   {
+    "h": "The principle",
+    "p": [
+     {
+      "k": "Three ways to settle",
+      "x": "Domination, compromise and **integration** — only integration invents an outcome meeting both parties' underlying desires."
+     },
+     {
+      "k": "Uncover the real desire",
+      "x": "Positions conceal interests; integration begins by breaking demands into their constituent needs."
+     },
+     {
+      "k": "Law of the situation",
+      "x": "Both parties obey what the facts demand rather than what either wills — depersonalising the disagreement."
+     },
+     {
+      "k": "Circular response",
+      "x": "The parties reshape each other through interaction; the solution emerges from the relationship, not from either side."
+     }
+    ]
+   },
+   {
+    "h": "As a design principle for inter-organisational work",
+    "p": [
+     {
+      "k": "Networks cannot be commanded",
+      "x": "Multi-agency delivery has no common superior, so integration is the only available settlement mechanism."
+     },
+     {
+      "k": "Early coordination",
+      "x": "Follett's principle of coordination at the **early stages** prevents positions hardening before discussion."
+     },
+     {
+      "k": "Continuous process",
+      "x": "Coordination is a continuing process, not an event — standing forums outperform episodic meetings."
+     },
+     {
+      "k": "Indian bridge",
+      "x": "Convergence platforms work this way — departments coordinating around a shared district outcome rather than a hierarchical instruction.",
+      "ex": "**Aspirational Districts**; disaster unified command"
+     },
+     {
+      "k": "The limit",
+      "x": "Integration presumes comparable bargaining power; under deep asymmetry it can mask domination."
+     },
+     {
+      "k": "Direct contact",
+      "x": "Responsible people must confer directly; coordination through intermediaries loses the information integration needs."
+     },
+     {
+      "k": "Reciprocal relating",
+      "x": "All factors are adjusted to one another simultaneously rather than sequentially."
+     },
+     {
+      "k": "Continuing process",
+      "x": "Coordination is sustained rather than episodic — standing forums outperform periodic meetings."
+     }
+    ]
+   }
+  ],
+  "conc": "Follett converted conflict from a problem to be suppressed into a resource to be used — the founding insight of collaborative governance.",
+  "flash": [
+   "domination-compromise-integration",
+   "uncover interests behind positions",
+   "law of the situation",
+   "early-stage, continuing coordination",
+   "asymmetry limits integration"
+  ]
+ },
+ "pubad1-28-b0": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "The **open-systems** view treats the organisation as a living organism — importing energy from its environment, transforming it, exporting output and surviving on feedback.",
+    "x2": ""
+   }
+  ],
+  "body": [
+   {
+    "h": "The organism analogy",
+    "p": [
+     {
+      "k": "Input-throughput-output",
+      "x": "**Katz and Kahn** cast organisations as energic input-output systems sustained by exchange with the environment."
+     },
+     {
+      "k": "Negative entropy",
+      "x": "Closed systems run down; open systems import more energy than they expend and so postpone decay."
+     },
+     {
+      "k": "Homeostasis and feedback",
+      "x": "Negative feedback lets the system detect deviation and self-correct toward a steady state."
+     },
+     {
+      "k": "Equifinality",
+      "x": "A system can reach the same end state from different initial conditions by different paths — there is no single best structure."
+     },
+     {
+      "k": "Differentiation and integration",
+      "x": "Growth produces specialised subsystems, which then require integrating mechanisms."
+     }
+    ]
+   },
+   {
+    "h": "What it explains that closed models cannot",
+    "p": [
+     {
+      "k": "Environmental dependence",
+      "x": "Budget, statute, political mood and public opinion are inputs, not externalities — the classical school treated them as noise."
+     },
+     {
+      "k": "Contingency follows",
+      "x": "If environment shapes structure, there can be no one best way.",
+      "ex": "**Burns and Stalker**; **Lawrence and Lorsch**"
+     },
+     {
+      "k": "Boundary-spanning roles",
+      "x": "Public relations, liaison and regulatory affairs manage the exchange the organisation depends on."
+     },
+     {
+      "k": "Indian application",
+      "x": "A district administration importing political direction, funds and public expectation and exporting services is precisely such a system."
+     },
+     {
+      "k": "The caution",
+      "x": "The biological analogy can imply an organic harmony and a survival imperative that public organisations, created by statute, do not have."
+     },
+     {
+      "k": "Subsystem view",
+      "x": "Katz and Kahn's five subsystems — production, supportive, maintenance, adaptive and managerial."
+     },
+     {
+      "k": "Environmental scanning",
+      "x": "Open systems must monitor their environment continuously or adapt only after damage."
+     }
+    ]
+   }
+  ],
+  "conc": "Open-systems theory relocated the organisation inside its environment — the move that made contingency thinking, and therefore modern organisation design, possible.",
+  "flash": [
+   "Katz and Kahn energic input-output",
+   "negative entropy",
+   "homeostasis via feedback",
+   "equifinality → no one best way",
+   "boundary-spanning roles"
+  ]
+ },
+ "pubad1-30-b0": {
+  "directive": "comment",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "Ad hoc bodies buy **flexibility** with two currencies — a clear line of responsibility and the institutional memory a permanent organisation accumulates."
+   }
+  ],
+  "body": [
+   {
+    "h": "The flexibility gained",
+    "p": [
+     {
+      "k": "Speed of assembly",
+      "x": "A task force can be constituted, staffed and dissolved without creating a permanent establishment."
+     },
+     {
+      "k": "Expertise on demand",
+      "x": "Specialists can be drawn in for a problem the standing structure was not designed to address."
+     },
+     {
+      "k": "Freedom from routine",
+      "x": "Distance from day-to-day pressure allows a problem to be reopened rather than merely processed."
+     }
+    ]
+   },
+   {
+    "h": "What is lost",
+    "p": [
+     {
+      "k": "Blurred responsibility",
+      "x": "Advice carries no answerability; the department owns an outcome it did not fully author."
+     },
+     {
+      "k": "Memory dissipates",
+      "x": "When a body dissolves, its files, reasoning and networks disperse — the next committee starts again."
+     },
+     {
+      "k": "Implementation orphaned",
+      "x": "Recommendations without an owner lapse, which is why India's reform-report record is one of repetition."
+     },
+     {
+      "k": "Proliferation cost",
+      "x": "Multiplying bodies raises the coordination burden on the very secretariat they were meant to relieve."
+     },
+     {
+      "k": "Mitigation",
+      "x": "A permanent secretariat cell to hold the record and track action-taken preserves what the body learnt."
+     }
+    ]
+   }
+  ],
+  "conc": "Flexibility is worth its price only when a named permanent authority is obliged to act on the advice and to keep the record — otherwise the state hires knowledge and then forgets it.",
+  "flash": [
+   "speed, expertise, freedom from routine",
+   "advice without answerability",
+   "memory disperses on dissolution",
+   "recommendations orphaned",
+   "coordination burden rises"
+  ]
+ },
+ "pubad1-34-b1": {
+  "directive": "examine",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "The chief executive is the **keystone of the administrative arch** — the point at which the political and administrative halves of government meet and hold each other in place."
+   }
+  ],
+  "body": [
+   {
+    "h": "Types of chief executive",
+    "p": [
+     {
+      "k": "Political and permanent",
+      "x": "A political executive holds office by election or appointment and bears responsibility; the permanent executive supplies continuity and expertise."
+     },
+     {
+      "k": "Nominal and real",
+      "x": "Where the head of state is nominal, real executive authority rests with the council of ministers.",
+      "ex": "**Article 74**"
+     },
+     {
+      "k": "Single and plural",
+      "x": "Authority vested in one officer versus a board or commission — speed and clarity against deliberation and safeguard."
+     },
+     {
+      "k": "Parliamentary and presidential",
+      "x": "Fused executive-legislature versus separated, with different accountability routes."
+     }
+    ]
+   },
+   {
+    "h": "Functions and the keystone claim",
+    "p": [
+     {
+      "k": "Purpose and direction",
+      "x": "Formulating objectives and securing the effort to meet them — Barnard's executive functions."
+     },
+     {
+      "k": "Coordination",
+      "x": "Reconciling departmental claims into a single governmental position, the function no department can perform for itself."
+     },
+     {
+      "k": "Institutional maintenance",
+      "x": "**Selznick**'s institutional leadership — infusing the organisation with value beyond its technical task."
+     },
+     {
+      "k": "External representation",
+      "x": "Defending the organisation before legislature, media and public, and securing its resources."
+     },
+     {
+      "k": "Why keystone",
+      "x": "Remove the chief executive and the arch does not merely lose a stone — the political and administrative halves lose their connection."
+     },
+     {
+      "k": "Ceremonial and symbolic",
+      "x": "The chief executive personifies the organisation, which is why appointment and conduct carry weight beyond the role's powers."
+     },
+     {
+      "k": "Crisis authority",
+      "x": "In emergencies the office concentrates decision, which is precisely when its accountability matters most."
+     }
+    ]
+   }
+  ],
+  "conc": "The chief executive's distinctive work is translation — converting political will into administrative action and administrative reality back into political advice.",
+  "flash": [
+   "political vs permanent executive",
+   "nominal vs real; Art 74",
+   "single vs plural executive",
+   "Selznick institutional leadership",
+   "translation between the two halves"
+  ]
+ },
+ "pubad1-36-b0": {
+  "directive": "comment",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**Social audit** relocates accountability from the file to the village square — the beneficiary, not the inspector, verifies whether the entitlement arrived."
+   }
+  ],
+  "body": [
+   {
+    "h": "How it democratises accountability",
+    "p": [
+     {
+      "k": "Statutory footing",
+      "x": "**MGNREGA** made social audit mandatory, with the **Gram Sabha** as the auditing forum — accountability owed downward, not upward."
+     },
+     {
+      "k": "Public verification",
+      "x": "Muster rolls, measurement books and payment records are read aloud and tested against those who did the work."
+     },
+     {
+      "k": "Independent units",
+      "x": "Social Audit Units, insulated from the implementing agency, supply facilitation and method."
+     },
+     {
+      "k": "Beyond detection",
+      "x": "Its deeper effect is deterrence and the citizen's realisation that the record can be questioned at all."
+     }
+    ]
+   },
+   {
+    "h": "What limits it",
+    "p": [
+     {
+      "k": "Capture",
+      "x": "Where local power is concentrated, the same elite dominates the audit forum."
+     },
+     {
+      "k": "Action gap",
+      "x": "Findings often produce no recovery or prosecution, and repetition without consequence breeds cynicism."
+     },
+     {
+      "k": "Capacity and funding",
+      "x": "Audit units depend on the very governments they audit for staff and money."
+     },
+     {
+      "k": "Retaliation risk",
+      "x": "Whistle-blowers and auditors face intimidation without effective protection."
+     },
+     {
+      "k": "Extension",
+      "x": "Social audit is spreading beyond MGNREGA to food security, housing and health programmes."
+     }
+    ]
+   }
+  ],
+  "conc": "Social audit converts accountability from a hierarchical duty into a civic act — its value depends on whether what it finds is acted upon.",
+  "flash": [
+   "MGNREGA statutory social audit",
+   "Gram Sabha as forum",
+   "downward accountability",
+   "independent Social Audit Units",
+   "action gap breeds cynicism"
+  ]
+ },
+ "pubad1-36-b1": {
+  "directive": "critically examine",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**Citizen's Charters** promised a service revolution by publishing entitlements and standards — but without enforceability they became declarations rather than obligations."
+   }
+  ],
+  "body": [
+   {
+    "h": "The promise",
+    "p": [
+     {
+      "k": "Origin and idea",
+      "x": "Adapted from the UK's 1991 charter movement, it made the citizen a service user with stated expectations."
+     },
+     {
+      "k": "Six principles",
+      "x": "Standards, information, choice, courtesy, redress and value for money — the service-delivery vocabulary NPM introduced."
+     },
+     {
+      "k": "Indian adoption",
+      "x": "Charters were issued across ministries and departments from 1997, with **Sevottam** later supplying an assessment framework."
+     },
+     {
+      "k": "What it changed",
+      "x": "It made service standards publicly stated for the first time, creating a benchmark against which failure could be named."
+     }
+    ]
+   },
+   {
+    "h": "Why it lapsed into ritual",
+    "p": [
+     {
+      "k": "No legal force",
+      "x": "Charters created no right and no remedy — a breach carried no consequence for the official or the department."
+     },
+     {
+      "k": "Drafted internally",
+      "x": "Standards were set by the provider without consulting users, so they described convenience rather than need."
+     },
+     {
+      "k": "Awareness gap",
+      "x": "Users largely did not know the charter existed, so the accountability it created went unclaimed."
+     },
+     {
+      "k": "The corrective",
+      "x": "State right-to-service Acts made timelines statutory with penalties and appeal — moving from charter to entitlement.",
+      "ex": "**2nd ARC**'s recommendation for enforceable charters"
+     }
+    ]
+   }
+  ],
+  "conc": "A promise the citizen cannot enforce is a courtesy, not a right — the charter movement's lesson is that service standards need a remedy attached.",
+  "flash": [
+   "UK 1991 origin; six principles",
+   "Sevottam assessment framework",
+   "no right, no remedy",
+   "provider-drafted, never updated",
+   "state right-to-service Acts"
+  ]
+ },
+ "pubad1-37-b0": {
+  "directive": "comment",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**RTI, 2005** inverted the accountability relationship — the citizen ceased to be a supplicant awaiting disclosure and became a claimant with an enforceable right to it."
+   }
+  ],
+  "body": [
+   {
+    "h": "How the locus shifted",
+    "p": [
+     {
+      "k": "From discretion to duty",
+      "x": "Disclosure became the default and secrecy the exception requiring justification — reversing the **Official Secrets Act** presumption."
+     },
+     {
+      "k": "Citizen-initiated",
+      "x": "Accountability no longer waited on audit or legislative scrutiny; any citizen could trigger it, without showing locus standi."
+     },
+     {
+      "k": "Proactive disclosure",
+      "x": "**Section 4** obliges suo motu publication, shifting the burden from request to publication."
+     },
+     {
+      "k": "Enforceable machinery",
+      "x": "Time limits, penalties on the information officer and appeal to independent Commissions gave the right teeth."
+     }
+    ]
+   },
+   {
+    "h": "What it enabled and what constrains it",
+    "p": [
+     {
+      "k": "Rights-enabler",
+      "x": "RTI became the instrument through which other entitlements — wages, rations, pensions — were actually enforced."
+     },
+     {
+      "k": "Commission capacity",
+      "x": "Vacancies and backlog delay decisions until the information is useless."
+     },
+     {
+      "k": "Weakened independence",
+      "x": "The **2019 Amendment** let the Union set Commissioners' tenure and salary, diluting the original insulation."
+     },
+     {
+      "k": "Narrowed exemption",
+      "x": "The **DPDP** rewrite of **Section 8(1)(j)** exempts personal information as a class, removing the public-interest override."
+     }
+    ]
+   }
+  ],
+  "conc": "RTI shifted power by making the file public — protecting that shift now means defending the balancing test, so that privacy shields the citizen rather than the office-holder.",
+  "flash": [
+   "reverses Official Secrets presumption",
+   "no locus standi needed",
+   "Sec 4 proactive disclosure",
+   "2019 Amdt dilutes tenure",
+   "Sec 8(1)(j) rewritten by DPDP"
+  ]
+ },
+ "pubad1-48-b0": {
+  "directive": "comment",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "The **ecological approach** — **Riggs** building on **Gaus** — made administration culture-sensitive by insisting that administrative systems are shaped by the environments they sit in."
+   }
+  ],
+  "body": [
+   {
+    "h": "The ecological claim",
+    "p": [
+     {
+      "k": "Gaus's ecology",
+      "x": "People, place, physical technology, social technology, wishes and ideas, catastrophe and personality — the factors that shape any administration."
+     },
+     {
+      "k": "Riggs's extension",
+      "x": "Administration cannot be understood apart from its economic, social, political and communication setting."
+     },
+     {
+      "k": "Consequence",
+      "x": "Institutional transplant fails where the environment is unchanged — form is imported, function is not.",
+      "ex": "**formalism**"
+     },
+     {
+      "k": "Method",
+      "x": "Comparison must be of contexts and processes, not merely of structures on an organisation chart."
+     }
+    ]
+   },
+   {
+    "h": "Why it mattered",
+    "p": [
+     {
+      "k": "Ended ethnocentrism",
+      "x": "Western administrative models ceased to be the universal standard against which others were deficient."
+     },
+     {
+      "k": "Explained failure",
+      "x": "It accounted for why identical reforms produced different outcomes in different societies."
+     },
+     {
+      "k": "The criticism",
+      "x": "Riggs's version was still ethnocentric in treating 'diffracted' as the destination, and static in offering no theory of transition."
+     },
+     {
+      "k": "Legacy",
+      "x": "It underlies contemporary institutional and political-economy comparison, and the caution against context-free 'best practice'."
+     }
+    ]
+   }
+  ],
+  "conc": "The ecological turn made comparison honest — administration became something to be explained by its society rather than judged against another's.",
+  "flash": [
+   "Gaus's ecology of administration",
+   "Riggs extends to economy/society/polity",
+   "transplant fails without environment",
+   "formalism as consequence",
+   "still ethnocentric and static"
+  ]
+ },
+ "pubad1-50-b0": {
+  "directive": "comment",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "**Riggs**'s **prismatic-sala** model describes societies in transition, where modern and traditional structures coexist and neither fully governs — a description that still fits much of the developing world."
+   }
+  ],
+  "body": [
+   {
+    "h": "The model",
+    "p": [
+     {
+      "k": "Fused-prismatic-diffracted",
+      "x": "From undifferentiated role structures, through overlapping, to functionally specific ones."
+     },
+     {
+      "k": "The sala",
+      "x": "The prismatic administrative office — formally bureaucratic, actually penetrated by kinship, community and personal obligation."
+     },
+     {
+      "k": "Formalism",
+      "x": "The measured gap between prescribed norms and effective behaviour — law exists but does not govern conduct."
+     },
+     {
+      "k": "Companion traits",
+      "x": "**Heterogeneity**, **overlapping**, **poly-communalism**, **clects**, and price indeterminacy in the bazaar-canteen."
+     }
+    ]
+   },
+   {
+    "h": "Continuing usefulness and its limits",
+    "p": [
+     {
+      "k": "Explains reform failure",
+      "x": "It accounts for why robust statute meets weak realisation — ceiling laws defeated by benami transfer, merit systems penetrated by patronage."
+     },
+     {
+      "k": "Applies to digital reform",
+      "x": "Digitising a process leaves formalism intact if the incentive structure beneath is untouched."
+     },
+     {
+      "k": "Criticisms",
+      "x": "Ethnocentric in its endpoint, static, pessimistic, jargon-heavy and hard to operationalise empirically."
+     },
+     {
+      "k": "Verdict",
+      "x": "Its value is diagnostic rather than predictive — it names a gap that reform must close, without telling us how."
+     }
+    ]
+   }
+  ],
+  "conc": "Riggs's enduring gift is the reminder that administration is an ecology rather than a machine — where prescription outruns capacity, formalism is the predictable result.",
+  "flash": [
+   "fused-prismatic-diffracted",
+   "sala = prismatic office",
+   "formalism = prescription minus practice",
+   "heterogeneity, overlapping, clects",
+   "diagnostic, not predictive"
+  ]
+ },
+ "pubad1-55": {
+  "directive": "comment",
+  "intro": [
+   {
+    "t": "concept",
+    "x": "**Development administration** turns **anti-development** when it treats people as **beneficiaries** to be delivered to rather than as agents with a claim to decide."
+   }
+  ],
+  "body": [
+   {
+    "h": "How the inversion happens",
+    "p": [
+     {
+      "k": "Target-driven delivery",
+      "x": "Physical targets displace outcomes; the scheme is judged by units delivered rather than by capability created."
+     },
+     {
+      "k": "Top-down design",
+      "x": "Uniform national templates ignore local ecology and need, producing assets nobody uses."
+     },
+     {
+      "k": "Dependency",
+      "x": "Continuous provision without participation erodes the local institutions that would sustain the asset."
+     },
+     {
+      "k": "Displacement",
+      "x": "Development projects that dispossess without consent make the state the source of the harm it claims to remedy."
+     }
+    ]
+   },
+   {
+    "h": "The corrective",
+    "p": [
+     {
+      "k": "Development as freedom",
+      "x": "**Sen**'s capability approach makes expansion of substantive freedoms, not delivery of goods, the criterion."
+     },
+     {
+      "k": "Participation as method",
+      "x": "**Gram Sabha** consent, **PESA** and **FRA** convert the beneficiary into a rights-holder."
+     },
+     {
+      "k": "Bottom-up planning",
+      "x": "Local plans aggregated upward rather than allocations distributed downward.",
+      "ex": "Kerala's People's Plan Campaign"
+     },
+     {
+      "k": "Accountability downward",
+      "x": "Social audit and citizen charters reorient officials toward those they serve."
+     }
+    ]
+   }
+  ],
+  "conc": "Development that is done to people is administration without development — the test is whether it enlarges what people are able to do and to choose.",
+  "flash": [
+   "beneficiary vs agent",
+   "targets displace outcomes",
+   "Sen's capability approach",
+   "PESA/FRA consent",
+   "People's Plan Campaign"
+  ]
+ },
+ "pubad1-55-b0": {
+  "directive": "comment",
+  "intro": [
+   {
+    "t": "thinker",
+    "x": "The **anti-development** thesis is not an argument against improvement but against a particular **model of modernisation** — one that treated Western industrial society as the single destination."
+   }
+  ],
+  "body": [
+   {
+    "h": "What the critique targets",
+    "p": [
+     {
+      "k": "Unilinear modernisation",
+      "x": "Rostow's stages assumed every society travels one path; the critique denies the destination is universal."
+     },
+     {
+      "k": "Development as discourse",
+      "x": "**Escobar** argued 'underdevelopment' was constructed to justify intervention and expertise from outside."
+     },
+     {
+      "k": "Dependency",
+      "x": "**Prebisch-Singer** and dependency theorists held that peripheral economies were structurally disadvantaged by the terms of trade themselves."
+     },
+     {
+      "k": "Ecological cost",
+      "x": "Growth-first development externalised environmental and community costs onto those least able to bear them."
+     }
+    ]
+   },
+   {
+    "h": "What survives the critique",
+    "p": [
+     {
+      "k": "Not anti-improvement",
+      "x": "Its target is the imported template, not health, literacy or livelihood — which no critic disputes."
+     },
+     {
+      "k": "Alternative measures",
+      "x": "**Human Development** and capability indices redefined progress away from output alone.",
+      "ex": "**Sen**; **Haq**"
+     },
+     {
+      "k": "Plural paths",
+      "x": "Post-development thinking legitimises locally defined goals and indigenous knowledge systems."
+     },
+     {
+      "k": "Administrative implication",
+      "x": "Development administration must be a facilitator of locally chosen ends rather than a deliverer of externally set ones."
+     }
+    ]
+   }
+  ],
+  "conc": "The anti-development thesis attacks the map, not the journey — its lasting contribution is that societies may define their own destination.",
+  "flash": [
+   "unilinear modernisation rejected",
+   "Escobar: development as discourse",
+   "Prebisch-Singer dependency",
+   "HDI/capability redefine progress",
+   "plural paths, local ends"
+  ]
  }
 }
